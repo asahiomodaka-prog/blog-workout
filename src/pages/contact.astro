@@ -1,0 +1,44 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+import { CONTACT_FORM_URL } from '../consts';
+
+const isPlaceholder = CONTACT_FORM_URL.includes('XXXXXXXXXXXXX');
+---
+
+<Layout
+	title="お問い合わせ"
+	description="当ブログへのお問い合わせ、ご質問、お仕事の依頼はこちらのフォームからご連絡ください。"
+	pubDate={new Date('June 07 2026')}
+>
+	<p>
+		当ブログへのお問い合わせ、ご意見、広告掲載やお仕事のご依頼等は以下のフォームより送信してください。
+	</p>
+
+	{isPlaceholder && (
+		<div style="background-color: #ffeef0; color: #d73a49; border: 1px solid #f9c2c9; padding: 16px; border-radius: 6px; margin: 24px 0; font-size: 0.95rem; line-height: 1.6;">
+			<strong>【運営者へのご案内】</strong><br />
+			現在、お問い合わせフォームは仮のURL（プレースホルダー）になっています。<br />
+			ドメインの取得後、Googleフォーム等を作成していただき、<a href="file:///g:/事業関係/antigravity/afiri/blog_workout/src/consts.ts">blog_workout/src/consts.ts</a> 内の <code>CONTACT_FORM_URL</code> に作成したフォームの埋め込み用URLを反映させてください。
+		</div>
+	)}
+
+	<div class="form-container">
+		<iframe
+			src={CONTACT_FORM_URL}
+			width="100%"
+			height="800"
+			style="border: none; background: #fafafa; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);"
+		>
+			読み込み中…
+		</iframe>
+	</div>
+</Layout>
+
+<style>
+	.form-container {
+		margin-top: 2rem;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+</style>

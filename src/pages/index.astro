@@ -1,0 +1,56 @@
+---
+import { getCollection, render } from 'astro:content';
+import BlogPost from '../layouts/BlogPost.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+
+const latestPost = posts[0];
+const { Content } = latestPost ? await render(latestPost) : { Content: null };
+---
+
+{latestPost ? (
+	<BlogPost {...latestPost.data}>
+		<Content />
+	</BlogPost>
+) : (
+	<html lang="ja">
+		<head>
+			<meta charset="utf-8" />
+			<meta name="viewport" content="width=device-width,initial-scale=1" />
+			<title>{SITE_TITLE}</title>
+			<meta name="description" content={SITE_DESCRIPTION} />
+			<style>
+				main {
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					min-height: 60vh;
+					font-family: sans-serif;
+					color: #475569;
+					background-color: #f1f5f9;
+					text-align: center;
+					padding: 2rem;
+				}
+				h1 {
+					font-size: 1.5rem;
+					margin-bottom: 1rem;
+					color: #0f172a;
+				}
+				p {
+					font-size: 0.95rem;
+					line-height: 1.6;
+				}
+			</style>
+		</head>
+		<body>
+			<main>
+				<h1>記事がまだありません</h1>
+				<p>自動記事生成プログラム（Aria Writer）を使って、最初の記事を作成・投稿してください。</p>
+			</main>
+		</body>
+	</html>
+)}
