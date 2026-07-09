@@ -11,7 +11,7 @@ genre: ''
 
 ## VALX プロテイン 1kg 2kg 3kg 420g バルクス ホエイプロテイン 定期便 個包装 人気 国産 筋トレ トレーニング 美容 チョコレート ベリー ヨーグルト カフェオレ バナナ 抹茶 キャラメルマキアート ロイヤルミルクティー ダイエット 運動 発送 すぐ ご褒美
 
-![VALX プロテイン 1kg 2kg 3kg 420g バルクス ホエイプロテイン 定期便 個包装 人気 国産 筋トレ トレーニング 美容 チョコレート ベリー ヨーグルト カフェオレ バナナ 抹茶 キャラメルマキアート ロイヤルミルクティー ダイエット 運動 発送 すぐ ご褒美](https://thumbnail.image.rakuten.co.jp/@0_mall/f122262-futtsu/cabinet/main/06271849/11937784/imgrc0098806475.jpg?_ex=128x128)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f122262-futtsu/cabinet/main/06271849/11937784/imgrc0098806475.jpg?_ex=128x128" alt="VALX プロテイン 1kg 2kg 3kg 420g バルクス ホエイプロテイン 定期便 個包装 人気 国産 筋トレ トレーニング 美容 チョコレート ベリー ヨーグルト カフェオレ バナナ 抹茶 キャラメルマキアート ロイヤルミルクティー ダイエット 運動 発送 すぐ ご褒美" border="0" />
 
 👉 [VALX プロテイン 1kg 2kg 3kg 420g バルクス ホエイプロテイン 定期便 個包装 人気 国産 筋トレ トレーニング 美容 チョコレート ベリー ヨーグルト カフェオレ バナナ 抹茶 キャラメルマキアート ロイヤルミルクティー ダイエット 運動 発送 すぐ ご褒美 の詳細・ご購入はこちら](https://hb.afl.rakuten.co.jp/hgc/g00svrx1.ve2q5ff5.g00svrx1.ve2q6bc0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff122262-futtsu%2F49742103150973%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff122262-futtsu%2Fi%2F10001080%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 

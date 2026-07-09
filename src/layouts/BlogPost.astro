@@ -448,11 +448,11 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 							{sidebarProducts && sidebarProducts.length > 0 ? (
 								<div class="sidebar-product-card">
 									{sidebarProducts[0].imageUrl && (
-										<a href={sidebarProducts[0].url} target="_blank" rel="noopener noreferrer" class="sidebar-product-image-link">
+										<a href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
 											<img src={sidebarProducts[0].imageUrl} alt={sidebarProducts[0].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[0].url} target="_blank" rel="noopener noreferrer" class="sidebar-product-title-link">
+									<a href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
 										{sidebarProducts[0].title}
 									</a>
 									{sidebarProducts[0].price && (
@@ -460,7 +460,7 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 											{sidebarProducts[0].price.toLocaleString()}円
 										</div>
 									)}
-									<a class="banner-button" href={sidebarProducts[0].url} target="_blank" rel="noopener noreferrer">
+									<a class="banner-button" href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
 								</div>
@@ -499,14 +499,14 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 							{sidebarProducts && sidebarProducts.length > 1 ? (
 								<div class="sidebar-product-card">
 									{sidebarProducts[1].imageUrl && (
-										<a href={sidebarProducts[1].url} target="_blank" rel="noopener noreferrer" class="sidebar-product-image-link">
+										<a href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
 											<img src={sidebarProducts[1].imageUrl} alt={sidebarProducts[1].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[1].url} target="_blank" rel="noopener noreferrer" class="sidebar-product-title-link">
+									<a href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
 										{sidebarProducts[1].title}
 									</a>
-									<a class="banner-button" href={sidebarProducts[1].url} target="_blank" rel="noopener noreferrer">
+									<a class="banner-button" href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
 								</div>
@@ -525,14 +525,14 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 							{sidebarProducts && sidebarProducts.length > 2 ? (
 								<div class="sidebar-product-card">
 									{sidebarProducts[2].imageUrl && (
-										<a href={sidebarProducts[2].url} target="_blank" rel="noopener noreferrer" class="sidebar-product-image-link">
+										<a href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
 											<img src={sidebarProducts[2].imageUrl} alt={sidebarProducts[2].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[2].url} target="_blank" rel="noopener noreferrer" class="sidebar-product-title-link">
+									<a href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
 										{sidebarProducts[2].title}
 									</a>
-									<a class="banner-button" href={sidebarProducts[2].url} target="_blank" rel="noopener noreferrer">
+									<a class="banner-button" href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
 								</div>
