@@ -11,6 +11,34 @@ type Props = CollectionEntry<'blog'>['data'] & { genre?: string };
 
 const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProducts } = Astro.props;
 
+const defaultProducts = [
+	{
+		title: '可変式ダンベル 選べるPRO/従来モデル 24kg/40kg 単品/2個セット | motions motionsfit',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00tqlh1.ve2q52c7.g00tqlh1.ve2q624d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Fmd242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotions%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/md/md-24-40_tum_1.jpg?_ex=600x600',
+		price: 9750
+	},
+	{
+		title: '【レビュー投稿で2年保証】 可変式 ダンベル フレックスベル 2kg刻み 32kg 1個 / 2個セット/ スタンド セット FLEXBELL 正規品',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fflexbell32i-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000228%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600',
+		price: 37400
+	},
+	{
+		title: '【レビュー投稿で2年保証】 ライシン ヘリックスミラー 1kg刻み 32kg 1個 / 2個セット 可変式 ダンベル メタルダンベル',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fls-metal32-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000352%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product5/ls-met32_r-h.jpg?_ex=600x600',
+		price: 34900
+	}
+];
+
+const products = sidebarProducts && sidebarProducts.length > 0
+	? [
+			...sidebarProducts,
+			...defaultProducts.slice(sidebarProducts.length)
+		].slice(0, 3)
+	: defaultProducts;
+
 // 過去の投稿（最新記事・今見ている記事を除く10件）を取得
 const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -445,30 +473,24 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 						<!-- 広告1: 特選おすすめ商品/バナー -->
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{sidebarProducts && sidebarProducts.length > 0 ? (
+							{products && products.length > 0 && (
 								<div class="sidebar-product-card">
-									{sidebarProducts[0].imageUrl && (
-										<a href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
-											<img src={sidebarProducts[0].imageUrl} alt={sidebarProducts[0].title} class="sidebar-product-image" />
+									{products[0].imageUrl && (
+										<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[0].imageUrl} alt={products[0].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
-										{sidebarProducts[0].title}
+									<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[0].title}
 									</a>
-									{sidebarProducts[0].price && (
+									{products[0].price && (
 										<div class="sidebar-product-price">
-											{sidebarProducts[0].price.toLocaleString()}円
+											{products[0].price.toLocaleString()}円
 										</div>
 									)}
-									<a class="banner-button" href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer">
+									<a class="banner-button" href={products[0].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
-								</div>
-							) : (
-								<div class="dummy-ad-box premium-ad-gradient-1">
-									<span class="ad-title">💪 最強宅トレ特選</span>
-									<p class="ad-desc">エビデンスに基づく自宅ジム化必須ギア</p>
-									<a class="banner-button" href="/contact">詳細をチェックする</a>
 								</div>
 							)}
 						</div>
@@ -496,25 +518,24 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 						<!-- 広告2: 汎用アフィリエイトプレースホルダー -->
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{sidebarProducts && sidebarProducts.length > 1 ? (
+							{products && products.length > 1 && (
 								<div class="sidebar-product-card">
-									{sidebarProducts[1].imageUrl && (
-										<a href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
-											<img src={sidebarProducts[1].imageUrl} alt={sidebarProducts[1].title} class="sidebar-product-image" />
+									{products[1].imageUrl && (
+										<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[1].imageUrl} alt={products[1].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
-										{sidebarProducts[1].title}
+									<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[1].title}
 									</a>
-									<a class="banner-button" href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer">
+									{products[1].price && (
+										<div class="sidebar-product-price">
+											{products[1].price.toLocaleString()}円
+										</div>
+									)}
+									<a class="banner-button" href={products[1].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
-								</div>
-							) : (
-								<div class="dummy-ad-box premium-ad-gradient-2">
-									<span class="ad-title">🔥 おすすめサプリメント</span>
-									<p class="ad-desc">吸収効率を極めた高品質プロテイン＆クレアチン</p>
-									<a class="banner-button" href="/contact">キャンペーンを見る</a>
 								</div>
 							)}
 						</div>
@@ -522,25 +543,24 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 						<!-- 広告3: 最下部追従広告 -->
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{sidebarProducts && sidebarProducts.length > 2 ? (
+							{products && products.length > 2 && (
 								<div class="sidebar-product-card">
-									{sidebarProducts[2].imageUrl && (
-										<a href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
-											<img src={sidebarProducts[2].imageUrl} alt={sidebarProducts[2].title} class="sidebar-product-image" />
+									{products[2].imageUrl && (
+										<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[2].imageUrl} alt={products[2].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
-										{sidebarProducts[2].title}
+									<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[2].title}
 									</a>
-									<a class="banner-button" href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer">
+									{products[2].price && (
+										<div class="sidebar-product-price">
+											{products[2].price.toLocaleString()}円
+										</div>
+									)}
+									<a class="banner-button" href={products[2].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
-								</div>
-							) : (
-								<div class="dummy-ad-box premium-ad-gradient-3">
-									<span class="ad-title">📢 特別割引クーポン</span>
-									<p class="ad-desc">アジャスタブルベンチが今なら10%OFF！</p>
-									<a class="banner-button" href="/contact">限定クーポンを取得</a>
 								</div>
 							)}
 						</div>
