@@ -8,6 +8,14 @@ import { defineConfig, fontProviders } from 'astro/config';
 export default defineConfig({
 	site: 'https://saikyotakutore.ariawriter.com',
 	integrations: [mdx(), sitemap()],
+	image: {
+		domains: [
+			'thumbnail.image.rakuten.co.jp',
+			'ebook-assets.dmm.com',
+			'pics.dmm.co.jp',
+			'pics.dmm.com'
+		]
+	},
 	fonts: [
 		{
 			provider: fontProviders.local(),
