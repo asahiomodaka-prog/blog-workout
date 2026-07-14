@@ -16,7 +16,7 @@ export default defineConfig({
 		'/blog/アルインコ-fa221yの真価解剖学で解き明かす効く宅トレの極意': '/blog/alinco-fa221y-anatomy-workout',
 		'/blog/トレーニングボード解体新書分離式が腹筋と体幹を科学的に鍛えるメカニズム': '/blog/split-board-abs-core-science',
 		'/blog/宅トレの限界突破nuobell-40kgが叶える漸進性過負荷と解剖学的成長': '/blog/nuobell-40kg-dumbbell',
-		'/blog/宅トレ進化論大手ジム採用ラバープレートが解剖学的負荷を最大化する科学的根拠': '/blog/product-post',
+		'/blog/宅トレ進化論大手ジム採用ラバープレートが解剖学的負荷を最大化する科学的根拠': '/blog/rubber-weight-plate',
 	},
 	site: 'https://saikyotakutore.ariawriter.com',
 	integrations: [mdx(), sitemap()],
