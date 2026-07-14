@@ -4,6 +4,19 @@ description: '宅トレで背中を追い込めない「握力ボトルネック
 pubDate: '2026-07-13'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/10958164/1.jpg?_ex=600x600'
 genre: 'workout'
+sidebarProducts:
+  - title: '【LINE200円OFFクーポン×15日はポイント10倍】グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 筋トレ ベンチプレス 手首補助 男女兼用 洗濯可能 左右セット'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/07429343/cp_pxline/hn4102_01_rysmn.jpg?_ex=600x600'
+    price: 1980
+  - title: '【LINE追加で300円OFF】BEINGFIT パワーグリップ 筋トレ ジム 握力グリップ 筋トレグッズ 筋トレグローブ トレーニングギア デッドリフト 手首サポーター 正規品 2個セット 男女兼用 懸垂 左右一組 メンズ・レディース'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00up1i1.ve2q5e98.g00up1i1.ve2q6e0b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdynamicdrive%2Fpwg001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdynamicdrive%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dynamicdrive/cabinet/11414208/imgrc0111626199.jpg?_ex=600x600'
+    price: 2980
+  - title: 'VOLIX レバーアクションベルト ナロータイプ 【待ち時間0秒のワンタッチ着脱】 トレーニングベルト 筋トレ ベルト トレーニングギア リフティングベルト スクワット デッドリフト ベンチプレス 男女兼用 送料無料 ケガ予防'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00unen1.ve2q5328.g00unen1.ve2q6da2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvolix%2Fnarrowbelt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvolix%2Fi%2F10000008%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/volix/cabinet/11470098/aj2_20486.jpg?_ex=600x600'
+    price: 14980
 ---
 
 ※本ページはプロモーションが含まれています。

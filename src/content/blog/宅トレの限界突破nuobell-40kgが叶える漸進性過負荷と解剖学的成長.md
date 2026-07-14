@@ -4,6 +4,19 @@ description: '宅トレの筋肥大を最大化したい方へ。NUOBELL 40kg可
 pubDate: '2026-07-07'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/nuo/fb32i-2_tum__.jpg?_ex=600x600'
 genre: 'workout'
+sidebarProducts:
+  - title: '【10人に1人がタダ！10%OFFクーポン！マラソン期間】可変式ダンベル 【当店限定グリップ改良】 選べるPRO/従来モデル 24kg/40kg 単品/2個セット | ローレット加工グリップ アジャスタブルダンベル 筋トレ ホームジム ウエイトトレーニング 省スペース 静音 MotionsFit'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tqlh1.ve2q52c7.g00tqlh1.ve2q624d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Fmd242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotions%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/md/md-24-40_tum_1.jpg?_ex=600x600'
+    price: 9750
+  - title: '【レビュー投稿で2年保証】 可変式 ダンベル フレックスベル 2kg刻み 32kg 1個 / 2個セット/ スタンド セット FLEXBELL 正規品'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fflexbell32i-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000228%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600'
+    price: 37400
+  - title: '【レビュー投稿で2年保証】 ライシン ヘリックスミラー 1kg刻み 32kg 1個 / 2個セット / スタンド / ベンチ セット 可変式 ダンベル メタルダンベル'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fls-metal32-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000352%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product5/ls-met32_r-h.jpg?_ex=600x600'
+    price: 34900
 ---
 
 ※本ページはプロモーションが含まれています。
