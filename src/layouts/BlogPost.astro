@@ -635,7 +635,7 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 													</div>
 												)}
 												<a class="mobile-banner-button" href={prod.url} target="_blank" rel="nofollow noopener noreferrer">
-													詳細を見る
+													{prod.microCopy || '詳細を見る'}
 												</a>
 											</div>
 										</div>
@@ -668,7 +668,7 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 										</div>
 									)}
 									<a class="banner-button" href={products[0].url} target="_blank" rel="nofollow noopener noreferrer">
-										詳細を見る
+										{products[0].microCopy || '詳細を見る'}
 									</a>
 								</div>
 							)}
@@ -713,7 +713,7 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 										</div>
 									)}
 									<a class="banner-button" href={products[1].url} target="_blank" rel="nofollow noopener noreferrer">
-										詳細を見る
+										{products[1].microCopy || '詳細を見る'}
 									</a>
 								</div>
 							)}
@@ -738,7 +738,7 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 										</div>
 									)}
 									<a class="banner-button" href={products[2].url} target="_blank" rel="nofollow noopener noreferrer">
-										詳細を見る
+										{products[2].microCopy || '詳細を見る'}
 									</a>
 								</div>
 							)}
