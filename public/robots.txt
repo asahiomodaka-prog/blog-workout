@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saikyotakutore.ariawriter.com/sitemap-index.xml
