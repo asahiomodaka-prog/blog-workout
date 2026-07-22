@@ -611,7 +611,8 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 							<div class="mobile-products-grid">
 								{products && products.map((prod) => {
 									const isDMM = prod.url.includes('dmm.co.jp') || prod.url.includes('dmm.com');
-									const platformName = isDMM ? '電子書籍 (DMM)' : '楽天市場';
+									const isHobby = prod.url.includes('/mono/hobby/') || (prod.title && (prod.title.includes('フィギュア') || prod.title.includes('ねんどろいど') || prod.title.includes('BEATLESS') || prod.title.includes('プラモデル')));
+									const platformName = isDMM ? (isHobby ? 'DMM.com (ホビー)' : '電子書籍 (DMM)') : '楽天市場';
 									const platformClass = isDMM ? 'mobile-platform-dmm' : 'mobile-platform-rakuten';
 									
 									return (
