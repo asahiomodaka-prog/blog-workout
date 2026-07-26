@@ -1,5 +1,5 @@
 ---
-title: '【朝日ゴルフ ごるトレ ジェリーロープ GT-1402】宅トレで肩甲骨と体幹を鍛える科学的根拠'
+title: 'ごるとれジェリーロープGT-1402効果検証。自宅ストレッチと解剖学的アプローチ'
 description: '「ごるトレ ジェリーロープ GT-1402」は、TPR素材のしなりで繊細な筋肉コントロールを可能にするトレーニンググッズ。1650円で手軽に始められ、ゴルフの飛距離アップやボディメイクに役立ちます。隙間時間の有効活用に最適。'
 pubDate: '2026-07-21'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/nankai-golf/cabinet/01653182/asahi/gt1402s-main.jpg?_ex=600x600'
