@@ -610,10 +610,8 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 							<h3 class="mobile-section-title">この記事のおすすめ関連商品</h3>
 							<div class="mobile-products-grid">
 								{products && products.map((prod) => {
-									const isDMM = prod.url.includes('dmm.co.jp') || prod.url.includes('dmm.com');
-									const isHobby = prod.url.includes('/mono/hobby/') || (prod.title && (prod.title.includes('フィギュア') || prod.title.includes('ねんどろいど') || prod.title.includes('BEATLESS') || prod.title.includes('プラモデル')));
-									const platformName = isDMM ? (isHobby ? 'DMM.com (ホビー)' : '電子書籍 (DMM)') : '楽天市場';
-									const platformClass = isDMM ? 'mobile-platform-dmm' : 'mobile-platform-rakuten';
+									const platformName = '楽天市場';
+									const platformClass = 'mobile-platform-rakuten';
 									
 									return (
 										<div class="mobile-product-card">
@@ -769,6 +767,7 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 						const stickyHeight = inner ? inner.getBoundingClientRect().height : sticky.getBoundingClientRect().height;
 						const sidebarRect = sidebar.getBoundingClientRect();
 						const scrollY = window.scrollY;
+						const maxTop = Math.max(0, sidebarRect.height - stickyHeight);
 						
 						// スクリプト上のバグを防ぐため、1px以上のスクロール変化があった場合のみ方向判定する
 						let scrollDirection = 'down';
@@ -785,10 +784,22 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 							return;
 						}
 
-						// サイドバーが画面より長い場合のスマート追従
+						// ページ最下部または親要素最下部への到達判定（チラつき・バウンシング防止）
 						const stickyRect = sticky.getBoundingClientRect();
 						let currentTopInParent = stickyRect.top - sidebarRect.top;
+						const isAtPageBottom = (window.innerHeight + window.scrollY) >= (document.documentElement.scrollHeight - 10);
+						const isAtSidebarBottom = currentTopInParent >= (maxTop - 5);
 
+						if (isAtPageBottom || (scrollDirection === 'down' && isAtSidebarBottom)) {
+							// 最下部に到達した場合は absolute で親の底に完全固定し、position: sticky との反転ループを防ぐ
+							sticky.style.position = 'absolute';
+							sticky.style.top = `${maxTop}px`;
+							sticky.style.bottom = 'auto';
+							lastScrollY = scrollY;
+							return;
+						}
+
+						// サイドバーが画面より長い場合のスマート追従
 						if (scrollDirection === 'down') {
 							// 下スクロール時：下端が画面下端に達したら固定
 							if (stickyRect.bottom <= viewportHeight - bottomSpacing) {
@@ -817,7 +828,6 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 
 						// 親要素の範囲を超えないように制限 (absolute時)
 						if (sticky.style.position === 'absolute') {
-							const maxTop = sidebarRect.height - stickyHeight;
 							const currentTopVal = parseFloat(sticky.style.top);
 							if (currentTopVal < 0) {
 								sticky.style.top = '0px';
