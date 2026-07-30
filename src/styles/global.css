@@ -212,3 +212,157 @@ hr {
 	clip-path: inset(50%);
 	white-space: nowrap;
 }
+
+/* -------------------------------------------------------------
+   レビューサマリー & メリット・デメリット比較ボックス
+------------------------------------------------------------- */
+.review-summary-box {
+	background: #f8fafc;
+	border: 1px solid #e2e8f0;
+	border-radius: 16px;
+	padding: 1.5rem;
+	margin: 2rem 0;
+	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+}
+
+.review-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 2px solid var(--accent);
+	padding-bottom: 0.75rem;
+	margin-bottom: 1.25rem;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+}
+
+.review-title {
+	font-size: 1.2rem;
+	font-weight: 800;
+	color: #0f172a;
+	margin: 0;
+}
+
+.star-rating {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.25rem;
+	color: #f59e0b;
+	font-size: 1.1rem;
+	font-weight: 800;
+}
+
+.star-rating .score {
+	color: #0f172a;
+	font-size: 1.1rem;
+	margin-left: 0.35rem;
+}
+
+.pros-cons-grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 1.25rem;
+	margin-top: 1rem;
+}
+
+@media (max-width: 640px) {
+	.pros-cons-grid {
+		grid-template-columns: 1fr;
+	}
+}
+
+.pros-box, .cons-box {
+	border-radius: 12px;
+	padding: 1.2rem;
+}
+
+.pros-box {
+	background-color: #f0fdf4;
+	border: 1px solid #bbf7d0;
+}
+
+.cons-box {
+	background-color: #fef2f2;
+	border: 1px solid #fecaca;
+}
+
+.pros-box h4 {
+	color: #166534;
+	font-size: 1rem;
+	margin-bottom: 0.75rem;
+	margin-top: 0;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.cons-box h4 {
+	color: #991b1b;
+	font-size: 1rem;
+	margin-bottom: 0.75rem;
+	margin-top: 0;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.pros-box ul, .cons-box ul {
+	margin: 0;
+	padding-left: 1.25rem;
+	font-size: 0.9rem;
+	line-height: 1.6;
+}
+
+.pros-box li { color: #15803d; }
+.cons-box li { color: #b91c1c; }
+
+/* -------------------------------------------------------------
+   マルチアフィリエイトボタン群
+------------------------------------------------------------- */
+.shop-buttons-group {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.75rem;
+	margin-top: 1.25rem;
+}
+
+.shop-btn {
+	flex: 1 1 calc(50% - 0.5rem);
+	min-width: 130px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0.65rem 1rem;
+	border-radius: 8px;
+	font-weight: 700;
+	font-size: 0.85rem;
+	text-decoration: none !important;
+	color: #ffffff !important;
+	transition: all 0.2s ease;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	text-align: center;
+}
+
+.shop-btn:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.shop-btn-rakuten {
+	background: linear-gradient(135deg, #bf0000, #990000);
+}
+.shop-btn-amazon {
+	background: linear-gradient(135deg, #ff9900, #e68a00);
+	color: #111111 !important;
+}
+.shop-btn-yahoo {
+	background: linear-gradient(135deg, #ff0033, #cc0029);
+}
+.shop-btn-dmm {
+	background: linear-gradient(135deg, #1e1e1e, #000000);
+	border: 1px solid #333333;
+}
+.shop-btn-default {
+	background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+}
+
