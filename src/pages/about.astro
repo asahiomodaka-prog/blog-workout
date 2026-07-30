@@ -1,0 +1,145 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="プロフィール・当ブログについて"
+	description="自宅トレーニングとボディメイクを継続する管理人のプロフィールと、当ブログ『筋トレ＆家トレ検証室』の発信方針についてご紹介します。"
+	pubDate={new Date('July 30 2026')}
+>
+	<div class="profile-container">
+		<section class="profile-hero">
+			<div class="profile-image-box">
+				<img src="/images/profile-workout.jpg" alt="愛用している重量可変ダンベル器具" class="hero-img" />
+				<span class="img-caption">自宅トレで愛用しているダンベル器具たち。毎日のトレーニングの相棒です</span>
+			</div>
+		</section>
+
+		<section class="profile-content">
+			<h2>はじめまして、「筋トレ＆家トレ検証室」管理人の僕です</h2>
+			<p>
+				当ブログ「筋トレ＆家トレ検証室」にお越しいただき、ありがとうございます。<br />
+				ここは、自宅でのダンベルトレーニングや自重トレ、効率的なボディメイクに励む管理人が、実際に試して効果を感じたトレメニューや愛用器具、プロテインなどの栄養補給を記録している個人の筋トレ・レビューブログです。
+			</p>
+
+			<h3>筋トレにハマったきっかけと「継続」へのこだわり</h3>
+			<p>
+				運動不足解消を目的に始めた自宅トレでしたが、少しずつ身体が引き締まり、重量が伸びていく達成感にすっかり魅了されました。<br />
+				ジムに通う時間がなかなか取れない中でも、「自宅でどれだけ質の高いトレーニングができるか」を追求しています。
+			</p>
+			<p>
+				「どのダンベルが一番使いやすく長持ちするか？」「初心者でも怪我なく効かせられるフォームは何か？」
+			</p>
+			<p>
+				机上の空論ではなく、自分自身の身体で検証したリアルな実践データをもとに、同じように宅トレで身体を変えたい方のサポートを目指しています。（上の写真は自宅で愛用している実際のトレーニング器具です）
+			</p>
+
+			<h3>当ブログの発信方針とこだわり</h3>
+			<ul>
+				<li><strong>一次情報とリアルな実践レビュー</strong>: 実際に購入して使い込んでいるダンベルやベンチ、プロテインの本音感想をお届けします。</li>
+				<li><strong>宅トレに特化した再現性</strong>: 省スペースで実践できる効果的なフォームやメニューを初心者にも分かりやすく解説します。</li>
+				<li><strong>安全面と継続性の重視</strong>: 関節を痛めないフォーム選びや無理なく日常に組み込める習慣化の工夫を大切にしています。</li>
+			</ul>
+
+			<h3>おすすめトレーニング記事・レビュー</h3>
+			<p>
+				当ブログでは、初心者向けの基本器具選びから、効かせるフォームのコツまで幅広く解説しています。<br />
+				ぜひ気になる記事から覗いてみてくださいね。
+			</p>
+
+			<div class="cta-box">
+				<a href="/archive" class="btn-archive">過去の記事一覧を見る</a>
+				<a href="/contact" class="btn-contact">お問い合わせはこちら</a>
+			</div>
+		</section>
+	</div>
+</Layout>
+
+<style>
+	.profile-container {
+		max-width: 780px;
+		margin: 0 auto;
+		line-height: 1.8;
+		color: #334155;
+	}
+	.profile-hero {
+		margin-bottom: 2.5rem;
+		text-align: center;
+	}
+	.profile-image-box {
+		display: inline-block;
+		width: 100%;
+		border-radius: 16px;
+		overflow: hidden;
+		box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+		background-color: #f8fafc;
+		border: 1px solid #e2e8f0;
+	}
+	.hero-img {
+		width: 100%;
+		height: auto;
+		max-height: 480px;
+		object-fit: cover;
+		display: block;
+	}
+	.img-caption {
+		display: block;
+		padding: 0.6rem 1rem;
+		font-size: 0.85rem;
+		color: #64748b;
+		background: #f1f5f9;
+		border-top: 1px solid #e2e8f0;
+	}
+	.profile-content h2 {
+		font-size: 1.6rem;
+		color: #1e293b;
+		border-bottom: 2px solid #dc2626;
+		padding-bottom: 0.5rem;
+		margin-top: 2rem;
+		margin-bottom: 1.2rem;
+	}
+	.profile-content h3 {
+		font-size: 1.25rem;
+		color: #334155;
+		margin-top: 2rem;
+		margin-bottom: 0.8rem;
+	}
+	.profile-content ul {
+		background: #f8fafc;
+		border-left: 4px solid #dc2626;
+		padding: 1.2rem 1.5rem 1.2rem 2.5rem;
+		border-radius: 0 8px 8px 0;
+		margin: 1.5rem 0;
+	}
+	.profile-content li {
+		margin-bottom: 0.6rem;
+	}
+	.cta-box {
+		display: flex;
+		gap: 1rem;
+		margin-top: 3rem;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	.btn-archive, .btn-contact {
+		display: inline-block;
+		padding: 0.8rem 1.8rem;
+		border-radius: 8px;
+		font-weight: 700;
+		text-decoration: none;
+		transition: transform 0.2s ease, box-shadow 0.2s ease;
+	}
+	.btn-archive {
+		background: linear-gradient(135deg, #dc2626, #991b1b);
+		color: #ffffff !important;
+		box-shadow: 0 4px 12px rgba(220, 38, 38, 0.25);
+	}
+	.btn-contact {
+		background: #ffffff;
+		color: #475569 !important;
+		border: 1px solid #cbd5e1;
+	}
+	.btn-archive:hover, .btn-contact:hover {
+		transform: translateY(-2px);
+	}
+</style>
