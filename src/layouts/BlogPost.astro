@@ -45,8 +45,19 @@ const allPosts = (await getCollection('blog')).sort(
 );
 const currentId = Astro.url.pathname.split('/').filter(Boolean).pop();
 const excludeId = currentId || (allPosts.length > 0 ? allPosts[0].id : null);
-const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10);
-const relatedPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 3);
+const candidatePosts = allPosts.filter(post => post.id !== excludeId);
+const sidebarPosts = candidatePosts.slice(0, 10);
+
+// カテゴリまたはタグが一致する記事を優先的に関連記事として3件抽出
+const currentPost = allPosts.find(post => post.id === excludeId);
+const currentCategory = currentPost?.data.category;
+const currentTags = currentPost?.data.tags || [];
+
+const categoryMatched = candidatePosts.filter(post => currentCategory && post.data.category === currentCategory);
+const tagMatched = candidatePosts.filter(post => post.data.tags && post.data.tags.some(t => currentTags.includes(t)));
+
+// 重複を除外して優先順に並べる
+const relatedPosts = Array.from(new Set([...categoryMatched, ...tagMatched, ...candidatePosts])).slice(0, 3);
 ---
 
 <html lang="ja">
