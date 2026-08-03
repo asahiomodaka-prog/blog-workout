@@ -35,7 +35,7 @@ sidebarProducts:
 
 [ミズノ トレーニンググッズ メンズ レディース ダンベルボール](https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
-![ミズノ トレーニンググッズ メンズ レディース ダンベルボール](https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/7/76/7666/7666-0004-1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/7/76/7666/7666-0004-1.jpg?_ex=600x600" alt="ミズノ トレーニンググッズ メンズ レディース ダンベルボール" />
 
 このダンベルボールは、ディズニーキャラクターたちの可愛らしいデザインと、フワフワした柔らかな触り心地が特徴です。触ってみると、中に入っているガラスビーズのサラサラとした感触がなんとも心地よく、これは確かに無意識に手に取ってしまいます。トレーニング器具というよりも、可愛いクッションのような感覚で、リビングに置いてあっても全く違和感がありません。
 
@@ -59,7 +59,7 @@ sidebarProducts:
 
 ジムに通う場合と比較してみましょう。月額会費が仮に8,000円だとすると、年間で96,000円。もちろん、ジムには様々なマシンや器具があり、トレーナーの指導も受けられますが、「自宅で手軽に運動習慣をつけたい」という目的であれば、このダンベルボールは非常にコストパフォーマンスが高いと言えます。
 
-[![ミズノ トレーニンググッズ メンズ レディース ダンベルボール 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/7/76/7666/7666-0004-1.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/7/76/7666/7666-0004-1.jpg?_ex=600x600" alt="ミズノ トレーニンググッズ メンズ レディース ダンベルボール 画像" /></a>
 
 ## 万能ではない、しかし割り切りが価値を生む
 

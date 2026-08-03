@@ -37,7 +37,7 @@ sidebarProducts:
 
 伸縮性のあるコンプレッションベルトと粘着力にこだわった幅5cmの面ファスナーは、トレーニング中に手首のブレを軽減し、まるで手首と一体化したかのような密着感を生み出します。これにより、ベンチプレスやショルダープレスはもちろん、ディップスやスクワットといった全身運動においても、手首の不要な動きが抑えられ、動作の安定性が格段に向上します。結果として、より安全に、そしてより質の高いトレーニングが可能になるんです。
 
-![グロング GronG リストラップ 選べる2サイズ(30cm 60cm)](https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/07429343/cp_px15/hn4102_01_rysmn.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/07429343/cp_px15/hn4102_01_rysmn.jpg?_ex=600x600" alt="グロング GronG リストラップ 選べる2サイズ(30cm 60cm)" />
 
 ## 宅トレの質を高める賢い投資
 
@@ -53,7 +53,7 @@ sidebarProducts:
 
 このリストラップは、特にベンチプレスやショルダープレス、ディップスなど、手首に直接的な負荷がかかるプッシュ系の種目との相性が抜群です。手首の保護は、長期的なトレーニング継続のためには不可欠な要素。僕の経験上、一度手首を痛めてしまうと、回復に時間がかかるだけでなく、トレーニングのモチベーションにも影響が出てしまいますからね。
 
-[![グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/07429343/cp_px15/hn4102_01_rysmn.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/07429343/cp_px15/hn4102_01_rysmn.jpg?_ex=600x600" alt="グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 画像" /></a>
 
 ## 向き不向きと割り切り
 

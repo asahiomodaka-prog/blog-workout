@@ -35,7 +35,7 @@ sidebarProducts:
 
 ## 「転がらない」安心感。PROIRONダンベルが導くトレーニングの質
 
-![PROIRON ダンベル「2個セット1kg/1.5kg/2kg/3kg/4kg/5kg/8kg/10kg」ダンベルセット ソフトコーティングで](https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/10463052/imgrc0174219935.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/10463052/imgrc0174219935.jpg?_ex=600x600" alt="PROIRON ダンベル「2個セット1kg/1.5kg/2kg/3kg/4kg/5kg/8kg/10kg」ダンベルセット ソフトコーティングで" />
 
 このPROIRONのダンベルを手に取ってまず感動したのは、その「転がりにくいボトムデザイン」です。一見すると地味な特徴に思えるかもしれませんが、これが宅トレにおける安全性と集中力に大きく貢献します。例えば、ダンベルプレスを行う際、床に置いたダンベルがコロコロと転がってしまっては、セット間の休憩中に拾い直す手間がかかるだけでなく、最悪の場合、足に落として怪我をするリスクさえあります。特に、自宅のフローリングでトレーニングをする場合、少しの段差や傾きでもダンベルが転がりやすく、ヒヤリとした経験を持つ方も少なくないでしょう。
 
@@ -103,7 +103,7 @@ PROIRONダンベルのレビュー評価は4.66（503件）と非常に高く、
 
 これらの口コミや評価から、PROIRONダンベルが多くの宅トレ愛好家のニーズに応え、日々のトレーニングをサポートしていることがよくわかります。
 
-[![PROIRON ダンベル「2個セット1kg/1.5kg/2kg/3kg/4kg/5kg/8kg/10kg」ダンベルセット ソフトコーティングで 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/10463052/imgrc0174219935.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00ugv01.ve2q55ad.g00ugv01.ve2q6675/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fproiron%2Fprkned%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fproiron%2Fi%2F10000201%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ugv01.ve2q55ad.g00ugv01.ve2q6675/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fproiron%2Fprkned%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fproiron%2Fi%2F10000201%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/10463052/imgrc0174219935.jpg?_ex=600x600" alt="PROIRON ダンベル「2個セット1kg/1.5kg/2kg/3kg/4kg/5kg/8kg/10kg」ダンベルセット ソフトコーティングで 画像" /></a>
 
 ## 宅トレの質を高めるPROIRONダンベル：こんな人におすすめ、こんな人は再考を
 

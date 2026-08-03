@@ -47,7 +47,7 @@ sidebarProducts:
 
 ## 省スペースとコストパフォーマンス：自宅ジムの賢い選択
 
-![ダンベル 可変式ダンベル 24kg 筋トレ ダンベル可変式](https://thumbnail.image.rakuten.co.jp/@0_mall/h2brothers/cabinet/fitness/danberu-48kgns2.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/h2brothers/cabinet/fitness/danberu-48kgns2.jpg?_ex=600x600" alt="ダンベル 可変式ダンベル 24kg 筋トレ ダンベル可変式" />
 
 自宅でトレーニングをする上で、常に頭を悩ませるのが「スペース」と「コスト」です。複数の固定式ダンベルを揃えようとすると、2.5kg刻みで24kgまで揃えるとなると、単純計算で片手10個近くのダンベルが必要になり、かなりのスペースを占有します。さらに、その全てを購入するとなると、初期費用も馬鹿になりません。
 
@@ -61,7 +61,7 @@ sidebarProducts:
 | 販売ショップ | ONE STEP |
 | レビュー評価 | 4.69 (2781件) |
 
-[![ダンベル 可変式ダンベル 24kg 筋トレ ダンベル可変式 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/h2brothers/cabinet/fitness/danberu-48kgns2.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/h2brothers/cabinet/fitness/danberu-48kgns2.jpg?_ex=600x600" alt="ダンベル 可変式ダンベル 24kg 筋トレ ダンベル可変式 画像" /></a>
 
 ## 万能ではないが、宅トレには最適な選択肢
 

@@ -37,7 +37,7 @@ sidebarProducts:
 
 肩甲骨は、胸郭の上を滑るように動くため、その安定性には菱形筋や僧帽筋といったインナーマッスルが深く関わっています。ジェリーロープを使ったエクササイズでは、これらの筋肉に継続的な張力（テンション）をかけ続けることが可能です。これにより、可動域全体で筋肉に刺激を与えやすく、特に収縮期だけでなく伸展期にも負荷が乗りやすいのが特徴です。ダンベルでは重力に抗う力が主な負荷となりますが、ゴムの特性は常に引っ張る力として作用するため、より多様なベクトルで筋肉にアプローチできるわけです。これは、特定の関節に過度な負担をかけることなく、ターゲットとなる筋肉群を効率的に刺激するという点で、安全性を最優先する僕の指導方針にも合致しています。
 
-![朝日ゴルフ用品 ごるトレ ジェリーロープ Jelly Rope GT-1402 トレーニンググッズ](https://thumbnail.image.rakuten.co.jp/@0_mall/nankai-golf/cabinet/01653182/asahi/gt1402s-main.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/nankai-golf/cabinet/01653182/asahi/gt1402s-main.jpg?_ex=600x600" alt="朝日ゴルフ用品 ごるトレ ジェリーロープ Jelly Rope GT-1402 トレーニンググッズ" />
 
 ## わずかなスペースでジム以上の価値を生み出すコスパ
 
@@ -51,7 +51,7 @@ sidebarProducts:
 | 販売ショップ | 南海ゴルフ楽天市場店 |
 | レビュー評価 | 4.0 (1件) |
 
-[![朝日ゴルフ用品 ごるトレ ジェリーロープ Jelly Rope GT-1402 トレーニンググッズ 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/nankai-golf/cabinet/01653182/asahi/gt1402s-main.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00q46i1.ve2q5e0c.g00q46i1.ve2q6076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnankai-golf%2Fgt1402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnankai-golf%2Fi%2F10015837%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q46i1.ve2q5e0c.g00q46i1.ve2q6076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnankai-golf%2Fgt1402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnankai-golf%2Fi%2F10015837%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/nankai-golf/cabinet/01653182/asahi/gt1402s-main.jpg?_ex=600x600" alt="朝日ゴルフ用品 ごるトレ ジェリーロープ Jelly Rope GT-1402 トレーニンググッズ 画像" /></a>
 
 ## 重量級トレーニングには不向きな割り切り
 

@@ -41,13 +41,13 @@ sidebarProducts:
 
 ## マンションでも安心！静音設計と省スペース性
 
-![＼4 480円→3 999円／ 獲得 MERACH](https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600" alt="＼4 480円→3 999円／ 獲得 MERACH" />
 
 自宅でトレーニングをする上で、僕が一番気にするのが「音」と「スペース」です。特に集合住宅に住んでいると、階下への騒音は常に頭を悩ませる問題ですよね。その点、このMERACH腹筋ローラーPROは「静音設計」が謳われています。実際に使ってみると、タイヤの回転音はほとんど気にならず、早朝や深夜でも安心して使えます。これは、トレーニングの継続性を高める上で地味にありがたいポイントです。
 
 また、本体重量は約2KGと軽量で、梱包サイズも440*255*195 mmとコンパクト。部屋の隅に立てかけておけば、全く邪魔になりません。例えば、僕の部屋は6畳ほどですが、この腹筋ローラーを広げるのに必要なスペースは、せいぜい畳1枚分もあれば十分。ジムに通うことを考えれば、月会費だけでも毎月数千円から1万円以上かかりますが、この腹筋ローラーは3,999円という価格で、一生モノのトレーニングツールが手に入ると考えれば、かなり合理的な投資と言えるでしょう。ジムに通うための交通費や移動時間も考慮すると、自宅でこれだけのクオリティのトレーニングができるのは、時間とお金の節約にも繋がります。
 
-[![＼4 480円→3 999円／ 獲得 MERACH 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600" alt="＼4 480円→3 999円／ 獲得 MERACH 画像" /></a>
 
 ## 万能ではないが、腹筋に特化するなら最高の選択
 

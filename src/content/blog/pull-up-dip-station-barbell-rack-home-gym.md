@@ -43,7 +43,7 @@ sidebarProducts:
 
 フレームの土台が幅広く設計されている点も、見過ごせない安全性への配慮です。トレーニング中にマシンがぐらつくと、フォームが崩れて怪我につながる危険性があります。特に高重量を扱うバーベルトレーニングでは、この安定性が非常に重要です。ダブルロック機構でフレームを固定する仕組みも、使用中の不意な外れを防ぎ、安心して限界まで追い込める環境を提供してくれますね。
 
-![ぶら下がり健康器 懸垂マシン ベンチプレスラック バーベルスタンド 高さ210cm 耐荷重180kg ラック耐荷重120kg チンニング マシン ダンベル バーベル トレーニング 筋トレ 懸垂 腹筋 器具 チンニングバー ストレッチ 1年保証](https://thumbnail.image.rakuten.co.jp/@0_mall/smile88/cabinet/master/1st/a18243.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/smile88/cabinet/master/1st/a18243.jpg?_ex=600x600" alt="ぶら下がり健康器 懸垂マシン ベンチプレスラック バーベルスタンド 高さ210cm 耐荷重180kg ラック耐荷重120kg チンニング マシン ダンベル バーベル トレーニング 筋トレ 懸垂 腹筋 器具 チンニングバー ストレッチ 1年保証" />
 
 ### ジム不要！自宅で叶える本格トレーニングと驚きのコスパ
 
@@ -61,7 +61,7 @@ sidebarProducts:
 
 また、プレートポールが4本付いているのも、宅トレにおいては嬉しい配慮です。使用しないプレートを床にそのまま置いておくと、足の踏み場に困ったり、つまずいたりする危険があります。専用の収納場所があることで、トレーニングスペースを常に整理整頓でき、安全性の向上にもつながります。
 
-[![ぶら下がり健康器 懸垂マシン ベンチプレスラック バーベルスタンド 高さ210cm 耐荷重180kg ラック耐荷重120kg チンニング マシン ダンベル バーベル トレーニング 筋トレ 懸垂 腹筋 器具 チンニングバー ストレッチ 1年保証 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/smile88/cabinet/master/1st/a18243.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00q6pe1.ve2q5c3e.g00q6pe1.ve2q69be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmile88%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmile88%2Fi%2F10066021%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q6pe1.ve2q5c3e.g00q6pe1.ve2q69be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmile88%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmile88%2Fi%2F10066021%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/smile88/cabinet/master/1st/a18243.jpg?_ex=600x600" alt="ぶら下がり健康器 懸垂マシン ベンチプレスラック バーベルスタンド 高さ210cm 耐荷重180kg ラック耐荷重120kg チンニング マシン ダンベル バーベル トレーニング 筋トレ 懸垂 腹筋 器具 チンニングバー ストレッチ 1年保証 画像" /></a>
 
 ### 万能ではないからこそ、目的を明確にする割り切りも必要
 

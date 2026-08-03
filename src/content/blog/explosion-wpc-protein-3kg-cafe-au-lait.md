@@ -37,7 +37,7 @@ sidebarProducts:
 
 さらに、このプロテインのアミノ酸スコアは「100」。アミノ酸スコアとは、食品に含まれるタンパク質の栄養価を評価する指標で、体内で生成できない9種類の必須アミノ酸がバランス良く含まれているかを数値化したものです。 スコア100は、これらの必須アミノ酸がすべて十分な量で含まれていることを意味し、摂取したタンパク質が無駄なく体内で利用される、まさに「質の高いたんぱく質」であることの証です。
 
-![プロテイン WPC エクスプロージョン 3kg カフェオレ味](https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/09841231/250313_10000017.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/09841231/250313_10000017.jpg?_ex=600x600" alt="プロテイン WPC エクスプロージョン 3kg カフェオレ味" />
 
 僕自身、トレーニング後のプロテインは欠かせませんが、正直なところ「飲まなきゃいけない」という義務感から、味が単調だと飽きてしまうこともありました。しかし、「プロテイン WPC エクスプロージョン 3kg カフェオレ味」は、その名の通り「毎日の珈琲の代わりに飲める珈琲クオリティー」を謳っているだけあって、本格的なカフェオレの風味が楽しめるのが非常に気に入っています。甘すぎず、それでいて満足感のある味わいは、トレーニング後のご褒美としてはもちろん、朝の目覚めの一杯としても最適だと感じています。
 
@@ -51,7 +51,7 @@ sidebarProducts:
 
 [プロテイン WPC エクスプロージョン 3kg カフェオレ味](https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000021%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
-[![プロテイン WPC エクスプロージョン 3kg カフェオレ味 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/09841231/250313_10000017.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000021%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000021%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/09841231/250313_10000017.jpg?_ex=600x600" alt="プロテイン WPC エクスプロージョン 3kg カフェオレ味 画像" /></a>
 
 ## 知っておきたい注意点と賢い選択
 
