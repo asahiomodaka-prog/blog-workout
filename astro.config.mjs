@@ -7,6 +7,8 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	redirects: {
+		'/blog/宅トレ限界突破アルギニン-120粒で筋肉の血流と成長ホルモンを科学する': '/blog/arginine-120-tablets-workout',
+		'/blog/ぶら下がり健康器-懸垂マシンは宅トレの核全身を解剖学的に鍛え尽くす多機能性': '/blog/pull-up-dip-station-core-workout',
 		'/blog/10mm15mm幅広ヨガマットを自宅トレに導入すべき理由解剖学的安定と筋効率': '/blog/10mm-15mm-wide-yoga-mat-home',
 		'/blog/proiron-パワーグリップなぜ狙った筋肉を逃さない宅トレ解剖学の真実': '/blog/proiron-power-grip',
 		'/blog/ufit-training-tubeが解剖学的に証明自宅で最強の身体を作る科学的理由': '/blog/ufit-training-tube-science-home-workout',

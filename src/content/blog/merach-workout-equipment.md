@@ -30,7 +30,7 @@ sidebarProducts:
 
 私もかつては同じ悩みを抱え、自宅で効率的かつ安全に腹筋を鍛えられる方法を模索していました。そんな中、長年の宅トレ経験からたどり着いたのが「MERACH 腹筋ローラーPRO」です。この一台が、多くの方が抱える腹筋トレーニングの悩みを解決し、継続的なトレーニングをサポートしてくれると確信しています。
 
-[＼4 480円→3 999円／ 獲得 MERACH](https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[MERACH 腹筋ローラーPRO](https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## 腕の支えがもたらす、腹筋への集中と腰の保護
 

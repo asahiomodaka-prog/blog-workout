@@ -101,7 +101,7 @@ sidebarProducts:
 この圧倒的な費用の差と、手軽さからくる心理的ハードルの低さは、ジムに通うことに躊躇している方にとって、非常に魅力的な選択肢となるはずです。
 私自身も、ジムに通っていた時期もありますが、このステッパーの手軽さは「運動を習慣化する」という点において、非常に有効な手段だと感じています。
 
-![座って安心ワンツーステッパー ながらトレーニング ステッパー 下半身](https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600" alt="座って安心ワンツーステッパー ながらトレーニング ステッパー 下半身" />
 
 ## ユーザーの声と私が感じる客観的評価
 

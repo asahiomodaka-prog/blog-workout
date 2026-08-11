@@ -57,7 +57,7 @@ VALX ホエイ プロテインは、「日本一美味しいプロテイン」�
 
 溶けやすさも特筆すべき点です。付属のスプーンで1杯分をシェイカーに入れ、水や牛乳でシェイクすると、ほとんどダマになることなく、きれいに溶けてくれます。これは、毎日のこととなると地味ながらも非常に助かるポイントです。以前使用していたプロテインの中には、どんなにシェイクしても粉っぽさが残ったり、コップの底にダマが沈殿したりするものもありましたが、VALXプロテインではそういったストレスを感じることはありません。この「溶けやすさ」は、特にトレーニング直後の疲労困憊の状態では、シェイカーを何度も振る手間を省けるため、心理的なハードルを大きく下げ、継続をサポートします。
 
-![VALX ホエイ プロテイン 1kg 420g](https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/imgrc0143178817.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/imgrc0143178817.jpg?_ex=600x600" alt="VALX ホエイ プロテイン 1kg 420g" />
 
 次に、1食あたりのコストについて検討してみましょう。VALX ホエイ プロテインの価格は20,000円で、1kgと420gのセット（ふるさと納税の寄付金額として）。仮に1食あたり25g摂取すると仮定した場合、1kgのプロテインで約40回分、420gで約16回分となります。合計で約56回分の摂取が可能です。単純計算で、1食あたりのコストは約357円（20,000円 ÷ 56回）となります。
 
@@ -80,7 +80,7 @@ VALX ホエイ プロテインは、レビュー評価が4.86（182件）と非�
 
 筆者が考えるVALXプロテインの最大の適性は、「自宅でのトレーニングを継続したい人」と「プロテインの味に妥協したくない人」です。自宅での筋トレは、ジムに通うよりも手軽ですが、その分モチベーションの維持が課題になります。そんな時、美味しいプロテインがあるだけで、トレーニング後の楽しみが増え、結果的に継続に繋がります。また、様々なフレーバーがあるので、飽きずに毎日続けられるという点も大きなメリットです。
 
-[![VALX ホエイ プロテイン 1kg 420g 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/imgrc0143178817.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00u8an1.ve2q5552.g00u8an1.ve2q6250/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Fiy001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10001522%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/imgrc0143178817.jpg?_ex=600x600" alt="VALX ホエイ プロテイン 1kg 420g 画像" />](https://hb.afl.rakuten.co.jp/hgc/g00u8an1.ve2q5552.g00u8an1.ve2q6250/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Fiy001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10001522%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## 他製品との比較と合理的な活用法
 

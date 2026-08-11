@@ -62,7 +62,7 @@ sidebarProducts:
 
 これらの特性を総合すると、FIELDOORのセメント化合物プレートは、単に「価格が手頃だから」という理由だけでなく、自宅トレーニング特有の制約と、筋力向上のための生理学的原則を深く理解した上で設計されていることが分かります。
 
-![ダンベル バーベル 用 プレート](https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600" alt="ダンベル バーベル 用 プレート" />
 
 ### リアルシミュレーション：賃貸マンションで宅トレ環境を整える
 
