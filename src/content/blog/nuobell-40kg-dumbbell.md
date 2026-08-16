@@ -3,7 +3,7 @@ title: '宅トレの限界突破！NUOBELL 40kgが叶える漸進性過負荷と
 description: '宅トレの筋肥大を最大化したい方へ。NUOBELL 40kg可変式ダンベルは、科学的な漸進性過負荷を自宅で実現。2kg刻み調整で手首負担を抑え、フォーム安定。省スペースで安全かつ効率的に高重量トレーニングが可能です。'
 pubDate: '2026-07-07'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/nuo/fb32i-2_tum__.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【10人に1人がタダ！10%OFFクーポン！マラソン期間】可変式ダンベル 【当店限定グリップ改良】 選べるPRO/従来モデル 24kg/40kg 単品/2個セット | ローレット加工グリップ アジャスタブルダンベル 筋トレ ホームジム ウエイトトレーニング 省スペース 静音 MotionsFit'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tqlh1.ve2q52c7.g00tqlh1.ve2q624d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Fmd242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotions%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fls-metal32-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000352%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product5/ls-met32_r-h.jpg?_ex=600x600'
     price: 34900
+mediaType: 'dumbbell'
 ---
 
 <!-- PR -->

@@ -3,7 +3,7 @@ title: 'ごるとれジェリーロープGT-1402効果検証。自宅ストレ�
 description: '「ごるトレ ジェリーロープ GT-1402」は、TPR素材のしなりで繊細な筋肉コントロールを可能にするトレーニンググッズ。1650円で手軽に始められ、ゴルフの飛距離アップやボディメイクに役立ちます。隙間時間の有効活用に最適。'
 pubDate: '2026-07-21'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/nankai-golf/cabinet/01653182/asahi/gt1402s-main.jpg?_ex=600x600'
-genre: 'workout'
+genre: '宅トレギア・小物'
 sidebarProducts:
   - title: 'ミズノ トレーニンググッズ メンズ レディース ダンベルボール ボルレッチ ディズニー（2個入り） MIZUNO C3JHI202 ミッキー ミニー チップ デール キャラクター インテリア スポーツ トレーニング 筋トレ 筋肉 ジム フィットネス|slz|'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/6/68/6831/68312220-1.jpg?_ex=600x600'
     price: 4245
     microCopy: '詳細を見る'
+mediaType: 'gear'
 ---
 
 <!-- PR -->

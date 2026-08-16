@@ -3,7 +3,7 @@ title: 'ぶら下がり健康器 懸垂マシンは宅トレの核！全身を�
 description: '自宅で本格的な筋トレを。ぶら下がり健康器・懸垂マシンは、懸垂とベンチプレスラック、バーベルスタンドが1台に集約。科学的筋肥大をサポートし、高さ調節も可能。楽天で11,550円。'
 pubDate: '2026-07-15'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a18243.jpg?_ex=600x600'
-genre: 'workout'
+genre: '大型器具・ベンチ'
 sidebarProducts:
   - title: '【大人気商品】ケーブルマシン ナロータイプ ケーブルクロスオーバー ケーブルアタッチメント ケーブル トレーニング 器具 ケーブルクロスマシン 懸垂 チンニングマシン 業務用 MB-CXM-N BoDYLINK (ボディリンク)'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00uafd1.ve2q5546.g00uafd1.ve2q6f49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbody-link-irotecpro%2Fmb-cxm-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbody-link-irotecpro%2Fi%2F10000079%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/syuno888/cabinet/x4-85/xx195-0.jpg?_ex=600x600'
     price: 14880
     microCopy: '詳細を見る'
+mediaType: 'machine'
 ---
 
 ## 宅トレを科学する：エビデンスに基づく効果的な筋肥大と、それを支える合理的ギアの選択

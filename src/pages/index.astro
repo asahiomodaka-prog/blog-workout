@@ -1,56 +1,602 @@
 ---
-import { getCollection, render } from 'astro:content';
-import BlogPost from '../layouts/BlogPost.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
 const posts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 
-const latestPost = posts[0];
-const { Content } = latestPost ? await render(latestPost) : { Content: null };
+const featuredPost = posts[0];
+const gridPosts = posts.slice(1);
+
+const genres = [
+	{ id: 'all', label: 'すべて' },
+	{ id: 'ダンベル・バーベル', label: '🏋️ ダンベル・バーベル' },
+	{ id: '大型器具・ベンチ', label: '🏢 大型器具・ベンチ' },
+	{ id: '宅トレギア・小物', label: '🥊 宅トレギア・小物' },
+	{ id: 'プロテイン', label: '🥤 プロテイン' },
+	{ id: 'サプリメント・栄養', label: '💊 サプリメント・栄養' },
+];
+
+const mediaBadgeMap: Record<string, { label: string; icon: string }> = {
+	dumbbell: { label: 'ダンベル/重量', icon: '🏋️' },
+	machine: { label: '大型器具/マシン', icon: '🏢' },
+	gear: { label: 'トレーニングギア', icon: '🥊' },
+	protein: { label: 'プロテイン', icon: '🥤' },
+	supplement: { label: 'サプリメント', icon: '💊' },
+};
 ---
 
-{latestPost ? (
-	<BlogPost {...latestPost.data}>
-		<Content />
-	</BlogPost>
-) : (
-	<html lang="ja">
-		<head>
-			<meta charset="utf-8" />
-			<meta name="viewport" content="width=device-width,initial-scale=1" />
-			<title>{SITE_TITLE}</title>
-			<meta name="description" content={SITE_DESCRIPTION} />
-			<style>
-				main {
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					min-height: 60vh;
-					font-family: sans-serif;
-					color: #475569;
-					background-color: #f1f5f9;
-					text-align: center;
-					padding: 2rem;
+<!doctype html>
+<html lang="ja">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.portal-hero {
+				text-align: center;
+				padding: 3.5rem 1rem 2.5rem;
+				background: linear-gradient(180deg, rgba(255, 237, 213, 0.7) 0%, rgba(241, 245, 249, 0) 100%);
+				border-radius: 1.5rem;
+				margin-bottom: 2.5rem;
+				border: 1px solid rgba(234, 88, 12, 0.12);
+			}
+			.portal-hero h1 {
+				font-size: 2.2rem;
+				color: #9a3412;
+				margin-bottom: 0.75rem;
+				letter-spacing: -0.02em;
+				font-weight: 900;
+			}
+			.portal-hero p {
+				font-size: 1.05rem;
+				color: #ea580c;
+				max-width: 600px;
+				margin: 0 auto;
+				line-height: 1.7;
+				font-weight: 600;
+			}
+
+			/* 検索 & フィルターバー */
+			.filter-section {
+				margin-bottom: 2.5rem;
+			}
+			.search-box-wrapper {
+				max-width: 540px;
+				margin: 0 auto 1.5rem;
+				position: relative;
+			}
+			.search-input {
+				width: 100%;
+				box-sizing: border-box;
+				padding: 0.85rem 1.2rem 0.85rem 2.8rem;
+				border: 1.5px solid rgba(100, 116, 139, 0.25);
+				border-radius: 9999px;
+				font-size: 0.95rem;
+				background: #ffffff;
+				color: #1e293b;
+				outline: none;
+				box-shadow: 0 2px 8px rgba(234, 88, 12, 0.04);
+				transition: all 0.2s ease;
+			}
+			.search-input:focus {
+				border-color: #ea580c;
+				box-shadow: 0 0 0 3px rgba(234, 88, 12, 0.15);
+			}
+			.search-icon {
+				position: absolute;
+				left: 1rem;
+				top: 50%;
+				transform: translateY(-50%);
+				color: #64748b;
+				font-size: 1.1rem;
+				pointer-events: none;
+			}
+
+			/* ジャンルタブ */
+			.genre-tabs {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.5rem;
+				justify-content: center;
+				margin-bottom: 1rem;
+			}
+			.genre-btn {
+				background: #ffffff;
+				border: 1px solid rgba(100, 116, 139, 0.2);
+				color: #475569;
+				padding: 0.45rem 1rem;
+				border-radius: 9999px;
+				font-size: 0.88rem;
+				font-weight: 600;
+				cursor: pointer;
+				transition: all 0.2s ease;
+			}
+			.genre-btn:hover {
+				background: #ffedd5;
+				border-color: #ea580c;
+				color: #ea580c;
+			}
+			.genre-btn.active {
+				background: #ea580c;
+				border-color: #ea580c;
+				color: #ffffff;
+				font-weight: 700;
+				box-shadow: 0 2px 6px rgba(234, 88, 12, 0.25);
+			}
+			.count-display {
+				text-align: center;
+				font-size: 0.85rem;
+				color: #64748b;
+				margin-top: 0.5rem;
+				font-weight: 500;
+			}
+
+			/* ピックアップ注目記事 */
+			.featured-section {
+				margin-bottom: 3rem;
+			}
+			.section-heading {
+				display: flex;
+				align-items: center;
+				gap: 0.5rem;
+				font-size: 1.3rem;
+				color: #0f172a;
+				margin-bottom: 1.25rem;
+				padding-bottom: 0.5rem;
+				border-bottom: 2px solid rgba(234, 88, 12, 0.2);
+			}
+			.featured-card {
+				display: grid;
+				grid-template-columns: 1.2fr 1fr;
+				gap: 2rem;
+				background: #ffffff;
+				border-radius: 1.25rem;
+				overflow: hidden;
+				border: 1px solid rgba(100, 116, 139, 0.18);
+				box-shadow: 0 4px 20px rgba(15, 23, 42, 0.06);
+				text-decoration: none;
+				color: inherit;
+				transition: all 0.25s ease;
+			}
+			.featured-card:hover {
+				transform: translateY(-4px);
+				box-shadow: 0 12px 30px rgba(234, 88, 12, 0.15);
+				border-color: rgba(234, 88, 12, 0.4);
+			}
+			.featured-img-wrap {
+				position: relative;
+				overflow: hidden;
+				background: #e2e8f0;
+				aspect-ratio: 16 / 10;
+			}
+			.featured-img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				transition: transform 0.4s ease;
+			}
+			.featured-card:hover .featured-img {
+				transform: scale(1.04);
+			}
+			.featured-body {
+				padding: 2rem 2rem 2rem 0;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+			}
+			.badge-row {
+				display: flex;
+				gap: 0.5rem;
+				align-items: center;
+				margin-bottom: 0.75rem;
+				flex-wrap: wrap;
+			}
+			.badge-media {
+				background: #ffedd5;
+				color: #c2410c;
+				font-size: 0.75rem;
+				font-weight: 700;
+				padding: 0.25rem 0.6rem;
+				border-radius: 6px;
+				border: 1px solid rgba(234, 88, 12, 0.2);
+			}
+			.badge-genre {
+				background: rgba(15, 23, 42, 0.08);
+				color: #0f172a;
+				font-size: 0.75rem;
+				font-weight: 700;
+				padding: 0.25rem 0.6rem;
+				border-radius: 6px;
+			}
+			.featured-title {
+				font-size: 1.45rem;
+				color: #0f172a;
+				line-height: 1.45;
+				margin-bottom: 0.85rem;
+				font-weight: 800;
+			}
+			.featured-desc {
+				font-size: 0.92rem;
+				color: #475569;
+				line-height: 1.7;
+				margin-bottom: 1.25rem;
+				display: -webkit-box;
+				-webkit-line-clamp: 3;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
+			}
+			.card-date {
+				font-size: 0.82rem;
+				color: #64748b;
+				font-weight: 600;
+			}
+
+			/* 記事カードグリッド */
+			.articles-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+				gap: 1.75rem;
+			}
+			.post-card {
+				background: #ffffff;
+				border-radius: 1rem;
+				overflow: hidden;
+				border: 1px solid rgba(100, 116, 139, 0.15);
+				box-shadow: 0 2px 10px rgba(15, 23, 42, 0.03);
+				text-decoration: none;
+				color: inherit;
+				display: flex;
+				flex-direction: column;
+				transition: all 0.22s ease;
+			}
+			.post-card:hover {
+				transform: translateY(-4px);
+				box-shadow: 0 8px 24px rgba(234, 88, 12, 0.12);
+				border-color: rgba(234, 88, 12, 0.35);
+			}
+			.card-img-wrap {
+				position: relative;
+				overflow: hidden;
+				background: #e2e8f0;
+				aspect-ratio: 16 / 10;
+			}
+			.card-img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				transition: transform 0.35s ease;
+			}
+			.post-card:hover .card-img {
+				transform: scale(1.05);
+			}
+			.card-body {
+				padding: 1.25rem;
+				display: flex;
+				flex-direction: column;
+				flex-grow: 1;
+			}
+			.card-title {
+				font-size: 1.05rem;
+				color: #0f172a;
+				line-height: 1.5;
+				margin: 0 0 0.65rem;
+				font-weight: 800;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
+			}
+			.card-desc {
+				font-size: 0.86rem;
+				color: #475569;
+				line-height: 1.65;
+				margin-bottom: 1rem;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
+				flex-grow: 1;
+			}
+			.card-footer {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				padding-top: 0.75rem;
+				border-top: 1px solid rgba(100, 116, 139, 0.1);
+			}
+			.read-more-text {
+				font-size: 0.82rem;
+				font-weight: 700;
+				color: #ea580c;
+			}
+
+			/* 検索空状態 */
+			.no-results {
+				display: none;
+				text-align: center;
+				padding: 4rem 1rem;
+				background: #ffffff;
+				border-radius: 1rem;
+				border: 1px dashed rgba(100, 116, 139, 0.3);
+				margin: 2rem 0;
+			}
+			.no-results p {
+				color: #475569;
+				font-size: 1rem;
+				margin-bottom: 1rem;
+			}
+			.reset-btn {
+				background: #ea580c;
+				color: #ffffff;
+				border: none;
+				padding: 0.5rem 1.25rem;
+				border-radius: 9999px;
+				font-size: 0.88rem;
+				cursor: pointer;
+				font-weight: 700;
+			}
+
+			@media (max-width: 768px) {
+				.portal-hero {
+					padding: 2rem 1rem 1.5rem;
 				}
-				h1 {
-					font-size: 1.5rem;
-					margin-bottom: 1rem;
-					color: #0f172a;
+				.portal-hero h1 {
+					font-size: 1.6rem;
 				}
-				p {
-					font-size: 0.95rem;
-					line-height: 1.6;
+				.featured-card {
+					grid-template-columns: 1fr;
+					gap: 0;
 				}
-			</style>
-		</head>
-		<body>
-			<main>
-				<h1>記事がまだありません</h1>
-				<p>自動記事生成プログラム（Aria Writer）を使って、最初の記事を作成・投稿してください。</p>
-			</main>
-		</body>
-	</html>
-)}
+				.featured-body {
+					padding: 1.25rem;
+				}
+				.featured-title {
+					font-size: 1.15rem;
+				}
+				.articles-grid {
+					grid-template-columns: 1fr;
+					gap: 1.25rem;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<!-- ヒーローセクション -->
+			<section class="portal-hero">
+				<h1>最強宅トレ</h1>
+				<p>自宅を最高のジムに。解剖学と運動生理学に基づいた器具レビュー・サプリメント・効率的トレーニングメソッド。</p>
+			</section>
+
+			<!-- 検索 & ジャンルフィルター -->
+			<section class="filter-section">
+				<div class="search-box-wrapper">
+					<span class="search-icon">🔍</span>
+					<input
+						type="search"
+						id="searchInput"
+						class="search-input"
+						placeholder="器具名・筋肉部位・キーワードで検索..."
+						autocomplete="off"
+					/>
+				</div>
+
+				<div class="genre-tabs" id="genreTabs">
+					{
+						genres.map((g) => (
+							<button
+								type="button"
+								class={`genre-btn ${g.id === 'all' ? 'active' : ''}`}
+								data-genre={g.id}
+							>
+								{g.label}
+							</button>
+						))
+					}
+				</div>
+				<div class="count-display" id="countDisplay">
+					全 {posts.length} 件のトレーニング記事を掲載中
+				</div>
+			</section>
+
+			<!-- ピックアップ注目記事（最新記事） -->
+			{
+				featuredPost && (
+					<section class="featured-section" id="featuredSection">
+						<h2 class="section-heading">★ 最新の注目記事</h2>
+						<a
+							href={`/blog/${featuredPost.id}/`}
+							class="featured-card article-item"
+							data-title={featuredPost.data.title}
+							data-description={featuredPost.data.description}
+							data-genre={featuredPost.data.genre || ''}
+						>
+							<div class="featured-img-wrap">
+								{featuredPost.data.heroImage && (
+									<img
+										src={featuredPost.data.heroImage}
+										alt={featuredPost.data.title}
+										class="featured-img"
+										loading="eager"
+										decoding="async"
+									/>
+								)}
+							</div>
+							<div class="featured-body">
+								<div class="badge-row">
+									{featuredPost.data.mediaType && mediaBadgeMap[featuredPost.data.mediaType] && (
+										<span class="badge-media">
+											{mediaBadgeMap[featuredPost.data.mediaType].icon} {mediaBadgeMap[featuredPost.data.mediaType].label}
+										</span>
+									)}
+									{featuredPost.data.genre && (
+										<span class="badge-genre">{featuredPost.data.genre}</span>
+									)}
+								</div>
+								<h3 class="featured-title">{featuredPost.data.title}</h3>
+								<p class="featured-desc">{featuredPost.data.description}</p>
+								<div class="card-footer">
+									<span class="card-date">
+										<FormattedDate date={featuredPost.data.pubDate} />
+									</span>
+									<span class="read-more-text">記事を読む →</span>
+								</div>
+							</div>
+						</a>
+					</section>
+				)
+			}
+
+			<!-- 記事一覧グリッド -->
+			<section>
+				<h2 class="section-heading" id="gridHeading">🏋️ 記事一覧</h2>
+				<div class="articles-grid" id="articlesGrid">
+					{
+						gridPosts.map((post) => {
+							const media = post.data.mediaType ? mediaBadgeMap[post.data.mediaType] : null;
+							return (
+								<a
+									href={`/blog/${post.id}/`}
+									class="post-card article-item"
+									data-title={post.data.title}
+									data-description={post.data.description}
+									data-genre={post.data.genre || ''}
+								>
+									<div class="card-img-wrap">
+										{post.data.heroImage && (
+											<img
+												src={post.data.heroImage}
+												alt={post.data.title}
+												class="card-img"
+												loading="lazy"
+												decoding="async"
+											/>
+										)}
+									</div>
+									<div class="card-body">
+										<div class="badge-row">
+											{media && (
+												<span class="badge-media">
+													{media.icon} {media.label}
+												</span>
+											)}
+											{post.data.genre && (
+												<span class="badge-genre">{post.data.genre}</span>
+											)}
+										</div>
+										<h3 class="card-title">{post.data.title}</h3>
+										<p class="card-desc">{post.data.description}</p>
+										<div class="card-footer">
+											<span class="card-date">
+												<FormattedDate date={post.data.pubDate} />
+											</span>
+											<span class="read-more-text">読む →</span>
+										</div>
+									</div>
+								</a>
+							);
+						})
+					}
+				</div>
+
+				<!-- ヒット0件時の空状態表示 -->
+				<div class="no-results" id="noResults">
+					<p>お探しの条件に一致する記事は見つかりませんでした。</p>
+					<button type="button" class="reset-btn" id="resetBtn">条件をリセットする</button>
+				</div>
+			</section>
+		</main>
+		<Footer />
+
+		<!-- 超軽量リアルタイム検索 & ジャンルフィルター -->
+		<script is:inline>
+			(function () {
+				const searchInput = document.getElementById('searchInput');
+				const genreTabs = document.getElementById('genreTabs');
+				const genreBtns = genreTabs ? genreTabs.querySelectorAll('.genre-btn') : [];
+				const articles = document.querySelectorAll('.article-item');
+				const noResults = document.getElementById('noResults');
+				const countDisplay = document.getElementById('countDisplay');
+				const resetBtn = document.getElementById('resetBtn');
+				const featuredSection = document.getElementById('featuredSection');
+
+				let currentGenre = 'all';
+				let currentSearch = '';
+
+				function filterArticles() {
+					let visibleCount = 0;
+					const query = currentSearch.trim().toLowerCase();
+
+					articles.forEach((item) => {
+						const title = (item.getAttribute('data-title') || '').toLowerCase();
+						const desc = (item.getAttribute('data-description') || '').toLowerCase();
+						const genre = item.getAttribute('data-genre') || '';
+
+						const matchesGenre = currentGenre === 'all' || genre === currentGenre;
+						const matchesQuery = !query || title.includes(query) || desc.includes(query);
+
+						if (matchesGenre && matchesQuery) {
+							item.style.display = '';
+							visibleCount++;
+						} else {
+							item.style.display = 'none';
+						}
+					});
+
+					// 検索やジャンル絞り込み時はピックアップ枠の表示・非表示を自然に制御
+					if (featuredSection) {
+						const featuredItem = featuredSection.querySelector('.article-item');
+						if (featuredItem && featuredItem.style.display === 'none') {
+							featuredSection.style.display = 'none';
+						} else {
+							featuredSection.style.display = '';
+						}
+					}
+
+					// 件数表示の更新
+					if (countDisplay) {
+						countDisplay.textContent = `表示中: ${visibleCount} 件 / 全 ${articles.length} 件`;
+					}
+
+					// 0件メッセージ
+					if (noResults) {
+						noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+					}
+				}
+
+				if (searchInput) {
+					searchInput.addEventListener('input', (e) => {
+						currentSearch = e.target.value;
+						filterArticles();
+					});
+				}
+
+				genreBtns.forEach((btn) => {
+					btn.addEventListener('click', () => {
+						genreBtns.forEach((b) => b.classList.remove('active'));
+						btn.classList.add('active');
+						currentGenre = btn.getAttribute('data-genre') || 'all';
+						filterArticles();
+					});
+				});
+
+				if (resetBtn) {
+					resetBtn.addEventListener('click', () => {
+						if (searchInput) searchInput.value = '';
+						currentSearch = '';
+						currentGenre = 'all';
+						genreBtns.forEach((b) => {
+							b.classList.toggle('active', b.getAttribute('data-genre') === 'all');
+						});
+						filterArticles();
+					});
+				}
+			})();
+		</script>
+	</body>
+</html>

@@ -3,7 +3,7 @@ title: 'POWER ARMOR ビルドアップコアセット59は宅トレ最適解か�
 description: 'POWER ARMOR ビルドアップコアセット59で宅トレを深化。アジャスタブルベンチと59kgダンベルで、自宅で全身を本格的に鍛えられます。限られたスペースで効率的に筋トレを深化させ、ジムに匹敵するトレーニング環境を39,380円で実現。'
 pubDate: '2026-08-11'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/powerarmor/paajb/bdac59.jpg?_ex=600x600'
-genre: 'workout'
+genre: '宅トレギア・小物'
 sidebarProducts:
   - title: 'POWER ARMOR（パワーアーマー）ビルドアップコアセット39（アジャスタブルベンチ+アイアンダンベル39KGセット） / インクラインベンチ インクライン フラットインクライン ベンチプレス バーベル フラットベンチ トレーニング器具 プレスベンチ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Fpa-ab-i39%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10001392%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/powerarmor/paajb/bdac39.jpg?_ex=600x600'
     price: 37290
     microCopy: '詳細を見る'
+mediaType: 'gear'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -62,7 +63,7 @@ sidebarProducts:
 
 また、ダブルロックカラーはプレートの緩みを軽減し、トレーニング中の安全性、特にダンベルを頭上に上げる種目での安心感を高めてくれます。重厚感のあるブラックパウダー塗装は、見た目にも統一感があり、自宅に置いた時の満足度も高めてくれるでしょう。
 
-![POWER ARMOR ビルドアップコアセット59 /](https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/powerarmor/paajb/bdac59.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/powerarmor/paajb/bdac59.jpg?_ex=600x600" alt="POWER ARMOR ビルドアップコアセット59 /" loading="lazy" decoding="async" />
 
 ### ジム通いとの比較：費用と時間の合理的投資
 

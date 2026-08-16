@@ -3,7 +3,7 @@ title: 'プロテイン WPC エクスプロージョン 3kgを飲むべき理由
 description: '「プロテイン WPC エクスプロージョン 3kg カフェオレ味」は、トレーニング効果を最大化するホエイプロテイン。消化吸収が早く、アミノ酸スコア100で効率的に筋肉をサポートします。毎日のコーヒー代わりに美味しくタンパク質補給。3kgの大容量でコスパも抜群です。'
 pubDate: '2026-07-29'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/09841231/250313_10000017.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'プロテイン'
 sidebarProducts:
   - title: 'プロテイン WPC エクスプロージョン 3kg ミルクチョコレート味 ホエイプロテイン 3キロ 最安値 大容量 筋肉 タンパク質 高たんぱく 運動 ダイエット 置き換え 男性 女性 子供 こども'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000023%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/lf001_r_01-1.jpg?_ex=600x600'
     price: 39000
     microCopy: '詳細を見る'
+mediaType: 'protein'
 ---
 
 <!-- PR -->

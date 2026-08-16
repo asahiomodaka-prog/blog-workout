@@ -3,7 +3,7 @@ title: '座って安心ワンツーステッパーを導入すべき理由。宅
 description: '「座って安心ワンツーステッパー」で下半身エクササイズ。3600円で座ったまま手軽に「ながらトレーニング」を始められます。膝への負担が少なく、安定性に優れ、運動が苦手な方や座りっぱなしの方に最適。軽量コンパクトで組み立て不要、届いてすぐに理想のスタイルへ。楽天で購入可能。'
 pubDate: '2026-08-08'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600'
-genre: 'workout'
+genre: '大型器具・ベンチ'
 sidebarProducts:
   - title: '朝日ゴルフ用品 ごるトレ ジェリーロープ Jelly Rope GT-1402 トレーニンググッズ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00q46i1.ve2q5e0c.g00q46i1.ve2q6076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnankai-golf%2Fgt1402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnankai-golf%2Fi%2F10015837%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/6/68/6831/68312220-1.jpg?_ex=600x600'
     price: 4059
     microCopy: '詳細を見る'
+mediaType: 'machine'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->

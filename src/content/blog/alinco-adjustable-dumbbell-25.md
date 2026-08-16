@@ -3,7 +3,7 @@ title: 'アジャスタブルダンベル25は本当に必要？宅トレ効果�
 description: '自宅での筋トレ効率に悩む方へ。アルインコのアジャスタブルダンベル25/EXG422は、1台で2〜25kgの重量調整を実現。省スペースで本格的な筋トレ・ダイエットを叶え、あなたのトレーニングを次のレベルへと導きます。'
 pubDate: '2026-08-14'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f272078-takatsuki/cabinet/item/aoab/1/aoab137.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【★5レビュー2,000件超の高評価 】ダンベル 可変式ダンベル 24kg 筋トレ ダンベル可変式 アジャスタブルダンベル 鉄アレ 自宅トレーニング'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/ned.jpg?_ex=600x600'
     price: 1599
     microCopy: '詳細を見る'
+mediaType: 'dumbbell'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -32,7 +33,7 @@ sidebarProducts:
 
 ## 宅トレ効率を最大化する設計思想
 
-![アジャスタブルダンベル25/EXG422/アルインコ トレーニング 筋トレ ダイエット](https://thumbnail.image.rakuten.co.jp/@0_mall/f272078-takatsuki/cabinet/item/aoab/1/aoab137.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f272078-takatsuki/cabinet/item/aoab/1/aoab137.jpg?_ex=600x600" alt="アジャスタブルダンベル25/EXG422/アルインコ トレーニング 筋トレ ダイエット" loading="lazy" decoding="async" />
 
 このアルインコのアジャスタブルダンベル25/EXG422を手にしたとき、私が特に注目したのは、その重量調整範囲と機能性でした。約2kgから25kgまで細かなステップで重量を変えられるのは、筋トレの基本原則である「漸進性過負荷（progressive overload）」を自宅で実践する上で非常に重要です。
 

@@ -3,7 +3,7 @@ title: '腹筋ローラー＆プッシュアップバーの真価。効率的な
 description: '現役トレーナー監修の腹筋ローラー＆プッシュアップバーセットが2580円！腹筋・大胸筋・体幹を効率的に鍛え、初心者から上級者まで効果を実感。静音設計で自宅トレーニングに最適、理想のボディを目指す男性・女性におすすめです。'
 pubDate: '2026-07-24'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tcconlineshop/cabinet/08713206/compass1690191596.jpg?_ex=600x600'
-genre: 'workout'
+genre: '宅トレギア・小物'
 sidebarProducts:
   - title: '【楽天ランキング三冠受賞】腹筋ローラー SOOMLOOM 正規品 腹筋 アブローラー トレーニング ダイエット 器具 筋トレ 腹筋トレーニング 超静音 膝マット付き ボディビル 静か ダイエット マシン エクササイズ 初心者 おすすめ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00rdev1.ve2q53f3.g00rdev1.ve2q67e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyiprefer%2Ftra-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyiprefer%2Fi%2F10001541%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/smilekankyo1/cabinet/12946552/compass1777451496.jpg?_ex=600x600'
     price: 4580
     microCopy: '詳細を見る'
+mediaType: 'gear'
 ---
 
 <!-- PR -->

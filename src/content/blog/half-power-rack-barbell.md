@@ -3,7 +3,7 @@ title: 'ハーフラックで宅トレ限界突破！解剖学的安全と高負
 description: '自宅での本格筋トレに。ハーフラック、パワーラック、バーベルスタンドとして使える本製品は、バーベルトレーニングの安全性を高めます。セーフティーバー完備、省スペース設計で19,800円。楽天で手軽に高負荷ホームジムを実現。'
 pubDate: '2026-08-13'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/imgrc0093097450.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【8/13-8/16はポイントアップ】IROTEC（アイロテック）マスキュラーセットR140 / パワーラック パワーケージ スミスマシン 懸垂マシン インクラインベンチ バーベル ダンベル トレーニング器具 ベンチプレス トレーニングマシン 筋トレ ホームジム ラットプルマシン'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000117%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/item/yt-bls05/y-bls05_r01.jpg?_ex=600x600'
     price: 7980
     microCopy: '詳細を見る'
+mediaType: 'dumbbell'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -38,7 +39,7 @@ sidebarProducts:
 
 フレームの厚みが2倍に改良され、耐荷重もマルチ懸垂バー200kg、バーベルラック250kg、セーフティーバー350kgと高く設定されています。この頑丈さは単なる数字以上の意味を持ちます。高重量を扱う際のわずかなグラつきは、集中力を削ぐだけでなく、怪我のリスクを増大させる要因となります。本製品の堅牢なフレームは、例えば100kgを超えるベンチプレスを行う際にも、不安な音や揺れを抑制し、まるでジムのプロ仕様ラックを使っているかのような安心感を提供します。これにより、トレーニングに完全に没頭し、本来の筋力を引き出すことが可能となるでしょう。安全な環境は、筋肉への挑戦を可能にし、停滞期を乗り越えるための重要な要素と言えます。
 
-![ハーフラック パワーラック バーベルトレーニング バーベルスタンド](https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/imgrc0093097450.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/imgrc0093097450.jpg?_ex=600x600" alt="ハーフラック パワーラック バーベルトレーニング バーベルスタンド" loading="lazy" decoding="async" />
 
 ## 費用と空間を最適化するホームジム設計
 

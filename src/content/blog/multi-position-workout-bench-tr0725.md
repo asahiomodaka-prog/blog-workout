@@ -3,7 +3,7 @@ title: 'TR0725マルチポジションベンチを自宅に導入すべき理由
 description: '自宅での本格トレーニングに。耐荷重300kgを誇るマルチポジションベンチ（TR0725）は、ベンチプレスや腹筋に最適です。フラット・インクライン・デクラインの6段階角度調整に加え、コンパクトに折りたたみ可能。楽天で15,990円で手に入ります。'
 pubDate: '2026-07-25'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/9651/9651513090034.jpg?_ex=600x600'
-genre: 'workout'
+genre: '大型器具・ベンチ'
 sidebarProducts:
   - title: '■7/27迄 お買い物マラソン■ 改良モデル トレーニングベンチ新型 3WAY 耐荷重300kg ベンチプレス台 ホームジム トレーニングマシン 折り畳み 折りたたみ 筋トレ 自宅 腹筋 コンパクト'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sc6q1.ve2q582b.g00sc6q1.ve2q647c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarketjapan%2Fbw-ajb06%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarketjapan%2Fi%2F10001933%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/12855415/12862747/st123.jpg?_ex=600x600'
     price: 10490
     microCopy: '詳細を見る'
+mediaType: 'machine'
 ---
 
 <!-- PR -->

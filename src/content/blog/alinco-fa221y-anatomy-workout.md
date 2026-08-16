@@ -3,7 +3,7 @@ title: 'アルインコ FA221Yの真価。解剖学で解き明かす「効く�
 description: 'アルインコ FA221Yで宅トレが変わる！42000円で科学的根拠に基づく筋肥大最大化法を解説。背中トレの握力限界を解決し、自宅で効率的な成果を目指す方法がわかる。'
 pubDate: '2026-07-05'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f272078-takatsuki/cabinet/item/aoab/aoab008.jpg?_ex=600x600'
-genre: 'workout'
+genre: '大型器具・ベンチ'
 sidebarProducts:
   - title: '【LINE200円OFFクーポン×15日はポイント10倍】グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 筋トレ ベンチプレス 手首補助 男女兼用 洗濯可能 左右セット'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00unen1.ve2q5328.g00unen1.ve2q6da2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvolix%2Fnarrowbelt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvolix%2Fi%2F10000008%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/volix/cabinet/11470098/aj2_20486.jpg?_ex=600x600'
     price: 14980
+mediaType: 'machine'
 ---
 
 <!-- PR -->

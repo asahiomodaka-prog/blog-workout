@@ -3,7 +3,7 @@ title: '可変式ダンベル24kgは自宅筋トレの最適解！省スペー�
 description: '2秒で重量変更可能な24kg可変式ダンベル2個セットが9280円！15段階調整で全身を効率よく鍛えられ、省スペースで自宅筋トレに最適。初心者から上級者まで、時間短縮と効果的なトレーニングを両立します。'
 pubDate: '2026-07-28'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/h2brothers/cabinet/fitness/danberu-48kgns2.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '可変式ダンベル24kgは自宅筋トレの最適解！省スペースと瞬時重量変更のメリットを徹底検証'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ugv01.ve2q55ad.g00ugv01.ve2q6675/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fproiron%2Fprkned%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fproiron%2Fi%2F10000201%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/northdeer/cabinet/08755530/imgrc00847138381.jpg?_ex=600x600'
     price: 2880
     microCopy: '詳細を見る'
+mediaType: 'dumbbell'
 ---
 
 <!-- PR -->

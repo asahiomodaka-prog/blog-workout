@@ -3,7 +3,7 @@ title: 'トレーニングベンチ新型は宅トレ必須か？筋肥大を最
 description: 'グラつかない安定感が魅力！改良モデルのトレーニングベンチ新型は、極太パイプ＆耐荷重500kgで自宅での高重量トレをサポート。3WAY角度調節、折りたたみ可能で省スペース。組み立て不要で今なら5880円（8/11迄SALE価格）。宅トレの質を高めたい方へ。'
 pubDate: '2026-08-05'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/12884245/bw-ajb06_thumba.jpg?_ex=600x600'
-genre: 'workout'
+genre: '大型器具・ベンチ'
 sidebarProducts:
   - title: '【◆5%OFFクーポン】【ベンチランキング1位獲得】 トレーニングベンチ 耐荷重330kg 独自のBack Protection 角度調整 折りたたみ 組立簡単 【保証365日】 STEADY ステディ 筋トレ ベンチ フラットベンチ ST123'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00saul1.ve2q5b2f.g00saul1.ve2q6e15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftkms%2Fst123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftkms%2Fi%2F10000869%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600'
     price: 6999
     microCopy: '詳細を見る'
+mediaType: 'machine'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->

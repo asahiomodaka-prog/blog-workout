@@ -9,7 +9,7 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'] & { genre?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProducts } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProducts, faq, rating } = Astro.props;
 
 const defaultProducts = [
 	{
@@ -48,21 +48,25 @@ const excludeId = currentId || (allPosts.length > 0 ? allPosts[0].id : null);
 const candidatePosts = allPosts.filter(post => post.id !== excludeId);
 const sidebarPosts = candidatePosts.slice(0, 10);
 
-// カテゴリまたはタグが一致する記事を優先的に関連記事として3件抽出
+// ジャンル・メディア種別・カテゴリ・タグが一致する記事を優先的に関連記事として3件抽出
 const currentPost = allPosts.find(post => post.id === excludeId);
+const currentGenre = currentPost?.data.genre || genre;
+const currentMediaType = currentPost?.data.mediaType;
 const currentCategory = currentPost?.data.category;
 const currentTags = currentPost?.data.tags || [];
 
+const genreMatched = candidatePosts.filter(post => currentGenre && post.data.genre === currentGenre);
+const mediaMatched = candidatePosts.filter(post => currentMediaType && post.data.mediaType === currentMediaType);
 const categoryMatched = candidatePosts.filter(post => currentCategory && post.data.category === currentCategory);
 const tagMatched = candidatePosts.filter(post => post.data.tags && post.data.tags.some(t => currentTags.includes(t)));
 
-// 重複を除外して優先順に並べる
-const relatedPosts = Array.from(new Set([...categoryMatched, ...tagMatched, ...candidatePosts])).slice(0, 3);
+// 同一ジャンル優先 -> 同一メディア種別 -> カテゴリ/タグ -> その他の記事の順で重複排除して上位3件
+const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...categoryMatched, ...tagMatched, ...candidatePosts])).slice(0, 3);
 ---
 
 <html lang="ja">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={description} pubDate={pubDate} updatedDate={updatedDate} faq={faq} rating={rating} products={products} />
 		<style>
 			main {
 				width: 100%;
@@ -681,6 +685,132 @@ const relatedPosts = Array.from(new Set([...categoryMatched, ...tagMatched, ...c
 				-webkit-box-orient: vertical;
 				overflow: hidden;
 			}
+
+			/* FAQ アコーディオン スタイル */
+			.faq-section {
+				margin-top: 3rem;
+				padding-top: 2rem;
+				border-top: 2px dashed #e2e8f0;
+			}
+			.faq-section-title {
+				font-size: 1.25rem;
+				font-weight: 800;
+				color: #0f172a;
+				margin-bottom: 1.5rem;
+				position: relative;
+				padding-left: 0.85rem;
+				letter-spacing: -0.01em;
+			}
+			.faq-section-title::before {
+				content: "";
+				position: absolute;
+				left: 0;
+				top: 0.2rem;
+				bottom: 0.2rem;
+				width: 4px;
+				background: var(--accent);
+				border-radius: 2px;
+			}
+			.faq-list {
+				display: flex;
+				flex-direction: column;
+				gap: 0.85rem;
+			}
+			.faq-item {
+				background: #ffffff;
+				border: 1px solid #e2e8f0;
+				border-radius: 12px;
+				overflow: hidden;
+				transition: all 0.2s ease;
+			}
+			.faq-item[open] {
+				border-color: var(--accent);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+			}
+			.faq-question {
+				font-size: 0.95rem;
+				font-weight: 700;
+				color: #1e293b;
+				padding: 1rem 1.25rem;
+				cursor: pointer;
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				list-style: none;
+				user-select: none;
+			}
+			.faq-question::-webkit-details-marker {
+				display: none;
+			}
+			.faq-question::after {
+				content: "+";
+				font-size: 1.2rem;
+				font-weight: 600;
+				color: var(--accent);
+			}
+			.faq-item[open] .faq-question::after {
+				content: "−";
+			}
+			.faq-answer {
+				padding: 0 1.25rem 1.25rem;
+				font-size: 0.9rem;
+				color: #475569;
+				line-height: 1.7;
+				border-top: 1px solid #f1f5f9;
+				margin-top: 0.25rem;
+				padding-top: 0.85rem;
+			}
+
+			/* パンくずリスト */
+			.breadcrumb-nav {
+				margin-bottom: 1.25rem;
+			}
+			.breadcrumb-list {
+				display: flex;
+				align-items: center;
+				flex-wrap: wrap;
+				gap: 0.4rem;
+				list-style: none;
+				padding: 0;
+				margin: 0;
+				font-size: 0.82rem;
+				color: #64748b;
+			}
+			.breadcrumb-item {
+				display: inline-flex;
+				align-items: center;
+			}
+			.breadcrumb-link {
+				color: #64748b;
+				text-decoration: none;
+				transition: color 0.15s ease;
+			}
+			.breadcrumb-link:hover {
+				color: var(--accent);
+				text-decoration: underline;
+			}
+			.breadcrumb-separator {
+				color: #cbd5e1;
+				font-size: 0.85rem;
+				user-select: none;
+			}
+			.breadcrumb-genre {
+				color: var(--accent);
+				font-weight: 500;
+			}
+			.breadcrumb-current {
+				color: #1e293b;
+				font-weight: 600;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				max-width: 320px;
+			}
+			@media (max-width: 600px) {
+				.breadcrumb-current {
+					max-width: 180px;
+				}
+			}
 		</style>
 	</head>
 
@@ -690,6 +820,27 @@ const relatedPosts = Array.from(new Set([...categoryMatched, ...tagMatched, ...c
 			<article class="blog-layout-container">
 				<div class="main-content">
 					<div class="prose">
+						<!-- パンくずリスト -->
+						<nav class="breadcrumb-nav" aria-label="パンくずリスト">
+							<ol class="breadcrumb-list">
+								<li class="breadcrumb-item">
+									<a href="/" class="breadcrumb-link">ホーム</a>
+								</li>
+								<li class="breadcrumb-separator">›</li>
+								{currentGenre && (
+									<>
+										<li class="breadcrumb-item">
+											<span class="breadcrumb-genre">{currentGenre}</span>
+										</li>
+										<li class="breadcrumb-separator">›</li>
+									</>
+								)}
+								<li class="breadcrumb-item breadcrumb-current" aria-current="page">
+									{title}
+								</li>
+							</ol>
+						</nav>
+
 						<div class="title">
 							{pubDate && (
 								<div class="date">
@@ -697,7 +848,7 @@ const relatedPosts = Array.from(new Set([...categoryMatched, ...tagMatched, ...c
 									{
 										updatedDate && (
 											<div class="last-updated-on">
-												Last updated on <FormattedDate date={updatedDate} />
+												最終更新日: <FormattedDate date={updatedDate} />
 											</div>
 										)
 									}
@@ -710,6 +861,21 @@ const relatedPosts = Array.from(new Set([...categoryMatched, ...tagMatched, ...c
 							<div class="post-end-date">
 								<p>投稿日：<FormattedDate date={pubDate} />{updatedDate && <span>（最終更新日：<FormattedDate date={updatedDate} />）</span>}</p>
 							</div>
+						)}
+
+						<!-- FAQ（よくある質問）セクション -->
+						{faq && faq.length > 0 && (
+							<section class="faq-section">
+								<h3 class="faq-section-title">よくある質問（FAQ）</h3>
+								<div class="faq-list">
+									{faq.map((item) => (
+										<details class="faq-item">
+											<summary class="faq-question">{item.question}</summary>
+											<div class="faq-answer">{item.answer}</div>
+										</details>
+									))}
+								</div>
+							</section>
 						)}
 
 						<!-- 関連記事カードセクション -->

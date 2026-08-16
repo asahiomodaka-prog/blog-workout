@@ -3,7 +3,7 @@ title: '宅トレ限界突破！『アルギニン 120粒』で筋肉の血流�
 description: '宅トレを最大化する『アルギニン 120粒』。シトルリンとクラチャイダム配合で、血流促進・疲労回復をサポートし、筋肉の成長とパフォーマンス維持に貢献。楽天で1000円のお手頃価格。科学的エビデンスに基づいた効果と活用法を解説します。'
 pubDate: '2026-07-17'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/pmone/cabinet/kenshoku03/cakcn45733400505483.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'サプリメント・栄養'
 sidebarProducts:
   - title: 'スピードシェイプ フォーメン シュット 150粒 燃焼系 サプリメント ダイエット ジムサプリ トレーニングサプリ みなぎるサプリ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00upha1.ve2q54b2.g00upha1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foriginentalspa-shop%2F4580092270353-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foriginentalspa-shop%2Fi%2F10000420%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/suplinx/cabinet/item74/071-00113.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
+mediaType: 'supplement'
 ---
 
 <!-- PR -->

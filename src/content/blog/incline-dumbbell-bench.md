@@ -3,7 +3,7 @@ title: 'インクラインベンチが自宅に必須な理由。胸筋上部を
 description: '自宅で本格筋トレを。折りたたみトレーニングベンチが、インクライン・ダンベル・腹筋運動を安全かつ効率的にサポートします。横揺れ防止で安定性抜群、フォームを改善し狙った筋肉を刺激。省スペース設計で6999円。快適な宅トレで、理想の身体を目指しませんか？'
 pubDate: '2026-08-06'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '■8/11迄 SALE価格■ 改良モデル トレーニングベンチ新型 3WAY 耐荷重300kg ベンチプレス台 ホームジム トレーニングマシン 折り畳み 折りたたみ 筋トレ 自宅 腹筋 コンパクト'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sc6q1.ve2q582b.g00sc6q1.ve2q647c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarketjapan%2Fbw-ajb06%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarketjapan%2Fi%2F10001933%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744544/08964855/set2.jpg?_ex=600x600'
     price: 26500
     microCopy: '詳細を見る'
+mediaType: 'dumbbell'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->

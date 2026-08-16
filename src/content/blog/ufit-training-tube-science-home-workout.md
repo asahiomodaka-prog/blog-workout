@@ -3,7 +3,7 @@ title: 'uFit Training Tubeが解剖学的に証明！自宅で「最強の身体
 description: '自宅で筋肥大を効率的に。uFit Training Tubeは解剖学的に証明された科学に基づき、最適な可動域と負荷曲線で「最強の身体」を構築。3480円で重いウェイト不要の革命的トレーニングをRakutenで始めませんか。'
 pubDate: '2026-07-09'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ufit-shop/cabinet/09979751/imgrc0103196853.jpg?_ex=600x600'
-genre: 'workout'
+genre: '宅トレギア・小物'
 sidebarProducts:
   - title: 'PROIRON レジスタンスバンド 抵抗バンド フィットネスチューブ トレーニング バンド 天然ラテックス製 トレーニングチューブ 懸垂補助 破損を防ぐために厚く'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ugv01.ve2q55ad.g00ugv01.ve2q6675/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fproiron%2Fpro-zld%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fproiron%2Fi%2F10000252%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00saul1.ve2q5b2f.g00saul1.ve2q6e15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftkms%2F138268269%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftkms%2Fi%2F10000635%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/12855415/12862747/imgrc0099549860.jpg?_ex=600x600'
     price: 1290
+mediaType: 'gear'
 ---
 
 <!-- PR -->

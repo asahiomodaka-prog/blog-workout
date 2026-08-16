@@ -3,7 +3,7 @@ title: 'なぜ今、トレーニングベンチ＋可変式ダンベルか？解
 description: '「なぜ今？」宅トレ効果を最大化するトレーニングベンチ＋可変式ダンベルのメリット・デメリットを徹底解説。科学的アプローチによる解剖学的メリット、価格・スペック、実際に使った感想まで網羅し、効率的な筋トレを実現します。'
 pubDate: '2026-07-11'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744544/08964855/set2.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【LINE200円OFFクーポン×15日はポイント10倍】グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 筋トレ ベンチプレス 手首補助 男女兼用 洗濯可能 左右セット'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00unen1.ve2q5328.g00unen1.ve2q6da2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvolix%2Fnarrowbelt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvolix%2Fi%2F10000008%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/volix/cabinet/11470098/aj2_20486.jpg?_ex=600x600'
     price: 14980
+mediaType: 'dumbbell'
 ---
 
 <!-- PR -->

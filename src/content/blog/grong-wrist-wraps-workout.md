@@ -3,7 +3,7 @@ title: 'グロング リストラップは宅トレ必須？手首の解剖学�
 description: 'グロング GronG リストラップは、ベンチプレスなど高重量の筋トレ時に手首を安定させ、怪我予防・パフォーマンス向上をサポート。耐久性2.5mm厚生地、密着性5cm面ファスナーでしっかり固定。30cm/60cmから選べ1,980円。'
 pubDate: '2026-07-26'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/07429343/cp_px15/hn4102_01_rysmn.jpg?_ex=600x600'
-genre: 'workout'
+genre: '宅トレギア・小物'
 sidebarProducts:
   - title: 'PROIRON パワーグリップ リストラップ 筋トレ グローブ 手首 リストストラップ 懸垂 グローブ グリップ パワーリスト サポーター トレーニングギア ベンチプレス クロスグリップ リストバンド マメ防止 2個入り 男女兼用'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ugv01.ve2q55ad.g00ugv01.ve2q6675/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fproiron%2Fpro-zld02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fproiron%2Fi%2F10000307%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/spg-sports/cabinet/images1283/pra-adgb12287_1.jpg?_ex=600x600'
     price: 5500
     microCopy: '詳細を見る'
+mediaType: 'gear'
 ---
 
 <!-- PR -->

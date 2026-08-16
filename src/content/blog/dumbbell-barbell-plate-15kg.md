@@ -3,7 +3,7 @@ title: 'ダンベル プレート バーベル 15kgを自宅に導入すべき�
 description: '宅トレの伸び悩みを打破。ダンベル プレート バーベル 15kgで、既存ダンベルやバーベルの負荷を簡単にUP！筋力・筋量アップへ導く高負荷トレーニングを実現します。楽天で6,980円と手頃な価格で、あなたの筋トレを加速。'
 pubDate: '2026-08-12'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/farson/cabinet/10310220/12337948/imgrc0136703517.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '■大手24時間ジムも導入■バーベルプレート 1.25kg/2.5kg/5kg/10kg/15kg/20kg/25kg ラバープレート シャフト直径50mm フルラバーカバー オリンピックバーベル対応 単体使用可 頑丈 筋トレ ウェイトリフティング ラバー製 オールラバー パワーリフティング 重り'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00up8x1.ve2q5d5b.g00up8x1.ve2q65c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitness-item-center%2Fvbp0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitness-item-center%2Fi%2F10000044%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600'
     price: 1430
     microCopy: '詳細を見る'
+mediaType: 'dumbbell'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -71,7 +72,7 @@ sidebarProducts:
 
 最後に、宅トレで高重量を扱う上で避けて通れないのが、床への衝撃と騒音問題です。この点は多くの宅トレ愛好家が悩む部分でしょう。しかし、公式説明にもあるように「ダンベルマット（2枚セット）」を併用することで、かなり改善されます。厚手の高密度ゴムマットを敷き詰めることで、プレートを床に置く際の「ガシャン」という金属音も、マットが衝撃を吸収してくれるため、賃貸マンションなどでも気兼ねなくトレーニングできるようになります。
 
-![ダンベル プレート バーベル 15kg](https://thumbnail.image.rakuten.co.jp/@0_mall/farson/cabinet/10310220/12337948/imgrc0136703517.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/farson/cabinet/10310220/12337948/imgrc0136703517.jpg?_ex=600x600" alt="ダンベル プレート バーベル 15kg" loading="lazy" decoding="async" />
 
 ## 実際の声が語る信頼性：ユーザータイプ別に見るプレートの価値
 

@@ -3,7 +3,7 @@ title: 'ぶら下がり健康器 懸垂マシン！自宅で全身を鍛える�
 description: 'ぶら下がり健康器・懸垂マシン・ベンチプレスラックが1台に。高さ210cm・耐荷重180kgで本格筋トレを自宅で実現。懸垂、ベンチプレス、スクワットなど全身を効率よく鍛えたい方に。11,550円でコスパも抜群。'
 pubDate: '2026-07-23'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/smile88/cabinet/master/1st/a18243.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【楽天1位】ぶら下がり健康器 懸垂マシン ベンチプレスラック バーベルスタンド 高さ210cm 耐荷重180kg ラック耐荷重120kg チンニング マシン ダンベル バーベル トレーニング 筋トレ 懸垂 腹筋 器具 チンニングバー ストレッチ 1年保証 ★[送料無料]'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060272%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/d/de025.jpg?_ex=600x600'
     price: 12579
     microCopy: '詳細を見る'
+mediaType: 'dumbbell'
 ---
 
 <!-- PR -->

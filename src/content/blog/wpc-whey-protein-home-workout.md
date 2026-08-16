@@ -3,7 +3,7 @@ title: 'WPC 100%ナチュラルホエイプロテインは宅トレに必須か�
 description: 'ふるさと納税でも人気のWPC 100%ナチュラルホエイプロテイン。解剖学から筋肉合成を科学的に検証し、効率的な筋肥大メカニズムと宅トレ効果を最大化する摂取戦略を解説。'
 pubDate: '2026-07-12'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f092088-oyama/cabinet/1425745mt_lp_01.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'プロテイン'
 sidebarProducts:
   - title: 'プロテイン WPC エクスプロージョン 3kg ミルクチョコレート味 ホエイプロテイン 3キロ 最安値 大容量 筋肉 タンパク質 高たんぱく 運動 ダイエット 置き換え 男性 女性 子供 こども'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000023%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblco%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10000903%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/realstyle4u/cabinet/shouhin/blco_line.jpg?_ex=600x600'
     price: 11598
+mediaType: 'protein'
 ---
 
 <!-- PR -->

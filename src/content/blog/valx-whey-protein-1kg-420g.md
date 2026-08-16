@@ -3,7 +3,7 @@ title: 'VALX ホエイ プロテイン 1kg/420gで「筋肉分解抑制」！宅
 description: 'VALX ホエイ プロテインは、高品質なホエイを77%配合したプロテイン。チョコレート・カフェオレなど豊富な味から選べ、宅トレで結果を出したい方の効率的な筋肉成長をサポート。自宅でのタンパク質補給に最適です。楽天で価格20,000円。'
 pubDate: '2026-08-03'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/imgrc0143178817.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'プロテイン'
 sidebarProducts:
   - title: 'プロテイン WPC エクスプロージョン 3kg ミルクチョコレート味 ホエイプロテイン 3キロ 最安値 大容量 筋肉 タンパク質 高たんぱく 運動 ダイエット 置き換え 男性 女性 子供 こども'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000023%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/5/4902777302102.jpg?_ex=600x600'
     price: 5180
     microCopy: '詳細を見る'
+mediaType: 'protein'
 ---
 
 <!-- PR -->

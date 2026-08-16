@@ -1,0 +1,277 @@
+---
+interface ProductItem {
+	title: string;
+	url: string;
+	imageUrl?: string;
+	price?: number;
+	rating?: number;
+	badge?: string; // 例: "おすすめ1位", "コスパ最強", "プロ仕様"
+	features?: string[]; // 特徴・スペック3つ
+	targetUser?: string; // 例: "初心者〜中級者・省スペース重視"
+}
+
+interface Props {
+	title?: string;
+	products: ProductItem[];
+}
+
+const { title = "主要器具・サプリメント 徹底スペック比較", products } = Astro.props;
+---
+
+{products && products.length > 0 && (
+	<section class="comparison-table-wrapper">
+		<h3 class="comparison-title">{title}</h3>
+		<div class="table-scroll-container">
+			<table class="comparison-table">
+				<thead>
+					<tr>
+						<th class="th-header">器具/商品</th>
+						{products.map((p, idx) => (
+							<th class={`th-product ${idx === 0 ? 'highlight-col' : ''}`}>
+								{p.badge && <span class="prod-badge">{p.badge}</span>}
+								<div class="th-prod-name">{p.title}</div>
+							</th>
+						))}
+					</tr>
+				</thead>
+				<tbody>
+					<!-- 画像行 -->
+					<tr>
+						<td class="td-label">外観</td>
+						{products.map((p, idx) => (
+							<td class={`td-cell ${idx === 0 ? 'highlight-col' : ''}`}>
+								{p.imageUrl ? (
+									<a href={p.url} target="_blank" rel="nofollow noopener noreferrer" class="img-link">
+										<img src={p.imageUrl} alt={p.title} class="prod-thumb" loading="lazy" />
+									</a>
+								) : (
+									<div class="no-img">NO IMAGE</div>
+								)}
+							</td>
+						))}
+					</tr>
+					<!-- 価格行 -->
+					<tr>
+						<td class="td-label">参考価格</td>
+						{products.map((p, idx) => (
+							<td class={`td-cell price-cell ${idx === 0 ? 'highlight-col' : ''}`}>
+								{p.price ? (
+									<span class="price-val">{p.price.toLocaleString()}円</span>
+								) : (
+									<span>詳細確認</span>
+								)}
+							</td>
+						))}
+					</tr>
+					<!-- 評価行 -->
+					<tr>
+						<td class="td-label">おすすめ度</td>
+						{products.map((p, idx) => {
+							const stars = p.rating || 4.5;
+							return (
+								<td class={`td-cell ${idx === 0 ? 'highlight-col' : ''}`}>
+									<div class="star-rating">
+										<span class="stars">{'★'.repeat(Math.floor(stars))}</span>
+										<span class="score">{stars.toFixed(1)}</span>
+									</div>
+								</td>
+							);
+						})}
+					</tr>
+					<!-- 主な特徴 -->
+					{products.some(p => p.features && p.features.length > 0) && (
+						<tr>
+							<td class="td-label">主な特徴</td>
+							{products.map((p, idx) => (
+								<td class={`td-cell text-left-cell ${idx === 0 ? 'highlight-col' : ''}`}>
+									{p.features && (
+										<ul class="feature-bullets">
+											{p.features.map(f => <li>{f}</li>)}
+										</ul>
+									)}
+								</td>
+							))}
+						</tr>
+					)}
+					<!-- こんな人におすすめ -->
+					{products.some(p => p.targetUser) && (
+						<tr>
+							<td class="td-label">向いている人</td>
+							{products.map((p, idx) => (
+								<td class={`td-cell target-cell ${idx === 0 ? 'highlight-col' : ''}`}>
+									{p.targetUser && <p>{p.targetUser}</p>}
+								</td>
+							))}
+						</tr>
+					)}
+					<!-- 公式・販売ボタン -->
+					<tr>
+						<td class="td-label">詳細リンク</td>
+						{products.map((p, idx) => (
+							<td class={`td-cell action-cell ${idx === 0 ? 'highlight-col' : ''}`}>
+								<a href={p.url} target="_blank" rel="nofollow noopener noreferrer" class="btn-compare-cta">
+									詳細・購入 ➔
+								</a>
+							</td>
+						))}
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</section>
+)}
+
+<style>
+	.comparison-table-wrapper {
+		margin: 3rem 0;
+		padding: 1.5rem;
+		background: #ffffff;
+		border: 1px solid #e2e8f0;
+		border-radius: 16px;
+		box-shadow: 0 4px 20px -4px rgba(15, 23, 42, 0.04);
+	}
+	.comparison-title {
+		font-size: 1.25rem;
+		font-weight: 800;
+		color: #0f172a;
+		margin-bottom: 1.25rem;
+		position: relative;
+		padding-left: 0.85rem;
+		letter-spacing: -0.01em;
+	}
+	.comparison-title::before {
+		content: "";
+		position: absolute;
+		left: 0;
+		top: 0.2rem;
+		bottom: 0.2rem;
+		width: 4px;
+		background: var(--accent);
+		border-radius: 2px;
+	}
+	.table-scroll-container {
+		width: 100%;
+		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
+	}
+	.comparison-table {
+		width: 100%;
+		min-width: 580px;
+		border-collapse: separate;
+		border-spacing: 0;
+		text-align: center;
+		font-size: 0.9rem;
+	}
+	.comparison-table th,
+	.comparison-table td {
+		padding: 1rem 0.75rem;
+		border-bottom: 1px solid #f1f5f9;
+		vertical-align: middle;
+	}
+	.th-header {
+		width: 120px;
+		background: #f8fafc;
+		font-weight: 700;
+		color: #475569;
+		border-top-left-radius: 12px;
+	}
+	.th-product {
+		background: #f8fafc;
+		font-weight: 700;
+		color: #1e293b;
+		position: relative;
+	}
+	.highlight-col {
+		background-color: rgba(var(--accent-rgb, 234, 88, 12), 0.04) !important;
+	}
+	.prod-badge {
+		display: inline-block;
+		background: var(--accent);
+		color: #ffffff;
+		font-size: 0.72rem;
+		font-weight: 800;
+		padding: 0.2rem 0.6rem;
+		border-radius: 9999px;
+		margin-bottom: 0.4rem;
+	}
+	.th-prod-name {
+		font-size: 0.88rem;
+		line-height: 1.4;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+	.td-label {
+		background: #f8fafc;
+		font-weight: 700;
+		color: #64748b;
+		font-size: 0.82rem;
+	}
+	.img-link {
+		display: block;
+		margin: 0 auto;
+		width: 90px;
+		height: 90px;
+	}
+	.prod-thumb {
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+		border-radius: 8px;
+	}
+	.price-val {
+		font-size: 1.05rem;
+		font-weight: 800;
+		color: #dc2626;
+	}
+	.star-rating {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		gap: 0.35rem;
+	}
+	.stars {
+		color: #f59e0b;
+		font-size: 1rem;
+		letter-spacing: -2px;
+	}
+	.score {
+		font-weight: 800;
+		color: #1e293b;
+		font-size: 0.88rem;
+	}
+	.feature-bullets {
+		padding-left: 1.1rem;
+		margin: 0;
+		text-align: left;
+		font-size: 0.82rem;
+		color: #334155;
+		line-height: 1.5;
+	}
+	.target-cell {
+		font-size: 0.82rem;
+		color: #475569;
+		line-height: 1.5;
+	}
+	.target-cell p {
+		margin: 0;
+	}
+	.btn-compare-cta {
+		display: inline-block;
+		background: var(--accent);
+		color: #ffffff !important;
+		font-size: 0.82rem;
+		font-weight: 800;
+		padding: 0.55rem 1rem;
+		border-radius: 8px;
+		text-decoration: none !important;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+		transition: all 0.2s ease;
+		white-space: nowrap;
+	}
+	.btn-compare-cta:hover {
+		opacity: 0.9;
+		transform: translateY(-2px);
+	}
+</style>

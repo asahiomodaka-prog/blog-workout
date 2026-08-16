@@ -3,7 +3,7 @@ title: '10mm/15mm「幅広ヨガマット」を自宅トレに導入すべき理
 description: '自宅トレで筋肥大を最大化したい方へ。10mm 15mm幅広ヨガマットが解剖学的安定と筋効率を向上させます。床の硬さを解決し、科学的根拠に基づき可動域を確保。たった1599円で、あなたの宅トレが劇的に変わる理由を解説。'
 pubDate: '2026-07-06'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/weiwei/cabinet/shouhin-image02/yogam1.jpg?_ex=600x600'
-genre: 'workout'
+genre: '宅トレギア・小物'
 sidebarProducts:
   - title: '【楽天1位】バーベル 用 プレート 穴あき 20kg 2個セット 追加 ダンベルプレート バーベルプレート バーベルシャフト ダンベル 筋トレ 胸筋 背筋 腕 背中 上半身 筋肉 トレーニング 重り 交換 パーツ オプション 穴あきプレート 計40kg 1年保証 ★[送料無料]'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa15200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10059726%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Fib120%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000991%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511621/1x1_ib120.jpg?_ex=600x600'
     price: 45320
+mediaType: 'gear'
 ---
 
 <!-- PR -->

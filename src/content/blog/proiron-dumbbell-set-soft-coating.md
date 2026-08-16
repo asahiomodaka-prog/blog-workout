@@ -3,7 +3,7 @@ title: 'PROIRONダンベルを宅トレで使う科学的理由！選ぶべき�
 description: 'PROIRONダンベルは1599円から。1kg～10kgの豊富な重量で初心者も安心。ソフトコーティング加工と転がりにくいフラットデザインで、宅トレでの使いやすさ、安全性を追求したダンベルセットのメリット・デメリットを解説します。'
 pubDate: '2026-08-01'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/10463052/imgrc0174219935.jpg?_ex=600x600'
-genre: 'workout'
+genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【★5レビュー2,000件超の高評価 】ダンベル 可変式ダンベル 24kg 筋トレ ダンベル可変式 アジャスタブルダンベル 鉄アレ 自宅トレーニング'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/weiwei/cabinet/shouhin-image03/bda01.jpg?_ex=600x600'
     price: 1480
     microCopy: '詳細を見る'
+mediaType: 'dumbbell'
 ---
 
 :::note
