@@ -37,6 +37,37 @@ mediaType: 'gear'
 
 [朝日ゴルフ用品 ごるトレ ジェリーロープ Jelly Rope GT-1402 トレーニンググッズ](https://hb.afl.rakuten.co.jp/hgc/g00q46i1.ve2q5e0c.g00q46i1.ve2q6076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnankai-golf%2Fgt1402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi%2F10015837%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/nankai-golf/cabinet/01653182/asahi/gt1402s-main.jpg?_ex=600x600" alt="ごるとれジェリーロープGT-1402効果検証。自宅ストレッチと解剖学的アプローチ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ごるとれジェリーロープGT-1402効果検証。自宅ストレッチと解剖学的アプローチ
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>「ごるトレ ジェリーロープ GT-1402」は、TPR素材のしなりで繊細な筋肉コントロールを可能にするトレーニンググッズ。1650円で手軽に始められ、ゴルフの飛距離アップやボディメイクに役立ちます。隙間時間の有効活用に最適。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2594%25E3%2582%258B%25E3%2581%25A8%25E3%2582%258C%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2597GT-1402%25E5%258A%25B9%25E6%259E%259C%25E6%25A4%259C%25E8%25A8%25BC%25E3%2580%2582%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2581%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2594%25E3%2582%258B%25E3%2581%25A8%25E3%2582%258C%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2597GT-1402%25E5%258A%25B9%25E6%259E%259C%25E6%25A4%259C%25E8%25A8%25BC%25E3%2580%2582%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2581%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## ゴムのしなりが導く、繊細な筋肉コントロール
 
 「ごるトレ ジェリーロープ」は、一見するとシンプルなゴムチューブに見えますが、その核心はTPR（熱可塑性ゴム）という素材がもたらす独特の「しなり」と「弾性」にあります。
@@ -114,6 +145,37 @@ mediaType: 'gear'
 高重量トレーニングを追求する方は、いずれフリーウェイトの導入も検討する必要があるでしょう。
 しかし、ジェリーロープは、その前段階としての基礎作りや、フリーウェイトトレーニングとの併用（ウォーミングアップ、フォーム固め、補助種目、最後の追い込みなど）としても非常に有効な選択肢となります。
 目的に合わせて上手に使い分けることが、効果的なトレーニングへの近道です。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/nankai-golf/cabinet/01653182/asahi/gt1402s-main.jpg?_ex=600x600" alt="ごるとれジェリーロープGT-1402効果検証。自宅ストレッチと解剖学的アプローチ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ごるとれジェリーロープGT-1402効果検証。自宅ストレッチと解剖学的アプローチ
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>「ごるトレ ジェリーロープ GT-1402」は、TPR素材のしなりで繊細な筋肉コントロールを可能にするトレーニンググッズ。1650円で手軽に始められ、ゴルフの飛距離アップやボディメイクに役立ちます。隙間時間の有効活用に最適。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2594%25E3%2582%258B%25E3%2581%25A8%25E3%2582%258C%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2597GT-1402%25E5%258A%25B9%25E6%259E%259C%25E6%25A4%259C%25E8%25A8%25BC%25E3%2580%2582%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2581%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2594%25E3%2582%258B%25E3%2581%25A8%25E3%2582%258C%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2597GT-1402%25E5%258A%25B9%25E6%259E%259C%25E6%25A4%259C%25E8%25A8%25BC%25E3%2580%2582%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2581%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 小さな投資で叶える、継続できるトレーニング習慣
 

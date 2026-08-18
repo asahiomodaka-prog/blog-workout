@@ -138,3 +138,34 @@ IKERU楽天市場店さんの[トレーニングベンチ インクラインベ�
 トレーニングベンチは、単なる筋トレ器具を超え、あなたの身体のポテンシャルを最大限に引き出すための「基盤」を築きます。安定した土台の上で、多角的な角度から筋肉にアプローチできるこのベンチは、限られた空間と時間の中で最大の効果を得るための、合理的な投資と言えます。
 
 わずか6,999円という価格で、「いつでも、どこでも、質の高いトレーニングができる環境」が手に入るのは、一時的な出費ではなく、ご自身の健康と、理想とする身体づくりへの長期的な投資に繋がるはずです。ジムに通うコストや時間を気にすることなく、自分のペースで、着実に目標へ向かう。その第一歩として、この折りたたみインクラインベンチの導入を検討してみてはいかがでしょうか。あなたの宅トレライフが、より充実したものになる可能性を秘めています。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600" alt="インクラインベンチが自宅に必須な理由。胸筋上部を”効かせる”解剖学" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                インクラインベンチが自宅に必須な理由。胸筋上部を”効かせる”解剖学
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>自宅で本格筋トレを。折りたたみトレーニングベンチが、インクライン・ダンベル・腹筋運動を安全かつ効率的にサポートします。横揺れ防止で安定性抜群、フォームを改善し狙った筋肉を刺激。省スペース設計で6999円。快適な宅トレで、理想の身体を目指しま</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2581%258C%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AB%25E5%25BF%2585%25E9%25A0%2588%25E3%2581%25AA%25E7%2590%2586%25E7%2594%25B1%25E3%2580%2582%25E8%2583%25B8%25E7%25AD%258B%25E4%25B8%258A%25E9%2583%25A8%25E3%2582%2592%25E2%2580%259D%25E5%258A%25B9%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25E2%2580%259D%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00sc6q1.ve2q582b.g00sc6q1.ve2q647c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarketjapan%2Fbw-ajb06%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarketjapan%2Fi%2F10001933%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2581%258C%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AB%25E5%25BF%2585%25E9%25A0%2588%25E3%2581%25AA%25E7%2590%2586%25E7%2594%25B1%25E3%2580%2582%25E8%2583%25B8%25E7%25AD%258B%25E4%25B8%258A%25E9%2583%25A8%25E3%2582%2592%25E2%2580%259D%25E5%258A%25B9%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25E2%2580%259D%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+

@@ -25,6 +25,37 @@ mediaType: 'dumbbell'
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/md/md-24-40_tum_1.jpg?_ex=600x600" alt="可変式ダンベルは自宅ジムの最適解か？解剖学から導く導入メリット" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                可変式ダンベルは自宅ジムの最適解か？解剖学から導く導入メリット
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>Motions可変式ダンベルPRO/従来モデルは、自宅筋トレに最適な24kg/40kg対応。片手で瞬時重量変更でき、省スペースで本格的なホームジムを実現。楽天で9,750円から購入可能。効率的なトレーニングで理想の身体へ。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2581%25AF%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B8%25E3%2583%25A0%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E3%2581%258B%25E3%2582%2589%25E5%25B0%258E%25E3%2581%258F%25E5%25B0%258E%25E5%2585%25A5%25E3%2583%25A1%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2581%25AF%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B8%25E3%2583%25A0%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E3%2581%258B%25E3%2582%2589%25E5%25B0%258E%25E3%2581%258F%25E5%25B0%258E%25E5%2585%25A5%25E3%2583%25A1%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 限られたスペースで理想を追求：可変式ダンベルが宅トレにもたらす革新
 
 自宅で本格的なトレーニングに取り組みたいと考えていても、「スペースの制約」や「ジムに通う時間の確保」に課題を感じている方は少なくありません。Motions可変式ダンベル、特に新登場のPROモデルは、これらの悩みを解決し、自宅でのボディメイクを強力にサポートする選択肢となるでしょう。片手で瞬時に重量変更が可能な画期的な機構は、トレーニング効率を高め、省スペースで多段階の負荷調整を可能にします。初心者から上級者まで、個々のレベルに応じた効果的なトレーニングを自宅で実現できるよう設計されています。
@@ -133,6 +164,37 @@ Motions可変式ダンベルは非常に優れたトレーニング器具です�
 | :--- | :--- |
 | 販売ショップ | Motions Official Store |
 | レビュー評価 | 4.7 (798件) |
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/md/md-24-40_tum_1.jpg?_ex=600x600" alt="可変式ダンベルは自宅ジムの最適解か？解剖学から導く導入メリット" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                可変式ダンベルは自宅ジムの最適解か？解剖学から導く導入メリット
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>Motions可変式ダンベルPRO/従来モデルは、自宅筋トレに最適な24kg/40kg対応。片手で瞬時重量変更でき、省スペースで本格的なホームジムを実現。楽天で9,750円から購入可能。効率的なトレーニングで理想の身体へ。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2581%25AF%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B8%25E3%2583%25A0%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E3%2581%258B%25E3%2582%2589%25E5%25B0%258E%25E3%2581%258F%25E5%25B0%258E%25E5%2585%25A5%25E3%2583%25A1%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2581%25AF%25E8%2587%25AA%25E5%25AE%2585%25E3%2582%25B8%25E3%2583%25A0%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E3%2581%258B%25E3%2582%2589%25E5%25B0%258E%25E3%2581%258F%25E5%25B0%258E%25E5%2585%25A5%25E3%2583%25A1%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 自宅でのトレーニングを、未来への合理的な投資に
 

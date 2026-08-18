@@ -32,6 +32,37 @@ mediaType: 'dumbbell'
 
 もし、トレーニング器具がもっと身近で、自然と手に取りたくなるような存在だったら、毎日の運動習慣はもっと楽になるはずです。今回は、そんな宅トレの「続けにくさ」を解消してくれるかもしれない、ミズノのダンベルボール「ボルレッチ ディズニー」をご紹介します。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/7/76/7666/7666-0004-1.jpg?_ex=600x600" alt="ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>ミズノのダンベルボール「ボルレッチ ディズニー」は、可愛いデザインと柔らかな触り心地で宅トレをサポート。リビングに置いても馴染むインテリア性で、二の腕や肩の引き締め運動が手軽に続けられます。持ち運びに便利な袋付きで4183円。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259F%25E3%2582%25BA%25E3%2583%258E%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AF%25E3%2580%258C%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2580%258D%25EF%25BC%259F%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00q46i1.ve2q5e0c.g00q46i1.ve2q6076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnankai-golf%2Fgt1402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnankai-golf%2Fi%2F10015837%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259F%25E3%2582%25BA%25E3%2583%258E%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AF%25E3%2580%258C%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2580%258D%25EF%25BC%259F%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 自然と手に取りたくなるデザインが拓く、新しい宅トレ習慣
 
 [ミズノ トレーニンググッズ メンズ レディース ダンベルボール](https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
@@ -86,6 +117,37 @@ mediaType: 'dumbbell'
 | 素材 | 生地：ポリエステル、ポリウレタン中綿：ポリエステルおもり：ガラスビーズ |
 | 重量 | 1個 約 500g |
 | 採寸単位(cm) | 縦43.5 横30 マチ(最大値)13.5 取出し口30 持ち手53 付属袋1313 |
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/7/76/7666/7666-0004-1.jpg?_ex=600x600" alt="ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>ミズノのダンベルボール「ボルレッチ ディズニー」は、可愛いデザインと柔らかな触り心地で宅トレをサポート。リビングに置いても馴染むインテリア性で、二の腕や肩の引き締め運動が手軽に続けられます。持ち運びに便利な袋付きで4183円。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259F%25E3%2582%25BA%25E3%2583%258E%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AF%25E3%2580%258C%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2580%258D%25EF%25BC%259F%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00q46i1.ve2q5e0c.g00q46i1.ve2q6076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnankai-golf%2Fgt1402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnankai-golf%2Fi%2F10015837%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259F%25E3%2582%25BA%25E3%2583%258E%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AF%25E3%2580%258C%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2580%258D%25EF%25BC%259F%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 「運動習慣」への投資として、ボルレッチ ディズニーが提供する価値
 
