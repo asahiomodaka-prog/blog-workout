@@ -5,10 +5,9 @@ pubDate: '2026-07-30'
 heroImage: '/images/mizuno-dumbbell-ball-workout.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
-  - title: '朝日ゴルフ用品 ごるトレ ジェリーロープ Jelly Rope GT-1402 トレーニンググッズ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q46i1.ve2q5e0c.g00q46i1.ve2q6076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnankai-golf%2Fgt1402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnankai-golf%2Fi%2F10015837%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/nankai-golf/cabinet/01653182/asahi/gt1402s-main.jpg?_ex=600x600'
-    price: 1650
+  - title: 'ミズノ ダンベルボールは 宅トレ効果を'
+    url: ''
+    imageUrl: '/images/mizuno-dumbbell-ball-workout.jpg'
     microCopy: '詳細を見る'
   - title: '座って安心ワンツーステッパー ながらトレーニング ステッパー 下半身 エクササイズ ステップマシン 足踏み運動 クッション おしゃれ トレーニンググッズ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qzlt1.ve2q5828.g00qzlt1.ve2q6231/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foutlet-f%2Fa33923%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foutlet-f%2Fi%2F10016654%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -39,7 +38,7 @@ mediaType: 'dumbbell'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/nankai-golf/cabinet/01653182/asahi/gt1402s-main.jpg?_ex=600x600" alt="ミズノ ダンベルボールは 宅トレ効果を" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/mizuno-dumbbell-ball-workout.jpg" alt="ミズノ ダンベルボールは 宅トレ効果を" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

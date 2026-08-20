@@ -5,10 +5,9 @@ pubDate: '2026-07-24'
 heroImage: '/images/abs-roller-push-up-bar-fitness-kit.jpg'
 genre: '宅トレギア・小物'
 sidebarProducts:
-  - title: '【楽天ランキング三冠受賞】腹筋ローラー SOOMLOOM 正規品 腹筋 アブローラー トレーニング ダイエット 器具 筋トレ 腹筋トレーニング 超静音 膝マット付き ボディビル 静か ダイエット マシン エクササイズ 初心者 おすすめ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00rdev1.ve2q53f3.g00rdev1.ve2q67e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyiprefer%2Ftra-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyiprefer%2Fi%2F10001541%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/yiprefer/cabinet/tra/tra-001_1.jpg?_ex=600x600'
-    price: 1350
+  - title: '腹筋ローラー＆プッシュアップバー'
+    url: ''
+    imageUrl: '/images/abs-roller-push-up-bar-fitness-kit.jpg'
     microCopy: '詳細を見る'
   - title: '＼4,480円→3,999円＋300円OFF／◆1位獲得 MERACH 腹筋ローラー Pro 第三世代 超大画面スクリーン 膝マット付き アブローラー アシスト機能 自動リバウンド type-C充電 腹筋マシン 腹筋ローラー 第二世代 デジタルメーター 腹周り 胸筋 背 筋力 トレーニング 初心者'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -39,7 +38,7 @@ mediaType: 'gear'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yiprefer/cabinet/tra/tra-001_1.jpg?_ex=600x600" alt="腹筋ローラー＆プッシュアップバー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/abs-roller-push-up-bar-fitness-kit.jpg" alt="腹筋ローラー＆プッシュアップバー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

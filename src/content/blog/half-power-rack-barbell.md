@@ -5,10 +5,9 @@ pubDate: '2026-08-13'
 heroImage: '/images/half-power-rack-barbell.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
-  - title: '【8/13-8/16はポイントアップ】IROTEC（アイロテック）マスキュラーセットR140 / パワーラック パワーケージ スミスマシン 懸垂マシン インクラインベンチ バーベル ダンベル トレーニング器具 ベンチプレス トレーニングマシン 筋トレ ホームジム ラットプルマシン'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000117%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511633/1x1_mus-140rm.jpg?_ex=600x600'
-    price: 166430
+  - title: 'ハーフラックで宅トレ'
+    url: ''
+    imageUrl: '/images/half-power-rack-barbell.jpg'
     microCopy: '詳細を見る'
   - title: 'IROTEC（アイロテック）フィットネスマット/ダンベル トレーニング器具 ホームジム 懸垂マシン パワーラック スミスマシン ルームランナー ランニングマシン フィットネスバイク ヒップスラスト ジョイントマット ベンチプレス ケトルベル トレーニングマット 筋トレ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Ffm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000596%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -39,7 +38,7 @@ mediaType: 'dumbbell'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511633/1x1_mus-140rm.jpg?_ex=600x600" alt="ハーフラックで宅トレ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/half-power-rack-barbell.jpg" alt="ハーフラックで宅トレ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
