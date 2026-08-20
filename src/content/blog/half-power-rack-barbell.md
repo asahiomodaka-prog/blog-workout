@@ -34,30 +34,16 @@ mediaType: 'dumbbell'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A7%E5%AE%85%E3%83%88%E3%83%AC" alt="ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%258F%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%258F%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%258F%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/half-power-rack-barbell-body-1.png" alt="half-power-rack-barbell" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%258F%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -76,7 +62,7 @@ mediaType: 'dumbbell'
 
 フレームの厚みが2倍に改良され、耐荷重もマルチ懸垂バー200kg、バーベルラック250kg、セーフティーバー350kgと高く設定されています。この頑丈さは単なる数字以上の意味を持ちます。高重量を扱う際のわずかなグラつきは、集中力を削ぐだけでなく、怪我のリスクを増大させる要因となります。本製品の堅牢なフレームは、例えば100kgを超えるベンチプレスを行う際にも、不安な音や揺れを抑制し、まるでジムのプロ仕様ラックを使っているかのような安心感を提供します。これにより、トレーニングに完全に没頭し、本来の筋力を引き出すことが可能となるでしょう。安全な環境は、筋肉への挑戦を可能にし、停滞期を乗り越えるための重要な要素と言えます。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/imgrc0093097450.jpg?_ex=600x600" alt="ハーフラック パワーラック バーベルトレーニング バーベルスタンド" loading="lazy" decoding="async" />
+<img src="/images/half-power-rack-barbell-body-2.jpg" alt="half-power-rack-barbell" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 費用と空間を最適化するホームジム設計
 
@@ -177,30 +163,16 @@ mediaType: 'dumbbell'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A7%E5%AE%85%E3%83%88%E3%83%AC" alt="ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%258F%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%258F%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%258F%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/half-power-rack-barbell-body-1.png" alt="half-power-rack-barbell" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%258F%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25A8%25E9%25AB%2598%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

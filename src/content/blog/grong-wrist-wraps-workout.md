@@ -24,9 +24,7 @@ mediaType: 'gear'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅での筋力トレーニングで、手首の不安定さが原因で「あと少しだけ重さを上げたい」「もう数回追い込みたい」といった限界を感じた経験はありませんか？　特にベンチプレスやショルダープレスのようなプッシュ系の種目では、高重量を扱うほど手首に大きな負担がかかり、グラつきが生じてパフォーマンスが低下したり、最悪の場合は怪我につながるリスクもあります。
 
@@ -39,30 +37,16 @@ mediaType: 'gear'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%20%E3%83%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83" alt="グロング リストラップは宅トレ必須？手首の解剖学的安定と筋出力を検証！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                グロング リストラップは宅トレ必須？手首の解剖学的安定と筋出力を検証！
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%25BF%2585%25E9%25A0%2588%25EF%25BC%259F%25E6%2589%258B%25E9%25A6%2596%25E3%2581%25AE%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A8%25E7%25AD%258B%25E5%2587%25BA%25E5%258A%259B%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%25BF%2585%25E9%25A0%2588%25EF%25BC%259F%25E6%2589%258B%25E9%25A6%2596%25E3%2581%25AE%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A8%25E7%25AD%258B%25E5%2587%25BA%25E5%258A%259B%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%25BF%2585%25E9%25A0%2588%25EF%25BC%259F%25E6%2589%258B%25E9%25A6%2596%25E3%2581%25AE%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A8%25E7%25AD%258B%25E5%2587%25BA%25E5%258A%259B%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/grong-wrist-wraps-workout-body-1.png" alt="grong-wrist-wraps-workout" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">グロング リストラップは宅トレ必須？手首の解剖学的安定と筋出力を検証！</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%25BF%2585%25E9%25A0%2588%25EF%25BC%259F%25E6%2589%258B%25E9%25A6%2596%25E3%2581%25AE%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A8%25E7%25AD%258B%25E5%2587%25BA%25E5%258A%259B%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -82,7 +66,7 @@ mediaType: 'gear'
 
 伸縮性のあるコンプレッションベルトと粘着力にこだわった幅5cmの面ファスナーは、トレーニング中に手首のブレを軽減し、手首と一体化したかのような密着感を生み出します。この密着感により、ベンチプレスやショルダープレスはもちろん、ディップスやスクワットといった全身運動においても、手首の不要な動きが抑えられ、動作の安定性が格段に向上します。結果として、より安全に、そして質の高いトレーニングが可能になるのです。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/07429343/cp_px15/hn4102_01_rysmn.jpg?_ex=600x600" alt="グロング GronG リストラップ 選べる2サイズ(30cm 60cm)" />
+<img src="/images/grong-wrist-wraps-workout-body-2.jpg" alt="grong-wrist-wraps-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 宅トレの質を高める賢い投資
 
@@ -104,7 +88,7 @@ mediaType: 'gear'
 
 このリストラップは、特にベンチプレスやショルダープレス、ディップスなど、手首に直接的な負荷がかかるプッシュ系の種目との相性が抜群です。手首を保護し、トレーニングを安全に継続することは、目標達成への近道となるでしょう。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/07429343/cp_px15/hn4102_01_rysmn.jpg?_ex=600x600" alt="グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 画像" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/grong-wrist-wraps-workout-body-3.jpg" alt="grong-wrist-wraps-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -152,30 +136,16 @@ mediaType: 'gear'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%B0%E3%83%AD%E3%83%B3%E3%82%B0%20%E3%83%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83" alt="グロング リストラップは宅トレ必須？手首の解剖学的安定と筋出力を検証！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                グロング リストラップは宅トレ必須？手首の解剖学的安定と筋出力を検証！
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%25BF%2585%25E9%25A0%2588%25EF%25BC%259F%25E6%2589%258B%25E9%25A6%2596%25E3%2581%25AE%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A8%25E7%25AD%258B%25E5%2587%25BA%25E5%258A%259B%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%25BF%2585%25E9%25A0%2588%25EF%25BC%259F%25E6%2589%258B%25E9%25A6%2596%25E3%2581%25AE%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A8%25E7%25AD%258B%25E5%2587%25BA%25E5%258A%259B%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%25BF%2585%25E9%25A0%2588%25EF%25BC%259F%25E6%2589%258B%25E9%25A6%2596%25E3%2581%25AE%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A8%25E7%25AD%258B%25E5%2587%25BA%25E5%258A%259B%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/grong-wrist-wraps-workout-body-1.png" alt="grong-wrist-wraps-workout" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">グロング リストラップは宅トレ必須？手首の解剖学的安定と筋出力を検証！</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%25BF%2585%25E9%25A0%2588%25EF%25BC%259F%25E6%2589%258B%25E9%25A6%2596%25E3%2581%25AE%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A8%25E7%25AD%258B%25E5%2587%25BA%25E5%258A%259B%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

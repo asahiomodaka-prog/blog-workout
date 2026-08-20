@@ -23,9 +23,7 @@ sidebarProducts:
 mediaType: 'gear'
 ---
 
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「お腹周りの脂肪が気になる」「薄着になる季節に向けて、そろそろ腹筋を鍛えたい」。そう思っていても、ジムに通う時間や費用、自宅での筋トレ器具のスペース問題、そして何より腰への負担や正しいフォームの不安から、なかなか一歩を踏み出せない方は多いのではないでしょうか。
 
@@ -40,30 +38,16 @@ mediaType: 'gear'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=MERACH%E3%81%A7%E5%A4%89%E3%82%8F%E3%82%8B" alt="MERACHで変わる宅トレの新常識！科学的アプローチで狙った筋肉を効率強化！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                MERACHで変わる宅トレの新常識！科学的アプローチで狙った筋肉を効率強化！
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMERACH%25E3%2581%25A7%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%2596%25B0%25E5%25B8%25B8%25E8%25AD%2598%25EF%25BC%2581%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2581%25A7%25E7%258B%2599%25E3%2581%25A3%25E3%2581%259F%25E7%25AD%258B%25E8%2582%2589%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%25BC%25B7%25E5%258C%2596%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMERACH%25E3%2581%25A7%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%2596%25B0%25E5%25B8%25B8%25E8%25AD%2598%25EF%25BC%2581%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2581%25A7%25E7%258B%2599%25E3%2581%25A3%25E3%2581%259F%25E7%25AD%258B%25E8%2582%2589%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%25BC%25B7%25E5%258C%2596%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMERACH%25E3%2581%25A7%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%2596%25B0%25E5%25B8%25B8%25E8%25AD%2598%25EF%25BC%2581%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2581%25A7%25E7%258B%2599%25E3%2581%25A3%25E3%2581%259F%25E7%25AD%258B%25E8%2582%2589%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%25BC%25B7%25E5%258C%2596%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/merach-workout-equipment-body-1.png" alt="merach-workout-equipment" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">MERACHで変わる宅トレの新常識！科学的アプローチで狙った筋肉を効率強化！</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMERACH%25E3%2581%25A7%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%2596%25B0%25E5%25B8%25B8%25E8%25AD%2598%25EF%25BC%2581%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2581%25A7%25E7%258B%2599%25E3%2581%25A3%25E3%2581%259F%25E7%25AD%258B%25E8%2582%2589%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%25BC%25B7%25E5%258C%2596%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -82,7 +66,7 @@ MERACH 腹筋ローラーPROの最も際立った特徴は、その「厚手の�
 
 ## マンションでも安心！静音設計と省スペース性
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600" alt="＼4 480円→3 999円／ 獲得 MERACH" />
+<img src="/images/merach-workout-equipment-body-2.jpg" alt="merach-workout-equipment" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 自宅でのトレーニングを継続する上で、特に集合住宅にお住まいの方が懸念するのが「音」と「スペース」の問題です。階下への騒音はトレーニングの継続意欲を削ぎ、周囲への配慮から時間を制限せざるを得ないことも少なくありません。
 
@@ -94,7 +78,7 @@ MERACH 腹筋ローラーPROは「静音設計」が徹底されており、実�
 
 ジムの月会費は一般的に毎月数千円から1万円以上かかることが多く、年間で考えると数万円から十数万円の出費になります。それに加えて交通費や移動時間も考慮すると、自宅でこれだけのクオリティのトレーニングが可能なMERACH 腹筋ローラーPRO（3,999円）は、非常に合理的な投資と言えるでしょう。初期費用を抑えつつ、時間や場所に縛られずに質の高い腹筋トレーニングを継続できることは、長期的な視点で見ても優れた選択肢となります。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600" alt="＼4 480円→3 999円／ 獲得 MERACH 画像" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/merach-workout-equipment-body-3.jpg" alt="merach-workout-equipment" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -143,30 +127,16 @@ MERACH 腹筋ローラーPROは「静音設計」が徹底されており、実�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=MERACH%E3%81%A7%E5%A4%89%E3%82%8F%E3%82%8B" alt="MERACHで変わる宅トレの新常識！科学的アプローチで狙った筋肉を効率強化！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                MERACHで変わる宅トレの新常識！科学的アプローチで狙った筋肉を効率強化！
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMERACH%25E3%2581%25A7%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%2596%25B0%25E5%25B8%25B8%25E8%25AD%2598%25EF%25BC%2581%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2581%25A7%25E7%258B%2599%25E3%2581%25A3%25E3%2581%259F%25E7%25AD%258B%25E8%2582%2589%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%25BC%25B7%25E5%258C%2596%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMERACH%25E3%2581%25A7%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%2596%25B0%25E5%25B8%25B8%25E8%25AD%2598%25EF%25BC%2581%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2581%25A7%25E7%258B%2599%25E3%2581%25A3%25E3%2581%259F%25E7%25AD%258B%25E8%2582%2589%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%25BC%25B7%25E5%258C%2596%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMERACH%25E3%2581%25A7%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%2596%25B0%25E5%25B8%25B8%25E8%25AD%2598%25EF%25BC%2581%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2581%25A7%25E7%258B%2599%25E3%2581%25A3%25E3%2581%259F%25E7%25AD%258B%25E8%2582%2589%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%25BC%25B7%25E5%258C%2596%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/merach-workout-equipment-body-1.png" alt="merach-workout-equipment" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">MERACHで変わる宅トレの新常識！科学的アプローチで狙った筋肉を効率強化！</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMERACH%25E3%2581%25A7%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%2596%25B0%25E5%25B8%25B8%25E8%25AD%2598%25EF%25BC%2581%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2581%25A7%25E7%258B%2599%25E3%2581%25A3%25E3%2581%259F%25E7%25AD%258B%25E8%2582%2589%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%25BC%25B7%25E5%258C%2596%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

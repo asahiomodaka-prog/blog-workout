@@ -24,9 +24,7 @@ mediaType: 'gear'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で手軽に体を引き締めたい、筋力をつけたいけれど、何から始めたらいいか分からない。あるいは、ジムに通う時間や費用を捻出するのが難しいと感じている方は少なくないでしょう。多くの人が経験する、お腹周りや胸板の悩みに向き合い、自宅での効率的なトレーニングを可能にするのが、今回ご紹介する「腹筋ローラーとプッシュアップバーのフィットネスセット」です。
 
@@ -39,30 +37,16 @@ mediaType: 'gear'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E8%85%B9%E7%AD%8B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%EF%BC%86%E3%83%97%E3%83%83%E3%82%B7" alt="腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25EF%25BC%2586%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E7%259C%259F%25E4%25BE%25A1%25E3%2580%2582%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E4%25B8%258A%25E5%258D%258A%25E8%25BA%25AB%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25EF%25BC%2586%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E7%259C%259F%25E4%25BE%25A1%25E3%2580%2582%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E4%25B8%258A%25E5%258D%258A%25E8%25BA%25AB%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25EF%25BC%2586%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E7%259C%259F%25E4%25BE%25A1%25E3%2580%2582%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E4%25B8%258A%25E5%258D%258A%25E8%25BA%25AB%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/abs-roller-push-up-bar-fitness-kit-body-1.png" alt="abs-roller-push-up-bar-fitness-kit" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25EF%25BC%2586%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E7%259C%259F%25E4%25BE%25A1%25E3%2580%2582%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E4%25B8%258A%25E5%258D%258A%25E8%25BA%25AB%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -105,7 +89,7 @@ mediaType: 'gear'
 
 ## 集合住宅でも安心！静音設計と省スペースが叶える「いつでも宅トレ」
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/tcconlineshop/cabinet/08713206/compass1690191596.jpg?_ex=600x600" alt="＼楽天ランキング／ 腹筋ローラー プッシュアップバー アブローラー 腹筋 ローラー 腕立て伏せ 体幹 大胸筋 鍛える トレーニング 筋トレ ダイエット 女性 男性 初心者 エクササイズ グッズ フィットネス 筋肉 静音" />
+<img src="/images/abs-roller-push-up-bar-fitness-kit-body-2.jpg" alt="abs-roller-push-up-bar-fitness-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 自宅でのトレーニングを継続する上で、環境要因は非常に重要です。特に、マンションやアパートといった集合住宅にお住まいの方にとって、トレーニング中の騒音やスペースの制約は深刻な課題となり得ます。このフィットネスセットは、これらの悩みに徹底的に配慮して設計されています。
 
@@ -129,7 +113,7 @@ Rozallyの腹筋ローラーは、耐摩耗性の高い特殊な素材を採用�
 
 浮いた費用を良質な栄養補助食品に投資することも賢明な選択です。例えば、吸収の早いホエイ[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)はトレーニング直後の「ゴールデンタイム」（運動後30分以内）に摂取することで、筋肉の回復と成長を効率的にサポートします。また、吸収が緩やかなカゼインプロテインやソイプロテインは、就寝前や間食として摂取することで、長時間にわたるアミノ酸供給を助け、カタボリック（筋肉分解）を防ぐ効果が期待できます。適切な栄養摂取と組み合わせることで、トレーニング効果はさらに高まるでしょう。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00tpal1.ve2q5e45.g00tpal1.ve2q66ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftcconlineshop%2Fset_001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftcconlineshop%2Fi%2F10000016%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/tcconlineshop/cabinet/08713206/compass1690191596.jpg?_ex=600x600" alt="＼楽天ランキング／ 腹筋ローラー プッシュアップバー アブローラー 腹筋 ローラー 腕立て伏せ 体幹 大胸筋 鍛える トレーニング 筋トレ ダイエット 女性 男性 初心者 エクササイズ グッズ フィットネス 筋肉 静音 画像" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00tpal1.ve2q5e45.g00tpal1.ve2q66ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftcconlineshop%2Fset_001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftcconlineshop%2Fi%2F10000016%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/abs-roller-push-up-bar-fitness-kit-body-3.jpg" alt="abs-roller-push-up-bar-fitness-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -138,30 +122,16 @@ Rozallyの腹筋ローラーは、耐摩耗性の高い特殊な素材を採用�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E8%85%B9%E7%AD%8B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%EF%BC%86%E3%83%97%E3%83%83%E3%82%B7" alt="腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25EF%25BC%2586%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E7%259C%259F%25E4%25BE%25A1%25E3%2580%2582%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E4%25B8%258A%25E5%258D%258A%25E8%25BA%25AB%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25EF%25BC%2586%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E7%259C%259F%25E4%25BE%25A1%25E3%2580%2582%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E4%25B8%258A%25E5%258D%258A%25E8%25BA%25AB%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25EF%25BC%2586%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E7%259C%259F%25E4%25BE%25A1%25E3%2580%2582%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E4%25B8%258A%25E5%258D%258A%25E8%25BA%25AB%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/abs-roller-push-up-bar-fitness-kit-body-1.png" alt="abs-roller-push-up-bar-fitness-kit" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25EF%25BC%2586%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E7%259C%259F%25E4%25BE%25A1%25E3%2580%2582%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E4%25B8%258A%25E5%258D%258A%25E8%25BA%25AB%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

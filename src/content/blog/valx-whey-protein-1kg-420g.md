@@ -24,9 +24,7 @@ mediaType: 'protein'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でのトレーニングを始めてみたものの、なかなか成果が出ない、筋肉痛からの回復が遅い、日中の集中力が続かないといった悩みを抱えていませんか。特に、筋トレ後の栄養補給が不十分だと、せっかくの努力が効率よく筋肉に繋がらないこともあります。
 
@@ -39,30 +37,16 @@ mediaType: 'protein'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=VALX%20%E3%83%9B%E3%82%A8%E3%82%A4%20%E3%83%97" alt="VALX ホエイ プロテイン 1kg/420gで「筋肉分解抑制」！宅トレ効果を最大化する摂取戦略" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                VALX ホエイ プロテイン 1kg/420gで「筋肉分解抑制」！宅トレ効果を最大化する摂取戦略
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DVALX%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F420g%25E3%2581%25A7%25E3%2580%258C%25E7%25AD%258B%25E8%2582%2589%25E5%2588%2586%25E8%25A7%25A3%25E6%258A%2591%25E5%2588%25B6%25E3%2580%258D%25EF%25BC%2581%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2591%2582%25E5%258F%2596%25E6%2588%25A6%25E7%2595%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVALX%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F420g%25E3%2581%25A7%25E3%2580%258C%25E7%25AD%258B%25E8%2582%2589%25E5%2588%2586%25E8%25A7%25A3%25E6%258A%2591%25E5%2588%25B6%25E3%2580%258D%25EF%25BC%2581%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2591%2582%25E5%258F%2596%25E6%2588%25A6%25E7%2595%25A5%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DVALX%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F420g%25E3%2581%25A7%25E3%2580%258C%25E7%25AD%258B%25E8%2582%2589%25E5%2588%2586%25E8%25A7%25A3%25E6%258A%2591%25E5%2588%25B6%25E3%2580%258D%25EF%25BC%2581%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2591%2582%25E5%258F%2596%25E6%2588%25A6%25E7%2595%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/valx-whey-protein-1kg-420g-body-1.png" alt="valx-whey-protein-1kg-420g" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">VALX ホエイ プロテイン 1kg/420gで「筋肉分解抑制」！宅トレ効果を最大化する摂取戦略</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DVALX%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F420g%25E3%2581%25A7%25E3%2580%258C%25E7%25AD%258B%25E8%2582%2589%25E5%2588%2586%25E8%25A7%25A3%25E6%258A%2591%25E5%2588%25B6%25E3%2580%258D%25EF%25BC%2581%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2591%2582%25E5%258F%2596%25E6%2588%25A6%25E7%2595%25A5" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -95,7 +79,7 @@ VALX ホエイ プロテインは、「日本一美味しいプロテイン」�
 
 溶けやすさも特筆すべき点です。付属のスプーンで1杯分をシェイカーに入れ、水や牛乳でシェイクすると、ほとんどダマになることなく、きれいに溶けてくれます。これは、毎日のこととなると地味ながらも非常に助かるポイントです。以前使用していたプロテインの中には、どんなにシェイクしても粉っぽさが残ったり、コップの底にダマが沈殿したりするものもありましたが、VALXプロテインではそういったストレスを感じることはありません。この「溶けやすさ」は、特にトレーニング直後の疲労困憊の状態では、シェイカーを何度も振る手間を省けるため、心理的なハードルを大きく下げ、継続をサポートします。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/imgrc0143178817.jpg?_ex=600x600" alt="VALX ホエイ プロテイン 1kg 420g" />
+<img src="/images/valx-whey-protein-1kg-420g-body-2.jpg" alt="valx-whey-protein-1kg-420g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 次に、1食あたりのコストについて検討してみましょう。VALX ホエイ プロテインの価格は20,000円で、1kgと420gのセット（ふるさと納税の寄付金額として）。仮に1食あたり25g摂取すると仮定した場合、1kgのプロテインで約40回分、420gで約16回分となります。合計で約56回分の摂取が可能です。単純計算で、1食あたりのコストは約357円（20,000円 ÷ 56回）となります。
 
@@ -118,7 +102,7 @@ VALX ホエイ プロテインは、レビュー評価が4.86（182件）と非�
 
 筆者が考えるVALXプロテインの最大の適性は、「自宅でのトレーニングを継続したい人」と「プロテインの味に妥協したくない人」です。自宅での筋トレは、ジムに通うよりも手軽ですが、その分モチベーションの維持が課題になります。そんな時、美味しいプロテインがあるだけで、トレーニング後の楽しみが増え、結果的に継続に繋がります。また、様々なフレーバーがあるので、飽きずに毎日続けられるという点も大きなメリットです。
 
-[<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/imgrc0143178817.jpg?_ex=600x600" alt="VALX ホエイ プロテイン 1kg 420g 画像" />](https://hb.afl.rakuten.co.jp/hgc/g00u8an1.ve2q5552.g00u8an1.ve2q6250/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Fiy001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10001522%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[<img src="/images/valx-whey-protein-1kg-420g-body-3.jpg" alt="valx-whey-protein-1kg-420g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />](https://hb.afl.rakuten.co.jp/hgc/g00u8an1.ve2q5552.g00u8an1.ve2q6250/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Fiy001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10001522%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -181,30 +165,16 @@ VALXプロテインは、その美味しさと溶けやすさから、ついつ�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=VALX%20%E3%83%9B%E3%82%A8%E3%82%A4%20%E3%83%97" alt="VALX ホエイ プロテイン 1kg/420gで「筋肉分解抑制」！宅トレ効果を最大化する摂取戦略" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                VALX ホエイ プロテイン 1kg/420gで「筋肉分解抑制」！宅トレ効果を最大化する摂取戦略
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DVALX%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F420g%25E3%2581%25A7%25E3%2580%258C%25E7%25AD%258B%25E8%2582%2589%25E5%2588%2586%25E8%25A7%25A3%25E6%258A%2591%25E5%2588%25B6%25E3%2580%258D%25EF%25BC%2581%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2591%2582%25E5%258F%2596%25E6%2588%25A6%25E7%2595%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVALX%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F420g%25E3%2581%25A7%25E3%2580%258C%25E7%25AD%258B%25E8%2582%2589%25E5%2588%2586%25E8%25A7%25A3%25E6%258A%2591%25E5%2588%25B6%25E3%2580%258D%25EF%25BC%2581%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2591%2582%25E5%258F%2596%25E6%2588%25A6%25E7%2595%25A5%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DVALX%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F420g%25E3%2581%25A7%25E3%2580%258C%25E7%25AD%258B%25E8%2582%2589%25E5%2588%2586%25E8%25A7%25A3%25E6%258A%2591%25E5%2588%25B6%25E3%2580%258D%25EF%25BC%2581%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2591%2582%25E5%258F%2596%25E6%2588%25A6%25E7%2595%25A5" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/valx-whey-protein-1kg-420g-body-1.png" alt="valx-whey-protein-1kg-420g" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">VALX ホエイ プロテイン 1kg/420gで「筋肉分解抑制」！宅トレ効果を最大化する摂取戦略</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DVALX%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F420g%25E3%2581%25A7%25E3%2580%258C%25E7%25AD%258B%25E8%2582%2589%25E5%2588%2586%25E8%25A7%25A3%25E6%258A%2591%25E5%2588%25B6%25E3%2580%258D%25EF%25BC%2581%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2591%2582%25E5%258F%2596%25E6%2588%25A6%25E7%2595%25A5" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

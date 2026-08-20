@@ -63,7 +63,7 @@ mediaType: 'gear'
 
 また、ダブルロックカラーはプレートの緩みを軽減し、トレーニング中の安全性、特にダンベルを頭上に上げる種目での安心感を高めてくれます。重厚感のあるブラックパウダー塗装は、見た目にも統一感があり、自宅に置いた時の満足度も高めてくれるでしょう。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/powerarmor/paajb/bdac59.jpg?_ex=600x600" alt="POWER ARMOR ビルドアップコアセット59 /" loading="lazy" decoding="async" />
+<img src="/images/power-armor-build-up-core-set-59-body-1.jpg" alt="power-armor-build-up-core-set-59" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ### ジム通いとの比較：費用と時間の合理的投資
 
@@ -168,30 +168,16 @@ POWER ARMORのダンベルはシャフト径が28mmで、多くのメーカー�
     </div>
 </div>
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=POWER%20ARMO" alt="POWER ARMOR ビルドアップコアセット59は宅トレ最適解か？解剖学的効果を検証！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                POWER ARMOR ビルドアップコアセット59は宅トレ最適解か？解剖学的効果を検証！
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPOWER%2520ARMOR%2520%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B3%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%2583%25E3%2583%258859%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPOWER%2520ARMOR%2520%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B3%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%2583%25E3%2583%258859%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPOWER%2520ARMOR%2520%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B3%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%2583%25E3%2583%258859%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/power-armor-build-up-core-set-59-body-2.png" alt="power-armor-build-up-core-set-59" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">POWER ARMOR ビルドアップコアセット59は宅トレ最適解か？解剖学的効果を検証！</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPOWER%2520ARMOR%2520%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B3%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%2583%25E3%2583%258859%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
