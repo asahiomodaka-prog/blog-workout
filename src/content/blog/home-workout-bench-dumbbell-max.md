@@ -1,23 +1,15 @@
 ---
-title: 'なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化'
-description: '「なぜ今？」宅トレ効果を最大化するトレーニングベンチ＋可変式ダンベルのメリット・デメリットを徹底解説。科学的アプローチによる解剖学的メリット、価格・スペック、実際に使った感想まで網羅し、効率的な筋トレを実現します。'
+title: なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化
+description: 「なぜ今？」宅トレ効果を最大化するトレーニングベンチ＋可変式ダンベルのメリット・デメリットを徹底解説。科学的アプローチによる解剖学的メリット、価格・スペック、実際に使った感想まで網羅し、効率的な筋トレを実現します。
 pubDate: '2026-07-11'
-heroImage: '/images/home-workout-bench-dumbbell-max.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/home-workout-bench-dumbbell-max.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: 'なぜ今、トレーニングベンチ＋可変式ダンベルか'
     url: ''
     imageUrl: '/images/home-workout-bench-dumbbell-max.jpg'
     microCopy: '詳細を見る'
-  - title: '【LINE追加で300円OFF】BEINGFIT パワーグリップ 筋トレ ジム 握力グリップ 筋トレグッズ 筋トレグローブ トレーニングギア デッドリフト 手首サポーター 正規品 2個セット 男女兼用 懸垂 左右一組 メンズ・レディース'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00up1i1.ve2q5e98.g00up1i1.ve2q6e0b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdynamicdrive%2Fpwg001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdynamicdrive%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dynamicdrive/cabinet/11414208/imgrc0111626199.jpg?_ex=600x600'
-    price: 2980
-  - title: 'VOLIX レバーアクションベルト ナロータイプ 【待ち時間0秒のワンタッチ着脱】 トレーニングベルト 筋トレ ベルト トレーニングギア リフティングベルト スクワット デッドリフト ベンチプレス 男女兼用 送料無料 ケガ予防'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00unen1.ve2q5328.g00unen1.ve2q6da2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvolix%2Fnarrowbelt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvolix%2Fi%2F10000008%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/volix/cabinet/11470098/aj2_20486.jpg?_ex=600x600'
-    price: 14980
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

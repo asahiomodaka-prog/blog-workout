@@ -1,25 +1,15 @@
 ---
-title: 'ぶら下がり健康器 懸垂マシン！自宅で全身を鍛える解剖学的メリットと失敗しない選び方'
-description: 'ぶら下がり健康器・懸垂マシン・ベンチプレスラックが1台に。高さ210cm・耐荷重180kgで本格筋トレを自宅で実現。懸垂、ベンチプレス、スクワットなど全身を効率よく鍛えたい方に。11,550円でコスパも抜群。'
+title: ぶら下がり健康器 懸垂マシン！自宅で全身を鍛える解剖学的メリットと失敗しない選び方
+description: ぶら下がり健康器・懸垂マシン・ベンチプレスラックが1台に。高さ210cm・耐荷重180kgで本格筋トレを自宅で実現。懸垂、ベンチプレス、スクワットなど全身を効率よく鍛えたい方に。11,550円でコスパも抜群。
 pubDate: '2026-07-23'
-heroImage: '/images/pull-up-dip-station-barbell-rack-home-gym.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/pull-up-dip-station-barbell-rack-home-gym.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: 'ぶら下がり健康器 懸垂マシン'
     url: ''
     imageUrl: '/images/pull-up-dip-station-barbell-rack-home-gym.jpg'
     microCopy: '詳細を見る'
-  - title: '【マラソン期間中 全品ポイント5倍！】【大人気商品】ケーブルマシン ナロータイプ ケーブルクロスオーバー ケーブルアタッチメント ケーブル トレーニング 器具 ケーブルクロスマシン 懸垂 チンニングマシン 業務用 MB-CXM-N BoDYLINK (ボディリンク)'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00uafd1.ve2q5546.g00uafd1.ve2q6f49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbody-link-irotecpro%2Fmb-cxm-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbody-link-irotecpro%2Fi%2F10000079%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/body-link-irotecpro/cabinet/detail/mb-cxm-n/mb-cxm-n.jpg?_ex=600x600'
-    price: 242000
-    microCopy: '詳細を見る'
-  - title: '＼10%OFFクーポン／【送料無料】ぶら下がり健康器 ぶらさがり健康器 懸垂マシン 筋トレ トレーニング 健康 器具 コンパクト 懸垂 バー チンニングマシン ダイエット クッション付き マルチジム 腹筋 腕立て 背筋 フィットネス クリスマス プレゼント ギフト de025'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00s5hn1.ve2q5047.g00s5hn1.ve2q6e5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice-zk%2Fde025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falice-zk%2Fi%2F10002814%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/d/de025.jpg?_ex=600x600'
-    price: 12579
-    microCopy: '詳細を見る'
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

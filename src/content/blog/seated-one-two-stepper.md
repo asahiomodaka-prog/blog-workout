@@ -1,24 +1,15 @@
 ---
-title: '座って安心ワンツーステッパーを導入すべき理由。宅トレ下半身強化の科学的メリット'
-description: '「座って安心ワンツーステッパー」で下半身エクササイズ。3600円で座ったまま手軽に「ながらトレーニング」を始められます。膝への負担が少なく、安定性に優れ、運動が苦手な方や座りっぱなしの方に最適。軽量コンパクトで組み立て不要、届いてすぐに理想のスタイルへ。楽天で購入可能。'
+title: 座って安心ワンツーステッパーを導入すべき理由。宅トレ下半身強化の科学的メリット
+description: 「座って安心ワンツーステッパー」で下半身エクササイズ。3600円で座ったまま手軽に「ながらトレーニング」を始められます。膝への負担が少なく、安定性に優れ、運動が苦手な方や座りっぱなしの方に最適。軽量コンパクトで組み立て不要、届いてすぐに理想のスタイルへ。楽天で購入可能。
 pubDate: '2026-08-08'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600'
-genre: 'workout'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600
+genre: workout
 sidebarProducts:
   - title: '座って安心ワンツーステッパーを導入すべき理由'
     url: ''
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600'
     microCopy: '詳細を見る'
-  - title: 'ミズノ トレーニンググッズ メンズ レディース ダンベルボール ボルレッチ ディズニー（2個入り） MIZUNO C3JHI202 ミッキー ミニー チップ デール キャラクター インテリア スポーツ トレーニング 筋トレ 筋肉 ジム フィットネス|slz|'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/7/76/7666/7666-0004-1.jpg?_ex=600x600'
-    price: 4307
-    microCopy: '詳細を見る'
-  - title: 'ガビック スポーツ器具 メンズ レディース ウォーターバッグ GAVIC GC1222 体幹 トレーニング 筋トレ フィットネス トレーニンググッズ エクササイズ ギャビック 筋肉 ジム 健康 体力づくり|slz|'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F68312220%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10079600%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/6/68/6831/68312220-1.jpg?_ex=600x600'
-    price: 4059
-    microCopy: '詳細を見る'
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

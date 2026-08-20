@@ -1,25 +1,15 @@
 ---
-title: '可変式ダンベルは自宅ジムの最適解か？解剖学から導く導入メリット'
-description: 'Motions可変式ダンベルPRO/従来モデルは、自宅筋トレに最適な24kg/40kg対応。片手で瞬時重量変更でき、省スペースで本格的なホームジムを実現。楽天で9,750円から購入可能。効率的なトレーニングで理想の身体へ。'
+title: 可変式ダンベルは自宅ジムの最適解か？解剖学から導く導入メリット
+description: Motions可変式ダンベルPRO/従来モデルは、自宅筋トレに最適な24kg/40kg対応。片手で瞬時重量変更でき、省スペースで本格的なホームジムを実現。楽天で9,750円から購入可能。効率的なトレーニングで理想の身体へ。
 pubDate: '2026-08-10'
-heroImage: '/images/adjustable-dumbbell-24kg-40kg.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/adjustable-dumbbell-24kg-40kg.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: '可変式ダンベルは自宅ジムの最適解か'
     url: ''
     imageUrl: '/images/adjustable-dumbbell-24kg-40kg.jpg'
     microCopy: '詳細を見る'
-  - title: '10%OFFクーポン 8/8〜8/11 【楽天1位】マルチポジションベンチ 耐荷重300kg 高重量 角度調整 コンパクト 折りたたみ 高耐久 組立簡単 ベンチプレス 腹筋 筋トレ トレーニング 本格的 自宅 ホームジム トレーニングベンチ インクラインベンチ デクラインベンチ TR0808'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F9651513090034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11270054%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/9651/9651513090034.jpg?_ex=600x600'
-    price: 15990
-    microCopy: '詳細を見る'
-  - title: '【クーポンで最大20%OFF】ダンベル 1kg 1.5kg 2kg 3kg 4kg 5kg 6kg 7kg 8kg 10kg 2個セット カラーダンベル 鉄アレイ ダンベル コンパクト おしゃれ かわいい カラフルダンベル エクササイズ フィットネス シェイプアップ ダイエット スポーツ 筋トレ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00rgdw1.ve2q59d7.g00rgdw1.ve2q6f83/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fweiwei%2Fbda0103%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fweiwei%2Fi%2F10020771%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/weiwei/cabinet/shouhin-image03/bda01.jpg?_ex=600x600'
-    price: 1470
-    microCopy: '詳細を見る'
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

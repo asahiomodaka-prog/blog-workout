@@ -1,23 +1,15 @@
 ---
-title: '宅トレの限界突破！NUOBELL 40kgが叶える漸進性過負荷と解剖学的成長'
-description: '宅トレの筋肥大を最大化したい方へ。NUOBELL 40kg可変式ダンベルは、科学的な漸進性過負荷を自宅で実現。2kg刻み調整で手首負担を抑え、フォーム安定。省スペースで安全かつ効率的に高重量トレーニングが可能です。'
+title: 宅トレの限界突破！NUOBELL 40kgが叶える漸進性過負荷と解剖学的成長
+description: 宅トレの筋肥大を最大化したい方へ。NUOBELL 40kg可変式ダンベルは、科学的な漸進性過負荷を自宅で実現。2kg刻み調整で手首負担を抑え、フォーム安定。省スペースで安全かつ効率的に高重量トレーニングが可能です。
 pubDate: '2026-07-07'
-heroImage: '/images/nuobell-40kg-dumbbell.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/nuobell-40kg-dumbbell.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: '宅トレの'
     url: ''
     imageUrl: '/images/nuobell-40kg-dumbbell.jpg'
     microCopy: '詳細を見る'
-  - title: '【レビュー投稿で2年保証】 可変式 ダンベル フレックスベル 2kg刻み 32kg 1個 / 2個セット/ スタンド セット FLEXBELL 正規品'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fflexbell32i-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000228%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600'
-    price: 37400
-  - title: '【レビュー投稿で2年保証】 ライシン ヘリックスミラー 1kg刻み 32kg 1個 / 2個セット / スタンド / ベンチ セット 可変式 ダンベル メタルダンベル'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fls-metal32-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000352%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product5/ls-met32_r-h.jpg?_ex=600x600'
-    price: 34900
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

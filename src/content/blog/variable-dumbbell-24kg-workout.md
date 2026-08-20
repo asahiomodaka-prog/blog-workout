@@ -1,25 +1,15 @@
 ---
-title: '可変式ダンベル24kgは自宅筋トレの最適解！省スペースと瞬時重量変更のメリットを徹底検証'
-description: '2秒で重量変更可能な24kg可変式ダンベル2個セットが9280円！15段階調整で全身を効率よく鍛えられ、省スペースで自宅筋トレに最適。初心者から上級者まで、時間短縮と効果的なトレーニングを両立します。'
+title: 可変式ダンベル24kgは自宅筋トレの最適解！省スペースと瞬時重量変更のメリットを徹底検証
+description: 2秒で重量変更可能な24kg可変式ダンベル2個セットが9280円！15段階調整で全身を効率よく鍛えられ、省スペースで自宅筋トレに最適。初心者から上級者まで、時間短縮と効果的なトレーニングを両立します。
 pubDate: '2026-07-28'
-heroImage: '/images/variable-dumbbell-24kg-workout.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/variable-dumbbell-24kg-workout.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: '可変式ダンベル24kgは自宅筋トレの最適解'
     url: ''
     imageUrl: '/images/variable-dumbbell-24kg-workout.jpg'
     microCopy: '詳細を見る'
-  - title: '【楽天1位】マルチポジションベンチ 耐荷重300kg 高重量 角度調整 コンパクト 折りたたみ 高耐久 組立簡単 ベンチプレス 腹筋 筋トレ トレーニング 本格的 自宅 ホームジム トレーニングベンチ インクラインベンチ デクラインベンチ フラットベンチ 1年保証'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F9651513090034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11270054%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/9651/9651513090034.jpg?_ex=600x600'
-    price: 15990
-    microCopy: '詳細を見る'
-  - title: '【先着 200 名限定 レビュー特典 】365日間保証 NORTHDEER 可変式ダンベル 25kg/15kg/10kg/7.5kg/5kg/2.5kg 2個セット ダンベル 通常版/鏡面の仕上げ スチール製 小型 家庭用 クロームメッキ トレーニング器具 父の日'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u5bd1.ve2q5266.g00u5bd1.ve2q61af/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnorthdeer%2Fn020%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnorthdeer%2Fi%2F10000073%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/northdeer/cabinet/08755530/imgrc00847138381.jpg?_ex=600x600'
-    price: 2880
-    microCopy: '詳細を見る'
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

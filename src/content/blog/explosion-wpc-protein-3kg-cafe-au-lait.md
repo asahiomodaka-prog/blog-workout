@@ -1,25 +1,15 @@
 ---
-title: 'プロテイン WPC エクスプロージョン 3kgを飲むべき理由。宅トレの成果を最大化する栄養戦略'
-description: '「プロテイン WPC エクスプロージョン 3kg カフェオレ味」は、トレーニング効果を最大化するホエイプロテイン。消化吸収が早く、アミノ酸スコア100で効率的に筋肉をサポートします。毎日のコーヒー代わりに美味しくタンパク質補給。3kgの大容量でコスパも抜群です。'
+title: プロテイン WPC エクスプロージョン 3kgを飲むべき理由。宅トレの成果を最大化する栄養戦略
+description: 「プロテイン WPC エクスプロージョン 3kg カフェオレ味」は、トレーニング効果を最大化するホエイプロテイン。消化吸収が早く、アミノ酸スコア100で効率的に筋肉をサポートします。毎日のコーヒー代わりに美味しくタンパク質補給。3kgの大容量でコスパも抜群です。
 pubDate: '2026-07-29'
-heroImage: '/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg'
-genre: 'プロテイン'
+heroImage: /images/explosion-wpc-protein-3kg-cafe-au-lait.jpg
+genre: プロテイン
 sidebarProducts:
   - title: 'プロテイン WPC エクスプロージョン'
     url: ''
     imageUrl: '/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg'
     microCopy: '詳細を見る'
-  - title: '◆ザバス ホエイプロテイン100 リッチショコラ 980g'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qvyf1.ve2q5fc6.g00qvyf1.ve2q6a97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902777302102%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10045249%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/5/4902777302102.jpg?_ex=600x600'
-    price: 5180
-    microCopy: '詳細を見る'
-  - title: '【ふるさと納税】 Verifyst ホエイプロテイン 3kg 選べる フレーバー 回数 フルーツ チョコ 抹茶 ベリー ミルクティー スイーツ 置き換え 健康 美容 ドリンク 加工食品 タンパク質 女性 男性 スポーツ 運動 筋トレ トレーニング ダイエット 手軽 時短 ベリフィスト 下関 山口'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u8an1.ve2q5552.g00u8an1.ve2q6250/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Flf001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10001941%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/lf001_r_01-1.jpg?_ex=600x600'
-    price: 39000
-    microCopy: '詳細を見る'
-mediaType: 'protein'
+mediaType: protein
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

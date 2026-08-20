@@ -1,23 +1,15 @@
 ---
-title: '【宅トレ進化論】大手ジム採用ラバープレートが解剖学的負荷を最大化する科学的根拠'
-description: '大手ジム採用ラバープレートが科学的根拠に基づき、宅トレでの筋肥大を最大化。全可動域・伸長位での負荷を最適化し、効率的な筋肉成長を促します。1600円で自宅のトレーニング効果を劇的に変えるバーベルプレートの秘密を解説。'
+title: 【宅トレ進化論】大手ジム採用ラバープレートが解剖学的負荷を最大化する科学的根拠
+description: 大手ジム採用ラバープレートが科学的根拠に基づき、宅トレでの筋肥大を最大化。全可動域・伸長位での負荷を最適化し、効率的な筋肉成長を促します。1600円で自宅のトレーニング効果を劇的に変えるバーベルプレートの秘密を解説。
 pubDate: '2026-07-10'
-heroImage: '/images/rubber-weight-plate.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/rubber-weight-plate.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: '大手ジム採用ラバープレートが'
     url: ''
     imageUrl: '/images/rubber-weight-plate.jpg'
     microCopy: '詳細を見る'
-  - title: '【楽天1位】ダンベル バーベル 用 プレート 1.25kg/2.5kg/5kg/10kg/15kg/20kg 2個セット ポリエチレンコート 28mm径 追加 ダンベルプレート バーベルシャフト 用 筋トレ トレーニング 重り 交換 パーツ カスタマイズ オプション 1年保証 ★[送料無料]'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fmax-a09809%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10057868%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600'
-    price: 1430
-  - title: '【7/11 1:59迄 P10倍(要エントリー)】IROTEC（アイロテック）アイアン バーベル 120KG セット / バーベルセット プレスベンチ プレート ベンチプレス トレーニング器具 筋トレ 器具 ケトルベル ウエイトトレーニング 筋力トレーニング パワーラック スミスマシン'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Fib120%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000991%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511621/1x1_ib120.jpg?_ex=600x600'
-    price: 45320
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

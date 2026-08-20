@@ -1,25 +1,15 @@
 ---
-title: 'PROIRONダンベルを宅トレで使う科学的理由！選ぶべき重量と効率化の秘訣'
-description: 'PROIRONダンベルは1599円から。1kg～10kgの豊富な重量で初心者も安心。ソフトコーティング加工と転がりにくいフラットデザインで、宅トレでの使いやすさ、安全性を追求したダンベルセットのメリット・デメリットを解説します。'
+title: PROIRONダンベルを宅トレで使う科学的理由！選ぶべき重量と効率化の秘訣
+description: PROIRONダンベルは1599円から。1kg～10kgの豊富な重量で初心者も安心。ソフトコーティング加工と転がりにくいフラットデザインで、宅トレでの使いやすさ、安全性を追求したダンベルセットのメリット・デメリットを解説します。
 pubDate: '2026-08-01'
-heroImage: '/images/proiron-dumbbell-set-soft-coating.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/proiron-dumbbell-set-soft-coating.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: 'PROIRONダンベルを宅トレで使う科学的理'
     url: ''
     imageUrl: '/images/proiron-dumbbell-set-soft-coating.jpg'
     microCopy: '詳細を見る'
-  - title: '【ふるさと納税】アジャスタブルダンベル25/EXG422/アルインコ[AOAB137] トレーニング 筋トレ ダイエット 運動 ダンベル ベンチプレス 2kg 3kg 5kg 10kg 可変 可変式セット プレート コンパクト 台座付き 人気 定番 おすすめ オススメ ギフト アルインコ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tylv1.ve2q5f3e.g00tylv1.ve2q6217/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272078-takatsuki%2Faoab137%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272078-takatsuki%2Fi%2F10001394%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f272078-takatsuki/cabinet/item/aoab/1/aoab137.jpg?_ex=600x600'
-    price: 100000
-    microCopy: '詳細を見る'
-  - title: '【クーポンで最大11%OFF】ダンベル 1kg 1.5kg 2kg 3kg 4kg 5kg 6kg 7kg 8kg 10kg 2個セット カラーダンベル 鉄アレイ ダンベル コンパクト おしゃれ かわいい カラフルダンベル エクササイズ フィットネス シェイプアップ ダイエット スポーツ 筋トレ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00rgdw1.ve2q59d7.g00rgdw1.ve2q6f83/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fweiwei%2Fbda0103%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fweiwei%2Fi%2F10020771%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/weiwei/cabinet/shouhin-image03/bda01.jpg?_ex=600x600'
-    price: 1480
-    microCopy: '詳細を見る'
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

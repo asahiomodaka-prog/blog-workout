@@ -1,25 +1,15 @@
 ---
-title: 'MERACHで変わる宅トレの新常識！科学的アプローチで狙った筋肉を効率強化！'
-description: 'MERACH腹筋ローラーPROは3,999円！アームレスト付きで手首・肩の負担を軽減。正しいフォームで腹筋に集中でき、腰の保護も考慮した設計で初心者も安心。充電式液晶画面で回数も記録できる多機能モデル。'
+title: MERACHで変わる宅トレの新常識！科学的アプローチで狙った筋肉を効率強化！
+description: MERACH腹筋ローラーPROは3,999円！アームレスト付きで手首・肩の負担を軽減。正しいフォームで腹筋に集中でき、腰の保護も考慮した設計で初心者も安心。充電式液晶画面で回数も記録できる多機能モデル。
 pubDate: '2026-07-27'
-heroImage: '/images/merach-workout-equipment.jpg'
-genre: '宅トレギア・小物'
+heroImage: /images/merach-workout-equipment.jpg
+genre: 宅トレギア・小物
 sidebarProducts:
   - title: 'MERACHで変わる宅トレの新常識'
     url: ''
     imageUrl: '/images/merach-workout-equipment.jpg'
     microCopy: '詳細を見る'
-  - title: '【楽天ランキング三冠受賞】腹筋ローラー SOOMLOOM 正規品 腹筋 アブローラー トレーニング ダイエット 器具 筋トレ 腹筋トレーニング 超静音 膝マット付き ボディビル 静か ダイエット マシン エクササイズ 初心者 おすすめ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00rdev1.ve2q53f3.g00rdev1.ve2q67e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyiprefer%2Ftra-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyiprefer%2Fi%2F10001541%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/yiprefer/cabinet/tra/tra-001_1.jpg?_ex=600x600'
-    price: 1350
-    microCopy: '詳細を見る'
-  - title: '＼楽天ランキング1位／ 【現役トレーナーが監修】 腹筋ローラー アブローラー 腹筋 ローラー 体幹 鍛える トレーニング 筋トレ アブホイール ダイエット 女性 男性 初心者 おすすめ グッズ 静か 静音 フィットネス 筋肉 筋力 腹筋ローラー マット付き'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tpal1.ve2q5e45.g00tpal1.ve2q66ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftcconlineshop%2Fatyc_011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftcconlineshop%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tcconlineshop/cabinet/08713206/compass1690191513.jpg?_ex=600x600'
-    price: 1580
-    microCopy: '詳細を見る'
-mediaType: 'gear'
+mediaType: gear
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

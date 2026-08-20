@@ -1,25 +1,15 @@
 ---
-title: 'ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由'
-description: '自宅での本格筋トレに。ハーフラック、パワーラック、バーベルスタンドとして使える本製品は、バーベルトレーニングの安全性を高めます。セーフティーバー完備、省スペース設計で19,800円。楽天で手軽に高負荷ホームジムを実現。'
+title: ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由
+description: 自宅での本格筋トレに。ハーフラック、パワーラック、バーベルスタンドとして使える本製品は、バーベルトレーニングの安全性を高めます。セーフティーバー完備、省スペース設計で19,800円。楽天で手軽に高負荷ホームジムを実現。
 pubDate: '2026-08-13'
-heroImage: '/images/half-power-rack-barbell.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/half-power-rack-barbell.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: 'ハーフラックで宅トレ'
     url: ''
     imageUrl: '/images/half-power-rack-barbell.jpg'
     microCopy: '詳細を見る'
-  - title: 'IROTEC（アイロテック）フィットネスマット/ダンベル トレーニング器具 ホームジム 懸垂マシン パワーラック スミスマシン ルームランナー ランニングマシン フィットネスバイク ヒップスラスト ジョイントマット ベンチプレス ケトルベル トレーニングマット 筋トレ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Ffm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000596%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/fmpbg/imgrc0065532620.jpg?_ex=600x600'
-    price: 5940
-    microCopy: '詳細を見る'
-  - title: '【努力価格】 ぶら下がり健康器 ぶら下がり スリム ぶらさがり 懸垂マシン チンニング 筋トレ フィットネス 懸垂 筋トレグッズ 懸垂バー チンニングスタンド ぶらさがり健康器 ホームジム 筋トレ器具 腹筋 コンパクト 高齢者 初心者 ストレッチ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00sc6q1.ve2q582b.g00sc6q1.ve2q647c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarketjapan%2Fyt-bls05a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarketjapan%2Fi%2F10000829%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/item/yt-bls05/y-bls05_r01.jpg?_ex=600x600'
-    price: 7980
-    microCopy: '詳細を見る'
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

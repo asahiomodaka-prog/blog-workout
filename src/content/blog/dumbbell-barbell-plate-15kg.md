@@ -1,25 +1,15 @@
 ---
-title: 'ダンベル プレート バーベル 15kgを自宅に導入すべき理由。筋肥大と実用性を科学的に検証！'
-description: '宅トレの伸び悩みを打破。ダンベル プレート バーベル 15kgで、既存ダンベルやバーベルの負荷を簡単にUP！筋力・筋量アップへ導く高負荷トレーニングを実現します。楽天で6,980円と手頃な価格で、あなたの筋トレを加速。'
+title: ダンベル プレート バーベル 15kgを自宅に導入すべき理由。筋肥大と実用性を科学的に検証！
+description: 宅トレの伸び悩みを打破。ダンベル プレート バーベル 15kgで、既存ダンベルやバーベルの負荷を簡単にUP！筋力・筋量アップへ導く高負荷トレーニングを実現します。楽天で6,980円と手頃な価格で、あなたの筋トレを加速。
 pubDate: '2026-08-12'
-heroImage: '/images/dumbbell-barbell-plate-15kg.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/dumbbell-barbell-plate-15kg.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: 'ダンベル プレート バーベル'
     url: ''
     imageUrl: '/images/dumbbell-barbell-plate-15kg.jpg'
     microCopy: '詳細を見る'
-  - title: '【楽天1位】バーベル 用 プレート 穴あき 20kg 2個セット 追加 ダンベルプレート バーベルプレート バーベルシャフト ダンベル 筋トレ 胸筋 背筋 腕 背中 上半身 筋肉 トレーニング 重り 交換 パーツ オプション 穴あきプレート 計40kg 1年保証 ★[送料無料]'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa15200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10059726%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a15200.jpg?_ex=600x600'
-    price: 13970
-    microCopy: '詳細を見る'
-  - title: '【楽天1位】ダンベル バーベル 用 プレート 1.25kg/2.5kg/5kg/10kg/15kg/20kg 2個セット ポリエチレンコート 28mm径 追加 ダンベルプレート バーベルシャフト 用 筋トレ トレーニング 重り 交換 パーツ カスタマイズ オプション 1年保証 ★[送料無料]'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fmax-a09809%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10057868%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600'
-    price: 1430
-    microCopy: '詳細を見る'
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

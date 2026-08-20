@@ -1,25 +1,15 @@
 ---
-title: '宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する'
-description: '宅トレを最大化する『アルギニン 120粒』。シトルリンとクラチャイダム配合で、血流促進・疲労回復をサポートし、筋肉の成長とパフォーマンス維持に貢献。楽天で1000円のお手頃価格。科学的エビデンスに基づいた効果と活用法を解説します。'
+title: 宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する
+description: 宅トレを最大化する『アルギニン 120粒』。シトルリンとクラチャイダム配合で、血流促進・疲労回復をサポートし、筋肉の成長とパフォーマンス維持に貢献。楽天で1000円のお手頃価格。科学的エビデンスに基づいた効果と活用法を解説します。
 pubDate: '2026-07-17'
-heroImage: '/images/arginine-120-tablets-workout.jpg'
-genre: 'サプリメント・栄養'
+heroImage: /images/arginine-120-tablets-workout.jpg
+genre: サプリメント・栄養
 sidebarProducts:
   - title: '宅トレ'
     url: ''
     imageUrl: '/images/arginine-120-tablets-workout.jpg'
     microCopy: '詳細を見る'
-  - title: 'GronG グロング BCAA 必須アミノ酸 500g 国産'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qog91.ve2q586c.g00qog91.ve2q6882/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgr-bcaa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000011%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/bcaa/bcaa_main.jpg?_ex=600x600'
-    price: 2780
-    microCopy: '詳細を見る'
-  - title: 'NOW Foods L-シトルリン 1200mg 120粒 アミノ酸サプリメント'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pxme1.ve2q5ad2.g00pxme1.ve2q64e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuplinx%2F071-00113%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuplinx%2Fi%2F10003660%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/suplinx/cabinet/item74/071-00113.jpg?_ex=600x600'
-    price: 2980
-    microCopy: '詳細を見る'
-mediaType: 'supplement'
+mediaType: supplement
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

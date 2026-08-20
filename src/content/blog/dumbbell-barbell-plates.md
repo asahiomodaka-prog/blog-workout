@@ -1,25 +1,15 @@
 ---
-title: '停滞期打破！ダンベルプレートが宅トレの筋肥大効率を最大化する解剖学的根拠'
-description: 'ダンベル・バーベル用プレートで自宅トレの質UP！1430円から楽天で手軽に購入可能。床への衝撃音や傷を軽減し、細かな重量調整で効率的に負荷アップ。宅トレ初心者から上級者まで、最適なプレート選びをサポートします。'
+title: 停滞期打破！ダンベルプレートが宅トレの筋肥大効率を最大化する解剖学的根拠
+description: ダンベル・バーベル用プレートで自宅トレの質UP！1430円から楽天で手軽に購入可能。床への衝撃音や傷を軽減し、細かな重量調整で効率的に負荷アップ。宅トレ初心者から上級者まで、最適なプレート選びをサポートします。
 pubDate: '2026-08-07'
-heroImage: '/images/dumbbell-barbell-plates.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/dumbbell-barbell-plates.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: '停滞期打破'
     url: ''
     imageUrl: '/images/dumbbell-barbell-plates.jpg'
     microCopy: '詳細を見る'
-  - title: '【楽天1位】バーベル 用 プレート 穴あき 10kg 2個セット 追加 ダンベルプレート バーベルプレート バーベルシャフト ダンベル 筋トレ 胸筋 背筋 腕 背中 上半身 筋肉 トレーニング 重り 交換 パーツ オプション 穴あきプレート 計20kg 1年保証 ★[送料無料]'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa15196%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10059724%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a15196.jpg?_ex=600x600'
-    price: 7700
-    microCopy: '詳細を見る'
-  - title: 'ダンベル プレート バーベル 15kg 2個セット 穴あきプレート ウエイトトレーニング 筋トレ 重り バーベルプレート シャフト 負荷 トレーニング 筋肉 追加プレート エクササイズ 胸筋 背筋 腕 背中 上半身 シェイプアップ ダイエット マッチョ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00sa731.ve2q5c09.g00sa731.ve2q6085/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffarson%2F000000117714%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffarson%2Fi%2F10000866%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/farson/cabinet/10310220/12337948/imgrc0136703517.jpg?_ex=600x600'
-    price: 6980
-    microCopy: '詳細を見る'
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -1,25 +1,15 @@
 ---
-title: 'SOOMLOOM腹筋ローラーは宅トレ初心者向けか？静音と膝マットで腹筋を割る解剖学的根拠'
-description: '「SOOMLOOM 腹筋ローラー」で効率的な腹筋トレーニング！超静音設計と膝マット付きで、初心者でも自宅で本格的な筋トレ・ダイエットが可能です。科学的根拠に基づき、腹筋に最大の効果をもたらすアブローラーを1350円で手に入れよう。'
+title: SOOMLOOM腹筋ローラーは宅トレ初心者向けか？静音と膝マットで腹筋を割る解剖学的根拠
+description: 「SOOMLOOM 腹筋ローラー」で効率的な腹筋トレーニング！超静音設計と膝マット付きで、初心者でも自宅で本格的な筋トレ・ダイエットが可能です。科学的根拠に基づき、腹筋に最大の効果をもたらすアブローラーを1350円で手に入れよう。
 pubDate: '2026-07-19'
-heroImage: '/images/soomloom-ab-roller-for-beginners.jpg'
-genre: '宅トレギア・小物'
+heroImage: /images/soomloom-ab-roller-for-beginners.jpg
+genre: 宅トレギア・小物
 sidebarProducts:
   - title: 'SOOMLOOM腹筋ローラーは宅トレ初心者向'
     url: ''
     imageUrl: '/images/soomloom-ab-roller-for-beginners.jpg'
     microCopy: '詳細を見る'
-  - title: '⭐️期間限定！クーポンで6,310円⭐️ トレーニングボード ピラティスボード 腹筋マシン 分離式 腹筋ボード 腹筋ローラー対応 膝マット付き コンパクト 自宅トレーニング ダイエット 筋トレ器具 フィットネスボード 腕足 体幹トレーニング 全身トレ ヒップアップ 防滑 静音'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00usx31.ve2q5db2.g00usx31.ve2q6c9d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flumina88%2Fty-08%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flumina88%2Fi%2F10000029%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lumina88/cabinet/ty-08/main/1.jpg?_ex=600x600'
-    price: 7010
-    microCopy: '詳細を見る'
-  - title: '＼マラソン限定最大25%OFF＆P5倍UP／楽天1位／進化型発売 4輪腹筋ローラー マット付き アブローラー 安定 頑丈 握りやすいハンドル 耐荷重120kg 静音 女性 男性 トレ グッズ 腹筋マシン 筋トレ器具 初心者 体幹 鍛える トレーニング マシン フィットネス'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tpj11.ve2q54b3.g00tpj11.ve2q68b2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftatsuhikokosume%2Fjfl01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftatsuhikokosume%2Fi%2F10000100%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tatsuhikokosume/cabinet/12723374/imgrc0097430788.jpg?_ex=600x600'
-    price: 4280
-    microCopy: '詳細を見る'
-mediaType: 'gear'
+mediaType: gear
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

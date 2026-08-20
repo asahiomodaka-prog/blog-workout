@@ -1,25 +1,15 @@
 ---
-title: 'アジャスタブルダンベル25は本当に必要？宅トレ効果を最大化する科学的根拠'
-description: '自宅での筋トレ効率に悩む方へ。アルインコのアジャスタブルダンベル25/EXG422は、1台で2〜25kgの重量調整を実現。省スペースで本格的な筋トレ・ダイエットを叶え、あなたのトレーニングを次のレベルへと導きます。'
+title: アジャスタブルダンベル25は本当に必要？宅トレ効果を最大化する科学的根拠
+description: 自宅での筋トレ効率に悩む方へ。アルインコのアジャスタブルダンベル25/EXG422は、1台で2〜25kgの重量調整を実現。省スペースで本格的な筋トレ・ダイエットを叶え、あなたのトレーニングを次のレベルへと導きます。
 pubDate: '2026-08-14'
-heroImage: '/images/alinco-adjustable-dumbbell-25.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/alinco-adjustable-dumbbell-25.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: 'アジャスタブルダンベル25は本当に必要'
     url: ''
     imageUrl: '/images/alinco-adjustable-dumbbell-25.jpg'
     microCopy: '詳細を見る'
-  - title: '【レビュー投稿で2年保証】 可変式 ダンベル フレックスベル 2kg刻み 32kg 1個 / 2個セット/ スタンド セット FLEXBELL 正規品'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fflexbell32i-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000228%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600'
-    price: 37400
-    microCopy: '詳細を見る'
-  - title: 'PROIRON ダンベル「2個セット1kg/1.5kg/2kg/3kg/4kg/5kg/8kg/10kg」ダンベルセット ソフトコーティングで [筋力トレーニング 筋トレ シェイプアップ 鉄アレイ 鉄アレー]'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ugv01.ve2q55ad.g00ugv01.ve2q6675/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fproiron%2Fprkned%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fproiron%2Fi%2F10000201%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/ned.jpg?_ex=600x600'
-    price: 1599
-    microCopy: '詳細を見る'
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

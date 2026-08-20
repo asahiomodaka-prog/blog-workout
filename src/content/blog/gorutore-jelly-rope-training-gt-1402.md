@@ -1,25 +1,15 @@
 ---
-title: 'ごるとれジェリーロープGT-1402効果検証。自宅ストレッチと解剖学的アプローチ'
-description: '「ごるトレ ジェリーロープ GT-1402」は、TPR素材のしなりで繊細な筋肉コントロールを可能にするトレーニンググッズ。1650円で手軽に始められ、ゴルフの飛距離アップやボディメイクに役立ちます。隙間時間の有効活用に最適。'
+title: ごるとれジェリーロープGT-1402効果検証。自宅ストレッチと解剖学的アプローチ
+description: 「ごるトレ ジェリーロープ GT-1402」は、TPR素材のしなりで繊細な筋肉コントロールを可能にするトレーニンググッズ。1650円で手軽に始められ、ゴルフの飛距離アップやボディメイクに役立ちます。隙間時間の有効活用に最適。
 pubDate: '2026-07-21'
-heroImage: '/images/gorutore-jelly-rope-training-gt-1402.jpg'
-genre: '宅トレギア・小物'
+heroImage: /images/gorutore-jelly-rope-training-gt-1402.jpg
+genre: 宅トレギア・小物
 sidebarProducts:
   - title: 'ごるとれジェリーロープGT-1402効果検証'
     url: ''
     imageUrl: '/images/gorutore-jelly-rope-training-gt-1402.jpg'
     microCopy: '詳細を見る'
-  - title: '座って安心ワンツーステッパー ながらトレーニング ステッパー 下半身 エクササイズ ステップマシン 足踏み運動 クッション おしゃれ トレーニンググッズ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qzlt1.ve2q5828.g00qzlt1.ve2q6231/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foutlet-f%2Fa33923%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foutlet-f%2Fi%2F10016654%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600'
-    price: 3600
-    microCopy: '詳細を見る'
-  - title: 'ガビック スポーツ器具 メンズ レディース ウォーターバッグ GAVIC GC1222 体幹 トレーニング 筋トレ フィットネス トレーニンググッズ エクササイズ ギャビック 筋肉 ジム 健康 体力づくり|slz|'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F68312220%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10079600%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/6/68/6831/68312220-1.jpg?_ex=600x600'
-    price: 4245
-    microCopy: '詳細を見る'
-mediaType: 'gear'
+mediaType: gear
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

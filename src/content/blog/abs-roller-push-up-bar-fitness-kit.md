@@ -1,25 +1,15 @@
 ---
-title: '腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証'
-description: '現役トレーナー監修の腹筋ローラー＆プッシュアップバーセットが2580円！腹筋・大胸筋・体幹を効率的に鍛え、初心者から上級者まで効果を実感。静音設計で自宅トレーニングに最適、理想のボディを目指す男性・女性におすすめです。'
+title: 腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証
+description: 現役トレーナー監修の腹筋ローラー＆プッシュアップバーセットが2580円！腹筋・大胸筋・体幹を効率的に鍛え、初心者から上級者まで効果を実感。静音設計で自宅トレーニングに最適、理想のボディを目指す男性・女性におすすめです。
 pubDate: '2026-07-24'
-heroImage: '/images/abs-roller-push-up-bar-fitness-kit.jpg'
-genre: '宅トレギア・小物'
+heroImage: /images/abs-roller-push-up-bar-fitness-kit.jpg
+genre: 宅トレギア・小物
 sidebarProducts:
   - title: '腹筋ローラー＆プッシュアップバー'
     url: ''
     imageUrl: '/images/abs-roller-push-up-bar-fitness-kit.jpg'
     microCopy: '詳細を見る'
-  - title: '＼4,480円→3,999円＋300円OFF／◆1位獲得 MERACH 腹筋ローラー Pro 第三世代 超大画面スクリーン 膝マット付き アブローラー アシスト機能 自動リバウンド type-C充電 腹筋マシン 腹筋ローラー 第二世代 デジタルメーター 腹周り 胸筋 背 筋力 トレーニング 初心者'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600'
-    price: 3999
-    microCopy: '詳細を見る'
-  - title: '【楽天お買い物マラソン＆最大2000円クーポン】[楽天1冠獲得！] 腹筋ローラー 4輪式【自動リバウンドシステム】Abローラーホイール 膝マット付き 腹筋 体幹 スマートブレーキ トレーニング 軽量 男女兼用 ホームジム'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tgn81.ve2q5f00.g00tgn81.ve2q6343/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmilekankyo1%2Fkyoserhry%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmilekankyo1%2Fi%2F10000133%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/smilekankyo1/cabinet/12946552/compass1777451496.jpg?_ex=600x600'
-    price: 4580
-    microCopy: '詳細を見る'
-mediaType: 'gear'
+mediaType: gear
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

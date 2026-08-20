@@ -1,25 +1,15 @@
 ---
-title: 'VALX ホエイ プロテイン 1kg/420gで「筋肉分解抑制」！宅トレ効果を最大化する摂取戦略'
-description: 'VALX ホエイ プロテインは、高品質なホエイを77%配合したプロテイン。チョコレート・カフェオレなど豊富な味から選べ、宅トレで結果を出したい方の効率的な筋肉成長をサポート。自宅でのタンパク質補給に最適です。楽天で価格20,000円。'
+title: VALX ホエイ プロテイン 1kg/420gで「筋肉分解抑制」！宅トレ効果を最大化する摂取戦略
+description: VALX ホエイ プロテインは、高品質なホエイを77%配合したプロテイン。チョコレート・カフェオレなど豊富な味から選べ、宅トレで結果を出したい方の効率的な筋肉成長をサポート。自宅でのタンパク質補給に最適です。楽天で価格20,000円。
 pubDate: '2026-08-03'
-heroImage: '/images/valx-whey-protein-1kg-420g.jpg'
-genre: 'プロテイン'
+heroImage: /images/valx-whey-protein-1kg-420g.jpg
+genre: プロテイン
 sidebarProducts:
   - title: 'VALX ホエイ プロテイン 1kg'
     url: ''
     imageUrl: '/images/valx-whey-protein-1kg-420g.jpg'
     microCopy: '詳細を見る'
-  - title: '【ふるさと納税】＜選べる内容量＞明治 ザバス ホエイプロテイン100 トライアルタイプ リッチショコラ風味 1袋あたり10.5g / 280g / 450g / 980g / 2.2kg 1袋 / 2袋 / 3袋 / 18袋 / 36袋 計189g～計6.6kg ホエイプロテイン 飲料 ドリンク 健康食品 SAVAS 送料無料'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u13n1.ve2q50c8.g00u13n1.ve2q6485/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff332020-kurashiki%2F53161543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff332020-kurashiki%2Fi%2F10001493%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f332020-kurashiki/cabinet/11950930/r_150-0190_0.jpg?_ex=600x600'
-    price: 10000
-    microCopy: '詳細を見る'
-  - title: '◆ザバス ホエイプロテイン100 リッチショコラ 980g'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qvyf1.ve2q5fc6.g00qvyf1.ve2q6a97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4902777302102%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsundrug%2Fi%2F10045249%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/5/4902777302102.jpg?_ex=600x600'
-    price: 5180
-    microCopy: '詳細を見る'
-mediaType: 'protein'
+mediaType: protein
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

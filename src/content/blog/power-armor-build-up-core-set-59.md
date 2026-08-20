@@ -1,25 +1,15 @@
 ---
-title: 'POWER ARMOR ビルドアップコアセット59は宅トレ最適解か？解剖学的効果を検証！'
-description: 'POWER ARMOR ビルドアップコアセット59で宅トレを深化。アジャスタブルベンチと59kgダンベルで、自宅で全身を本格的に鍛えられます。限られたスペースで効率的に筋トレを深化させ、ジムに匹敵するトレーニング環境を39,380円で実現。'
+title: POWER ARMOR ビルドアップコアセット59は宅トレ最適解か？解剖学的効果を検証！
+description: POWER ARMOR ビルドアップコアセット59で宅トレを深化。アジャスタブルベンチと59kgダンベルで、自宅で全身を本格的に鍛えられます。限られたスペースで効率的に筋トレを深化させ、ジムに匹敵するトレーニング環境を39,380円で実現。
 pubDate: '2026-08-11'
-heroImage: '/images/power-armor-build-up-core-set-59.jpg'
-genre: '宅トレギア・小物'
+heroImage: /images/power-armor-build-up-core-set-59.jpg
+genre: 宅トレギア・小物
 sidebarProducts:
   - title: 'POWER ARMOR'
     url: ''
     imageUrl: '/images/power-armor-build-up-core-set-59.jpg'
     microCopy: '詳細を見る'
-  - title: 'アジャスタブルベンチ　業務用アジャスタブルベンチ　本格トレーニングマシン　AD2025　210'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tr0r1.ve2q5803.g00tr0r1.ve2q690f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fproshopjapan%2F10000088%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fproshopjapan%2Fi%2F10000092%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/proshopjapan/cabinet/08163909/08339159/imgrc0097446424.jpg?_ex=600x600'
-    price: 190000
-    microCopy: '詳細を見る'
-  - title: 'POWER ARMOR（パワーアーマー）ビルドアップコアセット49（アジャスタブルベンチ+アイアンダンベル49KGセット） / インクラインベンチ インクライン フラットインクライン ベンチプレス バーベル フラットベンチ トレーニング器具 プレスベンチ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Fpa-ab-i49%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10001391%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/powerarmor/paajb/bdac39.jpg?_ex=600x600'
-    price: 37290
-    microCopy: '詳細を見る'
-mediaType: 'gear'
+mediaType: gear
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

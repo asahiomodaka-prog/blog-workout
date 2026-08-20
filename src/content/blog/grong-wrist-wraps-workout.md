@@ -1,25 +1,15 @@
 ---
-title: 'グロング リストラップは宅トレ必須？手首の解剖学的安定と筋出力を検証！'
-description: 'グロング GronG リストラップは、ベンチプレスなど高重量の筋トレ時に手首を安定させ、怪我予防・パフォーマンス向上をサポート。耐久性2.5mm厚生地、密着性5cm面ファスナーでしっかり固定。30cm/60cmから選べ1,980円。'
+title: グロング リストラップは宅トレ必須？手首の解剖学的安定と筋出力を検証！
+description: グロング GronG リストラップは、ベンチプレスなど高重量の筋トレ時に手首を安定させ、怪我予防・パフォーマンス向上をサポート。耐久性2.5mm厚生地、密着性5cm面ファスナーでしっかり固定。30cm/60cmから選べ1,980円。
 pubDate: '2026-07-26'
-heroImage: '/images/grong-wrist-wraps-workout.jpg'
-genre: '宅トレギア・小物'
+heroImage: /images/grong-wrist-wraps-workout.jpg
+genre: 宅トレギア・小物
 sidebarProducts:
   - title: 'グロング リストラップは宅トレ必須 手首の'
     url: ''
     imageUrl: '/images/grong-wrist-wraps-workout.jpg'
     microCopy: '詳細を見る'
-  - title: 'VOLIX レバーアクションベルト ナロータイプ 【待ち時間0秒のワンタッチ着脱】 トレーニングベルト 筋トレ ベルト トレーニングギア リフティングベルト スクワット デッドリフト ベンチプレス 男女兼用 送料無料 ケガ予防'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00unen1.ve2q5328.g00unen1.ve2q6da2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvolix%2Fnarrowbelt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvolix%2Fi%2F10000008%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/volix/cabinet/11470098/aj2_20486.jpg?_ex=600x600'
-    price: 14980
-    microCopy: '詳細を見る'
-  - title: 'アディダス adidas トレーニングギア パフォーマンスウエイトリフティングベルト L ADGB‐12287 トレーニング 筋トレ 宅トレ ジム ボディーケア ADGB12287'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qp7x1.ve2q5c41.g00qp7x1.ve2q6ee6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspg-sports%2Fpra-adgb12287%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspg-sports%2Fi%2F12321148%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/spg-sports/cabinet/images1283/pra-adgb12287_1.jpg?_ex=600x600'
-    price: 5500
-    microCopy: '詳細を見る'
-mediaType: 'gear'
+mediaType: gear
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -1,23 +1,15 @@
 ---
-title: 'WPC 100%ナチュラルホエイプロテインは宅トレに必須か？解剖学から筋肉合成を検証'
-description: 'ふるさと納税でも人気のWPC 100%ナチュラルホエイプロテイン。解剖学から筋肉合成を科学的に検証し、効率的な筋肥大メカニズムと宅トレ効果を最大化する摂取戦略を解説。'
+title: WPC 100%ナチュラルホエイプロテインは宅トレに必須か？解剖学から筋肉合成を検証
+description: ふるさと納税でも人気のWPC 100%ナチュラルホエイプロテイン。解剖学から筋肉合成を科学的に検証し、効率的な筋肥大メカニズムと宅トレ効果を最大化する摂取戦略を解説。
 pubDate: '2026-07-12'
-heroImage: '/images/wpc-whey-protein-home-workout.jpg'
-genre: 'プロテイン'
+heroImage: /images/wpc-whey-protein-home-workout.jpg
+genre: プロテイン
 sidebarProducts:
   - title: 'WPC'
     url: ''
     imageUrl: '/images/wpc-whey-protein-home-workout.jpg'
     microCopy: '詳細を見る'
-  - title: '【ふるさと納税】＜選べる内容量＞明治 ザバス ホエイプロテイン100 トライアルタイプ リッチショコラ風味 1袋あたり10.5g / 280g / 450g / 980g / 2.2kg 1袋 / 2袋 / 3袋 / 18袋 / 36袋 計189g～計6.6kg ホエイプロテイン 飲料 ドリンク 健康食品 SAVAS 送料無料'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u13n1.ve2q50c8.g00u13n1.ve2q6485/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff332020-kurashiki%2F53161543%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff332020-kurashiki%2Fi%2F10001493%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f332020-kurashiki/cabinet/11950930/r_150-0190_0.jpg?_ex=600x600'
-    price: 10500
-  - title: '【LINE登録で最大1000円OFF】プロテイン ビーレジェンド ホエイプロテイン 女性 男性 WPC チョコ ベリー バナナ メロン 抹茶 鬼レモン ピーチ ヨーグルト マンゴー ミックスジュース 選べる2種セット900g ×2袋 ゲリラ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblco%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10000903%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/realstyle4u/cabinet/shouhin/blco_line.jpg?_ex=600x600'
-    price: 11598
-mediaType: 'protein'
+mediaType: protein
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

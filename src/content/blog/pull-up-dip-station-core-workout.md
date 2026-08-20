@@ -1,25 +1,15 @@
 ---
-title: 'ぶら下がり健康器 懸垂マシンは宅トレの核！全身を解剖学的に鍛え尽くす多機能性'
-description: '自宅で本格的な筋トレを。ぶら下がり健康器・懸垂マシンは、懸垂とベンチプレスラック、バーベルスタンドが1台に集約。科学的筋肥大をサポートし、高さ調節も可能。楽天で11,550円。'
+title: ぶら下がり健康器 懸垂マシンは宅トレの核！全身を解剖学的に鍛え尽くす多機能性
+description: 自宅で本格的な筋トレを。ぶら下がり健康器・懸垂マシンは、懸垂とベンチプレスラック、バーベルスタンドが1台に集約。科学的筋肥大をサポートし、高さ調節も可能。楽天で11,550円。
 pubDate: '2026-07-15'
-heroImage: '/images/pull-up-dip-station-core-workout.jpg'
-genre: '大型器具・ベンチ'
+heroImage: /images/pull-up-dip-station-core-workout.jpg
+genre: 大型器具・ベンチ
 sidebarProducts:
   - title: 'ぶら下がり健康器 懸垂マシンは宅トレの核'
     url: ''
     imageUrl: '/images/pull-up-dip-station-core-workout.jpg'
     microCopy: '詳細を見る'
-  - title: '＼10%OFFクーポン／【送料無料】ぶら下がり健康器 ぶらさがり健康器 懸垂マシン 筋トレ トレーニング 健康 器具 コンパクト 懸垂 バー チンニングマシン ダイエット クッション付き マルチジム 腹筋 腕立て 背筋 フィットネス クリスマス プレゼント ギフト de025'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00s5hn1.ve2q5047.g00s5hn1.ve2q6e5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice-zk%2Fde025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falice-zk%2Fi%2F10002814%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/d/de025.jpg?_ex=600x600'
-    price: 12579
-    microCopy: '詳細を見る'
-  - title: '懸垂 懸垂マシン 筋トレ グッズ 女性 男性 懸垂マシーン ぶら下がり健康器 ドア 器具 ぶら下がり マシン ぶらさがり健康器 チンニング チンニングバー チンニングマシン トレーニング器具 プッシュアップバー ギフト プレゼント'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00trtl1.ve2q5749.g00trtl1.ve2q62fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsyuno888%2Fxx195%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsyuno888%2Fi%2F10033677%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/syuno888/cabinet/x4-85/xx195-0.jpg?_ex=600x600'
-    price: 14880
-    microCopy: '詳細を見る'
-mediaType: 'machine'
+mediaType: machine
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

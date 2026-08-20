@@ -1,25 +1,15 @@
 ---
-title: '本当に効く？4輪式Abローラーが体幹を劇的に変える解剖学的効果を検証'
-description: '「腹筋ローラー 4輪式 Abローラーホイール 膝マット付き」で体幹強化！4580円。2輪式で不安定・腰が不安な初心者も、頑丈な4輪設計と膝マットで安全に深く腹筋を刺激。横揺れ・転倒不安を解消し、効果を実感できます。'
+title: 本当に効く？4輪式Abローラーが体幹を劇的に変える解剖学的効果を検証
+description: 「腹筋ローラー 4輪式 Abローラーホイール 膝マット付き」で体幹強化！4580円。2輪式で不安定・腰が不安な初心者も、頑丈な4輪設計と膝マットで安全に深く腹筋を刺激。横揺れ・転倒不安を解消し、効果を実感できます。
 pubDate: '2026-08-15'
-heroImage: '/images/ab-roller-4-wheel-knee-mat.jpg'
-genre: '宅トレギア・小物'
+heroImage: /images/ab-roller-4-wheel-knee-mat.jpg
+genre: 宅トレギア・小物
 sidebarProducts:
   - title: '本当に効く'
     url: ''
     imageUrl: '/images/ab-roller-4-wheel-knee-mat.jpg'
     microCopy: '詳細を見る'
-  - title: '【600円OFF＆スーパーDEAL＆P10倍】◆1位獲得 MERACH 腹筋ローラー Pro 第三世代 超大画面スクリーン 膝マット付き アブローラー アシスト機能 自動リバウンド type-C充電 腹筋マシン 腹筋ローラー 第二世代 デジタルメーター 腹周り 胸筋 背 筋力 トレーニング 初心者'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600'
-    price: 3999
-    microCopy: '詳細を見る'
-  - title: '＼楽天ランキング1位／【現役トレーナーが監修】 腹筋ローラー プッシュアップバー アブローラー 腹筋 ローラー 腕立て伏せ 体幹 大胸筋 鍛える トレーニング 筋トレ ダイエット 女性 男性 初心者 エクササイズ グッズ フィットネス 筋肉 静音'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tpal1.ve2q5e45.g00tpal1.ve2q66ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftcconlineshop%2Fset_001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftcconlineshop%2Fi%2F10000016%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tcconlineshop/cabinet/08713206/compass1690191596.jpg?_ex=600x600'
-    price: 2580
-    microCopy: '詳細を見る'
-mediaType: 'gear'
+mediaType: gear
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

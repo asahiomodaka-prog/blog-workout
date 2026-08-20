@@ -1,23 +1,15 @@
 ---
-title: 'uFit Training Tubeが解剖学的に証明！自宅で「最強の身体」を作る科学的理由'
-description: '自宅で筋肥大を効率的に。uFit Training Tubeは解剖学的に証明された科学に基づき、最適な可動域と負荷曲線で「最強の身体」を構築。3480円で重いウェイト不要の革命的トレーニングをRakutenで始めませんか。'
+title: uFit Training Tubeが解剖学的に証明！自宅で「最強の身体」を作る科学的理由
+description: 自宅で筋肥大を効率的に。uFit Training Tubeは解剖学的に証明された科学に基づき、最適な可動域と負荷曲線で「最強の身体」を構築。3480円で重いウェイト不要の革命的トレーニングをRakutenで始めませんか。
 pubDate: '2026-07-09'
-heroImage: '/images/ufit-training-tube-science-home-workout.jpg'
-genre: '宅トレギア・小物'
+heroImage: /images/ufit-training-tube-science-home-workout.jpg
+genre: 宅トレギア・小物
 sidebarProducts:
   - title: 'uFit Training Tubeが'
     url: ''
     imageUrl: '/images/ufit-training-tube-science-home-workout.jpg'
     microCopy: '詳細を見る'
-  - title: '《37％OFFクーポンで2,507円〜》トレーニングチューブ 5本セット 強度別 エクササイズバンド ストレッチ ゴムバンド 筋トレ 懸垂 チューブ トレーニング ループ ループバンド ちゅーぶ ゴムチューブ レジスタンスバンド シェイプアップ 体操 リハビリ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00sceo1.ve2q59b4.g00sceo1.ve2q697e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhonest-online%2Fgetfit-training-tube-5set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhonest-online%2Fi%2F10000731%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/honest-online/cabinet/08451362/08792667/main.jpg?_ex=600x600'
-    price: 3980
-  - title: 'トレーニングチューブ 強度別 セット トレーニング 動画 STEADY ゴムバンド エクササイズバンド フィットネスチューブ レジスタンスバンド フィットネス ST108 ST109 ST110 ST111 ST112 ST113 ST114'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00saul1.ve2q5b2f.g00saul1.ve2q6e15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftkms%2F138268269%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftkms%2Fi%2F10000635%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/12855415/12862747/imgrc0099549860.jpg?_ex=600x600'
-    price: 1290
-mediaType: 'gear'
+mediaType: gear
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

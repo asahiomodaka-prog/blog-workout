@@ -1,25 +1,15 @@
 ---
-title: 'トレーニングベンチ新型は宅トレ必須か？筋肥大を最大化する解剖学的メリット'
-description: 'グラつかない安定感が魅力！改良モデルのトレーニングベンチ新型は、極太パイプ＆耐荷重500kgで自宅での高重量トレをサポート。3WAY角度調節、折りたたみ可能で省スペース。組み立て不要で今なら5880円（8/11迄SALE価格）。宅トレの質を高めたい方へ。'
+title: トレーニングベンチ新型は宅トレ必須か？筋肥大を最大化する解剖学的メリット
+description: グラつかない安定感が魅力！改良モデルのトレーニングベンチ新型は、極太パイプ＆耐荷重500kgで自宅での高重量トレをサポート。3WAY角度調節、折りたたみ可能で省スペース。組み立て不要で今なら5880円（8/11迄SALE価格）。宅トレの質を高めたい方へ。
 pubDate: '2026-08-05'
-heroImage: '/images/new-improved-training-bench.jpg'
-genre: '大型器具・ベンチ'
+heroImage: /images/new-improved-training-bench.jpg
+genre: 大型器具・ベンチ
 sidebarProducts:
   - title: 'トレーニングベンチ新型は宅トレ必須か'
     url: ''
     imageUrl: '/images/new-improved-training-bench.jpg'
     microCopy: '詳細を見る'
-  - title: '8/5限定！10%OFFクーポン 【楽天1位】マルチポジションベンチ 耐荷重300kg 高重量 角度調整 コンパクト 折りたたみ 高耐久 組立簡単 ベンチプレス 腹筋 筋トレ トレーニング 本格的 自宅 ホームジム トレーニングベンチ インクラインベンチ デクラインベンチ TR0805'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F9651513090034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11270054%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/9651/9651513090034.jpg?_ex=600x600'
-    price: 15990
-    microCopy: '詳細を見る'
-  - title: '★期間限定10倍ポイントあり★トレーニングベンチ インクラインベンチ ダンベル ベンチ 組立超簡単 角度調節可能 折り畳みり式 収納便利 フラットベンチ 耐荷重227KG 筋トレ 家庭用 日本語説明書【メーカー保証：1年間】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbc-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600'
-    price: 6999
-    microCopy: '詳細を見る'
-mediaType: 'machine'
+mediaType: machine
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

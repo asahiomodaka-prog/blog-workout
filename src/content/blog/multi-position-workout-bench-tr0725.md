@@ -1,25 +1,15 @@
 ---
-title: 'TR0725マルチポジションベンチを自宅に導入すべき理由。解剖学的メリットとコスパを検証'
-description: '自宅での本格トレーニングに。耐荷重300kgを誇るマルチポジションベンチ（TR0725）は、ベンチプレスや腹筋に最適です。フラット・インクライン・デクラインの6段階角度調整に加え、コンパクトに折りたたみ可能。楽天で15,990円で手に入ります。'
+title: TR0725マルチポジションベンチを自宅に導入すべき理由。解剖学的メリットとコスパを検証
+description: 自宅での本格トレーニングに。耐荷重300kgを誇るマルチポジションベンチ（TR0725）は、ベンチプレスや腹筋に最適です。フラット・インクライン・デクラインの6段階角度調整に加え、コンパクトに折りたたみ可能。楽天で15,990円で手に入ります。
 pubDate: '2026-07-25'
-heroImage: '/images/multi-position-workout-bench-tr0725.jpg'
-genre: '大型器具・ベンチ'
+heroImage: /images/multi-position-workout-bench-tr0725.jpg
+genre: 大型器具・ベンチ
 sidebarProducts:
   - title: 'TR0725マルチポジションベンチを自宅に導'
     url: ''
     imageUrl: '/images/multi-position-workout-bench-tr0725.jpg'
     microCopy: '詳細を見る'
-  - title: '★期間限定10倍ポイントあり★トレーニングベンチ インクラインベンチ ダンベル ベンチ 組立超簡単 角度調節可能 折り畳みり式 収納便利 フラットベンチ 耐荷重227KG 筋トレ 家庭用 日本語説明書【メーカー保証：1年間】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbc-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600'
-    price: 6999
-    microCopy: '詳細を見る'
-  - title: '【◆マラソン 5%OFFクーポン】【ベンチランキング1位獲得】 トレーニングベンチ 耐荷重330kg 独自のBack Protection 角度調整 折りたたみ 組立簡単 【保証365日】 STEADY ステディ 筋トレ ベンチ フラットベンチ ST123'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00saul1.ve2q5b2f.g00saul1.ve2q6e15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftkms%2Fst123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftkms%2Fi%2F10000869%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/12855415/12862747/st123.jpg?_ex=600x600'
-    price: 10490
-    microCopy: '詳細を見る'
-mediaType: 'machine'
+mediaType: machine
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

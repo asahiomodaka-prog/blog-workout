@@ -1,25 +1,15 @@
 ---
-title: 'ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！'
-description: 'ミズノのダンベルボール「ボルレッチ ディズニー」は、可愛いデザインと柔らかな触り心地で宅トレをサポート。リビングに置いても馴染むインテリア性で、二の腕や肩の引き締め運動が手軽に続けられます。持ち運びに便利な袋付きで4183円。'
+title: ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！
+description: ミズノのダンベルボール「ボルレッチ ディズニー」は、可愛いデザインと柔らかな触り心地で宅トレをサポート。リビングに置いても馴染むインテリア性で、二の腕や肩の引き締め運動が手軽に続けられます。持ち運びに便利な袋付きで4183円。
 pubDate: '2026-07-30'
-heroImage: '/images/mizuno-dumbbell-ball-workout.jpg'
-genre: 'ダンベル・バーベル'
+heroImage: /images/mizuno-dumbbell-ball-workout.jpg
+genre: ダンベル・バーベル
 sidebarProducts:
   - title: 'ミズノ ダンベルボールは 宅トレ効果を'
     url: ''
     imageUrl: '/images/mizuno-dumbbell-ball-workout.jpg'
     microCopy: '詳細を見る'
-  - title: '座って安心ワンツーステッパー ながらトレーニング ステッパー 下半身 エクササイズ ステップマシン 足踏み運動 クッション おしゃれ トレーニンググッズ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qzlt1.ve2q5828.g00qzlt1.ve2q6231/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foutlet-f%2Fa33923%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foutlet-f%2Fi%2F10016654%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600'
-    price: 3600
-    microCopy: '詳細を見る'
-  - title: 'ガビック スポーツ器具 メンズ レディース ウォーターバッグ GAVIC GC1222 体幹 トレーニング 筋トレ フィットネス トレーニンググッズ エクササイズ ギャビック 筋肉 ジム 健康 体力づくり|slz|'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F68312220%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10079600%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/z-sports/cabinet/6/68/6831/68312220-1.jpg?_ex=600x600'
-    price: 4033
-    microCopy: '詳細を見る'
-mediaType: 'dumbbell'
+mediaType: dumbbell
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
