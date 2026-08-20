@@ -23,10 +23,10 @@ mediaType: 'dumbbell'
 <!-- PR -->
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -34,15 +34,15 @@ mediaType: 'dumbbell'
 <div class="product-widget-card">
   <img src="/images/home-workout-bench-dumbbell-max-body-1.png" alt="home-workout-bench-dumbbell-max" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25AA%25E3%2581%259C%25E4%25BB%258A%25E3%2580%2581%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25EF%25BC%258B%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2583%25A1%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25AA%25E3%2581%259C%25E4%25BB%258A%25E3%2580%2581%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25EF%25BC%258B%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2583%25A1%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -54,23 +54,23 @@ mediaType: 'dumbbell'
 
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-      <img src="/images/home-workout-bench-dumbbell-max-body-2.jpg" alt="home-workout-bench-dumbbell-max" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
-    </a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
+<img src="/images/home-workout-bench-dumbbell-max-body-2.jpg" alt="home-workout-bench-dumbbell-max" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+</a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
-    <span style="align-self: flex-start; font-size: 0.65rem; font-weight: 800; padding: 0.15rem 0.5rem; border-radius: 9999px; background-color: #fee2e2; color: #dc2626; border: 1px solid #fca5a5; text-transform: uppercase; font-family: sans-serif;">
-      楽天市場
-    </span>
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="font-size: 0.95rem; font-weight: 700; color: #1e293b; text-decoration: none; line-height: 1.4; display: block; margin: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
-      なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化
-    </a>
-    <div style="font-size: 1.1rem; color: #dc2626; font-weight: 800; margin: 0;">
-      オープン価格
-    </div>
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-      詳細を見る
-    </a>
+<span style="align-self: flex-start; font-size: 0.65rem; font-weight: 800; padding: 0.15rem 0.5rem; border-radius: 9999px; background-color: #fee2e2; color: #dc2626; border: 1px solid #fca5a5; text-transform: uppercase; font-family: sans-serif;">
+楽天市場
+</span>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="font-size: 0.95rem; font-weight: 700; color: #1e293b; text-decoration: none; line-height: 1.4; display: block; margin: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化
+</a>
+<div style="font-size: 1.1rem; color: #dc2626; font-weight: 800; margin: 0;">
+オープン価格
+</div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
+詳細を見る
+</a>
   </div>
 </div>
 
@@ -127,14 +127,14 @@ mediaType: 'dumbbell'
 #### 科学的メリットの紐解き
 
 *   **トレーニングベンチによるFull ROMの確保:**
-    トレーニングベンチは、フラットからインクラインまで、複数段階の角度調整が可能です。
-    これにより、ダンベルプレス、ダンベルフライ、ショルダープレスなどにおいて、床で行うよりもはるかに深い可動域を確保できます。
-    特に大胸筋の伸展位での負荷を最大化することで、前述の「可動域の最大化と筋肥大の関係」の恩恵を最大限に受けることが可能になるでしょう。
-    また、ベンチがあることで、ダンベルロウイングのような背中の種目でも、体を安定させ、よりターゲット筋群に集中したフォームを維持しやすくなります。
+トレーニングベンチは、フラットからインクラインまで、複数段階の角度調整が可能です。
+これにより、ダンベルプレス、ダンベルフライ、ショルダープレスなどにおいて、床で行うよりもはるかに深い可動域を確保できます。
+特に大胸筋の伸展位での負荷を最大化することで、前述の「可動域の最大化と筋肥大の関係」の恩恵を最大限に受けることが可能になるでしょう。
+また、ベンチがあることで、ダンベルロウイングのような背中の種目でも、体を安定させ、よりターゲット筋群に集中したフォームを維持しやすくなります。
 *   **可変式ダンベルによる漸進性過負荷の実現:**
-    重量調整が容易な可変式ダンベルは、筋力向上に合わせて細かく負荷を調整できるため、自宅でも漸進性過負荷の原則を継続的に実践できます。
-    この柔軟性は、筋肥大の停滞を防ぎ、持続的な成長を促す上で不可欠です。
-    省スペースでコンパクトに収納できる点は、自宅トレーニングにおける実用性も兼ね備えていると言えるでしょう。
+重量調整が容易な可変式ダンベルは、筋力向上に合わせて細かく負荷を調整できるため、自宅でも漸進性過負荷の原則を継続的に実践できます。
+この柔軟性は、筋肥大の停滞を防ぎ、持続的な成長を促す上で不可欠です。
+省スペースでコンパクトに収納できる点は、自宅トレーニングにおける実用性も兼ね備えていると言えるでしょう。
 
 これらの特性により、このセットは自宅でのトレーニング効果を解剖学的・生理学的に最適化するための強力な組み合わせになると考えられます。
 
@@ -159,16 +159,16 @@ mediaType: 'dumbbell'
 自宅でのトレーニング環境を整える上で、このセットは非常に有効ですが、客観的な視点からいくつかの注意点も考慮しておくべきです。
 
 1.  **スペースの確保:**
-    可変式ダンベルは単体のダンベルセットより省スペースではありますが、トレーニングベンチと合わせるとそれなりの専有面積が必要になります。使用しない時の収納スペースも考慮に入れる必要があるでしょう。
+可変式ダンベルは単体のダンベルセットより省スペースではありますが、トレーニングベンチと合わせるとそれなりの専有面積が必要になります。使用しない時の収納スペースも考慮に入れる必要があるでしょう。
 2.  **初期投資:**
-    26,500円という価格は、決して安価な買い物ではありません。しかし、ジムの月額費用や、多数の固定重量ダンベルを揃えるコストと比べた場合、長期的な視点で見れば、自宅で継続的にトレーニングを行うための合理的な投資となり得ます。
+26,500円という価格は、決して安価な買い物ではありません。しかし、ジムの月額費用や、多数の固定重量ダンベルを揃えるコストと比べた場合、長期的な視点で見れば、自宅で継続的にトレーニングを行うための合理的な投資となり得ます。
 3.  **高重量トレーニングの限界と安全性:**
-    可変式ダンベルとはいえ、ジムに常備されているような超高重量のフリーウェイトには及ばない場合があります。
-    また、セーフティラックがないため、特に高重量のダンベルプレスを行う際には、無理な重量設定を避け、安全に配慮することが大切です。
-    一人で追い込む際には、フォームの崩れや、潰れてしまった際のリスクを常に意識しておく必要があるでしょう。
+可変式ダンベルとはいえ、ジムに常備されているような超高重量のフリーウェイトには及ばない場合があります。
+また、セーフティラックがないため、特に高重量のダンベルプレスを行う際には、無理な重量設定を避け、安全に配慮することが大切です。
+一人で追い込む際には、フォームの崩れや、潰れてしまった際のリスクを常に意識しておく必要があるでしょう。
 4.  **特定の種目への制約:**
-    バーベルスクワットやデッドリフトのような、全身の連動性や非常に高重量を扱う種目には、このセットだけでは対応しきれない場合があります。
-    これらは自宅で安全に行うのが難しいため、ジムでの実施を検討するか、ダンベルで代替できる種目（ダンベルスクワット、ルーマニアンデッドリフトなど）に限定して行う必要があるでしょう。
+バーベルスクワットやデッドリフトのような、全身の連動性や非常に高重量を扱う種目には、このセットだけでは対応しきれない場合があります。
+これらは自宅で安全に行うのが難しいため、ジムでの実施を検討するか、ダンベルで代替できる種目（ダンベルスクワット、ルーマニアンデッドリフトなど）に限定して行う必要があるでしょう。
 
 これらのデメリットは、自宅トレーニング全般に共通するものであり、それぞれのライフスタイルや目標に応じて割り切るべき点と言えます。
 

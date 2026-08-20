@@ -23,10 +23,10 @@ mediaType: 'protein'
 <!-- PR -->
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -34,15 +34,15 @@ mediaType: 'protein'
 <div class="product-widget-card">
   <img src="/images/wpc-whey-protein-home-workout-body-1.png" alt="wpc-whey-protein-home-workout" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">WPC 100%ナチュラルホエイプロテインは宅トレに必須か？解剖学から筋肉合成を検証</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWPC%2520100%2525%25E3%2583%258A%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AB%25E5%25BF%2585%25E9%25A0%2588%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E3%2581%258B%25E3%2582%2589%25E7%25AD%258B%25E8%2582%2589%25E5%2590%2588%25E6%2588%2590%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">WPC 100%ナチュラルホエイプロテインは宅トレに必須か？解剖学から筋肉合成を検証</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWPC%2520100%2525%25E3%2583%258A%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AB%25E5%25BF%2585%25E9%25A0%2588%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E3%2581%258B%25E3%2582%2589%25E7%25AD%258B%25E8%2582%2589%25E5%2590%2588%25E6%2588%2590%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -54,23 +54,23 @@ mediaType: 'protein'
 
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00tj2w1.ve2q5921.g00tj2w1.ve2q6a9a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff092088-oyama%2F1425745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff092088-oyama%2Fi%2F10000517%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-      <img src="/images/wpc-whey-protein-home-workout-body-2.jpg" alt="wpc-whey-protein-home-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
-    </a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00tj2w1.ve2q5921.g00tj2w1.ve2q6a9a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff092088-oyama%2F1425745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff092088-oyama%2Fi%2F10000517%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
+<img src="/images/wpc-whey-protein-home-workout-body-2.jpg" alt="wpc-whey-protein-home-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+</a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
-    <span style="align-self: flex-start; font-size: 0.65rem; font-weight: 800; padding: 0.15rem 0.5rem; border-radius: 9999px; background-color: #fee2e2; color: #dc2626; border: 1px solid #fca5a5; text-transform: uppercase; font-family: sans-serif;">
-      楽天市場
-    </span>
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00tj2w1.ve2q5921.g00tj2w1.ve2q6a9a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff092088-oyama%2F1425745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff092088-oyama%2Fi%2F10000517%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="font-size: 0.95rem; font-weight: 700; color: #1e293b; text-decoration: none; line-height: 1.4; display: block; margin: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
-      WPC 100%ナチュラルホエイプロテイン
-    </a>
-    <div style="font-size: 1.1rem; color: #dc2626; font-weight: 800; margin: 0;">
-      30,000円
-    </div>
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00tj2w1.ve2q5921.g00tj2w1.ve2q6a9a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff092088-oyama%2F1425745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff092088-oyama%2Fi%2F10000517%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-      詳細を見る
-    </a>
+<span style="align-self: flex-start; font-size: 0.65rem; font-weight: 800; padding: 0.15rem 0.5rem; border-radius: 9999px; background-color: #fee2e2; color: #dc2626; border: 1px solid #fca5a5; text-transform: uppercase; font-family: sans-serif;">
+楽天市場
+</span>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00tj2w1.ve2q5921.g00tj2w1.ve2q6a9a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff092088-oyama%2F1425745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff092088-oyama%2Fi%2F10000517%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="font-size: 0.95rem; font-weight: 700; color: #1e293b; text-decoration: none; line-height: 1.4; display: block; margin: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+WPC 100%ナチュラルホエイプロテイン
+</a>
+<div style="font-size: 1.1rem; color: #dc2626; font-weight: 800; margin: 0;">
+30,000円
+</div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00tj2w1.ve2q5921.g00tj2w1.ve2q6a9a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff092088-oyama%2F1425745%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff092088-oyama%2Fi%2F10000517%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
+詳細を見る
+</a>
   </div>
 </div>
 

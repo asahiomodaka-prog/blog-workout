@@ -31,10 +31,10 @@ mediaType: 'dumbbell'
 
 このプレートは、握力の限界を克服し、精密な重量調整を可能にし、さらには静かで安全なトレーニング環境を実現することで、あなたの自宅トレーニングを次のレベルへと引き上げてくれるでしょう。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -42,15 +42,15 @@ mediaType: 'dumbbell'
 <div class="product-widget-card">
   <img src="/images/rubber-weight-plate-body-1.png" alt="rubber-weight-plate" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">大手ジム採用ラバープレートが解剖学的負荷を最大化する科学的根拠</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E6%2589%258B%25E3%2582%25B8%25E3%2583%25A0%25E6%258E%25A1%25E7%2594%25A8%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2581%258C%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E6%25A0%25B9%25E6%258B%25A0" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">大手ジム採用ラバープレートが解剖学的負荷を最大化する科学的根拠</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E6%2589%258B%25E3%2582%25B8%25E3%2583%25A0%25E6%258E%25A1%25E7%2594%25A8%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2581%258C%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E6%25A0%25B9%25E6%258B%25A0" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -66,23 +66,23 @@ mediaType: 'dumbbell'
 
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00up8x1.ve2q5d5b.g00up8x1.ve2q65c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitness-item-center%2Fvbp0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitness-item-center%2Fi%2F10000044%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-      <img src="/images/rubber-weight-plate-body-2.jpg" alt="rubber-weight-plate" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
-    </a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00up8x1.ve2q5d5b.g00up8x1.ve2q65c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitness-item-center%2Fvbp0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitness-item-center%2Fi%2F10000044%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
+<img src="/images/rubber-weight-plate-body-2.jpg" alt="rubber-weight-plate" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+</a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
-    <span style="align-self: flex-start; font-size: 0.65rem; font-weight: 800; padding: 0.15rem 0.5rem; border-radius: 9999px; background-color: #fee2e2; color: #dc2626; border: 1px solid #fca5a5; text-transform: uppercase; font-family: sans-serif;">
-      楽天市場
-    </span>
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00up8x1.ve2q5d5b.g00up8x1.ve2q65c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitness-item-center%2Fvbp0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitness-item-center%2Fi%2F10000044%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="font-size: 0.95rem; font-weight: 700; color: #1e293b; text-decoration: none; line-height: 1.4; display: block; margin: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
-      大手ジム採用ラバープレートが解剖学的負荷を最大化する科学的根拠
-    </a>
-    <div style="font-size: 1.1rem; color: #dc2626; font-weight: 800; margin: 0;">
-      1,600円
-    </div>
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00up8x1.ve2q5d5b.g00up8x1.ve2q65c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitness-item-center%2Fvbp0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitness-item-center%2Fi%2F10000044%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-      詳細を見る
-    </a>
+<span style="align-self: flex-start; font-size: 0.65rem; font-weight: 800; padding: 0.15rem 0.5rem; border-radius: 9999px; background-color: #fee2e2; color: #dc2626; border: 1px solid #fca5a5; text-transform: uppercase; font-family: sans-serif;">
+楽天市場
+</span>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00up8x1.ve2q5d5b.g00up8x1.ve2q65c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitness-item-center%2Fvbp0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitness-item-center%2Fi%2F10000044%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="font-size: 0.95rem; font-weight: 700; color: #1e293b; text-decoration: none; line-height: 1.4; display: block; margin: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+大手ジム採用ラバープレートが解剖学的負荷を最大化する科学的根拠
+</a>
+<div style="font-size: 1.1rem; color: #dc2626; font-weight: 800; margin: 0;">
+1,600円
+</div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00up8x1.ve2q5d5b.g00up8x1.ve2q65c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffitness-item-center%2Fvbp0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffitness-item-center%2Fi%2F10000044%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
+詳細を見る
+</a>
   </div>
 </div>
 
@@ -91,10 +91,10 @@ mediaType: 'dumbbell'
 上記の科学的根拠を踏まえると、自宅でのトレーニングで筋肥大を追求するためには、以下の2つの原則を忠実に守ることが大切です。
 
 1.  **全可動域での動作の徹底**
-    目的とする筋肉が最大限に伸長され、最大限に収縮するまで動作を行うことが重要です。例えば、スクワットであれば股関節を深く下ろし、大腿四頭筋や臀筋をしっかりと伸長させること。背中のトレーニング（例：[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)ロウやラットプルダウン）であれば、腕を十分に伸ばして肩甲骨の可動域を最大限に活用し、広背筋を大きくストレッチさせるようにします。これにより、筋肉の伸長位での負荷をしっかりと確保し、筋肥大のシグナルを最大限に引き出すことを狙います。
+目的とする筋肉が最大限に伸長され、最大限に収縮するまで動作を行うことが重要です。例えば、スクワットであれば股関節を深く下ろし、大腿四頭筋や臀筋をしっかりと伸長させること。背中のトレーニング（例：[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)ロウやラットプルダウン）であれば、腕を十分に伸ばして肩甲骨の可動域を最大限に活用し、広背筋を大きくストレッチさせるようにします。これにより、筋肉の伸長位での負荷をしっかりと確保し、筋肥大のシグナルを最大限に引き出すことを狙います。
 
 2.  **漸進性過負荷（Progressive Overload）の継続**
-    筋肉が環境に適応し、成長していくためには、常に新たな、そして少しずつ高い負荷を与え続ける必要があります。これは、単に重量を増やすだけでなく、レップ数やセット数を増やしたり、動作のテンポ（例：ネガティブ動作をゆっくり行う）を調整したり、可動域をさらに深めたり、セット間の休憩時間を短くしたりすることでも実現できます。自宅でのトレーニング環境では、ジムのように簡単に重量を増やせないと考える人もいますが、これは工夫次第で十分に克服可能です。常に筋肉に新たな刺激を与え続けることで、筋力と筋量の着実な向上を目指しましょう。
+筋肉が環境に適応し、成長していくためには、常に新たな、そして少しずつ高い負荷を与え続ける必要があります。これは、単に重量を増やすだけでなく、レップ数やセット数を増やしたり、動作のテンポ（例：ネガティブ動作をゆっくり行う）を調整したり、可動域をさらに深めたり、セット間の休憩時間を短くしたりすることでも実現できます。自宅でのトレーニング環境では、ジムのように簡単に重量を増やせないと考える人もいますが、これは工夫次第で十分に克服可能です。常に筋肉に新たな刺激を与え続けることで、筋力と筋量の着実な向上を目指しましょう。
 
 ### 自宅トレーニングにおける握力と目的筋へのアプローチ
 
@@ -104,15 +104,15 @@ mediaType: 'dumbbell'
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-    <div style="font-size: 0.75rem; font-weight: bold; color: #166534; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #166534; line-height: 1.4;">💪 遺伝子検査×完全マンツーマンのオンラインジム</h3>
-    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【CLOUD GYM / クラウドジム】</div>
-    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">自宅にいながら元ライザップ等のトップトレーナーがマンツーマン指導。あなたのDNAタイプに合わせたオーダーメイドの食事・トレーニングプランを提供！</p>
-    <div style="text-align: center;">
-        <a href="https://px.a8.net/svt/ejp?a8mat=3TXXXX+DYYYYY+2ZZZZ+6WWWW" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
-            👉 無料体験トレーニングを試してみる
-        </a>
-    </div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #166534; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #166534; line-height: 1.4;">💪 遺伝子検査×完全マンツーマンのオンラインジム</h3>
+<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【CLOUD GYM / クラウドジム】</div>
+<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">自宅にいながら元ライザップ等のトップトレーナーがマンツーマン指導。あなたのDNAタイプに合わせたオーダーメイドの食事・トレーニングプランを提供！</p>
+<div style="text-align: center;">
+<a href="https://px.a8.net/svt/ejp?a8mat=3TXXXX+DYYYYY+2ZZZZ+6WWWW" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+👉 無料体験トレーニングを試してみる
+</a>
+</div>
 </div>
 
 
@@ -173,10 +173,10 @@ mediaType: 'dumbbell'
 
 これらの点は、自宅トレーニングを本格的に始める上で、ご自身の環境や予算と照らし合わせて客観的に評価していただくことをおすすめします。
 
-    </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -184,40 +184,40 @@ mediaType: 'dumbbell'
 <div class="product-widget-card">
   <img src="/images/rubber-weight-plate-body-1.png" alt="rubber-weight-plate" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">大手ジム採用ラバープレートが解剖学的負荷を最大化する科学的根拠</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E6%2589%258B%25E3%2582%25B8%25E3%2583%25A0%25E6%258E%25A1%25E7%2594%25A8%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2581%258C%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E6%25A0%25B9%25E6%258B%25A0" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">大手ジム採用ラバープレートが解剖学的負荷を最大化する科学的根拠</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E6%2589%258B%25E3%2582%25B8%25E3%2583%25A0%25E6%258E%25A1%25E7%2594%25A8%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2581%258C%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E8%25B2%25A0%25E8%258D%25B7%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E6%25A0%25B9%25E6%258B%25A0" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 <div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-        
-        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
-            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の栄養補給に最適</div>
-            <div style="display: flex; gap: 6px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-            </div>
-        </div>
-        
-        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / グローブ</div>
-            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">握力を補助して高重量を安全に扱う</div>
-            <div style="display: flex; gap: 6px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-            </div>
-        </div>
-        
-    </div>
+<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の栄養補給に最適</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+</div>
+</div>
+
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / グローブ</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">握力を補助して高重量を安全に扱う</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+</div>
+</div>
+
+</div>
 </div>
 
 

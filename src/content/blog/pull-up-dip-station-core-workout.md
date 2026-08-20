@@ -24,9 +24,9 @@ mediaType: 'machine'
 ---
 
 </div>
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -34,15 +34,15 @@ mediaType: 'machine'
 <div class="product-widget-card">
   <img src="/images/pull-up-dip-station-core-workout-body-1.png" alt="pull-up-dip-station-core-workout" class="widget-img" loading="lazy" />
   <div class="widget-info">
-    <h4 class="widget-title">ぶら下がり健康器 懸垂マシンは宅トレの核！全身を解剖学的に鍛え尽くす多機能性</h4>
-    
-    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%25A0%25B8%25EF%25BC%2581%25E5%2585%25A8%25E8%25BA%25AB%25E3%2582%2592%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E9%258D%259B%25E3%2581%2588%25E5%25B0%25BD%25E3%2581%258F%25E3%2581%2599%25E5%25A4%259A%25E6%25A9%259F%25E8%2583%25BD%25E6%2580%25A7" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<h4 class="widget-title">ぶら下がり健康器 懸垂マシンは宅トレの核！全身を解剖学的に鍛え尽くす多機能性</h4>
+
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%25A0%25B8%25EF%25BC%2581%25E5%2585%25A8%25E8%25BA%25AB%25E3%2582%2592%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E9%258D%259B%25E3%2581%2588%25E5%25B0%25BD%25E3%2581%258F%25E3%2581%2599%25E5%25A4%259A%25E6%25A9%259F%25E8%2583%25BD%25E6%2580%25A7" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
-    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-    </div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+</div>
 </div>
 
 
@@ -53,23 +53,23 @@ mediaType: 'machine'
 
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060272%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-      <img src="/images/pull-up-dip-station-core-workout-body-2.jpg" alt="pull-up-dip-station-core-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
-    </a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060272%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
+<img src="/images/pull-up-dip-station-core-workout-body-2.jpg" alt="pull-up-dip-station-core-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+</a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
-    <span style="align-self: flex-start; font-size: 0.65rem; font-weight: 800; padding: 0.15rem 0.5rem; border-radius: 9999px; background-color: #fee2e2; color: #dc2626; border: 1px solid #fca5a5; text-transform: uppercase; font-family: sans-serif;">
-      楽天市場
-    </span>
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060272%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="font-size: 0.95rem; font-weight: 700; color: #1e293b; text-decoration: none; line-height: 1.4; display: block; margin: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
-      ぶら下がり健康器 懸垂マシン ベンチプレスラック バーベルスタンド 高さ210cm 耐荷重180kg ラック耐荷重120kg チンニング マシン ダンベル バーベル トレーニング 筋トレ 懸垂 腹筋 器具 チンニングバー ストレッチ
-    </a>
-    <div style="font-size: 1.1rem; color: #dc2626; font-weight: 800; margin: 0;">
-      11,550円
-    </div>
-    <a href="https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060272%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-      楽天市場で商品詳細＆レビューをチェック
-    </a>
+<span style="align-self: flex-start; font-size: 0.65rem; font-weight: 800; padding: 0.15rem 0.5rem; border-radius: 9999px; background-color: #fee2e2; color: #dc2626; border: 1px solid #fca5a5; text-transform: uppercase; font-family: sans-serif;">
+楽天市場
+</span>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060272%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="font-size: 0.95rem; font-weight: 700; color: #1e293b; text-decoration: none; line-height: 1.4; display: block; margin: 0; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+ぶら下がり健康器 懸垂マシン ベンチプレスラック バーベルスタンド 高さ210cm 耐荷重180kg ラック耐荷重120kg チンニング マシン ダンベル バーベル トレーニング 筋トレ 懸垂 腹筋 器具 チンニングバー ストレッチ
+</a>
+<div style="font-size: 1.1rem; color: #dc2626; font-weight: 800; margin: 0;">
+11,550円
+</div>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060272%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
+楽天市場で商品詳細＆レビューをチェック
+</a>
   </div>
 </div>
 
@@ -112,23 +112,23 @@ European Journal of Sport Science (2014) や Sports Medicine (2020) のレビュ
 
 *   **懸垂（チンニング）**
 
-    広背筋をはじめとする背中の筋肉と上腕二頭筋を効率的に鍛える、代表的な種目の一つです。自重を負荷とし、全身の連動性を使って行うため、高い負荷を筋肉に与えることができます。
-    このマシンのチンニングバーは耐荷重180kgと設計されており、自重だけでなく、必要に応じて加重ベストやプレートを使って漸進性過負荷をかけることも視野に入れられます。
-    また、高い位置にあるバーによって、最大可動域での動作が容易になり、広背筋のストレッチを最大限に活用できます。
+広背筋をはじめとする背中の筋肉と上腕二頭筋を効率的に鍛える、代表的な種目の一つです。自重を負荷とし、全身の連動性を使って行うため、高い負荷を筋肉に与えることができます。
+このマシンのチンニングバーは耐荷重180kgと設計されており、自重だけでなく、必要に応じて加重ベストやプレートを使って漸進性過負荷をかけることも視野に入れられます。
+また、高い位置にあるバーによって、最大可動域での動作が容易になり、広背筋のストレッチを最大限に活用できます。
 
 *   **バーベルスタンド機能（スクワット、ベンチプレス、デッドリフト）**
 
     *   **スクワット**
-        下半身全体、特に大腿四頭筋、大臀筋、ハムストリングを鍛える多関節運動の王道です。バーベルを担いで行うスクワットは、自重スクワットでは得られない強いメカニカルテンションを筋肉に与え、漸進性過負荷の実現を強力にサポートします。
-        このラックの高さ調節機能は、バーベルのスタートポジションを適切に設定し、安全にセットアップとラックアップを行う上で不可欠な要素です。
+下半身全体、特に大腿四頭筋、大臀筋、ハムストリングを鍛える多関節運動の王道です。バーベルを担いで行うスクワットは、自重スクワットでは得られない強いメカニカルテンションを筋肉に与え、漸進性過負荷の実現を強力にサポートします。
+このラックの高さ調節機能は、バーベルのスタートポジションを適切に設定し、安全にセットアップとラックアップを行う上で不可欠な要素です。
 
     *   **ベンチプレス**
-        大胸筋、三角筋前部、上腕三頭筋を鍛える代表的な種目です。自宅でバーベルベンチプレスを行う際、ラックがあることで、バーベルを安全に持ち上げ、限界まで追い込むことが可能になります。
-        もしセーフティバー（別売りのベンチに付属する場合が多い）があれば、さらに安全性が高まるでしょう。ラックの高さ調節は、ベンチの高さや個人の体格に合わせて、無理のないスタートポジションを確保するために役立ちます。
+大胸筋、三角筋前部、上腕三頭筋を鍛える代表的な種目です。自宅でバーベルベンチプレスを行う際、ラックがあることで、バーベルを安全に持ち上げ、限界まで追い込むことが可能になります。
+もしセーフティバー（別売りのベンチに付属する場合が多い）があれば、さらに安全性が高まるでしょう。ラックの高さ調節は、ベンチの高さや個人の体格に合わせて、無理のないスタートポジションを確保するために役立ちます。
 
     *   **デッドリフト**
-        全身の筋力を鍛える非常に効果的な多関節運動です。このラックのベンチプレスラックを最下段に取り付けることで、デッドリフトのスタートポジションとしてバーベルをセットアップすることも可能です。
-        地面から直接引き上げるのに近い感覚で、より重い重量を安全に扱えるようになります。
+全身の筋力を鍛える非常に効果的な多関節運動です。このラックのベンチプレスラックを最下段に取り付けることで、デッドリフトのスタートポジションとしてバーベルをセットアップすることも可能です。
+地面から直接引き上げるのに近い感覚で、より重い重量を安全に扱えるようになります。
 
 また、幅広のフレームとロックピン・固定ネジによるダブルロック構造は、トレーニング中の安定性を高める重要なポイントです。高重量を扱う際の不必要な揺れや不安要素を排除することは、トレーニングフォームへの集中力維持と、結果として効率的な筋刺激につながります。
 本体の脚部に設けられた4本のプレートポールは、バーベルプレートを整理して収納できるため、トレーニングスペースを有効活用し、スムーズな重量変更を可能にしてくれます。
