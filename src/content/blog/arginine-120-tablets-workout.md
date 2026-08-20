@@ -2,7 +2,7 @@
 title: '宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する'
 description: '宅トレを最大化する『アルギニン 120粒』。シトルリンとクラチャイダム配合で、血流促進・疲労回復をサポートし、筋肉の成長とパフォーマンス維持に貢献。楽天で1000円のお手頃価格。科学的エビデンスに基づいた効果と活用法を解説します。'
 pubDate: '2026-07-17'
-heroImage: '../../assets/images/arginine-120-tablets-workout.jpg'
+heroImage: '/images/arginine-120-tablets-workout.jpg'
 genre: 'サプリメント・栄養'
 sidebarProducts:
   - title: 'スピードシェイプ フォーメン シュット 150粒 燃焼系 サプリメント ダイエット ジムサプリ トレーニングサプリ みなぎるサプリ'

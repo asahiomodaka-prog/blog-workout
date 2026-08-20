@@ -2,7 +2,7 @@
 title: 'VALX ホエイ プロテイン 1kg/420gで「筋肉分解抑制」！宅トレ効果を最大化する摂取戦略'
 description: 'VALX ホエイ プロテインは、高品質なホエイを77%配合したプロテイン。チョコレート・カフェオレなど豊富な味から選べ、宅トレで結果を出したい方の効率的な筋肉成長をサポート。自宅でのタンパク質補給に最適です。楽天で価格20,000円。'
 pubDate: '2026-08-03'
-heroImage: '../../assets/images/valx-whey-protein-1kg-420g.jpg'
+heroImage: '/images/valx-whey-protein-1kg-420g.jpg'
 genre: 'プロテイン'
 sidebarProducts:
   - title: 'プロテイン WPC エクスプロージョン 3kg ミルクチョコレート味 ホエイプロテイン 3キロ 最安値 大容量 筋肉 タンパク質 高たんぱく 運動 ダイエット 置き換え 男性 女性 子供 こども'

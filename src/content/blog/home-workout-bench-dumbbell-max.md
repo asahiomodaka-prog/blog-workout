@@ -2,7 +2,7 @@
 title: 'なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化'
 description: '「なぜ今？」宅トレ効果を最大化するトレーニングベンチ＋可変式ダンベルのメリット・デメリットを徹底解説。科学的アプローチによる解剖学的メリット、価格・スペック、実際に使った感想まで網羅し、効率的な筋トレを実現します。'
 pubDate: '2026-07-11'
-heroImage: '../../assets/images/home-workout-bench-dumbbell-max.jpg'
+heroImage: '/images/home-workout-bench-dumbbell-max.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【LINE200円OFFクーポン×15日はポイント10倍】グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 筋トレ ベンチプレス 手首補助 男女兼用 洗濯可能 左右セット'

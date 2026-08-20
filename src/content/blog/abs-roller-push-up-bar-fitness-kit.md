@@ -2,7 +2,7 @@
 title: '腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証'
 description: '現役トレーナー監修の腹筋ローラー＆プッシュアップバーセットが2580円！腹筋・大胸筋・体幹を効率的に鍛え、初心者から上級者まで効果を実感。静音設計で自宅トレーニングに最適、理想のボディを目指す男性・女性におすすめです。'
 pubDate: '2026-07-24'
-heroImage: '../../assets/images/abs-roller-push-up-bar-fitness-kit.jpg'
+heroImage: '/images/abs-roller-push-up-bar-fitness-kit.jpg'
 genre: '宅トレギア・小物'
 sidebarProducts:
   - title: '【楽天ランキング三冠受賞】腹筋ローラー SOOMLOOM 正規品 腹筋 アブローラー トレーニング ダイエット 器具 筋トレ 腹筋トレーニング 超静音 膝マット付き ボディビル 静か ダイエット マシン エクササイズ 初心者 おすすめ'

@@ -2,7 +2,7 @@
 title: 'ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！'
 description: 'ミズノのダンベルボール「ボルレッチ ディズニー」は、可愛いデザインと柔らかな触り心地で宅トレをサポート。リビングに置いても馴染むインテリア性で、二の腕や肩の引き締め運動が手軽に続けられます。持ち運びに便利な袋付きで4183円。'
 pubDate: '2026-07-30'
-heroImage: '../../assets/images/mizuno-dumbbell-ball-workout.jpg'
+heroImage: '/images/mizuno-dumbbell-ball-workout.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '朝日ゴルフ用品 ごるトレ ジェリーロープ Jelly Rope GT-1402 トレーニンググッズ'

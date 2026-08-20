@@ -2,7 +2,7 @@
 title: '停滞期打破！ダンベルプレートが宅トレの筋肥大効率を最大化する解剖学的根拠'
 description: 'ダンベル・バーベル用プレートで自宅トレの質UP！1430円から楽天で手軽に購入可能。床への衝撃音や傷を軽減し、細かな重量調整で効率的に負荷アップ。宅トレ初心者から上級者まで、最適なプレート選びをサポートします。'
 pubDate: '2026-08-07'
-heroImage: '../../assets/images/dumbbell-barbell-plates.jpg'
+heroImage: '/images/dumbbell-barbell-plates.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '■大手24時間ジムも導入■バーベルプレート 1.25kg/2.5kg/5kg/10kg/15kg/20kg/25kg ラバープレート シャフト直径50mm フルラバーカバー オリンピックバーベル対応 単体使用可 頑丈 筋トレ ウェイトリフティング ラバー製 オールラバー パワーリフティング 重り'

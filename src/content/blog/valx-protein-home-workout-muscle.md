@@ -2,7 +2,7 @@
 title: 'VALX プロテインで宅トレを科学する！効率的な筋肉合成のメカニズム'
 description: '自宅での筋肥大、限界を感じていませんか？VALXプロテインと科学的アプローチで宅トレ効果を最大化。フル可動域トレーニングや最適なタンパク質摂取の最新エビデンスで、効率的な筋肉合成メカニズムを解説します。'
 pubDate: '2026-07-05'
-heroImage: '../../assets/images/valx-protein-home-workout-muscle.jpg'
+heroImage: '/images/valx-protein-home-workout-muscle.jpg'
 genre: 'プロテイン'
 sidebarProducts:
   - title: '【LINE200円OFFクーポン×15日はポイント10倍】グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 筋トレ ベンチプレス 手首補助 男女兼用 洗濯可能 左右セット'

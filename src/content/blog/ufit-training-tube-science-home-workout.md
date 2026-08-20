@@ -2,7 +2,7 @@
 title: 'uFit Training Tubeが解剖学的に証明！自宅で「最強の身体」を作る科学的理由'
 description: '自宅で筋肥大を効率的に。uFit Training Tubeは解剖学的に証明された科学に基づき、最適な可動域と負荷曲線で「最強の身体」を構築。3480円で重いウェイト不要の革命的トレーニングをRakutenで始めませんか。'
 pubDate: '2026-07-09'
-heroImage: '../../assets/images/ufit-training-tube-science-home-workout.jpg'
+heroImage: '/images/ufit-training-tube-science-home-workout.jpg'
 genre: '宅トレギア・小物'
 sidebarProducts:
   - title: 'PROIRON レジスタンスバンド 抵抗バンド フィットネスチューブ トレーニング バンド 天然ラテックス製 トレーニングチューブ 懸垂補助 破損を防ぐために厚く'

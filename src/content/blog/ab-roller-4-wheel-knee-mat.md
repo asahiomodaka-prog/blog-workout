@@ -2,7 +2,7 @@
 title: '本当に効く？4輪式Abローラーが体幹を劇的に変える解剖学的効果を検証'
 description: '「腹筋ローラー 4輪式 Abローラーホイール 膝マット付き」で体幹強化！4580円。2輪式で不安定・腰が不安な初心者も、頑丈な4輪設計と膝マットで安全に深く腹筋を刺激。横揺れ・転倒不安を解消し、効果を実感できます。'
 pubDate: '2026-08-15'
-heroImage: '../../assets/images/ab-roller-4-wheel-knee-mat.jpg'
+heroImage: '/images/ab-roller-4-wheel-knee-mat.jpg'
 genre: '宅トレギア・小物'
 sidebarProducts:
   - title: '【楽天ランキング三冠受賞】腹筋ローラー SOOMLOOM 正規品 腹筋 アブローラー トレーニング ダイエット 器具 筋トレ 腹筋トレーニング 超静音 膝マット付き ボディビル 静か ダイエット マシン エクササイズ 初心者 おすすめ'

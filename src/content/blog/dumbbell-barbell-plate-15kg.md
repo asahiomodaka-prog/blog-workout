@@ -2,7 +2,7 @@
 title: 'ダンベル プレート バーベル 15kgを自宅に導入すべき理由。筋肥大と実用性を科学的に検証！'
 description: '宅トレの伸び悩みを打破。ダンベル プレート バーベル 15kgで、既存ダンベルやバーベルの負荷を簡単にUP！筋力・筋量アップへ導く高負荷トレーニングを実現します。楽天で6,980円と手頃な価格で、あなたの筋トレを加速。'
 pubDate: '2026-08-12'
-heroImage: '../../assets/images/dumbbell-barbell-plate-15kg.jpg'
+heroImage: '/images/dumbbell-barbell-plate-15kg.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '■大手24時間ジムも導入■バーベルプレート 1.25kg/2.5kg/5kg/10kg/15kg/20kg/25kg ラバープレート シャフト直径50mm フルラバーカバー オリンピックバーベル対応 単体使用可 頑丈 筋トレ ウェイトリフティング ラバー製 オールラバー パワーリフティング 重り'

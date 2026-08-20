@@ -2,7 +2,7 @@
 title: 'WPC 100%ナチュラルホエイプロテインは宅トレに必須か？解剖学から筋肉合成を検証'
 description: 'ふるさと納税でも人気のWPC 100%ナチュラルホエイプロテイン。解剖学から筋肉合成を科学的に検証し、効率的な筋肥大メカニズムと宅トレ効果を最大化する摂取戦略を解説。'
 pubDate: '2026-07-12'
-heroImage: '../../assets/images/wpc-whey-protein-home-workout.jpg'
+heroImage: '/images/wpc-whey-protein-home-workout.jpg'
 genre: 'プロテイン'
 sidebarProducts:
   - title: 'プロテイン WPC エクスプロージョン 3kg ミルクチョコレート味 ホエイプロテイン 3キロ 最安値 大容量 筋肉 タンパク質 高たんぱく 運動 ダイエット 置き換え 男性 女性 子供 こども'

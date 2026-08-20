@@ -2,7 +2,7 @@
 title: 'PROIRONダンベルを宅トレで使う科学的理由！選ぶべき重量と効率化の秘訣'
 description: 'PROIRONダンベルは1599円から。1kg～10kgの豊富な重量で初心者も安心。ソフトコーティング加工と転がりにくいフラットデザインで、宅トレでの使いやすさ、安全性を追求したダンベルセットのメリット・デメリットを解説します。'
 pubDate: '2026-08-01'
-heroImage: '../../assets/images/proiron-dumbbell-set-soft-coating.jpg'
+heroImage: '/images/proiron-dumbbell-set-soft-coating.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【★5レビュー2,000件超の高評価 】ダンベル 可変式ダンベル 24kg 筋トレ ダンベル可変式 アジャスタブルダンベル 鉄アレ 自宅トレーニング'

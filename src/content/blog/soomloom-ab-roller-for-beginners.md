@@ -2,7 +2,7 @@
 title: 'SOOMLOOM腹筋ローラーは宅トレ初心者向けか？静音と膝マットで腹筋を割る解剖学的根拠'
 description: '「SOOMLOOM 腹筋ローラー」で効率的な腹筋トレーニング！超静音設計と膝マット付きで、初心者でも自宅で本格的な筋トレ・ダイエットが可能です。科学的根拠に基づき、腹筋に最大の効果をもたらすアブローラーを1350円で手に入れよう。'
 pubDate: '2026-07-19'
-heroImage: '../../assets/images/soomloom-ab-roller-for-beginners.jpg'
+heroImage: '/images/soomloom-ab-roller-for-beginners.jpg'
 genre: '宅トレギア・小物'
 sidebarProducts:
   - title: '◆1位獲得 MERACH 腹筋ローラー Pro 第三世代 超大画面スクリーン 膝マット付き アブローラー アシスト機能 自動リバウンド type-C充電 腹筋マシン 腹筋ローラー 第二世代 デジタルメーター 腹周り 胸筋 背 筋力 トレーニング 初心者'

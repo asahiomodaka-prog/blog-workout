@@ -2,7 +2,7 @@
 title: '可変式ダンベル24kgは自宅筋トレの最適解！省スペースと瞬時重量変更のメリットを徹底検証'
 description: '2秒で重量変更可能な24kg可変式ダンベル2個セットが9280円！15段階調整で全身を効率よく鍛えられ、省スペースで自宅筋トレに最適。初心者から上級者まで、時間短縮と効果的なトレーニングを両立します。'
 pubDate: '2026-07-28'
-heroImage: '../../assets/images/variable-dumbbell-24kg-workout.jpg'
+heroImage: '/images/variable-dumbbell-24kg-workout.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '可変式ダンベル24kgは自宅筋トレの最適解！省スペースと瞬時重量変更のメリットを徹底検証'

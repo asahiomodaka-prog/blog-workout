@@ -2,7 +2,7 @@
 title: 'ごるとれジェリーロープGT-1402効果検証。自宅ストレッチと解剖学的アプローチ'
 description: '「ごるトレ ジェリーロープ GT-1402」は、TPR素材のしなりで繊細な筋肉コントロールを可能にするトレーニンググッズ。1650円で手軽に始められ、ゴルフの飛距離アップやボディメイクに役立ちます。隙間時間の有効活用に最適。'
 pubDate: '2026-07-21'
-heroImage: '../../assets/images/gorutore-jelly-rope-training-gt-1402.jpg'
+heroImage: '/images/gorutore-jelly-rope-training-gt-1402.jpg'
 genre: '宅トレギア・小物'
 sidebarProducts:
   - title: 'ミズノ トレーニンググッズ メンズ レディース ダンベルボール ボルレッチ ディズニー（2個入り） MIZUNO C3JHI202 ミッキー ミニー チップ デール キャラクター インテリア スポーツ トレーニング 筋トレ 筋肉 ジム フィットネス|slz|'

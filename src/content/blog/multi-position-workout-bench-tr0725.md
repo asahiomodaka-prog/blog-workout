@@ -2,7 +2,7 @@
 title: 'TR0725マルチポジションベンチを自宅に導入すべき理由。解剖学的メリットとコスパを検証'
 description: '自宅での本格トレーニングに。耐荷重300kgを誇るマルチポジションベンチ（TR0725）は、ベンチプレスや腹筋に最適です。フラット・インクライン・デクラインの6段階角度調整に加え、コンパクトに折りたたみ可能。楽天で15,990円で手に入ります。'
 pubDate: '2026-07-25'
-heroImage: '../../assets/images/multi-position-workout-bench-tr0725.jpg'
+heroImage: '/images/multi-position-workout-bench-tr0725.jpg'
 genre: '大型器具・ベンチ'
 sidebarProducts:
   - title: '■7/27迄 お買い物マラソン■ 改良モデル トレーニングベンチ新型 3WAY 耐荷重300kg ベンチプレス台 ホームジム トレーニングマシン 折り畳み 折りたたみ 筋トレ 自宅 腹筋 コンパクト'

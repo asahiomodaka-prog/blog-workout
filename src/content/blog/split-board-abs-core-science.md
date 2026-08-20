@@ -2,7 +2,7 @@
 title: 'トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム'
 description: '「トレーニングボード解体新書 分離式」は、腰・首の負担を減らし腹筋と体幹を科学的に鍛えます。最新エビデンスに基づくフルROMで筋肥大を最大化。従来の腹筋運動に挫折した方も、6980円で理想の腹筋を！楽天で詳細をチェック。'
 pubDate: '2026-07-05'
-heroImage: '../../assets/images/split-board-abs-core-science.jpg'
+heroImage: '/images/split-board-abs-core-science.jpg'
 genre: '宅トレギア・小物'
 sidebarProducts:
   - title: '【LINE200円OFFクーポン×15日はポイント10倍】グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 筋トレ ベンチプレス 手首補助 男女兼用 洗濯可能 左右セット'

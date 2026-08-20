@@ -2,7 +2,7 @@
 title: '可変式ダンベルは自宅ジムの最適解か？解剖学から導く導入メリット'
 description: 'Motions可変式ダンベルPRO/従来モデルは、自宅筋トレに最適な24kg/40kg対応。片手で瞬時重量変更でき、省スペースで本格的なホームジムを実現。楽天で9,750円から購入可能。効率的なトレーニングで理想の身体へ。'
 pubDate: '2026-08-10'
-heroImage: '../../assets/images/adjustable-dumbbell-24kg-40kg.jpg'
+heroImage: '/images/adjustable-dumbbell-24kg-40kg.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【★5レビュー2,000件超の高評価 】ダンベル 可変式ダンベル 24kg 筋トレ ダンベル可変式 アジャスタブルダンベル 鉄アレ 自宅トレーニング'

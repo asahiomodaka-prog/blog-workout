@@ -2,7 +2,7 @@
 title: 'インクラインベンチが自宅に必須な理由。胸筋上部を”効かせる”解剖学'
 description: '自宅で本格筋トレを。折りたたみトレーニングベンチが、インクライン・ダンベル・腹筋運動を安全かつ効率的にサポートします。横揺れ防止で安定性抜群、フォームを改善し狙った筋肉を刺激。省スペース設計で6999円。快適な宅トレで、理想の身体を目指しませんか？'
 pubDate: '2026-08-06'
-heroImage: '../../assets/images/incline-dumbbell-bench.jpg'
+heroImage: '/images/incline-dumbbell-bench.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '■8/11迄 SALE価格■ 改良モデル トレーニングベンチ新型 3WAY 耐荷重300kg ベンチプレス台 ホームジム トレーニングマシン 折り畳み 折りたたみ 筋トレ 自宅 腹筋 コンパクト'

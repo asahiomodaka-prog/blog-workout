@@ -2,7 +2,7 @@
 title: 'ぶら下がり健康器 懸垂マシンは宅トレの核！全身を解剖学的に鍛え尽くす多機能性'
 description: '自宅で本格的な筋トレを。ぶら下がり健康器・懸垂マシンは、懸垂とベンチプレスラック、バーベルスタンドが1台に集約。科学的筋肥大をサポートし、高さ調節も可能。楽天で11,550円。'
 pubDate: '2026-07-15'
-heroImage: '../../assets/images/pull-up-dip-station-core-workout.jpg'
+heroImage: '/images/pull-up-dip-station-core-workout.jpg'
 genre: '大型器具・ベンチ'
 sidebarProducts:
   - title: '【大人気商品】ケーブルマシン ナロータイプ ケーブルクロスオーバー ケーブルアタッチメント ケーブル トレーニング 器具 ケーブルクロスマシン 懸垂 チンニングマシン 業務用 MB-CXM-N BoDYLINK (ボディリンク)'

@@ -2,7 +2,7 @@
 title: 'トレーニングベンチ新型は宅トレ必須か？筋肥大を最大化する解剖学的メリット'
 description: 'グラつかない安定感が魅力！改良モデルのトレーニングベンチ新型は、極太パイプ＆耐荷重500kgで自宅での高重量トレをサポート。3WAY角度調節、折りたたみ可能で省スペース。組み立て不要で今なら5880円（8/11迄SALE価格）。宅トレの質を高めたい方へ。'
 pubDate: '2026-08-05'
-heroImage: '../../assets/images/new-improved-training-bench.jpg'
+heroImage: '/images/new-improved-training-bench.jpg'
 genre: '大型器具・ベンチ'
 sidebarProducts:
   - title: '【◆5%OFFクーポン】【ベンチランキング1位獲得】 トレーニングベンチ 耐荷重330kg 独自のBack Protection 角度調整 折りたたみ 組立簡単 【保証365日】 STEADY ステディ 筋トレ ベンチ フラットベンチ ST123'

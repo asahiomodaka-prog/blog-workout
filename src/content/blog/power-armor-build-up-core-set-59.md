@@ -2,7 +2,7 @@
 title: 'POWER ARMOR ビルドアップコアセット59は宅トレ最適解か？解剖学的効果を検証！'
 description: 'POWER ARMOR ビルドアップコアセット59で宅トレを深化。アジャスタブルベンチと59kgダンベルで、自宅で全身を本格的に鍛えられます。限られたスペースで効率的に筋トレを深化させ、ジムに匹敵するトレーニング環境を39,380円で実現。'
 pubDate: '2026-08-11'
-heroImage: '../../assets/images/power-armor-build-up-core-set-59.jpg'
+heroImage: '/images/power-armor-build-up-core-set-59.jpg'
 genre: '宅トレギア・小物'
 sidebarProducts:
   - title: 'POWER ARMOR（パワーアーマー）ビルドアップコアセット39（アジャスタブルベンチ+アイアンダンベル39KGセット） / インクラインベンチ インクライン フラットインクライン ベンチプレス バーベル フラットベンチ トレーニング器具 プレスベンチ'

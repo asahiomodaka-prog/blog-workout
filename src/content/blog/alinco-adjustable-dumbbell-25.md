@@ -2,7 +2,7 @@
 title: 'アジャスタブルダンベル25は本当に必要？宅トレ効果を最大化する科学的根拠'
 description: '自宅での筋トレ効率に悩む方へ。アルインコのアジャスタブルダンベル25/EXG422は、1台で2〜25kgの重量調整を実現。省スペースで本格的な筋トレ・ダイエットを叶え、あなたのトレーニングを次のレベルへと導きます。'
 pubDate: '2026-08-14'
-heroImage: '../../assets/images/alinco-adjustable-dumbbell-25.jpg'
+heroImage: '/images/alinco-adjustable-dumbbell-25.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【★5レビュー2,000件超の高評価 】ダンベル 可変式ダンベル 24kg 筋トレ ダンベル可変式 アジャスタブルダンベル 鉄アレ 自宅トレーニング'

@@ -2,7 +2,7 @@
 title: 'PROIRON パワーグリップ：なぜ「狙った筋肉」を逃さない？宅トレ解剖学の真実'
 description: '宅トレで背中を追い込めない「握力ボトルネック」を解決！PROIRON パワーグリップは、科学的根拠と解剖学に基づき、狙った筋肉を逃さず効率的な筋肥大を促進します。自宅でのトレーニング効果を劇的に高める秘密を徹底解説。'
 pubDate: '2026-07-13'
-heroImage: '../../assets/images/proiron-power-grip.jpg'
+heroImage: '/images/proiron-power-grip.jpg'
 genre: '宅トレギア・小物'
 sidebarProducts:
   - title: '【LINE200円OFFクーポン×15日はポイント10倍】グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 筋トレ ベンチプレス 手首補助 男女兼用 洗濯可能 左右セット'

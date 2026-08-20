@@ -2,7 +2,7 @@
 title: 'アルインコ FA221Yの真価。解剖学で解き明かす「効く」宅トレの極意'
 description: 'アルインコ FA221Yで宅トレが変わる！42000円で科学的根拠に基づく筋肥大最大化法を解説。背中トレの握力限界を解決し、自宅で効率的な成果を目指す方法がわかる。'
 pubDate: '2026-07-05'
-heroImage: '../../assets/images/alinco-fa221y-anatomy-workout.jpg'
+heroImage: '/images/alinco-fa221y-anatomy-workout.jpg'
 genre: '大型器具・ベンチ'
 sidebarProducts:
   - title: '【LINE200円OFFクーポン×15日はポイント10倍】グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 筋トレ ベンチプレス 手首補助 男女兼用 洗濯可能 左右セット'

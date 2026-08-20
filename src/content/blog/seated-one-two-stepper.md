@@ -2,7 +2,7 @@
 title: '座って安心ワンツーステッパーを導入すべき理由。宅トレ下半身強化の科学的メリット'
 description: '「座って安心ワンツーステッパー」で下半身エクササイズ。3600円で座ったまま手軽に「ながらトレーニング」を始められます。膝への負担が少なく、安定性に優れ、運動が苦手な方や座りっぱなしの方に最適。軽量コンパクトで組み立て不要、届いてすぐに理想のスタイルへ。楽天で購入可能。'
 pubDate: '2026-08-08'
-heroImage: '../../assets/images/seated-one-two-stepper.jpg'
+heroImage: '/images/seated-one-two-stepper.jpg'
 genre: '大型器具・ベンチ'
 sidebarProducts:
   - title: '朝日ゴルフ用品 ごるトレ ジェリーロープ Jelly Rope GT-1402 トレーニンググッズ'

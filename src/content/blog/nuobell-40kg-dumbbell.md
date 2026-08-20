@@ -2,7 +2,7 @@
 title: '宅トレの限界突破！NUOBELL 40kgが叶える漸進性過負荷と解剖学的成長'
 description: '宅トレの筋肥大を最大化したい方へ。NUOBELL 40kg可変式ダンベルは、科学的な漸進性過負荷を自宅で実現。2kg刻み調整で手首負担を抑え、フォーム安定。省スペースで安全かつ効率的に高重量トレーニングが可能です。'
 pubDate: '2026-07-07'
-heroImage: '../../assets/images/nuobell-40kg-dumbbell.jpg'
+heroImage: '/images/nuobell-40kg-dumbbell.jpg'
 genre: 'ダンベル・バーベル'
 sidebarProducts:
   - title: '【10人に1人がタダ！10%OFFクーポン！マラソン期間】可変式ダンベル 【当店限定グリップ改良】 選べるPRO/従来モデル 24kg/40kg 単品/2個セット | ローレット加工グリップ アジャスタブルダンベル 筋トレ ホームジム ウエイトトレーニング 省スペース 静音 MotionsFit'
