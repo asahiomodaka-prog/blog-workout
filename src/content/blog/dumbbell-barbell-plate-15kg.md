@@ -38,7 +38,7 @@ mediaType: 'dumbbell'
   <div class="widget-info">
 <h4 class="widget-title">ダンベル プレート バーベル 15kgを自宅に導入すべき理由。筋肥大と実用性を科学的に検証！</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%252015kg%25E3%2582%2592%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AB%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2581%25B9%25E3%2581%258D%25E7%2590%2586%25E7%2594%25B1%25E3%2580%2582%25E7%25AD%258B%25E8%2582%25A5%25E5%25A4%25A7%25E3%2581%25A8%25E5%25AE%259F%25E7%2594%25A8%25E6%2580%25A7%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddumbbell%2520barbell%2520plate%252015kg" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ mediaType: 'dumbbell'
   </ul>
 </div>
 
-自宅トレーニングで、もう一歩先の成長を感じたいのに、なかなか負荷を上げられない。既存の[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)では物足りなさを感じる――そんな経験はありませんか？多くの宅トレ愛好家が直面するこの「伸び悩み」は、筋力向上を目指す上で避けて通れない課題です。
+自宅トレーニングで、もう一歩先の成長を感じたいのに、なかなか負荷を上げられない。既存の[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddumbbell%2520barbell%2520plate%252015kg
 
 この停滞を打破し、自宅で効率的な高負荷トレーニングを実現する具体的な解決策の一つが、「ダンベル プレート バーベル 15kg」です。この追加プレートは、既存のダンベルやバーベルに装着するだけで、手軽にトレーニングの質を高め、筋力・筋量アップへの新たな一歩を踏み出せる、コストパフォーマンスに優れたアイテムと言えるでしょう。特に、自宅で効率的に高負荷トレーニングを実現したい宅トレ愛好家にとって、その価値は計り知れません。
 
@@ -202,7 +202,7 @@ mediaType: 'dumbbell'
   <div class="widget-info">
 <h4 class="widget-title">ダンベル プレート バーベル 15kgを自宅に導入すべき理由。筋肥大と実用性を科学的に検証！</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%252015kg%25E3%2582%2592%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AB%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2581%25B9%25E3%2581%258D%25E7%2590%2586%25E7%2594%25B1%25E3%2580%2582%25E7%25AD%258B%25E8%2582%25A5%25E5%25A4%25A7%25E3%2581%25A8%25E5%25AE%259F%25E7%2594%25A8%25E6%2580%25A7%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddumbbell%2520barbell%2520plate%252015kg" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -219,7 +219,7 @@ mediaType: 'dumbbell'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の栄養補給に最適</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddumbbell%2520barbell%2520plate%252015kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -228,7 +228,7 @@ mediaType: 'dumbbell'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / グローブ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">握力を補助して高重量を安全に扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddumbbell%2520barbell%2520plate%252015kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

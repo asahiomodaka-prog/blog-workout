@@ -36,7 +36,7 @@ mediaType: 'dumbbell'
   <div class="widget-info">
 <h4 class="widget-title">なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25AA%25E3%2581%259C%25E4%25BB%258A%25E3%2580%2581%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25EF%25BC%258B%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2583%25A1%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%259C%2580%25E5%25A4%25A7%25E5%258C%2596" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dhome%2520workout%2520bench%2520dumbbell%2520max" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -46,7 +46,7 @@ mediaType: 'dumbbell'
 </div>
 
 
-## 科学的アプローチで宅トレ効果を最大化：なぜ今、[トレーニングベンチ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581)と可変式[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)なのか？
+## 科学的アプローチで宅トレ効果を最大化：なぜ今、[トレーニングベンチ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dhome%2520workout%2520bench%2520dumbbell%2520max
 
 
 <div class="summary-box">

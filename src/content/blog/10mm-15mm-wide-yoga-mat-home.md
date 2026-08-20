@@ -36,7 +36,7 @@ mediaType: 'gear'
   <div class="widget-info">
 <h4 class="widget-title">10mm/15mm「幅広ヨガマット」を自宅トレに導入すべき理由！解剖学的安定と筋効率。</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D10mm%2F15mm%25E3%2580%258C%25E5%25B9%2585%25E5%25BA%2583%25E3%2583%25A8%25E3%2582%25AC%25E3%2583%259E%25E3%2583%2583%25E3%2583%2588%25E3%2580%258D%25E3%2582%2592%25E8%2587%25AA%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AB%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2581%25B9%25E3%2581%258D%25E7%2590%2586%25E7%2594%25B1%25EF%25BC%2581%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A8%25E7%25AD%258B%25E5%258A%25B9%25E7%258E%2587%25E3%2580%2582" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D10mm%252015mm%2520wide%2520yoga%2520mat%2520home" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -124,7 +124,7 @@ mediaType: 'gear'
 また、プッシュアップでは、胸が床に近づくほど大胸筋の伸展が促されますが、硬い床では痛みから途中で動作を止めてしまうこともあるでしょう。
 マットの厚みは、この限界点を押し上げ、安全な範囲でより深い伸展を可能にしてくれます。
 例えば、ディープスクワットでは、太ももと床の距離が近くなることで心理的な不安を感じやすいですが、マットのクッション性がその衝撃を和らげ、より深く腰を落とすことをサポートします。
-また、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)フライやプルオーバーのようなエクササイズを仰向けで行う際も、肩甲骨周りの安定性が増し、胸郭を広げやすくなることで、大胸筋や広背筋のストレッチ感を最大限に引き出すことが期待できます。
+また、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D10mm%252015mm%2520wide%2520yoga%2520mat%2520home
 これにより、前述した筋肥大に有利な機械的張力や代謝ストレスをより効果的に発生させることができるでしょう。
 
 **3. 無駄な力の分散を防ぐ**

@@ -36,7 +36,7 @@ mediaType: 'protein'
   <div class="widget-info">
 <h4 class="widget-title">WPC 100%ナチュラルホエイプロテインは宅トレに必須か？解剖学から筋肉合成を検証</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWPC%2520100%2525%25E3%2583%258A%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AB%25E5%25BF%2585%25E9%25A0%2588%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E3%2581%258B%25E3%2582%2589%25E7%25AD%258B%25E8%2582%2589%25E5%2590%2588%25E6%2588%2590%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dwpc%2520whey%2520protein%2520home%2520workout" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -46,7 +46,7 @@ mediaType: 'protein'
 </div>
 
 
-## 宅トレで効率的な筋肥大を目指すあなたへ：WPC 100%ナチュラルホエイ[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)は必要か？解剖学から筋肉合成を検証
+## 宅トレで効率的な筋肥大を目指すあなたへ：WPC 100%ナチュラルホエイ[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dwpc%2520whey%2520protein%2520home%2520workout
 
 
 <div class="summary-box">

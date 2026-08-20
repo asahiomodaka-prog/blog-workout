@@ -39,7 +39,7 @@ mediaType: 'gear'
   <div class="widget-info">
 <h4 class="widget-title">SOOMLOOM腹筋ローラーは宅トレ初心者向けか？静音と膝マットで腹筋を割る解剖学的根拠</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSOOMLOOM%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E3%2581%258B%25EF%25BC%259F%25E9%259D%2599%25E9%259F%25B3%25E3%2581%25A8%25E8%2586%259D%25E3%2583%259E%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A7%25E8%2585%25B9%25E7%25AD%258B%25E3%2582%2592%25E5%2589%25B2%25E3%2582%258B%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E6%25A0%25B9%25E6%258B%25A0" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dsoomloom%2520ab%2520roller%2520for%2520beginners" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -125,7 +125,7 @@ mediaType: 'gear'
 
 筋肉に強力な刺激を与えた後は、回復期間と適切な栄養摂取が不可欠です。「超回復」とは、トレーニングによって損傷した筋肉が、以前よりも強く、大きくなって回復する現象のことです。
 
-*   **栄養摂取**: 特にタンパク質は筋肉の材料となるため、意識的に摂取することが重要です。トレーニング後30分～数時間以内は、筋合成が活発になるタイミングと言われており、ホエイ[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)と適切な量の炭水化物を摂取することで、効率的な筋合成が期待できます。就寝前や間食には、吸収が緩やかなカゼインプロテインやソイプロテインを選ぶのも良い選択肢です。鶏むね肉、卵、魚、乳製品などの高タンパク質食品をバランス良く食事に取り入れましょう。
+*   **栄養摂取**: 特にタンパク質は筋肉の材料となるため、意識的に摂取することが重要です。トレーニング後30分～数時間以内は、筋合成が活発になるタイミングと言われており、ホエイ[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dsoomloom%2520ab%2520roller%2520for%2520beginners
 *   **休息**: 筋肉の回復と成長には、7～8時間の質の高い睡眠が不可欠です。深い睡眠中に成長ホルモンが分泌され、筋肉の修復を促進します。
 
 ### 科学的アプローチをサポートするSOOMLOOM腹筋ローラーの特長

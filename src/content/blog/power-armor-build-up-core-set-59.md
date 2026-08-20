@@ -36,7 +36,7 @@ mediaType: 'gear'
   </ul>
 </div>
 
-自宅でのトレーニングに励む方の中には、メニューのマンネリ化や、限られたスペースでの重量不足に悩んでいる方も多いのではないでしょうか。僕自身も以前、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)とマットだけではトレーニングが頭打ちになる感覚に陥った経験があります。
+自宅でのトレーニングに励む方の中には、メニューのマンネリ化や、限られたスペースでの重量不足に悩んでいる方も多いのではないでしょうか。僕自身も以前、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dpower%2520armor%2520build%2520up%2520core%2520%252059
 
 そんな課題を根本から解決し、自宅でジムレベルの本格的なトレーニング環境を実現してくれるのが、今回ご紹介する[POWER ARMOR ビルドアップコアセット59](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Fpa-ab-i59%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10001390%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)です。このセットは、可変式ダンベルと高機能なアジャスタブルベンチが一体となっており、自宅の限られた空間で、全身の筋肉を効率的かつ安全に追い込むことを可能にします。
 
@@ -183,7 +183,7 @@ POWER ARMORのダンベルはシャフト径が28mmで、多くのメーカー�
   <div class="widget-info">
 <h4 class="widget-title">POWER ARMOR ビルドアップコアセット59は宅トレ最適解か？解剖学的効果を検証！</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPOWER%2520ARMOR%2520%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B3%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%2583%25E3%2583%258859%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%25E3%2581%258B%25EF%25BC%259F%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dpower%2520armor%2520build%2520up%2520core%2520%252059" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -212,7 +212,7 @@ POWER ARMORのダンベルはシャフト径が28mmで、多くのメーカー�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の栄養補給に最適</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dpower%2520armor%2520build%2520up%2520core%2520%252059" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -221,7 +221,7 @@ POWER ARMORのダンベルはシャフト径が28mmで、多くのメーカー�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / グローブ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">握力を補助して高重量を安全に扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dpower%2520armor%2520build%2520up%2520core%2520%252059" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

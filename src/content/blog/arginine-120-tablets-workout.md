@@ -49,7 +49,7 @@ mediaType: 'supplement'
   <div class="widget-info">
 <h4 class="widget-title">宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E3%2580%258E%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592%25E3%2580%258F%25E3%2581%25A7%25E7%25AD%258B%25E8%2582%2589%25E3%2581%25AE%25E8%25A1%2580%25E6%25B5%2581%25E3%2581%25A8%25E6%2588%2590%25E9%2595%25B7%25E3%2583%259B%25E3%2583%25AB%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Darginine%2520120%2520tablets%2520workout" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -113,7 +113,7 @@ NOが血管内皮細胞で生成されると、血管が拡張し、その結果
 
 ## エビデンスに基づく実践アプローチ：宅トレでの効果的な活用法
 
-自宅でのトレーニングは、ジムのような多様なマシンや高重量の[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)がないため、どうしても工夫が求められます。
+自宅でのトレーニングは、ジムのような多様なマシンや高重量の[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Darginine%2520120%2520tablets%2520workout
 自重トレーニングやチューブ、軽いダンベルを使ったトレーニングが中心になる場合、筋肉への負荷のかけ方が限定的になりがちです。
 このような環境では、筋繊維の動員を最大化し、疲労耐性を高めることが、効率的な筋肥大を狙う上で重要となります。
 
@@ -203,7 +203,7 @@ NOが血管内皮細胞で生成されると、血管が拡張し、その結果
   <div class="widget-info">
 <h4 class="widget-title">宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E3%2580%258E%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592%25E3%2580%258F%25E3%2581%25A7%25E7%25AD%258B%25E8%2582%2589%25E3%2581%25AE%25E8%25A1%2580%25E6%25B5%2581%25E3%2581%25A8%25E6%2588%2590%25E9%2595%25B7%25E3%2583%259B%25E3%2583%25AB%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Darginine%2520120%2520tablets%2520workout" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -220,7 +220,7 @@ NOが血管内皮細胞で生成されると、血管が拡張し、その結果
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の栄養補給に最適</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Darginine%2520120%2520tablets%2520workout" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -229,7 +229,7 @@ NOが血管内皮細胞で生成されると、血管が拡張し、その結果
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / グローブ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">握力を補助して高重量を安全に扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Darginine%2520120%2520tablets%2520workout" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

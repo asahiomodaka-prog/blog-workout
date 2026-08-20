@@ -36,7 +36,7 @@ mediaType: 'dumbbell'
   <div class="widget-info">
 <h4 class="widget-title">宅トレの限界突破！NUOBELL 40kgが叶える漸進性過負荷と解剖学的成長</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581NUOBELL%252040kg%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E6%25BC%25B8%25E9%2580%25B2%25E6%2580%25A7%25E9%2581%258E%25E8%25B2%25A0%25E8%258D%25B7%25E3%2581%25A8%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E6%2588%2590%25E9%2595%25B7" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dnuobell%252040kg%2520dumbbell" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -60,7 +60,7 @@ mediaType: 'dumbbell'
 「自宅でのトレーニングは、ジムに通う時間がない時の代替手段」そう考えていませんか？
 しかし、現代の宅トレは、もはや「本格的なジムの代わり」ではなく、独自のメリットを持つ「効率的な成長の場」として、多くのトレーニーに選ばれています。その可能性を最大限に引き出すには、ただがむしゃらに頑張るだけでなく、科学的な裏付けのあるアプローチが不可欠です。
 
-本記事では、筋肉を効率的に成長させるための科学的根拠（エビデンス）と、その原則を自宅で実践する上で強力な味方となる可変式[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB) [NUOBELL 可変式ダンベル](https://hb.afl.rakuten.co.jp/hgc/g00tqlh1.ve2q52c7.g00tqlh1.ve2q624d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Ffb32i-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotions%2Fi%2F10000034%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)の魅力を深掘りします。自宅トレーニングの限界を突破し、理想の肉体を手に入れるための具体的なヒントと、NUOBELLが提供する価値を詳しくご紹介しましょう。
+本記事では、筋肉を効率的に成長させるための科学的根拠（エビデンス）と、その原則を自宅で実践する上で強力な味方となる可変式[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dnuobell%252040kg%2520dumbbell [NUOBELL 可変式ダンベル](https://hb.afl.rakuten.co.jp/hgc/g00tqlh1.ve2q52c7.g00tqlh1.ve2q624d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Ffb32i-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotions%2Fi%2F10000034%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)の魅力を深掘りします。自宅トレーニングの限界を突破し、理想の肉体を手に入れるための具体的なヒントと、NUOBELLが提供する価値を詳しくご紹介しましょう。
 
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">

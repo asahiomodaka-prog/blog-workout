@@ -36,7 +36,7 @@ mediaType: 'machine'
   <div class="widget-info">
 <h4 class="widget-title">ぶら下がり健康器 懸垂マシンは宅トレの核！全身を解剖学的に鍛え尽くす多機能性</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%25E3%2581%25AF%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%25A0%25B8%25EF%25BC%2581%25E5%2585%25A8%25E8%25BA%25AB%25E3%2582%2592%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E9%258D%259B%25E3%2581%2588%25E5%25B0%25BD%25E3%2581%258F%25E3%2581%2599%25E5%25A4%259A%25E6%25A9%259F%25E8%2583%25BD%25E6%2580%25A7" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dpull%2520up%2520dip%2520station%2520core%2520workout" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -163,7 +163,7 @@ European Journal of Sport Science (2014) や Sports Medicine (2020) のレビュ
 
 このギアの導入を検討する上で、いくつかの客観的な注意点も認識しておく必要があります。
 
-まず、この商品はあくまで「ぶら下がり健康器」と「バーベルスタンド」が一体となったものであり、バーベルや[トレーニングベンチ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581)は付属しません。したがって、本格的なフリーウェイトトレーニングを行うためには、別途これらの器具を購入する必要があり、初期投資として念頭に置くべき点です。
+まず、この商品はあくまで「ぶら下がり健康器」と「バーベルスタンド」が一体となったものであり、バーベルや[トレーニングベンチ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dpull%2520up%2520dip%2520station%2520core%2520workout
 
 次に、組み立てが必要であることです。付属の工具で組み立ては可能ですが、スチール製のフレームはそれなりの重量があるため、一人で作業する場合は時間と労力がかかるかもしれません。安全のためにも、できれば二人以上での組み立てをおすすめします。
 

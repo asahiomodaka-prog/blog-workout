@@ -26,7 +26,7 @@ mediaType: 'dumbbell'
 <!-- PR -->
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-自宅でのトレーニングは、始めたくてもなかなか続かないもの。特に、重い[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)を引っ張り出すのが億劫で、いつの間にか部屋の隅でホコリをかぶってしまう…そんな経験はありませんか？
+自宅でのトレーニングは、始めたくてもなかなか続かないもの。特に、重い[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dmizuno%2520dumbbell%2520ball%2520workout
 
 もし、トレーニング器具がもっと身近で、自然と手に取りたくなるような存在だったら、毎日の運動習慣はもっと楽になるはずです。今回は、そんな宅トレの「続けにくさ」を解消してくれるかもしれない、ミズノのダンベルボール「ボルレッチ ディズニー」をご紹介します。
 
@@ -43,7 +43,7 @@ mediaType: 'dumbbell'
   <div class="widget-info">
 <h4 class="widget-title">ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259F%25E3%2582%25BA%25E3%2583%258E%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AF%25E3%2580%258C%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2580%258D%25EF%25BC%259F%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dmizuno%2520dumbbell%2520ball%2520workout" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -144,7 +144,7 @@ mediaType: 'dumbbell'
   <div class="widget-info">
 <h4 class="widget-title">ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259F%25E3%2582%25BA%25E3%2583%258E%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AF%25E3%2580%258C%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2580%258D%25EF%25BC%259F%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dmizuno%2520dumbbell%2520ball%2520workout" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -161,7 +161,7 @@ mediaType: 'dumbbell'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の栄養補給に最適</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dmizuno%2520dumbbell%2520ball%2520workout" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -170,7 +170,7 @@ mediaType: 'dumbbell'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / グローブ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">握力を補助して高重量を安全に扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dmizuno%2520dumbbell%2520ball%2520workout" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

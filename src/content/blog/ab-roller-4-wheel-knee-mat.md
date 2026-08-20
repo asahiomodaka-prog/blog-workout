@@ -42,7 +42,7 @@ mediaType: 'gear'
   <div class="widget-info">
 <h4 class="widget-title">本当に効く？4輪式Abローラーが体幹を劇的に変える解剖学的効果を検証</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E5%258A%25B9%25E3%2581%258F%25EF%25BC%259F4%25E8%25BC%25AA%25E5%25BC%258FAb%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%258C%25E4%25BD%2593%25E5%25B9%25B9%25E3%2582%2592%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dab%2520roller%25204%2520wheel%2520knee%2520mat" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -81,7 +81,7 @@ mediaType: 'gear'
 
 年間で考えると、ジムの会費だけで8,000円 × 12ヶ月 = 96,000円。これに加えて、週3回往復1時間の移動は、年間で156時間にもなります。もしこの時間を他の活動に充てられるとすれば、その価値はさらに大きくなるでしょう。
 
-対して、この [腹筋ローラー 4輪式 Abローラーホイール 膝マット付き](https://hb.afl.rakuten.co.jp/hgc/g00tgn81.ve2q5f00.g00tgn81.ve2q6343/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmilekankyo1%2Fkyoserhry%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmilekankyo1%2Fi%2F10000133%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) の価格は4,580円です。この初期投資は、ジムの月会費の半分程度であり、わずか1ヶ月も経たないうちに「元が取れる」計算になります。浮いた費用で、良質な[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)や、別のトレーニング器具（例えば[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)など）に投資すれば、自宅でのトレーニング環境はさらに充実させることができるでしょう。
+対して、この [腹筋ローラー 4輪式 Abローラーホイール 膝マット付き](https://hb.afl.rakuten.co.jp/hgc/g00tgn81.ve2q5f00.g00tgn81.ve2q6343/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmilekankyo1%2Fkyoserhry%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmilekankyo1%2Fi%2F10000133%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) の価格は4,580円です。この初期投資は、ジムの月会費の半分程度であり、わずか1ヶ月も経たないうちに「元が取れる」計算になります。浮いた費用で、良質な[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dab%2520roller%25204%2520wheel%2520knee%2520mat
 
 設置スペースに関しても、この腹筋ローラーは非常に優れています。製品本体の重量は2.35kgと軽量で、ハンドルを差し込むだけで素早く組み立てが完了します。使用しない時はハンドルを取り外せばさらにコンパクトになり、クローゼットの隙間やベッドの下など、ちょっとしたスペースに収納可能です。具体的にトレーニングに必要なスペースとしては、自分の身長に加え、ローラーの可動域（約50cm〜1m程度）があれば十分です。例えば、身長170cmの方であれば、約2.5m四方のスペースがあれば、十分に全身を伸ばしてトレーニングできます。リビングの一角や、寝室のベッドサイドなど、どこでも手軽にトレーニングを開始できるのは、忙しい日々を送る現代人にとって大きな魅力です。
 
@@ -170,7 +170,7 @@ HAFOS オンラインショップで販売されているこの腹筋ローラ�
   <div class="widget-info">
 <h4 class="widget-title">本当に効く？4輪式Abローラーが体幹を劇的に変える解剖学的効果を検証</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E5%258A%25B9%25E3%2581%258F%25EF%25BC%259F4%25E8%25BC%25AA%25E5%25BC%258FAb%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%258C%25E4%25BD%2593%25E5%25B9%25B9%25E3%2582%2592%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E5%258A%25B9%25E6%259E%259C%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dab%2520roller%25204%2520wheel%2520knee%2520mat" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -187,7 +187,7 @@ HAFOS オンラインショップで販売されているこの腹筋ローラ�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の栄養補給に最適</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dab%2520roller%25204%2520wheel%2520knee%2520mat" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -196,7 +196,7 @@ HAFOS オンラインショップで販売されているこの腹筋ローラ�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / グローブ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">握力を補助して高重量を安全に扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dab%2520roller%25204%2520wheel%2520knee%2520mat" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

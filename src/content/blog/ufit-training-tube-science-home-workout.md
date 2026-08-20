@@ -36,7 +36,7 @@ mediaType: 'gear'
   <div class="widget-info">
 <h4 class="widget-title">uFit Training Tubeが解剖学的に証明！自宅で「最強の身体」を作る科学的理由</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DuFit%2520Training%2520Tube%25E3%2581%258C%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E8%25A8%25BC%25E6%2598%258E%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25A7%25E3%2580%258C%25E6%259C%2580%25E5%25BC%25B7%25E3%2581%25AE%25E8%25BA%25AB%25E4%25BD%2593%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dufit%2520training%2520tube%2520science%2520home%2520workout" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -125,7 +125,7 @@ SchoenfeldとGrgicが2020年に発表したメタ分析（多数の研究結果�
 
 この問題を解決するためには、以下のようなアプローチが考えられます。
 
-*   **握力補助具の使用**: パワーグリップや[リストストラップ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597)などを使用し、握力の限界をバイパスして背中の筋肉に集中して負荷をかける。
+*   **握力補助具の使用**: パワーグリップや[リストストラップ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dufit%2520training%2520tube%2520science%2520home%2520workout
 *   **アイソレーション種目の活用**: 握力をあまり使わない、または握力が関与しにくい種目を取り入れ、広背筋に直接的な刺激を与える。
 *   **負荷曲線への最適化**: 筋肉が最も強く収縮するポジション（いわゆる「ピーキングコントラクション」）で最大の負荷を与えられるようなトレーニング方法を選択する。
 
@@ -143,7 +143,7 @@ SchoenfeldとGrgicが2020年に発表したメタ分析（多数の研究結果�
 
 #### 2-2. 宅トレにおける漸進性過負荷の具体的な適用
 
-自宅で[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)などの高重量ウェイトがない場合でも、漸進性過負荷は工夫次第で実現できます。
+自宅で[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dufit%2520training%2520tube%2520science%2520home%2520workout
 
 *   **レップ数・セット数の増加**: まずは正しいフォームでこなせる最大回数を見つけ、少しずつレップ数やセット数を増やしていきます。
 *   **TUTの延長**: 動作をゆっくり行ったり、筋肉が収縮した状態で数秒キープしたりすることで、TUTを長くし、筋肉への刺激を高めることができます。

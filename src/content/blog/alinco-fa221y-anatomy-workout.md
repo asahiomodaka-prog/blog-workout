@@ -36,7 +36,7 @@ mediaType: 'machine'
   <div class="widget-info">
 <h4 class="widget-title">アルインコ FA221Yの真価。解剖学で解き明かす「効く」宅トレの極意</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B3%2520FA221Y%25E3%2581%25AE%25E7%259C%259F%25E4%25BE%25A1%25E3%2580%2582%25E8%25A7%25A3%25E5%2589%2596%25E5%25AD%25A6%25E3%2581%25A7%25E8%25A7%25A3%25E3%2581%258D%25E6%2598%258E%25E3%2581%258B%25E3%2581%2599%25E3%2580%258C%25E5%258A%25B9%25E3%2581%258F%25E3%2580%258D%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2581%25AE%25E6%25A5%25B5%25E6%2584%258F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dalinco%2520fa221y%2520anatomy%2520workout" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -64,7 +64,7 @@ mediaType: 'machine'
 限られたスペースの中でも、効率的かつ科学的に筋肉を成長させることは可能です。
 当ブログ『エビデンスで組む、最強宅トレ』では、スポーツ科学の最新研究に基づいた「効く」宅トレのメソッドと、それを実現するための最適なギアをご紹介しています。
 
-今回は、自宅トレーニングの質を格段に高める多機能[トレーニングベンチ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581)、アルインコ FA221Yに焦点を当て、その魅力を深掘りしていきます。
+今回は、自宅トレーニングの質を格段に高める多機能[トレーニングベンチ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dalinco%2520fa221y%2520anatomy%2520workout FA221Yに焦点を当て、その魅力を深掘りしていきます。
 
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
@@ -108,7 +108,7 @@ mediaType: 'machine'
 これらの科学的知見を、自宅でのトレーニングに具体的にどのように応用すればよいでしょうか。
 
 まず、**フルROMの確保**です。
-これは、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)プレス、ダンベルフライ、各種ローイングなど、多くの種目で意識すべき重要なポイントです。
+これは、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dalinco%2520fa221y%2520anatomy%2520workout
 例えば、ダンベルフライでは、肘を軽く曲げた状態でダンベルを胸の横に大きく開くことで、大胸筋を最大限にストレッチさせることができます。
 また、ダンベルプルオーバーでは、ダンベルを頭の後方に深く下ろすことで、広背筋や大胸筋上部を効果的に伸展させ、「ストレッチ介在性肥大」を狙うことが期待できます。
 
