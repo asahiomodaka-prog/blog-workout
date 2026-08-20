@@ -811,6 +811,113 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					max-width: 180px;
 				}
 			}
+		
+			/* 高CVR商品カード & ボタンUI */
+			.product-widget-card {
+				display: flex;
+				flex-direction: row;
+				gap: 1.5rem;
+				align-items: center;
+				background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+				border: 1px solid #e2e8f0;
+				border-radius: 16px;
+				padding: 1.5rem;
+				margin: 2rem 0;
+				box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.05);
+				transition: transform 0.25s ease, box-shadow 0.25s ease;
+			}
+			.product-widget-card:hover {
+				transform: translateY(-3px);
+				box-shadow: 0 15px 30px -5px rgba(15, 23, 42, 0.1);
+				border-color: #cbd5e1;
+			}
+			.widget-img {
+				width: 130px;
+				height: 130px;
+				object-fit: contain;
+				border-radius: 10px;
+				background: #ffffff;
+				padding: 0.5rem;
+				border: 1px solid #f1f5f9;
+				flex-shrink: 0;
+			}
+			.widget-info {
+				flex: 1;
+				display: flex;
+				flex-direction: column;
+				gap: 0.4rem;
+			}
+			.widget-title {
+				font-size: 1.1rem;
+				font-weight: 800;
+				color: #0f172a;
+				line-height: 1.4;
+				margin: 0;
+			}
+			.widget-desc {
+				font-size: 0.88rem;
+				color: #64748b;
+				margin: 0;
+				line-height: 1.5;
+			}
+			.widget-btn {
+				display: inline-block;
+				align-self: flex-start;
+				background: linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%);
+				color: #ffffff !important;
+				font-size: 0.9rem;
+				font-weight: 700;
+				padding: 0.65rem 1.4rem;
+				border-radius: 9999px;
+				text-decoration: none !important;
+				box-shadow: 0 4px 14px rgba(109, 40, 217, 0.3);
+				transition: all 0.2s ease;
+				margin-top: 0.5rem;
+			}
+			.widget-btn:hover {
+				transform: scale(1.03);
+				box-shadow: 0 6px 20px rgba(109, 40, 217, 0.45);
+			}
+
+			/* 要約ポイントボックス */
+			.summary-box {
+				background: #f3e8ff;
+				border: 1px solid #d8b4fe;
+				border-left: 5px solid #6d28d9;
+				border-radius: 12px;
+				padding: 1.25rem 1.5rem;
+				margin: 1.5rem 0 2rem;
+			}
+			.summary-box-title {
+				font-size: 1rem;
+				font-weight: 800;
+				color: #4c1d95;
+				margin-bottom: 0.75rem;
+				display: flex;
+				align-items: center;
+				gap: 0.5rem;
+			}
+			.summary-box-list {
+				margin: 0;
+				padding-left: 1.2rem;
+				color: #581c87;
+				font-size: 0.92rem;
+				line-height: 1.7;
+			}
+
+			@media (max-width: 640px) {
+				.product-widget-card {
+					flex-direction: column;
+					text-align: center;
+					padding: 1.25rem;
+				}
+				.widget-btn {
+					align-self: center;
+					width: 100%;
+					box-sizing: border-box;
+				}
+			}
+
 		</style>
 	</head>
 

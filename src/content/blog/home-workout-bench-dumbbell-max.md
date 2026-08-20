@@ -48,6 +48,15 @@ mediaType: 'dumbbell'
 
 ## 科学的アプローチで宅トレ効果を最大化：なぜ今、[トレーニングベンチ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581)と可変式[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)なのか？
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 自宅でのトレーニングが定着し、さらに効率的に効果を高めたいと考える方は多いのではないでしょうか。実は、筋肉を最大限に成長させるためには、スポーツ科学に基づく適切なアプローチが不可欠です。限られた自宅の環境でも、その効果を飛躍的に向上させる「トレーニングベンチと可変式ダンベル」の組み合わせが注目されています。
 
 この記事では、なぜこの二つのアイテムが宅トレの質を大きく変えるのか。最新のエビデンスを交えながら、その解剖学的・生理学的メリットと実践的な活用法を詳しく解説します。
@@ -69,7 +78,7 @@ mediaType: 'dumbbell'
 オープン価格
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

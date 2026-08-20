@@ -53,6 +53,15 @@ mediaType: 'protein'
 
 ## 筋肉を最大限に育てるための最新情報：可動域とタンパク質
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: VALX プロテインで宅トレを科学する！効率的な筋肉合成のメカニズム の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00svrx1.ve2q5ff5.g00svrx1.ve2q6bc0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff122262-futtsu%2F49742103150973%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff122262-futtsu%2Fi%2F10001080%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
@@ -70,7 +79,7 @@ VALX プロテインで宅トレを科学する 効率的な筋肉合成のメ�
 オープン価格
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00svrx1.ve2q5ff5.g00svrx1.ve2q6bc0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff122262-futtsu%2F49742103150973%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff122262-futtsu%2Fi%2F10001080%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

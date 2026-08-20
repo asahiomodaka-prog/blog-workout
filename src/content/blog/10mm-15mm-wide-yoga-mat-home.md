@@ -48,6 +48,15 @@ mediaType: 'gear'
 
 ## 科学的エビデンスが示す筋肥大の真実：宅トレで可動域を最大化する意義
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: 10mm/15mm「幅広ヨガマット」を自宅トレに導入すべき理由！解剖学的安定と筋効率。 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 自宅でのトレーニングで「本当に効率よく筋肉を成長させられるのか」と疑問を感じる方は少なくないでしょう。
 効率的な筋肥大を目指す上で、最新のスポーツ科学が特に注目しているのが「可動域（Range of Motion: ROM）」の最大化です。
 
@@ -87,7 +96,7 @@ mediaType: 'gear'
 1,599円
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00rgdw1.ve2q59d7.g00rgdw1.ve2q6f83/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fweiwei%2Fyogam1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fweiwei%2Fi%2F10019823%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

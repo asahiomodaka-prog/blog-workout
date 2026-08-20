@@ -55,6 +55,15 @@ mediaType: 'dumbbell'
 
 ## 自然と手に取りたくなるデザインが拓く、新しい宅トレ習慣
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！ の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 [ミズノ トレーニンググッズ メンズ レディース ダンベルボール](https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 <img src="/images/mizuno-dumbbell-ball-workout.jpg" alt="mizuno-dumbbell-ball-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />

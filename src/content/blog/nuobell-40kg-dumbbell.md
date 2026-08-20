@@ -48,6 +48,15 @@ mediaType: 'dumbbell'
 
 ## 宅トレの限界を突破！NUOBELL 40kgが叶える「科学的な筋肥大」と「効率的な成長」
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: 宅トレの限界突破！NUOBELL 40kgが叶える漸進性過負荷と解剖学的成長 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 「自宅でのトレーニングは、ジムに通う時間がない時の代替手段」そう考えていませんか？
 しかし、現代の宅トレは、もはや「本格的なジムの代わり」ではなく、独自のメリットを持つ「効率的な成長の場」として、多くのトレーニーに選ばれています。その可能性を最大限に引き出すには、ただがむしゃらに頑張るだけでなく、科学的な裏付けのあるアプローチが不可欠です。
 
@@ -70,7 +79,7 @@ mediaType: 'dumbbell'
 オープン価格
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tqlh1.ve2q52c7.g00tqlh1.ve2q624d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Ffb32i-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotions%2Fi%2F10000034%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

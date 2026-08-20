@@ -48,6 +48,15 @@ mediaType: 'machine'
 
 ## アルインコ FA221Y：スポーツ科学で「効く」宅トレを実現する多機能ベンチの真価
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: アルインコ FA221Yの真価。解剖学で解き明かす「効く」宅トレの極意 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 「自宅でのトレーニングで、本当に効果的な筋肥大を実現したい」
 
 そうお考えではありませんか？
@@ -74,7 +83,7 @@ mediaType: 'machine'
 42,000円
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tylv1.ve2q5f3e.g00tylv1.ve2q6217/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272078-takatsuki%2Fad126%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272078-takatsuki%2Fi%2F10000951%2F&rafcid=wsc_i_is_732732a1-5b08-44c2-a7a6-bdd68aad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

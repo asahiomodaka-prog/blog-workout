@@ -56,6 +56,15 @@ mediaType: 'dumbbell'
 
 ## 宅トレ効率を最大化する設計思想
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: アジャスタブルダンベル25は本当に必要？宅トレ効果を最大化する科学的根拠 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 <img src="/images/alinco-adjustable-dumbbell-25.jpg" alt="alinco-adjustable-dumbbell-25" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 このアルインコのアジャスタブルダンベル25/EXG422を手にしたとき、私が特に注目したのは、その重量調整範囲と機能性でした。約2kgから25kgまで細かなステップで重量を変えられるのは、筋トレの基本原則である「漸進性過負荷（progressive overload）」を自宅で実践する上で非常に重要です。

@@ -53,6 +53,15 @@ mediaType: 'gear'
 
 ## 【最新エビデンスから学ぶ】筋肥大を最大化する「最大可動域」の重要性
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 スポーツ科学の最新研究では、筋肉の成長、特に筋肥大において「可動域（Range of Motion: ROM）」の最大化が極めて重要であることが、様々な研究で繰り返し示されています。例えば、Journal of Strength and Conditioning Researchに発表された複数の論文（例：Schoenfeld & Grgic, 2018）では、部分的な可動域でのトレーニングよりも、筋肉が完全に伸展した状態から最大収縮するまでの「フルROM」でのトレーニングが、より大きな筋肥大効果をもたらす可能性が高いと報告されているんです。
 
 これは、筋肉が最大まで引き伸ばされた「伸長位」において、筋線維への機械的張力だけでなく、微細な損傷や代謝ストレスが増大し、これらが筋肥大のシグナルを強く活性化するためだと考えられています。特に腹直筋のような体幹の筋肉においても、この原則は変わりません。
@@ -76,7 +85,7 @@ mediaType: 'gear'
 6,980円
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00uu0s1.ve2q5077.g00uu0s1.ve2q6114/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliverri%2Fty-08%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliverri%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #f97316, #ea580c); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(234, 88, 12, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>
