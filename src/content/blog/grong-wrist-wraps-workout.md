@@ -39,7 +39,7 @@ mediaType: 'gear'
 
 
 <div class="product-widget-card">
-  <img src="/images/grong-wrist-wraps-workout-body-1.png" alt="grong-wrist-wraps-workout" class="widget-img" loading="lazy" />
+  <img src="/images/grong-wrist-wraps-workout.jpg" alt="grong-wrist-wraps-workout" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">グロング リストラップは宅トレ必須？手首の解剖学的安定と筋出力を検証！</h4>
 
@@ -66,7 +66,7 @@ mediaType: 'gear'
 
 伸縮性のあるコンプレッションベルトと粘着力にこだわった幅5cmの面ファスナーは、トレーニング中に手首のブレを軽減し、手首と一体化したかのような密着感を生み出します。この密着感により、ベンチプレスやショルダープレスはもちろん、ディップスやスクワットといった全身運動においても、手首の不要な動きが抑えられ、動作の安定性が格段に向上します。結果として、より安全に、そして質の高いトレーニングが可能になるのです。
 
-<img src="/images/grong-wrist-wraps-workout-body-2.jpg" alt="grong-wrist-wraps-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/grong-wrist-wraps-workout.jpg" alt="grong-wrist-wraps-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 宅トレの質を高める賢い投資
 
@@ -88,7 +88,7 @@ mediaType: 'gear'
 
 このリストラップは、特にベンチプレスやショルダープレス、ディップスなど、手首に直接的な負荷がかかるプッシュ系の種目との相性が抜群です。手首を保護し、トレーニングを安全に継続することは、目標達成への近道となるでしょう。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/grong-wrist-wraps-workout-body-3.jpg" alt="grong-wrist-wraps-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/grong-wrist-wraps-workout.jpg" alt="grong-wrist-wraps-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -138,7 +138,7 @@ mediaType: 'gear'
 
 
 <div class="product-widget-card">
-  <img src="/images/grong-wrist-wraps-workout-body-1.png" alt="grong-wrist-wraps-workout" class="widget-img" loading="lazy" />
+  <img src="/images/grong-wrist-wraps-workout.jpg" alt="grong-wrist-wraps-workout" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">グロング リストラップは宅トレ必須？手首の解剖学的安定と筋出力を検証！</h4>
 

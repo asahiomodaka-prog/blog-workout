@@ -38,7 +38,7 @@ mediaType: 'protein'
 
 
 <div class="product-widget-card">
-  <img src="/images/explosion-wpc-protein-3kg-cafe-au-lait-body-1.png" alt="explosion-wpc-protein-3kg-cafe-au-lait" class="widget-img" loading="lazy" />
+  <img src="/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg" alt="explosion-wpc-protein-3kg-cafe-au-lait" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">プロテイン WPC エクスプロージョン 3kgを飲むべき理由。宅トレの成果を最大化する栄養戦略</h4>
 
@@ -60,7 +60,7 @@ mediaType: 'protein'
 
 さらに、このプロテインのアミノ酸スコアは「100」です。アミノ酸スコアとは、食品に含まれるタンパク質の栄養価を評価する指標で、体内で生成できない9種類の必須アミノ酸がバランス良く含まれているかを数値化したものです。スコア100は、これらの必須アミノ酸がすべて十分な量で含まれていることを意味し、摂取したタンパク質が無駄なく体内で利用される、質の高いタンパク質であることの証です。
 
-<img src="/images/explosion-wpc-protein-3kg-cafe-au-lait-body-2.jpg" alt="explosion-wpc-protein-3kg-cafe-au-lait" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg" alt="explosion-wpc-protein-3kg-cafe-au-lait" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 トレーニング後のプロテイン摂取は欠かせないものですが、正直なところ、味が単調だと継続が難しくなることもあります。「プロテイン WPC エクスプロージョン 3kg カフェオレ味」は、「毎日の珈琲の代わりに飲める珈琲クオリティー」を謳う通り、本格的なカフェオレの風味が楽しめます。甘すぎず、それでいて満足感のある味わいは、トレーニング後のご褒美としてはもちろん、朝の目覚めの一杯としても良い選択肢となるでしょう。
 
@@ -74,7 +74,7 @@ mediaType: 'protein'
 
 [プロテイン WPC エクスプロージョン 3kg カフェオレ味](https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000021%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000021%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/explosion-wpc-protein-3kg-cafe-au-lait-body-3.jpg" alt="explosion-wpc-protein-3kg-cafe-au-lait" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000021%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg" alt="explosion-wpc-protein-3kg-cafe-au-lait" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -113,7 +113,7 @@ mediaType: 'protein'
 
 
 <div class="product-widget-card">
-  <img src="/images/explosion-wpc-protein-3kg-cafe-au-lait-body-1.png" alt="explosion-wpc-protein-3kg-cafe-au-lait" class="widget-img" loading="lazy" />
+  <img src="/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg" alt="explosion-wpc-protein-3kg-cafe-au-lait" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">プロテイン WPC エクスプロージョン 3kgを飲むべき理由。宅トレの成果を最大化する栄養戦略</h4>
 

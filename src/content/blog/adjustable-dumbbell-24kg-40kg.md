@@ -34,7 +34,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/adjustable-dumbbell-24kg-40kg-body-1.png" alt="adjustable-dumbbell-24kg-40kg" class="widget-img" loading="lazy" />
+  <img src="/images/adjustable-dumbbell-24kg-40kg.jpg" alt="adjustable-dumbbell-24kg-40kg" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">可変式ダンベルは自宅ジムの最適解か？解剖学から導く導入メリット</h4>
 
@@ -82,7 +82,7 @@ Motions可変式ダンベルは、この原則を実践するための精密な�
 
 Motions可変式ダンベルPROの40kgモデル2個セットであれば、ダンベル2本と専用ラックの設置に必要な床面積は、だいたい縦30cm×横80cm程度（ダンベル本体のサイズと、安全な出し入れに必要な最低限のスペースを考慮した場合）で済みます。これは、一般的なワンルームマンションの一角にも十分に収まるサイズ感です。このコンパクトさこそが、自宅トレーニングを現実のものにする第一歩だと実感しています。使わないときは部屋の隅に寄せておけば、生活空間を圧迫することもありません。
 
-<img src="/images/adjustable-dumbbell-24kg-40kg-body-2.jpg" alt="adjustable-dumbbell-24kg-40kg" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/adjustable-dumbbell-24kg-40kg.jpg" alt="adjustable-dumbbell-24kg-40kg" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ### コストパフォーマンスの客観的比較
 
@@ -180,7 +180,7 @@ Motions可変式ダンベルは非常に優れたトレーニング器具です�
 
 
 <div class="product-widget-card">
-  <img src="/images/adjustable-dumbbell-24kg-40kg-body-1.png" alt="adjustable-dumbbell-24kg-40kg" class="widget-img" loading="lazy" />
+  <img src="/images/adjustable-dumbbell-24kg-40kg.jpg" alt="adjustable-dumbbell-24kg-40kg" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">可変式ダンベルは自宅ジムの最適解か？解剖学から導く導入メリット</h4>
 

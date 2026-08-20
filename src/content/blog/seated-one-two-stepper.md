@@ -42,7 +42,7 @@ mediaType: 'machine'
 
 
 <div class="product-widget-card">
-  <img src="/images/seated-one-two-stepper-body-1.png" alt="seated-one-two-stepper" class="widget-img" loading="lazy" />
+  <img src="/images/seated-one-two-stepper.jpg" alt="seated-one-two-stepper" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">座って安心ワンツーステッパーを導入すべき理由。宅トレ下半身強化の科学的メリット</h4>
 
@@ -125,7 +125,7 @@ mediaType: 'machine'
 この圧倒的な費用の差と、手軽さからくる心理的ハードルの低さは、ジムに通うことに躊躇している方にとって、非常に魅力的な選択肢となるはずです。
 私自身も、ジムに通っていた時期もありますが、このステッパーの手軽さは「運動を習慣化する」という点において、非常に有効な手段だと感じています。
 
-<img src="/images/seated-one-two-stepper-body-2.jpg" alt="seated-one-two-stepper" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/seated-one-two-stepper.jpg" alt="seated-one-two-stepper" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## ユーザーの声と私が感じる客観的評価
 
@@ -228,7 +228,7 @@ mediaType: 'machine'
 
 
 <div class="product-widget-card">
-  <img src="/images/seated-one-two-stepper-body-1.png" alt="seated-one-two-stepper" class="widget-img" loading="lazy" />
+  <img src="/images/seated-one-two-stepper.jpg" alt="seated-one-two-stepper" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">座って安心ワンツーステッパーを導入すべき理由。宅トレ下半身強化の科学的メリット</h4>
 

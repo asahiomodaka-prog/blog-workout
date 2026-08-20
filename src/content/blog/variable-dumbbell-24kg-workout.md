@@ -39,7 +39,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/variable-dumbbell-24kg-workout-body-1.png" alt="variable-dumbbell-24kg-workout" class="widget-img" loading="lazy" />
+  <img src="/images/variable-dumbbell-24kg-workout.jpg" alt="variable-dumbbell-24kg-workout" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">可変式ダンベル24kgは自宅筋トレの最適解！省スペースと瞬時重量変更のメリットを徹底検証</h4>
 
@@ -79,7 +79,7 @@ mediaType: 'dumbbell'
 
 ## 省スペースとコストパフォーマンス：自宅ジムの賢い選択
 
-<img src="/images/variable-dumbbell-24kg-workout-body-2.jpg" alt="variable-dumbbell-24kg-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/variable-dumbbell-24kg-workout.jpg" alt="variable-dumbbell-24kg-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 自宅でのトレーニング環境を整える上で、多くの人が直面するのが「スペース」と「コスト」の問題です。2.5kg刻みで24kgまで固定式ダンベルを揃えようとすると、2.5kg、5kg、7.5kg...と10種類の重量が必要となり、左右合計で20個ものダンベルがトレーニングスペースを占拠することになります。見た目にも圧迫感があり、収納場所に困ることは想像に難くありません。
 
@@ -95,7 +95,7 @@ mediaType: 'dumbbell'
 | 販売ショップ | ONE STEP |
 | レビュー評価 | 4.69 (2781件) |
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/variable-dumbbell-24kg-workout-body-3.jpg" alt="variable-dumbbell-24kg-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/variable-dumbbell-24kg-workout.jpg" alt="variable-dumbbell-24kg-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -106,7 +106,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/variable-dumbbell-24kg-workout-body-1.png" alt="variable-dumbbell-24kg-workout" class="widget-img" loading="lazy" />
+  <img src="/images/variable-dumbbell-24kg-workout.jpg" alt="variable-dumbbell-24kg-workout" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">可変式ダンベル24kgは自宅筋トレの最適解！省スペースと瞬時重量変更のメリットを徹底検証</h4>
 

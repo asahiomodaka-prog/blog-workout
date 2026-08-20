@@ -39,7 +39,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/mizuno-dumbbell-ball-workout-body-1.png" alt="mizuno-dumbbell-ball-workout" class="widget-img" loading="lazy" />
+  <img src="/images/mizuno-dumbbell-ball-workout.jpg" alt="mizuno-dumbbell-ball-workout" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！</h4>
 
@@ -57,7 +57,7 @@ mediaType: 'dumbbell'
 
 [ミズノ トレーニンググッズ メンズ レディース ダンベルボール](https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
-<img src="/images/mizuno-dumbbell-ball-workout-body-2.jpg" alt="mizuno-dumbbell-ball-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/mizuno-dumbbell-ball-workout.jpg" alt="mizuno-dumbbell-ball-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ミズノのダンベルボール「ボルレッチ ディズニー」は、まさにこの「触れたくなる魅力」を追求して開発された製品です。ディズニーキャラクターたちの可愛らしいデザインと、フワフワした柔らかな触り心地が特徴で、一般的なトレーニング器具とは一線を画します。
 
@@ -97,7 +97,7 @@ mediaType: 'dumbbell'
 
 ジムに通う場合と比較してみましょう。月額会費が仮に8,000円だとすると、年間で96,000円もの費用がかかります。もちろん、ジムには多様なマシンや器具があり、専門トレーナーの指導も受けられますが、「自宅で手軽に運動習慣をつけたい」という目的であれば、このダンベルボールは非常にコストパフォーマンスの高い選択肢と言えるでしょう。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/mizuno-dumbbell-ball-workout-body-3.jpg" alt="mizuno-dumbbell-ball-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00pyrm1.ve2q5ce4.g00pyrm1.ve2q660a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-sports%2F7666-0004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-sports%2Fi%2F10075997%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/mizuno-dumbbell-ball-workout.jpg" alt="mizuno-dumbbell-ball-workout" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## 万能ではない、しかし「日常に溶け込む運動」への割り切りが価値を生む
 
@@ -131,7 +131,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/mizuno-dumbbell-ball-workout-body-1.png" alt="mizuno-dumbbell-ball-workout" class="widget-img" loading="lazy" />
+  <img src="/images/mizuno-dumbbell-ball-workout.jpg" alt="mizuno-dumbbell-ball-workout" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！</h4>
 

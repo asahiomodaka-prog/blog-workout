@@ -44,7 +44,7 @@ mediaType: 'gear'
 
 
 <div class="product-widget-card">
-  <img src="/images/gorutore-jelly-rope-training-gt-1402-body-1.png" alt="gorutore-jelly-rope-training-gt-1402" class="widget-img" loading="lazy" />
+  <img src="/images/gorutore-jelly-rope-training-gt-1402.jpg" alt="gorutore-jelly-rope-training-gt-1402" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ごるとれジェリーロープGT-1402効果検証。自宅ストレッチと解剖学的アプローチ</h4>
 
@@ -83,7 +83,7 @@ mediaType: 'gear'
 ゴムの特性は、常に引っ張る力として作用するため、重力に抗う力が主な負荷となるダンベルとは異なり、より多様な方向から筋肉にアプローチできます。
 これにより、特定の関節に急激な衝撃を与えることなく、ターゲットとなる筋肉群を効率的に刺激し、怪我のリスクを抑えながら質の高いトレーニングを実現できるのです。
 
-<img src="/images/gorutore-jelly-rope-training-gt-1402-body-2.jpg" alt="gorutore-jelly-rope-training-gt-1402" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/gorutore-jelly-rope-training-gt-1402.jpg" alt="gorutore-jelly-rope-training-gt-1402" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## わずかなスペースでジム以上の価値を生み出すコスパ
 
@@ -108,7 +108,7 @@ mediaType: 'gear'
 | 販売ショップ | 南海ゴルフ楽天市場店 |
 | レビュー評価 | 4.0 (1件) |
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00q46i1.ve2q5e0c.g00q46i1.ve2q6076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnankai-golf%2Fgt1402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnankai-golf%2Fi%2F10015837%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/gorutore-jelly-rope-training-gt-1402-body-3.jpg" alt="gorutore-jelly-rope-training-gt-1402" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q46i1.ve2q5e0c.g00q46i1.ve2q6076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnankai-golf%2Fgt1402%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnankai-golf%2Fi%2F10015837%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/gorutore-jelly-rope-training-gt-1402.jpg" alt="gorutore-jelly-rope-training-gt-1402" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -159,7 +159,7 @@ mediaType: 'gear'
 
 
 <div class="product-widget-card">
-  <img src="/images/gorutore-jelly-rope-training-gt-1402-body-1.png" alt="gorutore-jelly-rope-training-gt-1402" class="widget-img" loading="lazy" />
+  <img src="/images/gorutore-jelly-rope-training-gt-1402.jpg" alt="gorutore-jelly-rope-training-gt-1402" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ごるとれジェリーロープGT-1402効果検証。自宅ストレッチと解剖学的アプローチ</h4>
 

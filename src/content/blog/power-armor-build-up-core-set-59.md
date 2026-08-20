@@ -63,7 +63,7 @@ mediaType: 'gear'
 
 また、ダブルロックカラーはプレートの緩みを軽減し、トレーニング中の安全性、特にダンベルを頭上に上げる種目での安心感を高めてくれます。重厚感のあるブラックパウダー塗装は、見た目にも統一感があり、自宅に置いた時の満足度も高めてくれるでしょう。
 
-<img src="/images/power-armor-build-up-core-set-59-body-1.jpg" alt="power-armor-build-up-core-set-59" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/power-armor-build-up-core-set-59.jpg" alt="power-armor-build-up-core-set-59" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ### ジム通いとの比較：費用と時間の合理的投資
 
@@ -170,7 +170,7 @@ POWER ARMORのダンベルはシャフト径が28mmで、多くのメーカー�
 
 
 <div class="product-widget-card">
-  <img src="/images/power-armor-build-up-core-set-59-body-2.png" alt="power-armor-build-up-core-set-59" class="widget-img" loading="lazy" />
+  <img src="/images/power-armor-build-up-core-set-59.jpg" alt="power-armor-build-up-core-set-59" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">POWER ARMOR ビルドアップコアセット59は宅トレ最適解か？解剖学的効果を検証！</h4>
 

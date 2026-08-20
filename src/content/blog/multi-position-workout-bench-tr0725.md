@@ -39,7 +39,7 @@ mediaType: 'machine'
 
 
 <div class="product-widget-card">
-  <img src="/images/multi-position-workout-bench-tr0725-body-1.png" alt="multi-position-workout-bench-tr0725" class="widget-img" loading="lazy" />
+  <img src="/images/multi-position-workout-bench-tr0725.jpg" alt="multi-position-workout-bench-tr0725" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">TR0725マルチポジションベンチを自宅に導入すべき理由。解剖学的メリットとコスパを検証</h4>
 
@@ -61,7 +61,7 @@ mediaType: 'machine'
 
 さらに、背もたれは6段階（-12度・0度・30度・45度・60度・70度）、座面は3段階（0度・10度・20度）と細かく角度調整できるのも、種目の多様性を広げ、特定部位へのアプローチを深める上で欠かせません。インクライン（上半身を起こした状態）に設定すれば、大胸筋上部線維や三角筋前部への刺激を強められますし、デクライン（上半身が下がった状態）にすれば、大胸筋下部線維への集中刺激が可能です。関節角度を細かく調整できることで、その種目で最も効果的にターゲット筋に負荷をかけ、かつ安全に動作を行えるポジションを見つけやすいのは、トレーニングの質を格段に向上させてくれると感じています。
 
-<img src="/images/multi-position-workout-bench-tr0725-body-2.jpg" alt="multi-position-workout-bench-tr0725" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/multi-position-workout-bench-tr0725.jpg" alt="multi-position-workout-bench-tr0725" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 居住空間を圧迫しない設計とジム代との経済比較
 
@@ -71,7 +71,7 @@ mediaType: 'machine'
 
 加えて、私はジムへの移動時間もトレーニング時間の一部だと考えています。片道30分、往復1時間かかるとして、週3回通えばそれだけで年間約150時間の時間を消費することになります。自宅ならその移動時間がゼロになるわけで、その分をトレーニングや休息、家族との時間に充てられるのは、現代人にとって非常に価値のある「時間投資」だと考えています。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F9651513090034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11270054%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/multi-position-workout-bench-tr0725-body-3.jpg" alt="multi-position-workout-bench-tr0725" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F9651513090034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11270054%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/multi-position-workout-bench-tr0725.jpg" alt="multi-position-workout-bench-tr0725" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -110,7 +110,7 @@ mediaType: 'machine'
 
 
 <div class="product-widget-card">
-  <img src="/images/multi-position-workout-bench-tr0725-body-1.png" alt="multi-position-workout-bench-tr0725" class="widget-img" loading="lazy" />
+  <img src="/images/multi-position-workout-bench-tr0725.jpg" alt="multi-position-workout-bench-tr0725" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">TR0725マルチポジションベンチを自宅に導入すべき理由。解剖学的メリットとコスパを検証</h4>
 

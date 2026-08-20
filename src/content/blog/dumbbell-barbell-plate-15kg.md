@@ -34,7 +34,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/dumbbell-barbell-plate-15kg-body-1.png" alt="dumbbell-barbell-plate-15kg" class="widget-img" loading="lazy" />
+  <img src="/images/dumbbell-barbell-plate-15kg.jpg" alt="dumbbell-barbell-plate-15kg" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ダンベル プレート バーベル 15kgを自宅に導入すべき理由。筋肥大と実用性を科学的に検証！</h4>
 
@@ -95,7 +95,7 @@ mediaType: 'dumbbell'
 
 最後に、宅トレで高重量を扱う上で避けて通れないのが、床への衝撃と騒音問題です。この点は多くの宅トレ愛好家が悩む部分でしょう。しかし、公式説明にもあるように「ダンベルマット（2枚セット）」を併用することで、かなり改善されます。厚手の高密度ゴムマットを敷き詰めることで、プレートを床に置く際の「ガシャン」という金属音も、マットが衝撃を吸収してくれるため、賃貸マンションなどでも気兼ねなくトレーニングできるようになります。
 
-<img src="/images/dumbbell-barbell-plate-15kg-body-2.jpg" alt="dumbbell-barbell-plate-15kg" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/dumbbell-barbell-plate-15kg.jpg" alt="dumbbell-barbell-plate-15kg" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -189,7 +189,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/dumbbell-barbell-plate-15kg-body-1.png" alt="dumbbell-barbell-plate-15kg" class="widget-img" loading="lazy" />
+  <img src="/images/dumbbell-barbell-plate-15kg.jpg" alt="dumbbell-barbell-plate-15kg" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ダンベル プレート バーベル 15kgを自宅に導入すべき理由。筋肥大と実用性を科学的に検証！</h4>
 

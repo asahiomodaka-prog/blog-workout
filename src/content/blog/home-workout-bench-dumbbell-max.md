@@ -32,7 +32,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/home-workout-bench-dumbbell-max-body-1.png" alt="home-workout-bench-dumbbell-max" class="widget-img" loading="lazy" />
+  <img src="/images/home-workout-bench-dumbbell-max.jpg" alt="home-workout-bench-dumbbell-max" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化</h4>
 
@@ -55,7 +55,7 @@ mediaType: 'dumbbell'
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-<img src="/images/home-workout-bench-dumbbell-max-body-2.jpg" alt="home-workout-bench-dumbbell-max" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/home-workout-bench-dumbbell-max.jpg" alt="home-workout-bench-dumbbell-max" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 </a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">

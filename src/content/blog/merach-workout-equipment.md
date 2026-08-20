@@ -40,7 +40,7 @@ mediaType: 'gear'
 
 
 <div class="product-widget-card">
-  <img src="/images/merach-workout-equipment-body-1.png" alt="merach-workout-equipment" class="widget-img" loading="lazy" />
+  <img src="/images/merach-workout-equipment.jpg" alt="merach-workout-equipment" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">MERACHで変わる宅トレの新常識！科学的アプローチで狙った筋肉を効率強化！</h4>
 
@@ -66,7 +66,7 @@ MERACH 腹筋ローラーPROの最も際立った特徴は、その「厚手の�
 
 ## マンションでも安心！静音設計と省スペース性
 
-<img src="/images/merach-workout-equipment-body-2.jpg" alt="merach-workout-equipment" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/merach-workout-equipment.jpg" alt="merach-workout-equipment" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 自宅でのトレーニングを継続する上で、特に集合住宅にお住まいの方が懸念するのが「音」と「スペース」の問題です。階下への騒音はトレーニングの継続意欲を削ぎ、周囲への配慮から時間を制限せざるを得ないことも少なくありません。
 
@@ -78,7 +78,7 @@ MERACH 腹筋ローラーPROは「静音設計」が徹底されており、実�
 
 ジムの月会費は一般的に毎月数千円から1万円以上かかることが多く、年間で考えると数万円から十数万円の出費になります。それに加えて交通費や移動時間も考慮すると、自宅でこれだけのクオリティのトレーニングが可能なMERACH 腹筋ローラーPRO（3,999円）は、非常に合理的な投資と言えるでしょう。初期費用を抑えつつ、時間や場所に縛られずに質の高い腹筋トレーニングを継続できることは、長期的な視点で見ても優れた選択肢となります。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/merach-workout-equipment-body-3.jpg" alt="merach-workout-equipment" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00u9881.ve2q5a23.g00u9881.ve2q65a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmerach%2Fmr-2341%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmerach%2Fi%2F10000063%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/merach-workout-equipment.jpg" alt="merach-workout-equipment" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -129,7 +129,7 @@ MERACH 腹筋ローラーPROは「静音設計」が徹底されており、実�
 
 
 <div class="product-widget-card">
-  <img src="/images/merach-workout-equipment-body-1.png" alt="merach-workout-equipment" class="widget-img" loading="lazy" />
+  <img src="/images/merach-workout-equipment.jpg" alt="merach-workout-equipment" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">MERACHで変わる宅トレの新常識！科学的アプローチで狙った筋肉を効率強化！</h4>
 

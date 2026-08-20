@@ -38,7 +38,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/proiron-dumbbell-set-soft-coating-body-1.png" alt="proiron-dumbbell-set-soft-coating" class="widget-img" loading="lazy" />
+  <img src="/images/proiron-dumbbell-set-soft-coating.jpg" alt="proiron-dumbbell-set-soft-coating" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">PROIRONダンベルを宅トレで使う科学的理由！選ぶべき重量と効率化の秘訣</h4>
 
@@ -54,7 +54,7 @@ mediaType: 'dumbbell'
 
 ## 「転がらない」安心感。PROIRONダンベルが導くトレーニングの質
 
-<img src="/images/proiron-dumbbell-set-soft-coating-body-2.jpg" alt="proiron-dumbbell-set-soft-coating" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/proiron-dumbbell-set-soft-coating.jpg" alt="proiron-dumbbell-set-soft-coating" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 PROIRONダンベルを手に取ってまず印象的だったのは、その「転がりにくいボトムデザイン」です。一見すると地味な特徴に思えるかもしれませんが、これが自宅でのトレーニングにおける安全性と集中力に大きく貢献します。例えば、ダンベルプレスを行う際、床に置いたダンベルが転がってしまっては、セット間の休憩中に拾い直す手間がかかるだけでなく、最悪の場合、足に落として怪我をするリスクさえあります。特に、自宅のフローリングでトレーニングをする場合、少しの段差や傾きでもダンベルが転がりやすく、ヒヤリとした経験を持つ方も少なくないでしょう。
 
@@ -123,7 +123,7 @@ PROIRONダンベルのレビュー評価は4.66（503件）と非常に高く、
 
 これらの口コミや評価から、PROIRONダンベルが多くの宅トレ愛好家のニーズに応え、日々のトレーニングをサポートしていることがよくわかります。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00ugv01.ve2q55ad.g00ugv01.ve2q6675/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fproiron%2Fprkned%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fproiron%2Fi%2F10000201%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/proiron-dumbbell-set-soft-coating-body-3.jpg" alt="proiron-dumbbell-set-soft-coating" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ugv01.ve2q55ad.g00ugv01.ve2q6675/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fproiron%2Fprkned%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fproiron%2Fi%2F10000201%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/proiron-dumbbell-set-soft-coating.jpg" alt="proiron-dumbbell-set-soft-coating" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -205,7 +205,7 @@ PROIRONダンベルは、あくまで「自宅で安全に、効率よく、そ�
 
 
 <div class="product-widget-card">
-  <img src="/images/proiron-dumbbell-set-soft-coating-body-1.png" alt="proiron-dumbbell-set-soft-coating" class="widget-img" loading="lazy" />
+  <img src="/images/proiron-dumbbell-set-soft-coating.jpg" alt="proiron-dumbbell-set-soft-coating" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">PROIRONダンベルを宅トレで使う科学的理由！選ぶべき重量と効率化の秘訣</h4>
 

@@ -38,7 +38,7 @@ mediaType: 'gear'
 
 
 <div class="product-widget-card">
-  <img src="/images/ab-roller-4-wheel-knee-mat-body-1.png" alt="ab-roller-4-wheel-knee-mat" class="widget-img" loading="lazy" />
+  <img src="/images/ab-roller-4-wheel-knee-mat.jpg" alt="ab-roller-4-wheel-knee-mat" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">本当に効く？4輪式Abローラーが体幹を劇的に変える解剖学的効果を検証</h4>
 
@@ -64,7 +64,7 @@ mediaType: 'gear'
 
 付属の膝マットも、地味ながら非常に重要な役割を果たします。腹筋ローラーの動作は、どうしても膝に体重が集中しやすく、フローリングなどの硬い床では痛みで集中力が途切れてしまいがちです。しかし、このマットを使うことで膝関節への直接的な圧迫が緩和され、痛みを感じることなくトレーニングに没頭できます。これは、膝蓋骨とその周辺組織を保護するだけでなく、精神的なストレスなく、体幹に意識を集中させる上で不可欠な配慮です。静音設計も相まって、早朝や深夜でも周囲を気にせず、自分のペースで集中して追い込めるのは、宅トレ愛好家にとって大きなメリットとなるでしょう。
 
-<img src="/images/ab-roller-4-wheel-knee-mat-body-2.jpg" alt="ab-roller-4-wheel-knee-mat" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/ab-roller-4-wheel-knee-mat.jpg" alt="ab-roller-4-wheel-knee-mat" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## ジム vs. 自宅：腹筋ローラーがもたらす時間とコストの最適化
 
@@ -157,7 +157,7 @@ HAFOS オンラインショップで販売されているこの腹筋ローラ�
 
 
 <div class="product-widget-card">
-  <img src="/images/ab-roller-4-wheel-knee-mat-body-1.png" alt="ab-roller-4-wheel-knee-mat" class="widget-img" loading="lazy" />
+  <img src="/images/ab-roller-4-wheel-knee-mat.jpg" alt="ab-roller-4-wheel-knee-mat" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">本当に効く？4輪式Abローラーが体幹を劇的に変える解剖学的効果を検証</h4>
 

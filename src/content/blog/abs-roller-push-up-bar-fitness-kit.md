@@ -39,7 +39,7 @@ mediaType: 'gear'
 
 
 <div class="product-widget-card">
-  <img src="/images/abs-roller-push-up-bar-fitness-kit-body-1.png" alt="abs-roller-push-up-bar-fitness-kit" class="widget-img" loading="lazy" />
+  <img src="/images/abs-roller-push-up-bar-fitness-kit.jpg" alt="abs-roller-push-up-bar-fitness-kit" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証</h4>
 
@@ -89,7 +89,7 @@ mediaType: 'gear'
 
 ## 集合住宅でも安心！静音設計と省スペースが叶える「いつでも宅トレ」
 
-<img src="/images/abs-roller-push-up-bar-fitness-kit-body-2.jpg" alt="abs-roller-push-up-bar-fitness-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/abs-roller-push-up-bar-fitness-kit.jpg" alt="abs-roller-push-up-bar-fitness-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 自宅でのトレーニングを継続する上で、環境要因は非常に重要です。特に、マンションやアパートといった集合住宅にお住まいの方にとって、トレーニング中の騒音やスペースの制約は深刻な課題となり得ます。このフィットネスセットは、これらの悩みに徹底的に配慮して設計されています。
 
@@ -113,7 +113,7 @@ Rozallyの腹筋ローラーは、耐摩耗性の高い特殊な素材を採用�
 
 浮いた費用を良質な栄養補助食品に投資することも賢明な選択です。例えば、吸収の早いホエイ[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)はトレーニング直後の「ゴールデンタイム」（運動後30分以内）に摂取することで、筋肉の回復と成長を効率的にサポートします。また、吸収が緩やかなカゼインプロテインやソイプロテインは、就寝前や間食として摂取することで、長時間にわたるアミノ酸供給を助け、カタボリック（筋肉分解）を防ぐ効果が期待できます。適切な栄養摂取と組み合わせることで、トレーニング効果はさらに高まるでしょう。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00tpal1.ve2q5e45.g00tpal1.ve2q66ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftcconlineshop%2Fset_001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftcconlineshop%2Fi%2F10000016%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/abs-roller-push-up-bar-fitness-kit-body-3.jpg" alt="abs-roller-push-up-bar-fitness-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00tpal1.ve2q5e45.g00tpal1.ve2q66ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftcconlineshop%2Fset_001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftcconlineshop%2Fi%2F10000016%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/abs-roller-push-up-bar-fitness-kit.jpg" alt="abs-roller-push-up-bar-fitness-kit" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -124,7 +124,7 @@ Rozallyの腹筋ローラーは、耐摩耗性の高い特殊な素材を採用�
 
 
 <div class="product-widget-card">
-  <img src="/images/abs-roller-push-up-bar-fitness-kit-body-1.png" alt="abs-roller-push-up-bar-fitness-kit" class="widget-img" loading="lazy" />
+  <img src="/images/abs-roller-push-up-bar-fitness-kit.jpg" alt="abs-roller-push-up-bar-fitness-kit" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証</h4>
 

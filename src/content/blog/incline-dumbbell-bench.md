@@ -54,7 +54,7 @@ IKERU楽天市場店さんの[トレーニングベンチ インクラインベ�
 
 高密度フォームパッドも、見過ごせないポイントです。長時間のトレーニングでも身体への負担を軽減し、集中力を維持するのに役立ちます。ベンチが硬すぎると、肩甲骨や背骨、臀部などに痛みが生じ、フォームが崩れたり、トレーニング自体が億劫になったりすることがあります。適度なクッション性は、快適性だけでなく、関節の保護や血行の阻害を防ぐといった、生理学的にも大切な要素の一つと言えるでしょう。
 
-<img src="/images/incline-dumbbell-bench-body-1.jpg" alt="incline-dumbbell-bench" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/incline-dumbbell-bench.jpg" alt="incline-dumbbell-bench" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ### ジム不要論？ 賢い投資で手に入れる「プライベートジム」
 
@@ -147,7 +147,7 @@ IKERU楽天市場店さんの[トレーニングベンチ インクラインベ�
 
 
 <div class="product-widget-card">
-  <img src="/images/incline-dumbbell-bench-body-2.png" alt="incline-dumbbell-bench" class="widget-img" loading="lazy" />
+  <img src="/images/incline-dumbbell-bench.jpg" alt="incline-dumbbell-bench" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">インクラインベンチが自宅に必須な理由。胸筋上部を”効かせる”解剖学</h4>
 

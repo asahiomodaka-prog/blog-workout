@@ -63,7 +63,7 @@ mediaType: 'dumbbell'
 
 これらの特性を総合すると、FIELDOORのセメント化合物プレートは、単に「価格が手頃だから」という理由だけでなく、自宅トレーニング特有の制約と、筋力向上のための生理学的原則を深く理解した上で設計されていることが分かります。
 
-<img src="/images/dumbbell-barbell-plates-body-1.jpg" alt="dumbbell-barbell-plates" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/dumbbell-barbell-plates.jpg" alt="dumbbell-barbell-plates" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ### リアルシミュレーション：賃貸マンションで宅トレ環境を整える
 
@@ -136,7 +136,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/dumbbell-barbell-plates-body-2.png" alt="dumbbell-barbell-plates" class="widget-img" loading="lazy" />
+  <img src="/images/dumbbell-barbell-plates.jpg" alt="dumbbell-barbell-plates" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">停滞期打破！ダンベルプレートが宅トレの筋肥大効率を最大化する解剖学的根拠</h4>
 

@@ -57,7 +57,7 @@ mediaType: 'dumbbell'
 
 トレーニング中にマシンがぐらつくと、フォームが崩れて怪我につながる危険性があります。特に高重量を扱うバーベルトレーニングでは、安定性が非常に重要です。このマシンは、フレームの土台が幅広く設計されており、高い安定性を実現しています。さらに、ダブルロック機構でフレームを固定する仕組みも採用されており、使用中の不意な外れを防ぎ、利用者が安心して限界まで追い込める環境を提供しています。安全に配慮した設計は、高負荷トレーニングを自宅で行う上で最も重視すべき点の一つと言えるでしょう。
 
-<img src="/images/pull-up-dip-station-barbell-rack-home-gym-body-1.jpg" alt="pull-up-dip-station-barbell-rack-home-gym" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/pull-up-dip-station-barbell-rack-home-gym.jpg" alt="pull-up-dip-station-barbell-rack-home-gym" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ### ジム不要！自宅で叶える本格トレーニングと経済性
 
@@ -83,7 +83,7 @@ mediaType: 'dumbbell'
 
 プレートポールが4本付いているのも、宅トレにおいては嬉しい配慮です。使用しないプレートを床にそのまま置いておくと、足の踏み場に困ったり、つまずいたりする危険があります。専用の収納場所があることで、トレーニングスペースを常に整理整頓でき、安全性の向上にもつながります。重量変更の際もスムーズにプレートの付け替えが行え、トレーニングの中断を最小限に抑えることができます。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00q6pe1.ve2q5c3e.g00q6pe1.ve2q69be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmile88%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmile88%2Fi%2F10066021%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/pull-up-dip-station-barbell-rack-home-gym-body-2.jpg" alt="pull-up-dip-station-barbell-rack-home-gym" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q6pe1.ve2q5c3e.g00q6pe1.ve2q69be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmile88%2Fa18243%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmile88%2Fi%2F10066021%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/pull-up-dip-station-barbell-rack-home-gym.jpg" alt="pull-up-dip-station-barbell-rack-home-gym" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ### 万能ではないからこそ、目的を明確にする割り切りも必要
 
@@ -107,7 +107,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/pull-up-dip-station-barbell-rack-home-gym-body-3.png" alt="pull-up-dip-station-barbell-rack-home-gym" class="widget-img" loading="lazy" />
+  <img src="/images/pull-up-dip-station-barbell-rack-home-gym.jpg" alt="pull-up-dip-station-barbell-rack-home-gym" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ぶら下がり健康器 懸垂マシン！自宅で全身を鍛える解剖学的メリットと失敗しない選び方</h4>
 

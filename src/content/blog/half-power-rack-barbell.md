@@ -36,7 +36,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/half-power-rack-barbell-body-1.png" alt="half-power-rack-barbell" class="widget-img" loading="lazy" />
+  <img src="/images/half-power-rack-barbell.jpg" alt="half-power-rack-barbell" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由</h4>
 
@@ -62,7 +62,7 @@ mediaType: 'dumbbell'
 
 フレームの厚みが2倍に改良され、耐荷重もマルチ懸垂バー200kg、バーベルラック250kg、セーフティーバー350kgと高く設定されています。この頑丈さは単なる数字以上の意味を持ちます。高重量を扱う際のわずかなグラつきは、集中力を削ぐだけでなく、怪我のリスクを増大させる要因となります。本製品の堅牢なフレームは、例えば100kgを超えるベンチプレスを行う際にも、不安な音や揺れを抑制し、まるでジムのプロ仕様ラックを使っているかのような安心感を提供します。これにより、トレーニングに完全に没頭し、本来の筋力を引き出すことが可能となるでしょう。安全な環境は、筋肉への挑戦を可能にし、停滞期を乗り越えるための重要な要素と言えます。
 
-<img src="/images/half-power-rack-barbell-body-2.jpg" alt="half-power-rack-barbell" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/half-power-rack-barbell.jpg" alt="half-power-rack-barbell" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 費用と空間を最適化するホームジム設計
 
@@ -165,7 +165,7 @@ mediaType: 'dumbbell'
 
 
 <div class="product-widget-card">
-  <img src="/images/half-power-rack-barbell-body-1.png" alt="half-power-rack-barbell" class="widget-img" loading="lazy" />
+  <img src="/images/half-power-rack-barbell.jpg" alt="half-power-rack-barbell" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由</h4>
 

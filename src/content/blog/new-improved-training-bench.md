@@ -45,7 +45,7 @@ mediaType: 'machine'
 
 
 <div class="product-widget-card">
-  <img src="/images/new-improved-training-bench-body-1.png" alt="new-improved-training-bench" class="widget-img" loading="lazy" />
+  <img src="/images/new-improved-training-bench.jpg" alt="new-improved-training-bench" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">トレーニングベンチ新型は宅トレ必須か？筋肥大を最大化する解剖学的メリット</h4>
 
@@ -83,7 +83,7 @@ W背面支柱と極太パイプによる堅牢なフレームは、こうした�
 
 このベンチの500kgという数値は、将来的に扱える重量が増えたとしても、ベンチの破損や事故のリスクを極めて低く抑え、安心してトレーニングに打ち込める精神的な支えになります。構造的な堅牢さと、身体への配慮、そして多機能性。これらが高次元で融合している点が、このベンチの設計思想の深さを物語っていると感じます。
 
-<img src="/images/new-improved-training-bench-body-2.jpg" alt="new-improved-training-bench" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/new-improved-training-bench.jpg" alt="new-improved-training-bench" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## ジムを自宅に呼ぶコストパフォーマンス：時間とスペースの最適解
 
@@ -202,7 +202,7 @@ W背面支柱と極太パイプによる堅牢なフレームは、こうした�
 
 
 <div class="product-widget-card">
-  <img src="/images/new-improved-training-bench-body-1.png" alt="new-improved-training-bench" class="widget-img" loading="lazy" />
+  <img src="/images/new-improved-training-bench.jpg" alt="new-improved-training-bench" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">トレーニングベンチ新型は宅トレ必須か？筋肥大を最大化する解剖学的メリット</h4>
 
