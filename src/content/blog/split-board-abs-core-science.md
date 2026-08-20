@@ -2,7 +2,7 @@
 title: 'トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム'
 description: '「トレーニングボード解体新書 分離式」は、腰・首の負担を減らし腹筋と体幹を科学的に鍛えます。最新エビデンスに基づくフルROMで筋肥大を最大化。従来の腹筋運動に挫折した方も、6980円で理想の腹筋を！楽天で詳細をチェック。'
 pubDate: '2026-07-05'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/liverri/cabinet/12770162/main/11.jpg?_ex=600x600'
+heroImage: '../../assets/images/split-board-abs-core-science.jpg'
 genre: '宅トレギア・小物'
 sidebarProducts:
   - title: '【LINE200円OFFクーポン×15日はポイント10倍】グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 筋トレ ベンチプレス 手首補助 男女兼用 洗濯可能 左右セット'
@@ -30,22 +30,28 @@ mediaType: 'gear'
 
 本稿では、スポーツ科学の最新エビデンスに基づき、腹筋の筋肥大を最大化する**「最大可動域（フルROM）」**トレーニングの重要性について解説します。そして、この科学的知見を自宅で安全かつ効率的に実践するための最適なツールとして、**分離式腹筋台**をご紹介します。なぜ分離式腹筋台が、あなたの腹筋トレーニングの質を劇的に高めるのか、そのメカニズムと具体的なメリットを詳しく見ていきましょう。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/liverri/cabinet/12770162/main/11.jpg?_ex=600x600" alt="トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%BC%E3%83%89%E8%A7%A3" alt="トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>「トレーニングボード解体新書 分離式」は、腰・首の負担を減らし腹筋と体幹を科学的に鍛えます。最新エビデンスに基づくフルROMで筋肥大を最大化。従来の腹筋運動に挫折した方も、6980円で理想の腹筋を！楽天で詳細をチェック。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E4%25BD%2593%25E6%2596%25B0%25E6%259B%25B8%25EF%25BC%2581%25E5%2588%2586%25E9%259B%25A2%25E5%25BC%258F%25E3%2581%258C%25E8%2585%25B9%25E7%25AD%258B%25E3%2581%25A8%25E4%25BD%2593%25E5%25B9%25B9%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E9%258D%259B%25E3%2581%2588%25E3%2582%258B%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E4%25BD%2593%25E6%2596%25B0%25E6%259B%25B8%25EF%25BC%2581%25E5%2588%2586%25E9%259B%25A2%25E5%25BC%258F%25E3%2581%258C%25E8%2585%25B9%25E7%25AD%258B%25E3%2581%25A8%25E4%25BD%2593%25E5%25B9%25B9%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E9%258D%259B%25E3%2581%2588%25E3%2582%258B%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E4%25BD%2593%25E6%2596%25B0%25E6%259B%25B8%25EF%25BC%2581%25E5%2588%2586%25E9%259B%25A2%25E5%25BC%258F%25E3%2581%258C%25E8%2585%25B9%25E7%25AD%258B%25E3%2581%25A8%25E4%25BD%2593%25E5%25B9%25B9%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E9%258D%259B%25E3%2581%2588%25E3%2582%258B%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -101,6 +107,20 @@ mediaType: 'gear'
 
 これにより、より多くの筋線維を動員し、前述の「伸長位での筋肥大シグナル」を効率的に引き出すことが可能になります。
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #166534; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #166534; line-height: 1.4;">💪 遺伝子検査×完全マンツーマンのオンラインジム</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【CLOUD GYM / クラウドジム】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">自宅にいながら元ライザップ等のトップトレーナーがマンツーマン指導。あなたのDNAタイプに合わせたオーダーメイドの食事・トレーニングプランを提供！</p>
+    <div style="text-align: center;">
+        <a href="https://px.a8.net/svt/ejp?a8mat=3TXXXX+DYYYYY+2ZZZZ+6WWWW" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料体験トレーニングを試してみる
+        </a>
+    </div>
+</div>
+
+
 ## 【研究に基づいたおすすめギア】分離式腹筋台が選ばれる理由
 
 この腹直筋のフルROMトレーニングを自宅で安全かつ効率的に実践するための合理的な解決策として、今回ぜひご紹介したいのが**分離式腹筋台**です。
@@ -147,22 +167,28 @@ mediaType: 'gear'
 
 [分離式腹筋台](https://hb.afl.rakuten.co.jp/hgc/g00uu0s1.ve2q5077.g00uu0s1.ve2q6114/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliverri%2Fty-08%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliverri%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/liverri/cabinet/12770162/main/11.jpg?_ex=600x600" alt="トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%BC%E3%83%89%E8%A7%A3" alt="トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>「トレーニングボード解体新書 分離式」は、腰・首の負担を減らし腹筋と体幹を科学的に鍛えます。最新エビデンスに基づくフルROMで筋肥大を最大化。従来の腹筋運動に挫折した方も、6980円で理想の腹筋を！楽天で詳細をチェック。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E4%25BD%2593%25E6%2596%25B0%25E6%259B%25B8%25EF%25BC%2581%25E5%2588%2586%25E9%259B%25A2%25E5%25BC%258F%25E3%2581%258C%25E8%2585%25B9%25E7%25AD%258B%25E3%2581%25A8%25E4%25BD%2593%25E5%25B9%25B9%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E9%258D%259B%25E3%2581%2588%25E3%2582%258B%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E4%25BD%2593%25E6%2596%25B0%25E6%259B%25B8%25EF%25BC%2581%25E5%2588%2586%25E9%259B%25A2%25E5%25BC%258F%25E3%2581%258C%25E8%2585%25B9%25E7%25AD%258B%25E3%2581%25A8%25E4%25BD%2593%25E5%25B9%25B9%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E9%258D%259B%25E3%2581%2588%25E3%2582%258B%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%25E8%25A7%25A3%25E4%25BD%2593%25E6%2596%25B0%25E6%259B%25B8%25EF%25BC%2581%25E5%2588%2586%25E9%259B%25A2%25E5%25BC%258F%25E3%2581%258C%25E8%2585%25B9%25E7%25AD%258B%25E3%2581%25A8%25E4%25BD%2593%25E5%25B9%25B9%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E7%259A%2584%25E3%2581%25AB%25E9%258D%259B%25E3%2581%2588%25E3%2582%258B%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -174,6 +200,31 @@ mediaType: 'gear'
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の栄養補給に最適</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / グローブ</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">握力を補助して高重量を安全に扱う</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

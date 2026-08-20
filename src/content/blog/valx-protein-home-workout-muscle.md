@@ -2,7 +2,7 @@
 title: 'VALX プロテインで宅トレを科学する！効率的な筋肉合成のメカニズム'
 description: '自宅での筋肥大、限界を感じていませんか？VALXプロテインと科学的アプローチで宅トレ効果を最大化。フル可動域トレーニングや最適なタンパク質摂取の最新エビデンスで、効率的な筋肉合成メカニズムを解説します。'
 pubDate: '2026-07-05'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f122262-futtsu/cabinet/main/06271849/11937784/imgrc0098806475.jpg?_ex=600x600'
+heroImage: '../../assets/images/valx-protein-home-workout-muscle.jpg'
 genre: 'プロテイン'
 sidebarProducts:
   - title: '【LINE200円OFFクーポン×15日はポイント10倍】グロング GronG リストラップ 選べる2サイズ(30cm 60cm) 筋トレ ベンチプレス 手首補助 男女兼用 洗濯可能 左右セット'
@@ -27,25 +27,31 @@ mediaType: 'protein'
 
 自宅でのトレーニング、通称「宅トレ」。限られた空間と器具の中で、いかに効率よく筋肉を成長させ、理想の体を手に入れるか。これは多くの宅トレ愛好家が抱える共通の課題ではないでしょうか。単に感覚に頼るのではなく、最新のスポーツ科学に基づいたアプローチこそが、この課題を解決し、理想の体への近道となります。
 
-本記事では、筋肉を最大限に合成するための科学的メカニズムと、それを自宅で実践するための具体的な方法を深掘りします。そして、効率的な宅トレを力強くサポートするアイテムとして、科学的知見が凝縮された「VALX ホエイプロテイン WPC (山本義徳監修)」をご紹介しましょう。
+本記事では、筋肉を最大限に合成するための科学的メカニズムと、それを自宅で実践するための具体的な方法を深掘りします。そして、効率的な宅トレを力強くサポートするアイテムとして、科学的知見が凝縮された「VALX ホエイ[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3) WPC (山本義徳監修)」をご紹介しましょう。
 [VALX ホエイプロテイン WPC (山本義徳監修)](https://hb.afl.rakuten.co.jp/hgc/g00svrx1.ve2q5ff5.g00svrx1.ve2q6bc0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff122262-futtsu%2F49742103150973%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff10001080%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd6daad98b)
+
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
 
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f122262-futtsu/cabinet/main/06271849/11937784/imgrc0098806475.jpg?_ex=600x600" alt="VALX プロテインで宅トレを科学する！効率的な筋肉合成のメカニズム" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=VALX%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3" alt="VALX プロテインで宅トレを科学する！効率的な筋肉合成のメカニズム" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 VALX プロテインで宅トレを科学する！効率的な筋肉合成のメカニズム
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>自宅での筋肥大、限界を感じていませんか？VALXプロテインと科学的アプローチで宅トレ効果を最大化。フル可動域トレーニングや最適なタンパク質摂取の最新エビデンスで、効率的な筋肉合成メカニズムを解説します。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DVALX%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2581%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E7%25AD%258B%25E8%2582%2589%25E5%2590%2588%25E6%2588%2590%25E3%2581%25AE%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVALX%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2581%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E7%25AD%258B%25E8%2582%2589%25E5%2590%2588%25E6%2588%2590%25E3%2581%25AE%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DVALX%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2581%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E7%25AD%258B%25E8%2582%2589%25E5%2590%2588%25E6%2588%2590%25E3%2581%25AE%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -116,7 +122,7 @@ mediaType: 'protein'
 
 *   **プッシュアップ系（プッシュアップ、ニーリングプッシュアップなど）**:
     *   通常のプッシュアップでは、胸が床に触れるまで深く下ろすことを意識します。肘が外側に広がりすぎないように、やや体側に沿わせることで肩への負担を減らし、大胸筋を効果的に刺激できます。
-    *   さらに深い可動域を狙う場合は、プッシュアップバーやダンベル（不安定な場合は注意）を両手に持ち、胸を床よりも深く沈み込ませることで、大胸筋をより強くストレッチさせることが可能です。ネガティブ動作（体を下ろす動き）をゆっくりと行うことで、筋線維への張力を高められます。
+    *   さらに深い可動域を狙う場合は、プッシュアップバーや[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)（不安定な場合は注意）を両手に持ち、胸を床よりも深く沈み込ませることで、大胸筋をより強くストレッチさせることが可能です。ネガティブ動作（体を下ろす動き）をゆっくりと行うことで、筋線維への張力を高められます。
 
 *   **ロウイング系（ダンベルロウイング、自重インバーテッドロウイングなど）**:
     *   広背筋や僧帽筋といった背中の筋肉は、収縮だけでなく、十分に伸ばされることで刺激を最大化できます。
@@ -125,6 +131,20 @@ mediaType: 'protein'
     *   ダンベルがない場合は、椅子の背もたれや頑丈なテーブルの端を使って、体を傾けた状態で引っ張るインバーテッドロウイングも有効です。タオルを使ってドアノブなどを利用する応用も考えられます。
 
 これらの意識と工夫を凝らすことで、自宅という環境でも十分なフルROMトレーニングが可能となり、筋肥大の効率を大きく高めることができるでしょう。
+
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #166534; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #166534; line-height: 1.4;">💪 遺伝子検査×完全マンツーマンのオンラインジム</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【CLOUD GYM / クラウドジム】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">自宅にいながら元ライザップ等のトップトレーナーがマンツーマン指導。あなたのDNAタイプに合わせたオーダーメイドの食事・トレーニングプランを提供！</p>
+    <div style="text-align: center;">
+        <a href="https://px.a8.net/svt/ejp?a8mat=3TXXXX+DYYYYY+2ZZZZ+6WWWW" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料体験トレーニングを試してみる
+        </a>
+    </div>
+</div>
+
 
 ## 研究をサポートするアイテム：VALX ホエイプロテイン WPC
 
@@ -176,22 +196,28 @@ VALX ホエイプロテイン WPCは、タンパク質の栄養価を示す国�
 
 これらの客観的な視点を持つことで、プロテインを自身の宅トレ計画に賢く、かつ効果的に統合することができるはずです。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f122262-futtsu/cabinet/main/06271849/11937784/imgrc0098806475.jpg?_ex=600x600" alt="VALX プロテインで宅トレを科学する！効率的な筋肉合成のメカニズム" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=VALX%20%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3" alt="VALX プロテインで宅トレを科学する！効率的な筋肉合成のメカニズム" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 VALX プロテインで宅トレを科学する！効率的な筋肉合成のメカニズム
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>自宅での筋肥大、限界を感じていませんか？VALXプロテインと科学的アプローチで宅トレ効果を最大化。フル可動域トレーニングや最適なタンパク質摂取の最新エビデンスで、効率的な筋肉合成メカニズムを解説します。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DVALX%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2581%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E7%25AD%258B%25E8%2582%2589%25E5%2590%2588%25E6%2588%2590%25E3%2581%25AE%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-639%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000707%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVALX%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2581%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E7%25AD%258B%25E8%2582%2589%25E5%2590%2588%25E6%2588%2590%25E3%2581%25AE%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DVALX%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2581%25E5%258A%25B9%25E7%258E%2587%25E7%259A%2584%25E3%2581%25AA%25E7%25AD%258B%25E8%2582%2589%25E5%2590%2588%25E6%2588%2590%25E3%2581%25AE%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25BA%25E3%2583%25A0" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -203,6 +229,31 @@ VALX ホエイプロテイン WPCは、タンパク質の栄養価を示す国�
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の栄養補給に最適</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / グローブ</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">握力を補助して高重量を安全に扱う</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

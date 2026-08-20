@@ -2,7 +2,7 @@
 title: '宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する'
 description: '宅トレを最大化する『アルギニン 120粒』。シトルリンとクラチャイダム配合で、血流促進・疲労回復をサポートし、筋肉の成長とパフォーマンス維持に貢献。楽天で1000円のお手頃価格。科学的エビデンスに基づいた効果と活用法を解説します。'
 pubDate: '2026-07-17'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/pmone/cabinet/kenshoku03/cakcn45733400505483.jpg?_ex=600x600'
+heroImage: '../../assets/images/arginine-120-tablets-workout.jpg'
 genre: 'サプリメント・栄養'
 sidebarProducts:
   - title: 'スピードシェイプ フォーメン シュット 150粒 燃焼系 サプリメント ダイエット ジムサプリ トレーニングサプリ みなぎるサプリ'
@@ -38,22 +38,28 @@ mediaType: 'supplement'
 
 この効率的な宅トレ環境をサポートするアイテムとして、今回は[アルギニン 120粒](https://hb.afl.rakuten.co.jp/hgc/g00qlia1.ve2q5b36.g00qlia1.ve2q6622/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpmone%2F4573340050548%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpmone%2Fi%2F10029934%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd63aad98b)をご紹介しましょう。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/pmone/cabinet/kenshoku03/cakcn45733400505483.jpg?_ex=600x600" alt="宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%AE%85%E3%83%88%E3%83%AC%E9%99%90%E7%95%8C%E7%AA%81%E7%A0%B4%EF%BC%81%E3%80%8E%E3%82%A2" alt="宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>宅トレを最大化する『アルギニン 120粒』。シトルリンとクラチャイダム配合で、血流促進・疲労回復をサポートし、筋肉の成長とパフォーマンス維持に貢献。楽天で1000円のお手頃価格。科学的エビデンスに基づいた効果と活用法を解説します。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E3%2580%258E%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592%25E3%2580%258F%25E3%2581%25A7%25E7%25AD%258B%25E8%2582%2589%25E3%2581%25AE%25E8%25A1%2580%25E6%25B5%2581%25E3%2581%25A8%25E6%2588%2590%25E9%2595%25B7%25E3%2583%259B%25E3%2583%25AB%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00upha1.ve2q54b2.g00upha1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foriginentalspa-shop%2F4580092270353-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foriginentalspa-shop%2Fi%2F10000420%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E3%2580%258E%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592%25E3%2580%258F%25E3%2581%25A7%25E7%25AD%258B%25E8%2582%2589%25E3%2581%25AE%25E8%25A1%2580%25E6%25B5%2581%25E3%2581%25A8%25E6%2588%2590%25E9%2595%25B7%25E3%2583%259B%25E3%2583%25AB%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E3%2580%258E%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592%25E3%2580%258F%25E3%2581%25A7%25E7%25AD%258B%25E8%2582%2589%25E3%2581%25AE%25E8%25A1%2580%25E6%25B5%2581%25E3%2581%25A8%25E6%2588%2590%25E9%2595%25B7%25E3%2583%259B%25E3%2583%25AB%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -114,7 +120,7 @@ NOが血管内皮細胞で生成されると、血管が拡張し、その結果
 
 ## エビデンスに基づく実践アプローチ：宅トレでの効果的な活用法
 
-自宅でのトレーニングは、ジムのような多様なマシンや高重量のダンベルがないため、どうしても工夫が求められます。
+自宅でのトレーニングは、ジムのような多様なマシンや高重量の[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)がないため、どうしても工夫が求められます。
 自重トレーニングやチューブ、軽いダンベルを使ったトレーニングが中心になる場合、筋肉への負荷のかけ方が限定的になりがちです。
 このような環境では、筋繊維の動員を最大化し、疲労耐性を高めることが、効率的な筋肥大を狙う上で重要となります。
 
@@ -128,6 +134,20 @@ NOが血管内皮細胞で生成されると、血管が拡張し、その結果
 
 例えば、腕立て伏せやスクワット、プランクといった自重トレーニングをインターバル短めで連続して行う際、血流サポート系のサプリメントを摂取することで、後半のセットでもパフォーマンスの低下を最小限に抑え、設定した回数を完遂しやすくなるかもしれません。
 これは、単なる気分的なものではなく、身体内部の生理的反応が変化した結果として捉えることができます。
+
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #166534; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #166534; line-height: 1.4;">💪 遺伝子検査×完全マンツーマンのオンラインジム</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【CLOUD GYM / クラウドジム】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">自宅にいながら元ライザップ等のトップトレーナーがマンツーマン指導。あなたのDNAタイプに合わせたオーダーメイドの食事・トレーニングプランを提供！</p>
+    <div style="text-align: center;">
+        <a href="https://px.a8.net/svt/ejp?a8mat=3TXXXX+DYYYYY+2ZZZZ+6WWWW" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料体験トレーニングを試してみる
+        </a>
+    </div>
+</div>
+
 
 ## 科学的アプローチをサポートするアイテム：[アルギニン 120粒](https://hb.afl.rakuten.co.jp/hgc/g00qlia1.ve2q5b36.g00qlia1.ve2q6622/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpmone%2F4573340050548%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpmone%2Fi%2F10029934%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)をご紹介
 
@@ -177,22 +197,28 @@ NOが血管内皮細胞で生成されると、血管が拡張し、その結果
 
 価格が1,000円と手頃である点は、継続しやすいメリットとして捉えられますが、効果を期待して摂取し続けるのであれば、これらの注意点を理解した上で、自身の身体と相談しながら利用する姿勢が求められます。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/pmone/cabinet/kenshoku03/cakcn45733400505483.jpg?_ex=600x600" alt="宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E5%AE%85%E3%83%88%E3%83%AC%E9%99%90%E7%95%8C%E7%AA%81%E7%A0%B4%EF%BC%81%E3%80%8E%E3%82%A2" alt="宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>宅トレを最大化する『アルギニン 120粒』。シトルリンとクラチャイダム配合で、血流促進・疲労回復をサポートし、筋肉の成長とパフォーマンス維持に貢献。楽天で1000円のお手頃価格。科学的エビデンスに基づいた効果と活用法を解説します。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E3%2580%258E%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592%25E3%2580%258F%25E3%2581%25A7%25E7%25AD%258B%25E8%2582%2589%25E3%2581%25AE%25E8%25A1%2580%25E6%25B5%2581%25E3%2581%25A8%25E6%2588%2590%25E9%2595%25B7%25E3%2583%259B%25E3%2583%25AB%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00upha1.ve2q54b2.g00upha1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foriginentalspa-shop%2F4580092270353-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foriginentalspa-shop%2Fi%2F10000420%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E3%2580%258E%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592%25E3%2580%258F%25E3%2581%25A7%25E7%25AD%258B%25E8%2582%2589%25E3%2581%25AE%25E8%25A1%2580%25E6%25B5%2581%25E3%2581%25A8%25E6%2588%2590%25E9%2595%25B7%25E3%2583%259B%25E3%2583%25AB%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC%25E9%2599%2590%25E7%2595%258C%25E7%25AA%2581%25E7%25A0%25B4%25EF%25BC%2581%25E3%2580%258E%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592%25E3%2580%258F%25E3%2581%25A7%25E7%25AD%258B%25E8%2582%2589%25E3%2581%25AE%25E8%25A1%2580%25E6%25B5%2581%25E3%2581%25A8%25E6%2588%2590%25E9%2595%25B7%25E3%2583%259B%25E3%2583%25AB%25E3%2583%25A2%25E3%2583%25B3%25E3%2582%2592%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%2599%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -204,6 +230,31 @@ NOが血管内皮細胞で生成されると、血管が拡張し、その結果
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の栄養補給に最適</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / グローブ</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">握力を補助して高重量を安全に扱う</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 
