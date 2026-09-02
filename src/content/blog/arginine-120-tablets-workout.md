@@ -11,7 +11,7 @@ faq:
   - question: 'モチベーションが続かないのではないかと不安です。宅トレを継続するためのコツはありますか？'
     answer: 'モチベーションの維持は宅トレの大きな課題の一つですが、いくつかの工夫で乗り越えられます。まず、「小さく始める」ことです。毎日10分だけでも続ける、という目標設定が有効です。次に、目標を具体的に設定し、達成したら自分にご褒美をあげるサイクルを作るのもおすすめです。例えば、「1ヶ月で腕立て伏せの回数を5回増やす」など。また、私自身はトレーニングログをつけて進捗を可視化したり、友人やオンラインコミュニティで進捗を共有したりすることで、モチベーションを保っています。時には、新しい器具を導入することで気分転換を図るのも良いでしょう。'
   - question: '狭い部屋でも本格的な宅トレは可能ですか？どんな器具がおすすめですか？'
-    answer: '狭い部屋でも工夫次第で十分に本格的な宅トレは可能です。まず、ヨガマット1枚分のスペース（約1.8m×0.6m）があれば、自重トレーニングやトレーニングチューブを使った全身運動は問題なく行えます。おすすめは、省スペース性と汎用性の高い器具です。具体的には、場所を取らない可変式ダンベル（複数の重量を一台で賄える）、ドアフレームに設置できる懸垂バー、そしてトレーニングチューブです。チューブは負荷調整が容易で、多様な種目に対応でき、収納も非常にコンパクトです。これらを組み合わせることで、狭い空間でも全身を効率的に鍛えられます。 [宅トレ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592)'
+    answer: '狭い部屋でも工夫次第で十分に本格的な宅トレは可能です。まず、ヨガマット1枚分のスペース（約1.8m×0.6m）があれば、自重トレーニングやトレーニングチューブを使った全身運動は問題なく行えます。おすすめは、省スペース性と汎用性の高い器具です。具体的には、場所を取らない可変式ダンベル（複数の重量を一台で賄える）、ドアフレームに設置できる懸垂バー、そしてトレーニングチューブです。チューブは負荷調整が容易で、多様な種目に対応でき、収納も非常にコンパクトです。これらを組み合わせることで、狭い空間でも全身を効率的に鍛えられます。 [宅トレ](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92)'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -35,10 +35,10 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">アルギニン 120粒</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -55,7 +55,7 @@ faq:
 
 私自身、長年宅トレを続けてきて、その奥深さと身体への多大なメリットを実感しています。これは、単に「自宅で筋トレをする」という以上の、身体の構造と運動生理学を理解し、自宅の環境をデザインすることで、まるでオーダーメイドのジムを手に入れたかのような感覚で、トレーニング環境を構築することに他なりません。
 
-[アルギニン 120粒 サプリメント](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592)
+[アルギニン 120粒 サプリメント](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92)
 
 ## 運動生理学に基づいた「自宅」という空間の機能美
 
@@ -71,7 +71,7 @@ faq:
 
 特に、グリップ幅を変えることで、広背筋上部や下部、あるいは腕への刺激の比重を調整できるのも宅トレ環境ならではの利点です。ジムであれば他の利用者に気兼ねなくグリップを変えるのは難しい場面もありますが、自宅なら自分のペースで、身体の反応を見ながら試行錯誤できます。
 
-さらに、関節の保護という観点からも宅トレ環境は優れています。可変式[サプリメント](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592)やトレーニングチューブを導入すれば、ご自身の筋力レベルやその日の体調に合わせて負荷を細かく調整できます。
+さらに、関節の保護という観点からも宅トレ環境は優れています。可変式[サプリメント](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92)やトレーニングチューブを導入すれば、ご自身の筋力レベルやその日の体調に合わせて負荷を細かく調整できます。
 
 例えば、肩関節は非常に可動域が広い反面、不安定な構造をしているため、高重量を扱う際は細心の注意が必要です。宅トレであれば、軽い負荷から始め、フォームを完璧に習得しながら徐々に重量を上げていくという、怪我のリスクを最小限に抑えたアプローチが可能です。
 
@@ -129,7 +129,7 @@ faq:
 | **可変式ダンベル** | 重量調整可能なダンベル | 省スペース、様々な部位の筋力トレーニング |
 | **懸垂バー** | ドアフレーム設置型など | 背中、腕の筋肉強化（広背筋、上腕二頭筋など） |
 | **トレーニングチューブ** | 抵抗による負荷 | 全身の筋力トレーニング、リハビリ、ウォーミングアップ |
-| **[トレーニングベンチ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581)** | フラット・インクライン | ダンベルプレス、アームカール、腹筋など多様な種目 |
+| **[トレーニングベンチ](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81)** | フラット・インクライン | ダンベルプレス、アームカール、腹筋など多様な種目 |
 | **ヨガマット/フロアマット** | 床の保護、クッション性 | 関節への負担軽減、防音、滑り止め |
 | **プッシュアップバー** | 可動域の拡大 | 大胸筋、三頭筋の深い刺激、手首の保護 |
 | **腹筋ローラー** | 体幹強化 | 腹直筋、腹斜筋、体幹の安定性向上 |
@@ -172,7 +172,7 @@ faq:
 
 宅トレは、ご自身の理想の身体を自宅に作り出すための「手段」であり、目的ではありません。これらのデメリットを理解し、ご自身の目標やライフスタイルに合わせて賢く割り切ることで、宅トレはあなたの健康と身体作りの強力な支えとなってくれるでしょう。
 
-[アルギニン 120粒 サプリメント](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592)
+[アルギニン 120粒 サプリメント](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92)
 
 ## 身体と向き合う「アルギニン 120粒 サプリメント」は未来への合理的な投資
 
@@ -180,7 +180,7 @@ faq:
 
 時間やコストの制約を乗り越え、ご自身の身体のメカニズムを理解しながら、最適なトレーニング環境を自宅に構築する。これは、短期間での成果だけでなく、何十年にもわたる健康的な生活、そして自己実現のための強力な基盤を築くことにつながります。
 
-ジムへの移動時間や月々の会費が浮いた分で、栄養バランスの取れた食材にこだわったり、良質な[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592)やサプリメントを揃えたりすることも可能です。これは、トレーニング効果を最大化し、さらに身体の回復を早める上で非常に重要な要素です。
+ジムへの移動時間や月々の会費が浮いた分で、栄養バランスの取れた食材にこだわったり、良質な[プロテイン](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92)やサプリメントを揃えたりすることも可能です。これは、トレーニング効果を最大化し、さらに身体の回復を早める上で非常に重要な要素です。
 
 宅トレは、時間、費用、そして何よりも「継続性」という観点から、あなたの健康と理想の身体を育むための、実践的で効率的なソリューションの一つです。ご自身の身体の声を聴き、最適なアプローチを見つけ出す「アルギニン 120粒 サプリメント」というライフスタイルを、ご自身のペースで取り入れてみてください。
 
@@ -197,10 +197,10 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">アルギニン 120粒</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -218,14 +218,14 @@ faq:
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の効率的な筋肉修復・プロテイン補給に</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / パワーグリップ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">手首・握力を保護して安全に高重量を扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>
@@ -257,4 +257,4 @@ A3: 狭い部屋でも工夫次第で十分に本格的な宅トレは可能で�
 
 チューブは負荷調整が容易で、多様な種目に対応でき、収納も非常にコンパクトです。これらを組み合わせることで、狭い空間でも全身を効率的に鍛えられます。
 
-[アルギニン 120粒 サプリメント](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25AE%25E3%2583%258B%25E3%2583%25B3%2520120%25E7%25B2%2592)
+[アルギニン 120粒 サプリメント](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92)

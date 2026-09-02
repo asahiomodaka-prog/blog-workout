@@ -18,9 +18,9 @@ faq:
 
 自宅での筋トレを始めたいものの、「本当に効果が出るのだろうか」「何を揃えれば良いのか」「ジムに通う時間や費用が負担になる」といった不安をお持ちではないでしょうか。
 
-もしあなたが、自宅で効率的に全身を鍛え、着実に理想の体を目指したいと考えているなら、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%252015kg%2520%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC)、プレート、バーベルの基本セットは、あなたの宅トレを大きく前進させるための、最も合理的で効果的な投資となるでしょう。このセットがあれば、初心者の方でも安全かつ効率的に全身を鍛え上げ、着実に筋力アップや理想のボディメイクを進めていくことが可能です。
+もしあなたが、自宅で効率的に全身を鍛え、着実に理想の体を目指したいと考えているなら、[ダンベル](https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%2015kg%20%E3%83%A9%E3%83%90%E3%83%BC)、プレート、バーベルの基本セットは、あなたの宅トレを大きく前進させるための、最も合理的で効果的な投資となるでしょう。このセットがあれば、初心者の方でも安全かつ効率的に全身を鍛え上げ、着実に筋力アップや理想のボディメイクを進めていくことが可能です。
 
-[ダンベル プレート バーベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%252015kg%2520%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC)
+[ダンベル プレート バーベル](https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%2015kg%20%E3%83%A9%E3%83%90%E3%83%BC)
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
@@ -41,10 +41,10 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ダンベル プレート バーベル</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -55,17 +55,17 @@ faq:
 
 ## 身体の構造と機能を引き出す、重量器具の汎用性
 
-[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)、プレート、そしてバーベルの基本セットが、なぜ宅トレ初心者にとって最適な選択肢となるのでしょうか。その理由は、これらの器具が人間の身体の解剖学的構造と運動生理学的な原則に深く寄り添った設計思想を持っている点にあります。
+[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)、プレート、そしてバーベルの基本セットが、なぜ宅トレ初心者にとって最適な選択肢となるのでしょうか。その理由は、これらの器具が人間の身体の解剖学的構造と運動生理学的な原則に深く寄り添った設計思想を持っている点にあります。
 
 単に「重い」というだけでなく、私たちの持つ多様な筋肉を、さまざまな角度と負荷で効果的に刺激できるよう綿密に考えられているのです。
 
 ### ダンベル：左右のバランスと自由な可動域
 
-まず[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)は、片手で扱う特性から、左右のバランスを意識したトレーニング、いわゆる「ユニラテラルエクササイズ」に非常に優れています。例えば、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)ベンチプレスでは、左右の大胸筋や三角筋、上腕三頭筋の出力差を明確に感じ取ることができ、弱い側を意識的に鍛えることで、全身の筋力バランスを効果的に整えることが可能です。
+まず[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)は、片手で扱う特性から、左右のバランスを意識したトレーニング、いわゆる「ユニラテラルエクササイズ」に非常に優れています。例えば、[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)ベンチプレスでは、左右の大胸筋や三角筋、上腕三頭筋の出力差を明確に感じ取ることができ、弱い側を意識的に鍛えることで、全身の筋力バランスを効果的に整えることが可能です。
 
-これは、バーベルでは難しい[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)ならではの大きなメリットと言えるでしょう。
+これは、バーベルでは難しい[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)ならではの大きなメリットと言えるでしょう。
 
-さらに、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)は軌道の自由度が高く、肩関節や肘関節に負担をかけにくい角度で動作を行えるため、怪我のリスクを減らしつつ、ターゲットとする筋肉の最大伸展と最大収縮を促しやすい特徴があります。例えば、ダンベルローイングでは、広背筋の起始部から停止部までを意識し、肩甲骨の動きと連動させることで、より深い刺激を与えることが可能です。
+さらに、[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)は軌道の自由度が高く、肩関節や肘関節に負担をかけにくい角度で動作を行えるため、怪我のリスクを減らしつつ、ターゲットとする筋肉の最大伸展と最大収縮を促しやすい特徴があります。例えば、ダンベルローイングでは、広背筋の起始部から停止部までを意識し、肩甲骨の動きと連動させることで、より深い刺激を与えることが可能です。
 
 この自由な動きは、関節の自然な可動域を尊重し、トレーニング中の不要なストレスを避ける上で非常に重要です。
 
@@ -130,7 +130,7 @@ faq:
 *   1年間で：9,000円 × 12ヶ月 = 108,000円
 *   3年間で：108,000円 × 3 = 324,000円
 
-これに加えて、交通費（ガソリン代や電車賃）、[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%252015kg%2520%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC)やサプリメント代なども別途かかる可能性があります。
+これに加えて、交通費（ガソリン代や電車賃）、[プロテイン](https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%2015kg%20%E3%83%A9%E3%83%90%E3%83%BC)やサプリメント代なども別途かかる可能性があります。
 
 対して、ダンベル、プレート、バーベルの基本セットの初期費用はどうでしょうか。例えば、片手20kg（合計40kg）の可変式ダンベルと、100cm程度のバーベルシャフト、そして追加プレートのセットであれば、品質にもよりますが3万円〜6万円程度で購入可能です。
 
@@ -288,7 +288,7 @@ faq:
 
 トレーニング器具を自宅に迎え入れることは、日々の選択肢を広げ、健康的な習慣を根付かせるための大きな一歩となります。自分の体と向き合い、汗を流す時間は、ストレス解消にもつながり、精神的な充実感も得られるでしょう。
 
-[ダンベル プレート バーベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%252015kg%2520%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC)
+[ダンベル プレート バーベル](https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%2015kg%20%E3%83%A9%E3%83%90%E3%83%BC)
 
 自宅でのトレーニングを通じて、理想の体と健康な毎日を築く一助となることでしょう。
 
@@ -305,10 +305,10 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ダンベル プレート バーベル</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -326,14 +326,14 @@ faq:
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の効率的な筋肉修復・プロテイン補給に</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / パワーグリップ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">手首・握力を保護して安全に高重量を扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>

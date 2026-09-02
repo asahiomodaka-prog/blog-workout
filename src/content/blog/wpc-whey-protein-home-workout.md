@@ -35,10 +35,10 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">WPC</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWPC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://www.amazon.co.jp/s?k=WPC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWPC%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DWPC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=WPC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -49,9 +49,9 @@ faq:
 
 ## 宅トレ初心者がプロテイン選びで迷わないために：WPCが導く体づくりの第一歩
 
-自宅でのトレーニング（宅トレ）を始めたばかりの方にとって、[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWPC%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg)選びは最初のハードルの一つではないでしょうか。市場には膨大な種類の[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)があふれ、「どれを選べばいいのか」「本当に効果があるのか」「自分の体に合うのか」といった疑問や不安で、なかなか最初の一歩を踏み出せない方も多いはずです。
+自宅でのトレーニング（宅トレ）を始めたばかりの方にとって、[プロテイン](https://www.amazon.co.jp/s?k=WPC%20%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg)選びは最初のハードルの一つではないでしょうか。市場には膨大な種類の[プロテイン](https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3)があふれ、「どれを選べばいいのか」「本当に効果があるのか」「自分の体に合うのか」といった疑問や不安で、なかなか最初の一歩を踏み出せない方も多いはずです。
 
-膨大な情報の中から、どれが自分に最適かを見極めるのは容易ではありません。本記事の結論として、宅トレ初心者が[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)選びで迷った際に、まず検討すべきは[WPC](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWPC%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg)（ホエイ[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)コンセントレート）であると断言できます。
+膨大な情報の中から、どれが自分に最適かを見極めるのは容易ではありません。本記事の結論として、宅トレ初心者が[プロテイン](https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3)選びで迷った際に、まず検討すべきは[WPC](https://www.amazon.co.jp/s?k=WPC%20%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg)（ホエイ[プロテイン](https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3)コンセントレート）であると断言できます。
 
 効率的な筋肉の成長、運動後の迅速なリカバリー、そしてコストや手軽さのバランスを求める方にとって、WPCは体づくりを強力にサポートする存在となるでしょう。
 
@@ -61,7 +61,7 @@ faq:
 
 自宅でのトレーニングによって筋肉に刺激を与えた後、その筋肉が効果的に回復・成長するためには、適切な栄養素の摂取が不可欠です。その中でも、特に重要なのがタンパク質。
 
-WPCは、牛乳からチーズを作る過程で分離される「乳清」を原料とするホエイ[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)の一種で、身体への吸収効率の高さが大きな特徴です。
+WPCは、牛乳からチーズを作る過程で分離される「乳清」を原料とするホエイ[プロテイン](https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3)の一種で、身体への吸収効率の高さが大きな特徴です。
 
 トレーニングによって、筋肉は微細な損傷を受けます。この状態を「筋損傷」と呼び、この損傷が回復する過程で筋肉はより強く、大きくなろうとします。
 
@@ -71,9 +71,9 @@ WPCは、牛乳からチーズを作る過程で分離される「乳清」を�
 
 WPCの優れた点は、その吸収スピードです。トレーニング後の疲労した筋肉は、素早く栄養を求めています。
 
-WPCは、摂取後約1〜2時間でアミノ酸の血中濃度がピークに達するとされており、これは他のタンパク質源（カゼインやソイ[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)）と比較しても非常に速いです。この迅速なアミノ酸供給は、一般的に「アナボリックウィンドウ」または「ゴールデンタイム」と呼ばれるトレーニング後30分〜1時間以内（研究によってはそれ以上の時間幅が示唆されています）に摂取することで、筋タンパク質分解を抑制し、合成を促進する効果を最大限に引き出す要因となります。
+WPCは、摂取後約1〜2時間でアミノ酸の血中濃度がピークに達するとされており、これは他のタンパク質源（カゼインやソイ[プロテイン](https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3)）と比較しても非常に速いです。この迅速なアミノ酸供給は、一般的に「アナボリックウィンドウ」または「ゴールデンタイム」と呼ばれるトレーニング後30分〜1時間以内（研究によってはそれ以上の時間幅が示唆されています）に摂取することで、筋タンパク質分解を抑制し、合成を促進する効果を最大限に引き出す要因となります。
 
-例えば、腕立て伏せやスクワットといった宅トレメニュー後、[シェイカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC)でWPCを摂取すると、その素早い吸収により、多くの利用者が疲労回復の促進や筋肉の張り・翌日の疲労感軽減を実感しています。これは、WPCが筋肉の修復と回復を効率的にサポートしている生理学的証拠であると言えます。
+例えば、腕立て伏せやスクワットといった宅トレメニュー後、[シェイカー](https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC)でWPCを摂取すると、その素早い吸収により、多くの利用者が疲労回復の促進や筋肉の張り・翌日の疲労感軽減を実感しています。これは、WPCが筋肉の修復と回復を効率的にサポートしている生理学的証拠であると言えます。
 
 また、WPCに含まれる免疫グロブリンやラクトフェリンといった成分は、免疫機能の維持にも貢献すると言われています。これは、特にトレーニングによって一時的に免疫力が低下しやすい時期において、体調管理をサポートしてくれる、見逃せない効果です。
 
@@ -93,17 +93,17 @@ WPCは、摂取後約1〜2時間でアミノ酸の血中濃度がピークに達
 
 ジムに通うのと比較すると、月に数千円から1万円以上の節約が可能です。年間で考えれば、10万円以上の差が出ることも珍しくありません。
 
-この差額で、自宅トレーニング用の[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWPC%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg)やチューブ、懸垂スタンドといった器具を少しずつ揃えていくことも可能です。
+この差額で、自宅トレーニング用の[ダンベル](https://www.amazon.co.jp/s?k=WPC%20%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg)やチューブ、懸垂スタンドといった器具を少しずつ揃えていくことも可能です。
 
 さらに重要なのが「時間」の節約です。ジムへの移動時間、着替えの時間、他の利用者を待つ時間…。
 
-これらが積み重なると、1回のトレーニングで1時間以上のロスが発生することもあります。宅トレであれば、トレーニングを終えたその足でキッチンに行き、[シェイカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC)にWPCと水を入れて混ぜるだけ。
+これらが積み重なると、1回のトレーニングで1時間以上のロスが発生することもあります。宅トレであれば、トレーニングを終えたその足でキッチンに行き、[シェイカー](https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC)にWPCと水を入れて混ぜるだけ。
 
 この手軽さは、忙しい日々を送る方々にとって、トレーニング継続の大きなモチベーションとなるでしょう。朝の支度前や仕事の休憩中、子供が寝た後など、ちょっとしたスキマ時間にトレーニングをねじ込み、すぐに栄養補給ができるのは、ジム通いでは得られない宅トレならではの利点です。
 
 設置スペースについても、WPCは圧倒的に有利です。プロテインの袋や容器は、キッチンの棚やクローゼットの片隅にスッキリと収まります。
 
-[シェイカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC)もコンパクトなので、場所を取りません。自宅に大型のトレーニングマシンを置くスペースがない方でも、最小限のスペースで最大の効果を追求できるWPCは、まさに宅トレの強力な味方と言えるでしょう。
+[シェイカー](https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC)もコンパクトなので、場所を取りません。自宅に大型のトレーニングマシンを置くスペースがない方でも、最小限のスペースで最大の効果を追求できるWPCは、まさに宅トレの強力な味方と言えるでしょう。
 
 筆者自身も自宅で効率的に体づくりをしていますが、WPCは、時間や空間といった物理的な制約を感じさせず、日々のトレーニングルーティンに自然に溶け込む最適な選択肢だと感じています。
 
@@ -147,7 +147,7 @@ WPCには乳糖が含まれているため、牛乳でお腹を壊しやすい�
 
 個人の体質による差が大きいため、事前に自身の体調と相談することが重要です。また、製品によっては「泡立ちが気になる」という声もあります。
 
-[シェイカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC)で強く振ると泡が立ちすぎて飲みにくいと感じる人もいるようです。これは製品ごとの溶けやすさや、水とプロテインの割合、混ぜ方で多少は改善できますが、気になる人は無添加のものや、溶けやすいと評判の製品を選ぶと良いでしょう。
+[シェイカー](https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC)で強く振ると泡が立ちすぎて飲みにくいと感じる人もいるようです。これは製品ごとの溶けやすさや、水とプロテインの割合、混ぜ方で多少は改善できますが、気になる人は無添加のものや、溶けやすいと評判の製品を選ぶと良いでしょう。
 
 | WPCの一般的な栄養成分（参考値） |
 | :------------------------------- |
@@ -181,7 +181,7 @@ WPCは、宅トレ初心者がプロテイン生活を始める上で非常に�
 
 牛乳で割ると、より濃厚な味わいになり、カゼインプロテインも同時に摂取できるため、アミノ酸の供給が持続しやすくなりますが、カロリーは上がります。摂取方法として、トレーニング後は水で割ることで素早い吸収を促し、それ以外の時間帯で小腹が空いた時などは牛乳や豆乳で割って、より濃厚な味わいやカゼインプロテインによる持続的なアミノ酸供給を狙うなど、状況によって使い分けることが可能です。
 
-次に、[シェイカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC)選びも大切です。プロテインがダマにならず、しっかり混ざるものが良いでしょう。
+次に、[シェイカー](https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC)選びも大切です。プロテインがダマにならず、しっかり混ざるものが良いでしょう。
 
 最近は、泡立ちを抑えるためのミキサーボールが付いているものや、飲み口が工夫されているものなど、様々なタイプがあります。洗いやすさも考慮すると、継続しやすいですよ。
 
@@ -221,7 +221,7 @@ WPCは、すべての人にとって「唯一無二の最高のプロテイン�
 
 自宅でのトレーニングは、ジムに通うよりも手軽で継続しやすい反面、モチベーションの維持や栄養管理が課題になりがちです。特に、筋肉の成長とリカバリーに不可欠なタンパク質の摂取は、食事だけでは意識しないと不足しやすいため、プロテインの活用が成功への鍵を握ります。
 
-[WPC](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWPC%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg)は、その効率的な吸収、優れたコストパフォーマンス、そして何よりも手軽に摂取できるという点で、自宅での体づくりに励む方々にとって、非常に合理的な「投資」となるでしょう。自宅でトレーニングに励むあなたが、効率的に筋肉をつけ、疲労回復を早め、モチベーションを維持していく上で、WPCは強力なサポートツールとなるはずです。
+[WPC](https://www.amazon.co.jp/s?k=WPC%20%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg)は、その効率的な吸収、優れたコストパフォーマンス、そして何よりも手軽に摂取できるという点で、自宅での体づくりに励む方々にとって、非常に合理的な「投資」となるでしょう。自宅でトレーニングに励むあなたが、効率的に筋肉をつけ、疲労回復を早め、モチベーションを維持していく上で、WPCは強力なサポートツールとなるはずです。
 
 WPCは決して魔法の薬ではありませんが、継続的なトレーニングと適切な栄養補給の組み合わせこそが、理想の体を手に入れるための基盤となります。WPCはその重要なピースとして、あなたの健康的な体づくりを力強く後押ししてくれるはずです。
 
@@ -240,10 +240,10 @@ WPCは決して魔法の薬ではありませんが、継続的なトレーニ�
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">WPC</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWPC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://www.amazon.co.jp/s?k=WPC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWPC%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DWPC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=WPC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -261,14 +261,14 @@ WPCは決して魔法の薬ではありませんが、継続的なトレーニ�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の効率的な筋肉修復・プロテイン補給に</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / パワーグリップ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">手首・握力を保護して安全に高重量を扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>
