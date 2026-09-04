@@ -38,7 +38,7 @@ sidebarProducts:
 
 そこで僕がおすすめしたいのが、このYURENの二人用ヨガマットです。厚さ15mm、幅130cmというサイズが、あなたの宅トレの不安を解消し、安心して体を動かせる環境を提供してくれるでしょう。
 
-[スーパーSALE限定価格](https://hb.afl.rakuten.co.jp/hgc/g00tqov1.ve2q5a10.g00tqov1.ve2q6958/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuren%2Fsr-yjd-15mm-ps2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuren%2Fi%2F10000105%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、そのクッション性と広さで、初心者でも安全かつ快適にトレーニングに集中できるための、まさに「土台」となるアイテムです。
+[YUREN 二人用ヨガマット](https://hb.afl.rakuten.co.jp/hgc/g00tqov1.ve2q5a10.g00tqov1.ve2q6958/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuren%2Fsr-yjd-15mm-ps2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuren%2Fi%2F10000105%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、そのクッション性と広さで、初心者でも安全かつ快適にトレーニングに集中できるための、まさに「土台」となるアイテムです。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
@@ -52,17 +52,16 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yuren/cabinet/07708127/imgrc0079803330.jpg?_ex=600x600" alt="スーパーSALE限定価格" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yuren/cabinet/07708127/imgrc0079803330.jpg?_ex=600x600" alt="YUREN 二人用ヨガマット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">スーパーSALE限定価格</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">YUREN 二人用ヨガマット 15mm</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>商品詳細 商品名 YUREN　二人用　ヨガマット 素材 NBR サイズ 長さ：200CM 広さ：130CM 厚さ：15MM 重量 2.2kg 特徴 【特大ヨガマット】：「サイズ」200cm*130cm*1.5cm。 厚さ15mmになり、騒音</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BCSALE%E9%99%90%E5%AE%9A%E4%BE%A1%E6%A0%BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tqov1.ve2q5a10.g00tqov1.ve2q6958/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuren%2Fsr-yjd-15mm-ps2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuren%2Fi%2F10000105%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BCSALE%E9%99%90%E5%AE%9A%E4%BE%A1%E6%A0%BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=YUREN%20%E4%BA%8C%E4%BA%BA%E7%94%A8%20%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -95,7 +94,7 @@ YURENの二人用ヨガマットは、長さ200cm、幅130cmという特大サ�
 
 また、このマット一枚で床の傷防止や騒音対策にもなるため、賃貸住宅にお住まいの方や、マンションでの宅トレを考えている方にも心強い味方となるでしょう。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yuren/cabinet/07708127/imgrc0079803330.jpg?_ex=600x600" alt="スーパーSALE限定価格" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yuren/cabinet/07708127/imgrc0079803330.jpg?_ex=600x600" alt="YUREN 二人用ヨガマット" loading="lazy" decoding="async" />
 
 このマットの導入は、ジムの年間会費や移動時間を考慮すると、長期的な健康投資としても非常に合理的です。初期費用はかかりますが、毎月の出費がなく、自分の好きな時に好きなだけトレーニングできる環境は、継続する上で大きなメリットになります。
 
@@ -105,7 +104,7 @@ YURENの二人用ヨガマットは、長さ200cm、幅130cmという特大サ�
 | 販売ショップ | YUREN公式ショップ |
 | レビュー評価 | 4.46 (382件) |
 
-[スーパーSALE限定価格](https://hb.afl.rakuten.co.jp/hgc/g00tqov1.ve2q5a10.g00tqov1.ve2q6958/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuren%2Fsr-yjd-15mm-ps2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuren%2Fi%2F10000105%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[YUREN 二人用ヨガマット](https://hb.afl.rakuten.co.jp/hgc/g00tqov1.ve2q5a10.g00tqov1.ve2q6958/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuren%2Fsr-yjd-15mm-ps2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuren%2Fi%2F10000105%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #166534; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
@@ -139,7 +138,7 @@ YURENの二人用ヨガマットの15mmという厚さは、クッション性�
 
 また、マット自体の重量が2.2kgあるため、頻繁に持ち運ぶ用途にはあまり向きません。基本的に自宅に常設して使うのが賢明です。使わない時に丸めて保管する際も、それなりのスペースを必要とします。
 
-僕の場合、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)を使った高負荷トレーニングでは、マットの弾力性が足元を不安定に感じさせることがありました。そのため、ダンベルスクワットなど地面をしっかりと踏みしめたい種目では、マットの端で行うか、一時的にマットを避けて行っています。
+僕の場合、ダンベルを使った高負荷トレーニングでは、マットの弾力性が足元を不安定に感じさせることがありました。そのため、ダンベルスクワットなど地面をしっかりと踏みしめたい種目では、マットの端で行うか、一時的にマットを避けて行っています。
 
 このように、すべてのトレーニングに対応できるわけではないという割り切りも必要です。しかし、ヨガや自重トレーニング、ストレッチといった用途では、この厚さが圧倒的な快適さと安心感をもたらしてくれます。
 
@@ -151,7 +150,7 @@ YURENの二人用ヨガマットは、特に宅トレ初心者の方にとって
 
 家族やパートナーと一緒に体を動かせる点も、継続的なモチベーションに繋がるはずです。
 
-本格的なボディメイクを目指す上級者にとっても、質の高いストレッチや体幹トレーニングの土台として、その価値は十分にあります。あなたの宅トレを「もっと安全に、もっと快適に」変えるための投資として、この[スーパーSALE限定価格](https://hb.afl.rakuten.co.jp/hgc/g00tqov1.ve2q5a10.g00tqov1.ve2q6958/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuren%2Fsr-yjd-15mm-ps2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuren%2Fi%2F10000105%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)を検討してみるのもおすすめだ。
+本格的なボディメイクを目指す上級者にとっても、質の高いストレッチや体幹トレーニングの土台として、その価値は十分にあります。あなたの宅トレを「もっと安全に、もっと快適に」変えるための投資として、この[YUREN 二人用ヨガマット](https://hb.afl.rakuten.co.jp/hgc/g00tqov1.ve2q5a10.g00tqov1.ve2q6958/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuren%2Fsr-yjd-15mm-ps2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuren%2Fi%2F10000105%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)を検討してみるのもおすすめだ。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
@@ -165,17 +164,16 @@ YURENの二人用ヨガマットは、特に宅トレ初心者の方にとって
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yuren/cabinet/07708127/imgrc0079803330.jpg?_ex=600x600" alt="スーパーSALE限定価格" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yuren/cabinet/07708127/imgrc0079803330.jpg?_ex=600x600" alt="YUREN 二人用ヨガマット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">スーパーSALE限定価格</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">YUREN 二人用ヨガマット 15mm</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>商品詳細 商品名 YUREN　二人用　ヨガマット 素材 NBR サイズ 長さ：200CM 広さ：130CM 厚さ：15MM 重量 2.2kg 特徴 【特大ヨガマット】：「サイズ」200cm*130cm*1.5cm。 厚さ15mmになり、騒音</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BCSALE%E9%99%90%E5%AE%9A%E4%BE%A1%E6%A0%BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tqov1.ve2q5a10.g00tqov1.ve2q6958/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuren%2Fsr-yjd-15mm-ps2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuren%2Fi%2F10000105%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BCSALE%E9%99%90%E5%AE%9A%E4%BE%A1%E6%A0%BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://shopping.yahoo.co.jp/search?p=YUREN%20%E4%BA%8C%E4%BA%BA%E7%94%A8%20%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -193,14 +191,12 @@ YURENの二人用ヨガマットは、特に宅トレ初心者の方にとって
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイ[プロテイン](/blog/explosion-wpc-protein-3kg-cafe-au-lait/) 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の効率的な筋肉修復・プロテイン補給に</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / [パワーグリップ](/blog/golds-gym-power-grip-pro/)</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">手首・握力を保護して安全に高重量を扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>

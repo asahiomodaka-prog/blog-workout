@@ -35,7 +35,6 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">トレーニングボード</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%BC%E3%83%89" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%BC%E3%83%89%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%BC%E3%83%89" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -55,7 +54,7 @@ faq:
 
 同時に、安定したフォームをサポートすることで、トレーニングの質を向上させてくれるでしょう。省スペースで質の高い全身運動を求める方にとって、自宅トレーニングを次のレベルへと引き上げる画期的なツールとなるはずです。
 
-[トレーニングボード](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%20%E4%BD%93%E5%B9%B9%20%E8%85%B9%E7%AD%8B)
+トレーニングボード
 
 ## 身体のメカニズムを活かす設計：多彩な角度で筋肉を呼び覚ます
 
@@ -102,7 +101,7 @@ faq:
 
 フィットネスジムの月額料金は、一般的に8,000円から15,000円程度。仮に月額8,000円のジムに年間通うと、約96,000円の費用がかかります。
 
-これに加えて、交通費、ウェア代、[プロテイン](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%20%E4%BD%93%E5%B9%B9%20%E8%85%B9%E7%AD%8B)などのサプリメント代が上乗せされることを考えると、年間10万円以上の出費になることは珍しくありません。もしパーソナルトレーニングを検討するなら、さらに高額な費用が必要となるでしょう。
+これに加えて、交通費、ウェア代、プロテインなどのサプリメント代が上乗せされることを考えると、年間10万円以上の出費になることは珍しくありません。もしパーソナルトレーニングを検討するなら、さらに高額な費用が必要となるでしょう。
 
 対してトレーニングボードの初期費用は、製品によって異なりますが、数千円から1万円程度で手に入ることがほとんどです。一度購入すれば、電気代や水道代、交通費といったランニングコストはほぼゼロ。
 
@@ -183,7 +182,7 @@ faq:
 
 ### 導入が向かない可能性のある方
 
-*   **高重量での筋力アップを最優先する方:** 自重トレーニングがメインのため、ベンチプレスや[ダンベル](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%20%E4%BD%93%E5%B9%B9%20%E8%85%B9%E7%AD%8B)を使った高負荷トレーニングに特化した器具を求める方には不向きです。
+*   **高重量での筋力アップを最優先する方:** 自重トレーニングがメインのため、ベンチプレスやダンベルを使った高負荷トレーニングに特化した器具を求める方には不向きです。
 *   **マシンを使った特定の部位強化を好む方:** ジムに設置されたような多種多様なマシンによるトレーニングを代替するものではありません。
 *   **広背筋など、プッシュアップでは直接鍛えにくい部位を重点的に鍛えたい方:** このボード単体では、「引く」動作を主とする背中の筋肉などへのアプローチは限定的です。
 
@@ -229,7 +228,7 @@ faq:
     *   **自重スクワット・ランジ:** 自分の体重だけでも、正しいフォームで行えば十分に下半身を追い込めます。
     *   **ジャンピングスクワット・ランジ:** 爆発的な動きを加えることで、さらに負荷を高めることができます。
 *   **追加の負荷:**
-    *   **[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB):** 軽めの[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)があれば、プッシュアップのバリエーションを増やしたり、他の自重トレーニングと組み合わせたりして、さらに負荷を高めることが可能です。
+    *   **ダンベル:** 軽めのダンベルがあれば、プッシュアップのバリエーションを増やしたり、他の自重トレーニングと組み合わせたりして、さらに負荷を高めることが可能です。
 
 このように、複数のシンプルな器具を組み合わせることで、自宅でも全身の筋肉をバランス良く鍛えることが可能です。トレーニングボードは、自宅での「押す」動作と体幹の質を格段に高めてくれる、その核となる存在だと考えられます。
 
@@ -241,7 +240,7 @@ faq:
 
 日々の忙しさからジム通いが難しい方、トレーニングの停滞期に悩む方、そして手首や肩の負担を気にせず質の高い自重トレーニングを続けたい方にとって、このボードは自宅での運動効率を劇的に向上させる強力な味方になります。自宅トレーニングを次のレベルへと引き上げる一つの手段として、このトレーニングボードがあなたの選択肢となることを願っています。
 
-[トレーニングボード](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%20%E4%BD%93%E5%B9%B9%20%E8%85%B9%E7%AD%8B)
+トレーニングボード
 
 </a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%20%E4%BD%93%E5%B9%B9%20%E8%85%B9%E7%AD%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
@@ -256,7 +255,6 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">トレーニングボード</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%BC%E3%83%89" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%BC%E3%83%89%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%BC%E3%83%89" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -277,14 +275,12 @@ faq:
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の効率的な筋肉修復・プロテイン補給に</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / パワーグリップ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">手首・握力を保護して安全に高重量を扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>

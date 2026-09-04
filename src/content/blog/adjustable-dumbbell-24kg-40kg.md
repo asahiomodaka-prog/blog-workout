@@ -33,7 +33,6 @@ mediaType: dumbbell
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">可変式ダンベルは自宅ジムの最適解か</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%81%AF%E8%87%AA%E5%AE%85%E3%82%B8%E3%83%A0%E3%81%AE%E6%9C%80%E9%81%A9%E8%A7%A3%E3%81%8B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%81%AF%E8%87%AA%E5%AE%85%E3%82%B8%E3%83%A0%E3%81%AE%E6%9C%80%E9%81%A9%E8%A7%A3%E3%81%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%81%AF%E8%87%AA%E5%AE%85%E3%82%B8%E3%83%A0%E3%81%AE%E6%9C%80%E9%81%A9%E8%A7%A3%E3%81%8B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -47,29 +46,29 @@ mediaType: dumbbell
 
 ## 完璧な器具は存在しない：デメリットを理解し、賢く付き合う
 
-Motions可変式[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2024kg%2040kg)は非常に優れたトレーニング器具ですが、私が考えるデメリットと、それらに対する割り切り方についてお話しさせてください。
+Motions可変式ダンベルは非常に優れたトレーニング器具ですが、私が考えるデメリットと、それらに対する割り切り方についてお話しさせてください。
 
 ### 価格と投資対効果のバランス
 
-まず、やはり初期費用が安価ではないという点です。固定式[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2024kg%2040kg)であれば、同じくらいの総重量でももっと手軽に入手できる場合もあります。
+まず、やはり初期費用が安価ではないという点です。固定式ダンベルであれば、同じくらいの総重量でももっと手軽に入手できる場合もあります。
 
-しかし、この価格は「省スペース性」「多段階調整の利便性」「トレーニング効率の向上」という、固定式[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2024kg%2040kg)では得られない明確な価値に対する投資だと私は考えています。先述したように、ジムの月会費と比較すれば、早い段階で元が取れる計算です。
+しかし、この価格は「省スペース性」「多段階調整の利便性」「トレーニング効率の向上」という、固定式ダンベルでは得られない明確な価値に対する投資だと私は考えています。先述したように、ジムの月会費と比較すれば、早い段階で元が取れる計算です。
 
 私自身も、購入時は決して安い買い物ではないと思いましたが、その後のトレーニングの質と時間効率を考えれば、十分納得できる投資でした。
 
 ### 構造上の制約と耐久性
 
-可変式[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2024kg%2040kg)は、内部に複雑な機構を持つ精密機器です。そのため、固定式[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)のように、トレーニング中に高所から地面に落としたり、乱暴に扱ったりすることは推奨されません。
+可変式ダンベルは、内部に複雑な機構を持つ精密機器です。そのため、固定式ダンベルのように、トレーニング中に高所から地面に落としたり、乱暴に扱ったりすることは推奨されません。
 
-例えば、デッドリフトの終わりに勢いよく[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)を地面に「ドスン」と置くような癖がある人は、注意が必要です。プレートの破損や、内部機構の故障に繋がる可能性があります。
+例えば、デッドリフトの終わりに勢いよくダンベルを地面に「ドスン」と置くような癖がある人は、注意が必要です。プレートの破損や、内部機構の故障に繋がる可能性があります。
 
-私の場合は、トレーニングの最後に力を使い切った状態で[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)を置く際、意識的にゆっくりと、そしてマットの上で静かに置くようにしています。これは、器具を長く安全に使うための大切な習慣です。
+私の場合は、トレーニングの最後に力を使い切った状態でダンベルを置く際、意識的にゆっくりと、そしてマットの上で静かに置くようにしています。これは、器具を長く安全に使うための大切な習慣です。
 
 ### 一部の種目での可動域の制限
 
-プレートが連結されている構造上、固定式[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)に比べて本体の全長が長くなる場合があります。特にサイドダイヤル式の従来モデルは、プレートの幅が広めです。
+プレートが連結されている構造上、固定式ダンベルに比べて本体の全長が長くなる場合があります。特にサイドダイヤル式の従来モデルは、プレートの幅が広めです。
 
-これにより、一部の種目（例えば、膝の間に[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)を挟む「ダンベルスクワット」や、深くまで腕を下げる必要がある「ダンベルプルオーバー」など）で、プレートが体に当たったり、床と干渉したりして、可動域が制限される可能性があります。
+これにより、一部の種目（例えば、膝の間にダンベルを挟む「ダンベルスクワット」や、深くまで腕を下げる必要がある「ダンベルプルオーバー」など）で、プレートが体に当たったり、床と干渉したりして、可動域が制限される可能性があります。
 
 この点については、トレーニングフォームの微調整で対応するか、あるいは「ダンベルプルオーバーなら、バーベルやケーブルで代用する」といった割り切りが必要です。PROモデルは、プレートの幅がサイドダイヤル式よりも若干コンパクトに設計されているため、この問題は比較的軽減されるかもしれません。
 
@@ -90,7 +89,6 @@ Motions可変式[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">可変式ダンベルは自宅ジムの最適解か</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%81%AF%E8%87%AA%E5%AE%85%E3%82%B8%E3%83%A0%E3%81%AE%E6%9C%80%E9%81%A9%E8%A7%A3%E3%81%8B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%81%AF%E8%87%AA%E5%AE%85%E3%82%B8%E3%83%A0%E3%81%AE%E6%9C%80%E9%81%A9%E8%A7%A3%E3%81%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%81%AF%E8%87%AA%E5%AE%85%E3%82%B8%E3%83%A0%E3%81%AE%E6%9C%80%E9%81%A9%E8%A7%A3%E3%81%8B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -111,14 +109,12 @@ Motions可変式[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の効率的な筋肉修復・プロテイン補給に</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / パワーグリップ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">手首・握力を保護して安全に高重量を扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>

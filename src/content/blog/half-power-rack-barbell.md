@@ -16,9 +16,9 @@ faq:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-自宅でのトレーニング、通称「ハーフラックで宅トレ」は、時間や場所の制約を受けずに集中できる大きなメリットがあります。しかし、ある程度のレベルに達すると、[ダンベル](https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF)だけでは物足りなさを感じたり、高重量を扱う際の安全性に不安を覚えたりして、トレーニングが停滞してしまう方もいらっしゃるのではないでしょうか。
+自宅でのトレーニング、通称「ハーフラックで宅トレ」は、時間や場所の制約を受けずに集中できる大きなメリットがあります。しかし、ある程度のレベルに達すると、ダンベルだけでは物足りなさを感じたり、高重量を扱う際の安全性に不安を覚えたりして、トレーニングが停滞してしまう方もいらっしゃるのではないでしょうか。
 
-こうした悩みを抱える方にとって、自宅に本格的なトレーニング環境を構築する[ハーフラック](https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF)は、高重量バーベルトレーニングを安全かつ効率的に行い、自宅で本格的な筋力アップを目指すための最適なソリューションです。これは、単なるトレーニング器具ではなく、長期的な視点で見れば非常に費用対効果の高い「自己投資」と言えるでしょう。
+こうした悩みを抱える方にとって、自宅に本格的なトレーニング環境を構築するハーフラックは、高重量バーベルトレーニングを安全かつ効率的に行い、自宅で本格的な筋力アップを目指すための最適なソリューションです。これは、単なるトレーニング器具ではなく、長期的な視点で見れば非常に費用対効果の高い「自己投資」と言えるでしょう。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
@@ -39,7 +39,6 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ハーフラックで宅トレ</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A7%E5%AE%85%E3%83%88%E3%83%AC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A7%E5%AE%85%E3%83%88%E3%83%AC%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A7%E5%AE%85%E3%83%88%E3%83%AC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -91,13 +90,13 @@ faq:
 
 自宅にハーフラックを導入することは、ジムに通うのと比較して、長期的に見て高い費用対効果と時間の節約をもたらします。ジム通いのコストと、ハーフラックの初期投資を具体的にシミュレーションしてみましょう。
 
-例えば、一般的なフィットネスジムの月会費を8,000円と仮定します。これに加えて、自宅からジムまでの交通費が月々1,000円、さらに[プロテイン](https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF)やサプリメントの費用も考慮に入れると、月々10,000円程度の出費は珍しくありません。
+例えば、一般的なフィットネスジムの月会費を8,000円と仮定します。これに加えて、自宅からジムまでの交通費が月々1,000円、さらにプロテインやサプリメントの費用も考慮に入れると、月々10,000円程度の出費は珍しくありません。
 
 年間では120,000円もの費用がかかる計算になります。さらに、ジムへの往復に毎回1時間の移動時間と、着替えなどの準備時間も含めると、週3回通うとして年間約150時間もの時間を移動や準備に費やすことになります。
 
-一方で、[ハーフラック](https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF)の導入にかかる初期投資はどうでしょうか。ハーフラック本体が安価なもので5万円台から、高機能なもので10万円前後。
+一方で、ハーフラックの導入にかかる初期投資はどうでしょうか。ハーフラック本体が安価なもので5万円台から、高機能なもので10万円前後。
 
-これに加えて、バーベルセット（シャフトとプレート）が3万円から5万円、インクライン・デクラインも可能な[トレーニングベンチ](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81)が2万円から3万円と仮定します。全て合わせて、大体10万円から18万円程度の初期費用を見積もっておけば、かなり本格的なセットが組めます。
+これに加えて、バーベルセット（シャフトとプレート）が3万円から5万円、インクライン・デクラインも可能なトレーニングベンチが2万円から3万円と仮定します。全て合わせて、大体10万円から18万円程度の初期費用を見積もっておけば、かなり本格的なセットが組めます。
 
 仮に15万円の初期投資をしたとしましょう。ジムの年間費用12万円と比較すると、2年目からは完全に「元が取れる」計算になります。
 
@@ -220,7 +219,7 @@ faq:
 
 特にワンルームや限られた広さの部屋では、生活空間とトレーニング空間をどう区切るか、あるいはどちらかを犠牲にするかという問題に直面するでしょう。私の場合はリビングの一角をトレーニングゾーンとして割り切っていますが、来客時には多少なりとも圧迫感があるのは否めません。
 
-次に、「初期投資の高さ」も無視できません。ハーフラック本体だけでなく、バーベル、プレート、そして高品質な[トレーニングベンチ](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81)まで揃えるとなると、一括で10万円以上の出費は避けられません。
+次に、「初期投資の高さ」も無視できません。ハーフラック本体だけでなく、バーベル、プレート、そして高品質なトレーニングベンチまで揃えるとなると、一括で10万円以上の出費は避けられません。
 
 この金額は、特に初めて本格的な宅トレを始める方にとっては、心理的なハードルが高いと感じるかもしれません。しかし、これは長期的な視点での「投資」です。
 
@@ -232,13 +231,13 @@ faq:
 
 私自身も、ケーブル種目ができない点に物足りなさを感じることはあります。しかし、自宅でのトレーニングでは、フリーウェイトの基本種目（スクワット、ベンチプレス、デッドリフト、オーバーヘッドプレス、チンニング）を徹底的に極めることに集中することで、十分な筋肥大と筋力向上を実現できると割り切っています。
 
-特定の部位をより細かく追い込みたい場合は、[ダンベル](https://www.amazon.co.jp/s?k=%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB)やチューブといった補助的な器具で工夫する、あるいは「週に一度だけジムのケーブルマシンを使う日を設ける」といったハイブリッドなアプローチも可能です。
+特定の部位をより細かく追い込みたい場合は、ダンベルやチューブといった補助的な器具で工夫する、あるいは「週に一度だけジムのケーブルマシンを使う日を設ける」といったハイブリッドなアプローチも可能です。
 
 ハーフラックは万能ではありませんが、その核となる機能と安全性が、自宅での本格的な筋力アップにおいて絶大な効果を発揮します。これらのデメリットを理解し、自分のトレーニングスタイルや生活環境と照らし合わせて「どこまでなら許容できるか」「どこに優先順位を置くか」を考えることが、賢い選択に繋がります。
 
 ## 自宅に築く、理想の身体と健康への確かな投資
 
-自宅に[ハーフラック](https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%83%91%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF)環境を構築することは、単にトレーニング器具を購入する以上の意味を持ちます。それは、あなたの健康、肉体、そして時間という貴重な資産に対する、最も実践的な投資の一つです。
+自宅にハーフラック環境を構築することは、単にトレーニング器具を購入する以上の意味を持ちます。それは、あなたの健康、肉体、そして時間という貴重な資産に対する、最も実践的な投資の一つです。
 
 ジム通いの移動時間や混雑のストレスから解放され、自宅で好きな時に、好きなだけ高負荷トレーニングに取り組める環境は、トレーニングの継続率と質を飛躍的に向上させます。セーフティバーによる安全性は、高重量に挑戦する心理的なハードルを下げ、筋肉の成長を最大化するための「追い込み」を可能にします。
 
@@ -261,7 +260,6 @@ faq:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ハーフラックで宅トレ</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A7%E5%AE%85%E3%83%88%E3%83%AC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A7%E5%AE%85%E3%83%88%E3%83%AC%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
 <a href="https://shopping.yahoo.co.jp/search?p=%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A7%E5%AE%85%E3%83%88%E3%83%AC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
@@ -282,14 +280,12 @@ faq:
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">高品質ホエイプロテイン 1kg（人気フレーバー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">トレーニング直後の効率的な筋肉修復・プロテイン補給に</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%201kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">トレーニング用リストストラップ / パワーグリップ</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">手首・握力を保護して安全に高重量を扱う</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%82%B9%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>
