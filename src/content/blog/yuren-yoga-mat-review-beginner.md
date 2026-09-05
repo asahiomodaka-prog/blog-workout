@@ -55,7 +55,7 @@ sidebarProducts:
 <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yuren/cabinet/07708127/imgrc0079803330.jpg?_ex=600x600" alt="YUREN 二人用ヨガマット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">YUREN 二人用ヨガマット 15mm</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>商品詳細 商品名 YUREN　二人用　ヨガマット 素材 NBR サイズ 長さ：200CM 広さ：130CM 厚さ：15MM 重量 2.2kg 特徴 【特大ヨガマット】：「サイズ」200cm*130cm*1.5cm。 厚さ15mmになり、騒音</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
@@ -167,7 +167,7 @@ YURENの二人用ヨガマットは、特に宅トレ初心者の方にとって
 <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yuren/cabinet/07708127/imgrc0079803330.jpg?_ex=600x600" alt="YUREN 二人用ヨガマット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.9 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">YUREN 二人用ヨガマット 15mm</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>商品詳細 商品名 YUREN　二人用　ヨガマット 素材 NBR サイズ 長さ：200CM 広さ：130CM 厚さ：15MM 重量 2.2kg 特徴 【特大ヨガマット】：「サイズ」200cm*130cm*1.5cm。 厚さ15mmになり、騒音</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
