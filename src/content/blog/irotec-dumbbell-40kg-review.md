@@ -35,7 +35,7 @@ sidebarProducts:
 「宅トレを続けているけど、なかなか次のステップに進めない」と感じていませんか？ ジムに通う時間や費用を考えると、自宅での筋力アップは難しいと思われがちです。
 
 僕も以前は同じ悩みを抱えていました。
-しかし、IROTEC（アイロテック）の[9 11 1 59迄 P10倍 要エントリー](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) 40KGラバーダンベルセットを導入してからは、自宅トレーニングの質が劇的に向上しました。
+しかし、IROTEC（アイロテック）の[ラバー ダンベル 40KGセット](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) 40KGラバーダンベルセットを導入してからは、自宅トレーニングの質が劇的に向上しました。
 
 このダンベルは、費用対効果の高さと実用性、そして長期的なメンテナンス性において、宅トレ愛好家にとって最適な選択肢の一つだと断言できます。
 
@@ -51,16 +51,16 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511621/1x1_rd40.jpg?_ex=600x600" alt="9 11 1 59迄 P10倍 要エントリー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511621/1x1_rd40.jpg?_ex=600x600" alt="IROTEC (アイロテック) ラバー ダンベル 40KGセット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">9 11 1 59迄 P10倍 要エントリー</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">IROTEC (アイロテック) ラバー ダンベル 40KGセット</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>【重要】悪質無在庫出品及び転売業者にご注意下さい！！ ※現在ヤフオク・フリマサイト等で、悪質な『無在庫出品者』が多数確認されておりますのでご注意下さい！ 必ず販売価格を確認して下さい。無在庫の特徴は『1円』での販売、又は高額な金額で出品をし</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D9%252011%25201%252059%25E8%25BF%2584%2520P10%25E5%2580%258D%2520%25E8%25A6%2581%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIROTEC%2520%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252040KG" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -85,9 +85,9 @@ sidebarProducts:
 
 ## 自宅トレーニングを最適化する使用感とコスト
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511621/1x1_rd40.jpg?_ex=600x600" alt="9 11 1 59迄 P10倍 要エントリー" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511621/1x1_rd40.jpg?_ex=600x600" alt="IROTEC (アイロテック) ラバー ダンベル 40KGセット" loading="lazy" decoding="async" />
 
-僕がこの[9 11 1 59迄 P10倍 要エントリー](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)を導入して感じたのは、何よりもそのコストパフォーマンスの高さです。ジムに通う場合、月額1万円とすれば年間12万円、それに移動時間も加算されます。
+僕がこの[IROTEC (アイロテック) ラバー ダンベル 40KGセット](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)を導入して感じたのは、何よりもそのコストパフォーマンスの高さです。ジムに通う場合、月額1万円とすれば年間12万円、それに移動時間も加算されます。
 
 仮に片道15分とすると、往復で30分。週3回通えば年間78時間もの時間をジムへの移動に費やす計算です。
 
@@ -127,7 +127,7 @@ sidebarProducts:
 
 ## デメリットと賢い割り切り
 
-どんなトレーニング器具にも、メリットとデメリットは存在します。[9 11 1 59迄 P10倍 要エントリー](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のデメリットとして、まずはプレート交換の手間が挙げられます。
+どんなトレーニング器具にも、メリットとデメリットは存在します。[IROTEC (アイロテック) ラバー ダンベル 40KGセット](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のデメリットとして、まずはプレート交換の手間が挙げられます。
 
 スクリュウ式のため、クイック調整式の可変式ダンベルと比較すると、重量変更に時間がかかります。複数の種目を短いインターバルでこなしたい場合、少しもどかしさを感じるかもしれません。
 
@@ -141,7 +141,7 @@ sidebarProducts:
 
 ## 自宅で健康と理想の体を育む実践的な投資
 
-IROTECの[9 11 1 59迄 P10倍 要エントリー](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) 40KGラバーダンベルセットは、自宅でのトレーニング環境を大幅に改善してくれる優れた投資です。ジムに通う費用や時間を節約しながら、本格的な筋力トレーニングを実現できます。
+IROTECの[ラバー ダンベル 40KGセット](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) 40KGラバーダンベルセットは、自宅でのトレーニング環境を大幅に改善してくれる優れた投資です。ジムに通う費用や時間を節約しながら、本格的な筋力トレーニングを実現できます。
 
 特に、自宅で継続的にトレーニングしたい人、コストパフォーマンスを重視する人、そしてマンションなど集合住宅で音や床への配慮が必要な人には最適です。このダンベルは、あなたの宅トレ生活に新たな刺激と成長をもたらしてくれるでしょう。
 
@@ -157,16 +157,16 @@ IROTECの[9 11 1 59迄 P10倍 要エントリー](https://hb.afl.rakuten.co.jp/h
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511621/1x1_rd40.jpg?_ex=600x600" alt="9 11 1 59迄 P10倍 要エントリー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511621/1x1_rd40.jpg?_ex=600x600" alt="IROTEC (アイロテック) ラバー ダンベル 40KGセット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">9 11 1 59迄 P10倍 要エントリー</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">IROTEC (アイロテック) ラバー ダンベル 40KGセット</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>【重要】悪質無在庫出品及び転売業者にご注意下さい！！ ※現在ヤフオク・フリマサイト等で、悪質な『無在庫出品者』が多数確認されておりますのでご注意下さい！ 必ず販売価格を確認して下さい。無在庫の特徴は『1円』での販売、又は高額な金額で出品をし</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D9%252011%25201%252059%25E8%25BF%2584%2520P10%25E5%2580%258D%2520%25E8%25A6%2581%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIROTEC%2520%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252040KG" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>

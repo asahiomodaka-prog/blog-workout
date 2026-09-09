@@ -32,11 +32,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-自宅での筋トレが停滞期に入り、新たな刺激を求めている方も多いのではないでしょうか。限られたスペースで効果的な全身トレーニングを行うには、器具選びが肝心です。そこで今回は、フラットとインクラインの両方に対応する多機能ベンチ「P10倍★11日」を紹介します。
+自宅での筋トレが停滞期に入り、新たな刺激を求めている方も多いのではないでしょうか。限られたスペースで効果的な全身トレーニングを行うには、器具選びが肝心です。そこで今回は、フラットとインクラインの両方に対応する多機能ベンチ「BODYMAKER フラットインクラインベンチ TM087」を紹介します。
 
 このベンチがあれば、自宅でも多様な角度から筋肉を刺激し、ワンランク上のトレーニングが実現します。ジムに通う時間や費用を節約しながら、効率的に理想の体を目指せるでしょう。
 
-[P10倍★11日](https://hb.afl.rakuten.co.jp/hgc/g00psqw1.ve2q5623.g00psqw1.ve2q60ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodymaker%2Ftm087bkye%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodymaker%2Fi%2F10067311%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[BODYMAKER フラットインクラインベンチ TM087](https://hb.afl.rakuten.co.jp/hgc/g00psqw1.ve2q5623.g00psqw1.ve2q60ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodymaker%2Ftm087bkye%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodymaker%2Fi%2F10067311%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
@@ -50,16 +50,16 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/img/tm/tm087bkye.jpg?_ex=600x600" alt="P10倍★11日" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/img/tm/tm087bkye.jpg?_ex=600x600" alt="BODYMAKER フラットインクラインベンチ TM087" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">P10倍★11日</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">BODYMAKER (ボディメーカー) フラットインクラインベンチ TM087</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>【組立式】インクラインベンチまたはフラットベンチとして使用可能。トレーニングの目的に合わせて、シートパッドはフラットから約20度まで2段階、バックパッドはフラットから約60度まで6段階にわたって、それぞれ角度が変えられます。［1］練習者の身</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00psqw1.ve2q5623.g00psqw1.ve2q60ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodymaker%2Ftm087bkye%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodymaker%2Fi%2F10067311%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DP10%25E5%2580%258D%25E2%2598%258511%25E6%2597%25A5" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259C%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -84,7 +84,7 @@ sidebarProducts:
 
 トレーニング中のフォームが安定すれば、余計な部位への負担が減り、ターゲット筋肉への刺激を最大化できます。結果として、怪我のリスクを低減しつつ、筋肥大や筋力向上を効率的に促すことが可能です。単調になりがちな宅トレに、解剖学に基づいた質の高い刺激を与えられる設計と言えるでしょう。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/img/tm/tm087bkye.jpg?_ex=600x600" alt="P10倍★11日" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/img/tm/tm087bkye.jpg?_ex=600x600" alt="BODYMAKER フラットインクラインベンチ TM087" loading="lazy" decoding="async" />
 
 ## ジムを超えるコスパと省スペース術
 
@@ -162,7 +162,7 @@ sidebarProducts:
 
 33,000円という初期投資は、数年間のジム会費や移動時間を考慮すれば、むしろ経済的で効率的な選択と言えます。宅トレの質を高め、理想の身体を追求する方にとって、このインクラインベンチは最高の相棒となるでしょう。
 
-[P10倍★11日](https://hb.afl.rakuten.co.jp/hgc/g00psqw1.ve2q5623.g00psqw1.ve2q60ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodymaker%2Ftm087bkye%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodymaker%2Fi%2F10067311%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[BODYMAKER フラットインクラインベンチ TM087](https://hb.afl.rakuten.co.jp/hgc/g00psqw1.ve2q5623.g00psqw1.ve2q60ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodymaker%2Ftm087bkye%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodymaker%2Fi%2F10067311%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
@@ -176,16 +176,16 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/img/tm/tm087bkye.jpg?_ex=600x600" alt="P10倍★11日" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/img/tm/tm087bkye.jpg?_ex=600x600" alt="BODYMAKER フラットインクラインベンチ TM087" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">P10倍★11日</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">BODYMAKER (ボディメーカー) フラットインクラインベンチ TM087</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>【組立式】インクラインベンチまたはフラットベンチとして使用可能。トレーニングの目的に合わせて、シートパッドはフラットから約20度まで2段階、バックパッドはフラットから約60度まで6段階にわたって、それぞれ角度が変えられます。［1］練習者の身</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00psqw1.ve2q5623.g00psqw1.ve2q60ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodymaker%2Ftm087bkye%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodymaker%2Fi%2F10067311%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DP10%25E5%2580%258D%25E2%2598%258511%25E6%2597%25A5" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259C%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
