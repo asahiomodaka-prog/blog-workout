@@ -10,6 +10,8 @@ sidebarProducts:
     imageUrl: '/images/adjustable-dumbbell-24kg-40kg.jpg'
     microCopy: '詳細を見る'
 mediaType: dumbbell
+tags:
+  - 'angle:comparison'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

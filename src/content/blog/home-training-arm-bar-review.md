@@ -5,6 +5,8 @@ pubDate: '2026-09-05'
 heroImage: '/images/home-training-arm-bar-review.jpg'
 genre: 'workout'
 mediaType: 'gear'
+tags:
+  - 'angle:review'
 faq:
   - question: 'アームバーは本当に初心者でも使えますか？'
     answer: 'はい、使えます。シンプルな動作で、特に上腕二頭筋や三頭筋、大胸筋を効果的に刺激できます。複雑なフォームを覚える必要がないため、初心者でも取り組みやすい器具です。'

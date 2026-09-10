@@ -5,6 +5,8 @@ pubDate: '2026-08-13'
 heroImage: '/images/half-power-rack-barbell.jpg'
 genre: 'workout'
 mediaType: 'dumbbell'
+tags:
+  - 'angle:review'
 faq:
   - question: 'ハーフラックの組み立ては一人でもできますか？'
     answer: '安全性を考慮すると、二人以上での組み立てを強く推奨します。特にフレームの固定やセーフティバーの取り付けなど、重量のあるパーツを安定させる工程では補助が必要です。電動工具があると作業がスムーズに進みますが、手動での組み立ては時間と労力がかかりますので、できれば二人以上で進めることをおすすめします。'

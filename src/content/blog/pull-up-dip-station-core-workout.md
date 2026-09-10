@@ -5,6 +5,8 @@ pubDate: '2026-07-15'
 heroImage: '/images/pull-up-dip-station-core-workout.jpg'
 genre: 'workout'
 mediaType: 'machine'
+tags:
+  - 'angle:workout-menu'
 faq:
   - question: 'チンニング（懸垂）とディップスを同じマシンで行うメリットは？'
     answer: '上半身の二大「引く動作（背中・二頭）」と「押す動作（胸・三頭）」を1台で完結できる点です。対立する筋群をバランスよく追い込む拮抗筋スーパーセットも可能になり、時短かつ強烈な筋肥大効果が得られます。'

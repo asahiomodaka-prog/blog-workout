@@ -5,6 +5,8 @@ pubDate: '2026-07-06'
 heroImage: '/images/10mm-15mm-wide-yoga-mat-home.jpg'
 genre: 'workout'
 mediaType: 'gear'
+tags:
+  - 'angle:review'
 faq:
   - question: '10mmと15mm、どちらを選べばいいですか？'
     answer: '主にヨガやピラティス、ストレッチ、基本的な自重トレーニングが中心で、適度なクッション性と安定性を求める方には10mmがおすすめです。一方、ジャンプ系のエクササイズを取り入れる方、体重が重めの方、より高い関節保護や階下への防音効果を重視する方には15mmが良いでしょう。ご自身のトレーニング内容と身体への負担感を考慮して選んでください。'

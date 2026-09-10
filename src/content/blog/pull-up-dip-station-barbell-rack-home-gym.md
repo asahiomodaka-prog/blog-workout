@@ -5,6 +5,8 @@ pubDate: '2026-07-23'
 heroImage: '/images/pull-up-dip-station-barbell-rack-home-gym.jpg'
 genre: 'workout'
 mediaType: 'machine'
+tags:
+  - 'angle:beginner'
 faq:
   - question: '懸垂が1回もできない初心者でも効果はありますか？'
     answer: 'はい、絶大な効果があります。まずはバーにぶら下がるだけで広背筋や脊柱起立筋が心地よくストレッチされ、姿勢改善や肩こり緩和に繋がります。さらに足を台につけた状態での「斜め懸垂」から段階的に筋力を養えます。'

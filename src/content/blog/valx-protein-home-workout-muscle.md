@@ -10,6 +10,8 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f122262-futtsu/cabinet/main/06271849/11937784/imgrc0098806475.jpg?_ex=600x600'
     microCopy: '詳細を見る'
 mediaType: protein
+tags:
+  - 'angle:nutrition-science'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

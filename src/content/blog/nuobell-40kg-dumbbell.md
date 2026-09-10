@@ -5,6 +5,8 @@ pubDate: '2026-07-07'
 heroImage: '/images/nuobell-40kg-dumbbell.jpg'
 genre: 'workout'
 mediaType: 'dumbbell'
+tags:
+  - 'angle:review'
 faq:
   - question: '初心者でも使いこなせますか？'
     answer: 'はい、初心者の方にも非常におすすめできます。NUOBELLは細かい重量調整が可能なため、無理なく軽い負荷から始めて正しいフォームを身につけやすく、徐々に負荷を上げていくことで安全かつ効果的にトレーニングを進められます。取扱説明書をしっかり読み、正しい操作方法を習得すれば問題なく扱えます。不明な点があれば、YouTubeなどの動画で使い方を学ぶのも良いでしょう。'

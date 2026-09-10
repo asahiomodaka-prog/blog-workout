@@ -5,6 +5,8 @@ pubDate: '2026-08-12'
 heroImage: '/images/dumbbell-barbell-plate-15kg.jpg'
 genre: 'workout'
 mediaType: 'dumbbell'
+tags:
+  - 'angle:review'
 faq:
   - question: '初心者には何kgくらいのセットがおすすめですか？'
     answer: '初心者の方には、両手合わせて20kg〜30kg程度の可変式ダンベルセット、またはバーベルシャフト（約10kg）と、合計30kg〜50kg程度のプレートがセットになったものがおすすめです。まずは軽重量で正しいフォームを習得し、徐々に負荷を上げていくことが、怪我の予防と効果的なトレーニングに繋がります。特に、2.5kgや1.25kgといった小さなプレートが含まれていると、細かな重量調整が可能になり、トレーニングの幅が広がるでしょう。'

@@ -10,6 +10,8 @@ sidebarProducts:
     imageUrl: '/images/valx-whey-protein-1kg-420g.jpg'
     microCopy: '詳細を見る'
 mediaType: protein
+tags:
+  - 'angle:comparison'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -5,6 +5,8 @@ pubDate: '2026-07-27'
 heroImage: '/images/merach-workout-equipment.jpg'
 genre: 'workout'
 mediaType: 'gear'
+tags:
+  - 'angle:review'
 faq:
   - question: 'MERACHの組み立ては、一人でも可能ですか？'
     answer: 'ほとんどの宅トレ器具と同様に、MERACHも一人での組み立ては可能ですが、パーツが重かったり、手順が複雑だったりする場合があります。特に大きな部品をはめ込む際や、安全のためのボルト締めなどは、二人で行う方がスムーズで安全です。説明書には推奨人数や必要な工具が記載されていますので、必ず確認し、必要であれば友人に手伝ってもらうことをお勧めします。安全確保のためにも、無理は禁物です。'

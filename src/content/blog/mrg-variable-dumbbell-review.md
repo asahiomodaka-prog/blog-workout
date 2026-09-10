@@ -5,6 +5,8 @@ pubDate: '2026-09-02'
 heroImage: '/images/mrg-variable-dumbbell-review.png'
 genre: 'workout'
 mediaType: 'dumbbell'
+tags:
+  - 'angle:review'
 faq:
   - question: 'MRG可変式ダンベルは故障しやすいですか？'
     answer: 'ダイヤル式のため、プレートの落下や強い衝撃には注意が必要です。高密度プラスチックとスチールの組み合わせで頑丈に作られていますが、丁寧な使用と定期的なメンテナンスを心がけることで、長くお使いいただけます。'

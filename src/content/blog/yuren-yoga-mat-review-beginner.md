@@ -5,6 +5,8 @@ pubDate: '2026-09-03'
 heroImage: '/images/yuren-yoga-mat-review-beginner.jpg'
 genre: 'workout'
 mediaType: 'gear'
+tags:
+  - 'angle:beginner'
 faq:
   - question: 'このマットは収納しやすいですか？'
     answer: '厚さ15mmの特大サイズのため、一般的なヨガマットよりはかさばります。丸めて保管しますが、ある程度のスペースは必要になります。頻繁に持ち運ぶ用途には不向きです。'

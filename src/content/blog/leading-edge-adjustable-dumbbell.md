@@ -5,6 +5,8 @@ pubDate: '2026-09-01'
 heroImage: '/images/leading-edge-adjustable-dumbbell.png'
 genre: 'workout'
 mediaType: 'dumbbell'
+tags:
+  - 'angle:review'
 faq:
   - question: 'ノーブランドの格安可変式ダンベルとLEADING EDGEの違いは何ですか？'
     answer: 'LEADING EDGEは国内フィットネスブランドとして品質管理やアフターサポート体制が整っています。ダイヤルの噛み合わせ精度や台座の剛性が高く、プレートのガタつきが少ない点が大きなメリットです。'

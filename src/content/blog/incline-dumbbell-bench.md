@@ -5,6 +5,8 @@ pubDate: '2026-08-06'
 heroImage: '/images/incline-dumbbell-bench.jpg'
 genre: 'workout'
 mediaType: 'dumbbell'
+tags:
+  - 'angle:review'
 faq:
   - question: 'インクラインベンチでどのようなトレーニングができますか？'
     answer: '主にダンベルを使った胸筋上部のトレーニングが可能です。インクラインダンベルプレス、インクラインダンベルフライ、インクラインダンベルプルオーバーなどが代表的です。これらの種目は大胸筋上部にピンポイントで効かせることができ、肩への負担を抑えながら効果的に鍛えられます。'

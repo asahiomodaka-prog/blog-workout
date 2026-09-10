@@ -5,6 +5,8 @@ pubDate: '2026-08-30'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/045/42220-02.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'machine'
+tags:
+  - 'angle:review'
 faq:
   - question: '組み立ては難しいですか？'
     answer: '説明書が付属しており、部品点数もそこまで多くないので、一般的な組み立て家具の経験があれば一人でも組み立て可能です。ただし、フレームが大きく重いため、できれば二人で行うとより安全かつスムーズに作業が進みます。必要な工具はプラスドライバーと付属の六角レンチです。'

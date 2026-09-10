@@ -5,6 +5,8 @@ pubDate: '2026-07-05'
 heroImage: '/images/alinco-fa221y-anatomy-workout.jpg'
 genre: 'workout'
 mediaType: 'machine'
+tags:
+  - 'angle:review'
 faq:
   - question: '組み立ては難しいですか？一人でもできますか？'
     answer: 'アルインコ FA221Yは比較的シンプルな構造で、付属の説明書を見ながら手順通りに進めれば、特別な工具は不要で、一人でも約30分から1時間程度で組み立て可能です。特にネジの締め忘れがないか、各部品がしっかりと固定されているかを最終確認してください。安全な使用のために、焦らず丁寧な作業を心がけましょう。'

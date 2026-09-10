@@ -5,6 +5,8 @@ pubDate: '2026-07-25'
 heroImage: '/images/multi-position-workout-bench-tr0725.jpg'
 genre: 'workout'
 mediaType: 'machine'
+tags:
+  - 'angle:review'
 faq:
   - question: '初心者でも組み立てられますか？'
     answer: 'はい、一般的なマルチポジションベンチは、付属の説明書に従ってボルトを締め付ける比較的シンプルな構造です。ただし、安全に関わる重要な工程なので、必ず説明書をよく読み、ボルトの締め付けは付属の工具でしっかり行ってください。不安な場合は、組み立てに慣れた人に手伝ってもらうのも良いでしょう。'

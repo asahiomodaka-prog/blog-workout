@@ -5,6 +5,8 @@ pubDate: '2026-07-29'
 heroImage: '/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg'
 genre: 'workout'
 mediaType: 'protein'
+tags:
+  - 'angle:review'
 faq:
   - question: 'プロテインはいつ飲むのが一番効果的ですか？'
     answer: '一般的に、筋力トレーニング後の30分～1時間以内、いわゆる「ゴールデンタイム」に摂取するのが最も効果的とされています。この時間帯は、トレーニングによって傷ついた筋肉がアミノ酸を積極的に取り込み、修復・成長しようとするためです。また、朝食時や間食として摂取することで、日中のタンパク質不足を補い、筋肉量の維持や食欲コントロールにも役立ちます。'

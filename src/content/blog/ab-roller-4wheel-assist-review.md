@@ -5,6 +5,8 @@ pubDate: '2026-09-08'
 heroImage: '/images/ab-roller-4wheel-assist-review.jpg'
 genre: 'workout'
 mediaType: 'gear'
+tags:
+  - 'angle:workout-menu'
 faq:
   - question: '自動リバウンド（アシスト）機能とは何ですか？'
     answer: '本体内部に高弾性スプリングが内蔵されており、前に転がすとスプリングが巻き上げられ、伸びきった位置から戻る動作を自動でアシストしてくれます。これにより、最も負荷がかかり腰を痛めやすい「戻りの初動」をスムーズに行えます。'

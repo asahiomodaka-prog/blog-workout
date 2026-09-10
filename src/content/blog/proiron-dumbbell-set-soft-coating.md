@@ -10,6 +10,8 @@ sidebarProducts:
     imageUrl: '/images/proiron-dumbbell-set-soft-coating.jpg'
     microCopy: '詳細を見る'
 mediaType: dumbbell
+tags:
+  - 'angle:review'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

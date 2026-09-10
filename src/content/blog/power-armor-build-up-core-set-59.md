@@ -5,6 +5,8 @@ pubDate: '2026-08-11'
 heroImage: '/images/power-armor-build-up-core-set-59.jpg'
 genre: 'workout'
 mediaType: 'gear'
+tags:
+  - 'angle:review'
 faq:
   - question: 'POWER ARMORは本当に省スペースですか？部屋が狭いのですが導入できますか？'
     answer: 'POWER ARMORは、その機能性の高さに比べて非常にコンパクトに設計されています。一般的な設置目安としては、幅120cm×奥行き150cm程度のスペースがあれば、主要なトレーニングを安全に行うことが可能です。使用しない時は一部をたたむこともできる設計なので、家具の配置を工夫すれば、一般的な6畳程度の部屋でも十分に導入できるでしょう。まずは設置予定場所の寸法を測り、周囲の可動域も含めて余裕があるか確認してみてください。'

@@ -5,6 +5,8 @@ pubDate: '2026-07-28'
 heroImage: '/images/variable-dumbbell-24kg-workout.jpg'
 genre: 'workout'
 mediaType: 'dumbbell'
+tags:
+  - 'angle:workout-menu'
 faq:
   - question: 'ドロップセットとは何ですか？可変式ダンベルで行うメリットは？'
     answer: '高重量で限界まで動作を行った直後、重量を落として休憩なしで追い込む筋肥大手法です。可変式ダンベルならダイヤルを回してわずか数秒で重量を変えられるため、筋肉の緊張と代謝ストレスを維持したまま強烈なパンプ感を得られます。'

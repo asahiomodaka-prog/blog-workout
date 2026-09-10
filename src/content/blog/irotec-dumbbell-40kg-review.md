@@ -5,6 +5,8 @@ pubDate: '2026-09-07'
 heroImage: '/images/irotec-dumbbell-40kg-review.jpg'
 genre: 'workout'
 mediaType: 'dumbbell'
+tags:
+  - 'angle:review'
 faq:
   - question: 'ラバーリングの取り付けは難しいですか？'
     answer: 'ラバーリングの取り付けは比較的簡単です。ただし、プレートの枚数が多いので、全てのリングを取り付けるには少々時間がかかる可能性があります。説明書に従ってゆっくり作業すれば問題ありません。'

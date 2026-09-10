@@ -5,6 +5,8 @@ pubDate: '2026-08-15'
 heroImage: '/images/ab-roller-4-wheel-knee-mat.jpg'
 genre: 'workout'
 mediaType: 'gear'
+tags:
+  - 'angle:beginner'
 faq:
   - question: '従来の腹筋ローラーと比べて、肘当て付きは何が違いますか？'
     answer: '体重を手首だけで支えるのではなく、前腕と肘全体で支えるため、手首への負担が劇的に軽減されます。また、プランクに近い安定した姿勢をキープできるため、腰が反りにくく安全です。'

@@ -5,6 +5,8 @@ pubDate: '2026-09-06'
 heroImage: '/images/home-training-bench-review.jpg'
 genre: 'workout'
 mediaType: 'machine'
+tags:
+  - 'angle:review'
 faq:
   - question: '組み立ては難しいですか？'
     answer: '組み立ては必要ですが、特別難しい作業ではありません。工具は付属しないため、六角レンチやスパナなどを事前に準備してください。説明書を見ながら作業すれば、1時間程度で完成させられるはずです。'

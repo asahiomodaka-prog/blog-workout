@@ -5,6 +5,8 @@ pubDate: '2026-09-09'
 heroImage: '/images/variable-dumbbell-24kg-review.jpg'
 genre: 'workout'
 mediaType: 'dumbbell'
+tags:
+  - 'angle:beginner'
 faq:
   - question: '初心者や筋力に自信のない女性でも扱えますか？'
     answer: 'はい、最小2.5kgから設定できるため、腕や肩のエクササイズなど女性や初心者の方でも無理なく安全に始められます。体力の向上に合わせて少しずつ重量を上げられるのが最大のメリットです。'
