@@ -29,6 +29,43 @@ const mediaBadgeMap: Record<string, { label: string; icon: string }> = {
 	protein: { label: 'プロテイン', icon: '🥤' },
 	supplement: { label: 'サプリメント', icon: '💊' },
 };
+
+function getArticleTypeBadge(post: { id: string; data: { title: string } }) {
+	const slug = post.id.toLowerCase();
+	const title = post.data.title.toLowerCase();
+
+	if (
+		slug.includes('ranking') ||
+		title.includes('ランキング') ||
+		title.includes('ranking') ||
+		title.includes('top5') ||
+		title.includes('top10')
+	) {
+		return { label: 'ランキング', icon: '🏆', className: 'badge-type-ranking' };
+	}
+	if (
+		slug.includes('vs') ||
+		slug.includes('comparison') ||
+		title.includes(' vs ') ||
+		title.includes('比較') ||
+		title.includes('どっち') ||
+		title.includes('徹底比較') ||
+		title.includes('対比')
+	) {
+		return { label: '徹底比較', icon: '⚔️', className: 'badge-type-comparison' };
+	}
+	if (
+		slug.includes('guide') ||
+		title.includes('ガイド') ||
+		title.includes('選び方') ||
+		title.includes('入門') ||
+		title.includes('初心者') ||
+		title.includes('guide')
+	) {
+		return { label: '選び方ガイド', icon: '📚', className: 'badge-type-guide' };
+	}
+	return { label: '本音レビュー', icon: '📝', className: 'badge-type-review' };
+}
 ---
 
 <!doctype html>
@@ -211,6 +248,37 @@ const mediaBadgeMap: Record<string, { label: string; icon: string }> = {
 				font-weight: 700;
 				padding: 0.25rem 0.6rem;
 				border-radius: 6px;
+			}
+			/* 記事タイプバッジ */
+			.badge-type {
+				font-size: 0.72rem;
+				font-weight: 800;
+				padding: 0.22rem 0.55rem;
+				border-radius: 6px;
+				letter-spacing: 0.02em;
+				display: inline-flex;
+				align-items: center;
+				gap: 0.25rem;
+			}
+			.badge-type-ranking {
+				background: #fef3c7;
+				color: #92400e;
+				border: 1px solid rgba(245, 158, 11, 0.35);
+			}
+			.badge-type-comparison {
+				background: #fee2e2;
+				color: #991b1b;
+				border: 1px solid rgba(239, 68, 68, 0.35);
+			}
+			.badge-type-guide {
+				background: #dbeafe;
+				color: #1e40af;
+				border: 1px solid rgba(59, 130, 246, 0.35);
+			}
+			.badge-type-review {
+				background: #f1f5f9;
+				color: #475569;
+				border: 1px solid rgba(148, 163, 184, 0.35);
 			}
 			.featured-title {
 				font-size: 1.45rem;
@@ -429,6 +497,14 @@ const mediaBadgeMap: Record<string, { label: string; icon: string }> = {
 							</div>
 							<div class="featured-body">
 								<div class="badge-row">
+									{(() => {
+										const tb = getArticleTypeBadge(featuredPost);
+										return (
+											<span class={`badge-type ${tb.className}`}>
+												{tb.icon} {tb.label}
+											</span>
+										);
+									})()}
 									{featuredPost.data.mediaType && mediaBadgeMap[featuredPost.data.mediaType] && (
 										<span class="badge-media">
 											{mediaBadgeMap[featuredPost.data.mediaType].icon} {mediaBadgeMap[featuredPost.data.mediaType].label}
@@ -480,6 +556,14 @@ const mediaBadgeMap: Record<string, { label: string; icon: string }> = {
 									</div>
 									<div class="card-body">
 										<div class="badge-row">
+											{(() => {
+												const tb = getArticleTypeBadge(post);
+												return (
+													<span class={`badge-type ${tb.className}`}>
+														{tb.icon} {tb.label}
+													</span>
+												);
+											})()}
 											{media && (
 												<span class="badge-media">
 													{media.icon} {media.label}
