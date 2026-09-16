@@ -40,15 +40,6 @@ sidebarProducts:
 
 ダイヤルを回すだけで**2.5kgの軽量から24kgまで15段階に細かく調整**できるため、筋力に自信のない初心者や女性でも、無理なく安全にウェイトトレーニングをスタートできます。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 2.5kgの超軽量からスタートでき、筋力や種目に合わせて無理のない安全な負荷調整ができる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 自重トレを卒業して効率的に引き締めたい初心者・女性や、1台を家族でシェアしたい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースは畳半畳で十分ですが、床のキズ防止にヨガマットやジョイントマットの併用を推奨。</li>
-</ul>
-</div>
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -59,7 +50,7 @@ sidebarProducts:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ダンベル 可変式ダンベル 24kg 筋トレ</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>【かんたん重量変更】 2秒で変更できる可変式ダンベル！24kg2個セットタイプです。 左右のダイヤルを回して設定したい数値に調整 そのまま引き上げると設定した数値の重さのダンベルに！筋トレ中の無駄な時間がなくなります！ 【ダイヤル数値はキロ</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252024kg%2520%25E7%25AD%258B%25E3%2583%2588%25E3%2583%25AC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252024kg%2520%25E7%25AD%258B%25E3%2583%2588%25E3%2583%25AC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
@@ -152,15 +143,6 @@ sidebarProducts:
 
 自宅で健康を育み、理想の身体を追求したいと考える人にとって、[ダンベル 可変式ダンベル 24kg 筋トレ](https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、きっと素晴らしい相棒になるはずです。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 2.5kgの超軽量からスタートでき、筋力や種目に合わせて無理のない安全な負荷調整ができる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 自重トレを卒業して効率的に引き締めたい初心者・女性や、1台を家族でシェアしたい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースは畳半畳で十分ですが、床のキズ防止にヨガマットやジョイントマットの併用を推奨。</li>
-</ul>
-</div>
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -171,7 +153,7 @@ sidebarProducts:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ダンベル 可変式ダンベル 24kg 筋トレ</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>【かんたん重量変更】 2秒で変更できる可変式ダンベル！24kg2個セットタイプです。 左右のダイヤルを回して設定したい数値に調整 そのまま引き上げると設定した数値の重さのダンベルに！筋トレ中の無駄な時間がなくなります！ 【ダイヤル数値はキロ</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252024kg%2520%25E7%25AD%258B%25E3%2583%2588%25E3%2583%25AC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%252024kg%2520%25E7%25AD%258B%25E3%2583%2588%25E3%2583%25AC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-48kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>

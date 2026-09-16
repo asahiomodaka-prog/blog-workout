@@ -29,9 +29,9 @@ faq:
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質の漸進性過負荷を実現し、狙った筋肉へ的確に刺激を届けられる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大を目指し、怪我のリスクを抑えて宅トレを継続したい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃・キズを防ぐトレーニングマットの併用を推奨。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質のトレーニング負荷を実現し、狙った筋肉へ的確に刺激を届けられる点。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大・体力向上を目指し、宅トレを習慣化したい方。</li>
+<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃やキズを防ぐマット等の保護具の併用。</li>
 </ul>
 </div>
 

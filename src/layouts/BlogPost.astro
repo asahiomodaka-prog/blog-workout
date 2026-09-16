@@ -7,9 +7,13 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 
-type Props = CollectionEntry<'blog'>['data'] & { genre?: string };
+type Props = CollectionEntry<'blog'>['data'] & {
+	genre?: string;
+	headings?: Array<{ depth: number; slug: string; text: string }>;
+	readingTime?: number;
+};
 
-const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProducts, faq, rating } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProducts, faq, rating, headings = [], readingTime } = Astro.props;
 
 const defaultProducts = [
 	{
@@ -32,12 +36,18 @@ const defaultProducts = [
 	}
 ];
 
-const products = sidebarProducts && sidebarProducts.length > 0
+const rawProducts = sidebarProducts && sidebarProducts.length > 0
 	? [
 			...sidebarProducts,
 			...defaultProducts.slice(sidebarProducts.length)
 		].slice(0, 3)
 	: defaultProducts;
+
+// 各商品に imageUrl が未指定の場合は heroImage または defaultProducts でフォールバック
+const products = rawProducts.map((p, idx) => ({
+	...p,
+	imageUrl: p.imageUrl || (idx === 0 ? heroImage : defaultProducts[idx % defaultProducts.length]?.imageUrl)
+}));
 
 // 過去の投稿（最新記事・今見ている記事を除く10件）を取得
 const allPosts = (await getCollection('blog')).sort(
@@ -74,17 +84,167 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 				margin: 0;
 				padding: 2.5rem 0;
 			}
-			.hero-image {
-				width: 100%;
-				margin-bottom: 2rem;
+			/* 読了予想時間バッジ */
+			.date-and-meta {
+				display: flex;
+				flex-wrap: wrap;
+				align-items: center;
+				gap: 0.85rem;
+				margin-bottom: 0.75rem;
 			}
-			.hero-image img {
-				display: block;
-				margin: 0 auto;
-				border-radius: 16px;
-				box-shadow: var(--box-shadow);
+			.reading-time-badge {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.35rem;
+				font-size: 0.82rem;
+				color: #166534;
+				background: #dcfce7;
+				padding: 0.2rem 0.65rem;
+				border-radius: 9999px;
+				font-weight: 600;
+			}
+
+			/* 雑誌風ヒーロー画像コンテナ */
+			.hero-image-container {
+				width: 100%;
+				margin-bottom: 2.5rem;
+				text-align: center;
+			}
+			.hero-image-frame {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				width: 100%;
 				max-height: 440px;
-				object-fit: cover;
+				background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+				border: 1px solid #bbf7d0;
+				border-radius: 20px;
+				padding: 1rem;
+				box-shadow: 0 10px 25px -5px rgba(22, 101, 52, 0.05);
+				overflow: hidden;
+				box-sizing: border-box;
+			}
+			.hero-image-main {
+				max-width: 100%;
+				max-height: 400px;
+				height: auto;
+				width: auto;
+				object-fit: contain;
+				border-radius: 12px;
+				box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+				transition: transform 0.3s ease;
+			}
+			.hero-image-main:hover {
+				transform: scale(1.015);
+			}
+
+			/* スマート目次（Table of Contents）コンポーネント */
+			.toc-container {
+				margin: 2.2rem 0;
+				background: #fcfdfd;
+				border: 1.5px solid #bbf7d0;
+				border-radius: 16px;
+				overflow: hidden;
+				box-shadow: 0 4px 15px -2px rgba(22, 101, 52, 0.03);
+			}
+			.toc-details {
+				width: 100%;
+			}
+			.toc-summary {
+				display: flex;
+				align-items: center;
+				gap: 0.6rem;
+				padding: 1rem 1.4rem;
+				background: #ffffff;
+				border-bottom: 1px solid #dcfce7;
+				cursor: pointer;
+				user-select: none;
+				list-style: none;
+				transition: background-color 0.2s;
+			}
+			.toc-summary::-webkit-details-marker {
+				display: none;
+			}
+			.toc-summary:hover {
+				background: #f0fdf4;
+			}
+			.toc-icon {
+				font-size: 1.1rem;
+			}
+			.toc-title {
+				font-weight: 800;
+				font-size: 1.05rem;
+				color: #14532d;
+				letter-spacing: -0.01em;
+			}
+			.toc-badge {
+				margin-left: auto;
+				font-size: 0.75rem;
+				color: #15803d;
+				background: #dcfce7;
+				padding: 0.15rem 0.55rem;
+				border-radius: 9999px;
+				font-weight: 700;
+			}
+			.toc-nav {
+				padding: 1.2rem 1.4rem 1.4rem 1.4rem;
+			}
+			.toc-list {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+				display: flex;
+				flex-direction: column;
+				gap: 0.65rem;
+			}
+			.toc-item {
+				line-height: 1.45;
+			}
+			.toc-depth-2 {
+				font-weight: 700;
+				font-size: 0.95rem;
+				position: relative;
+				padding-left: 1.1rem;
+			}
+			.toc-depth-2::before {
+				content: "";
+				position: absolute;
+				left: 0;
+				top: 0.45rem;
+				width: 6px;
+				height: 6px;
+				border-radius: 50%;
+				background: var(--accent);
+			}
+			.toc-depth-3 {
+				font-weight: 500;
+				font-size: 0.88rem;
+				padding-left: 2rem;
+				color: #166534;
+				position: relative;
+			}
+			.toc-depth-3::before {
+				content: "–";
+				position: absolute;
+				left: 1.2rem;
+				color: #86efac;
+			}
+			.toc-link {
+				color: #14532d;
+				text-decoration: none !important;
+				transition: color 0.15s ease;
+			}
+			.toc-link:hover {
+				color: var(--accent);
+				text-decoration: underline !important;
+			}
+
+			/* アフィリエイトカード・要約ボックスの基本共通クラス */
+			:global(.affiliate-product-card) {
+				transition: transform 0.2s ease, box-shadow 0.2s ease;
+			}
+			:global(.affiliate-product-card:hover) {
+				box-shadow: 0 8px 25px -4px rgba(22, 101, 52, 0.08) !important;
 			}
 			.blog-layout-container {
 				display: flex;
@@ -287,6 +447,51 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 				}
 				.title h1 {
 					font-size: 1.8rem;
+				}
+
+				/* モバイル時の商品カード・要約ボックス・ヒーロー画像の余白最適化 */
+				.hero-image-frame {
+					max-height: 280px;
+					padding: 0.6rem;
+					border-radius: 14px;
+				}
+				.hero-image-main {
+					max-height: 260px;
+				}
+				.toc-container {
+					margin: 1.5rem 0;
+					border-radius: 12px;
+				}
+				.toc-summary {
+					padding: 0.85rem 1rem;
+				}
+				.toc-nav {
+					padding: 1rem;
+				}
+				.toc-depth-2 {
+					font-size: 0.9rem;
+				}
+				.toc-depth-3 {
+					font-size: 0.82rem;
+					padding-left: 1.5rem;
+				}
+				:global(.affiliate-product-card) {
+					padding: 16px 14px !important;
+					margin: 20px 0 !important;
+					border-radius: 12px !important;
+				}
+				:global(.summary-box) {
+					padding: 14px 16px !important;
+					margin: 20px 0 !important;
+					border-radius: 10px !important;
+				}
+				:global(.affiliate-offer-box) {
+					padding: 16px 14px !important;
+					margin: 24px 0 !important;
+				}
+				:global(.affiliate-related-section) {
+					padding: 16px 12px !important;
+					margin: 24px 0 !important;
 				}
 
 				/* モバイル時のみ関連商品セクションを表示 */
@@ -916,12 +1121,179 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					width: 100%;
 					box-sizing: border-box;
 				}
+			/* 読書進捗バー（スクロールインジケーター） */
+			.reading-progress-bar {
+				position: fixed;
+				top: 0;
+				left: 0;
+				width: 0%;
+				height: 3.5px;
+				background: linear-gradient(90deg, #16a34a, #22c55e);
+				z-index: 9999;
+				transition: width 0.1s ease-out;
+				pointer-events: none;
+			}
+
+			/* SNSシェアセクション */
+			.share-section {
+				margin-top: 2.5rem;
+				padding: 1.5rem;
+				background: #f0fdf4;
+				border: 1px solid #bbf7d0;
+				border-radius: 16px;
+				text-align: center;
+				box-shadow: 0 4px 15px -3px rgba(22, 101, 52, 0.04);
+			}
+			.share-title {
+				font-size: 0.95rem;
+				font-weight: 800;
+				color: #14532d;
+				margin: 0 0 1rem 0;
+			}
+			.share-buttons {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				gap: 0.75rem;
+				flex-wrap: wrap;
+			}
+			.share-btn {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.45rem;
+				padding: 0.55rem 1.2rem;
+				font-size: 0.85rem;
+				font-weight: 700;
+				border-radius: 9999px;
+				text-decoration: none !important;
+				transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+				cursor: pointer;
+				border: none;
+				line-height: 1.2;
+			}
+			.share-btn:hover {
+				transform: translateY(-2px);
+				opacity: 0.92;
+			}
+			.share-btn-x {
+				background-color: #0f172a;
+				color: #ffffff !important;
+				box-shadow: 0 2px 8px rgba(15, 23, 42, 0.15);
+			}
+			.share-btn-hatena {
+				background-color: #00a4de;
+				color: #ffffff !important;
+				box-shadow: 0 2px 8px rgba(0, 164, 222, 0.2);
+			}
+			.share-btn-copy {
+				background-color: #ffffff;
+				color: #15803d !important;
+				border: 1.5px solid #22c55e;
+				box-shadow: 0 2px 8px rgba(22, 101, 52, 0.06);
+			}
+
+			/* E-E-A-T 著者プロフィールカード */
+			.author-card {
+				margin-top: 2rem;
+				padding: 1.5rem;
+				background: #ffffff;
+				border: 1.5px solid #bbf7d0;
+				border-radius: 16px;
+				box-shadow: 0 4px 18px -3px rgba(22, 101, 52, 0.05);
+				display: flex;
+				gap: 1.25rem;
+				align-items: center;
+			}
+			.author-avatar {
+				width: 76px;
+				height: 76px;
+				border-radius: 50%;
+				object-fit: cover;
+				flex-shrink: 0;
+				border: 2px solid #bbf7d0;
+				box-shadow: 0 3px 10px rgba(22, 101, 52, 0.1);
+			}
+			.author-info {
+				flex: 1;
+				min-width: 0;
+			}
+			.author-header {
+				display: flex;
+				align-items: baseline;
+				gap: 0.65rem;
+				flex-wrap: wrap;
+				margin-bottom: 0.35rem;
+			}
+			.author-label {
+				font-size: 0.7rem;
+				font-weight: 800;
+				color: #15803d;
+				background: #dcfce7;
+				padding: 0.15rem 0.55rem;
+				border-radius: 9999px;
+				letter-spacing: 0.05em;
+			}
+			.author-name {
+				font-size: 1.05rem;
+				font-weight: 800;
+				color: #1e293b;
+				margin: 0;
+			}
+			.author-role {
+				font-size: 0.8rem;
+				color: #15803d;
+				font-weight: 600;
+			}
+			.author-bio {
+				font-size: 0.85rem;
+				color: #475569;
+				line-height: 1.6;
+				margin: 0.35rem 0 0.5rem 0;
+			}
+			.author-link {
+				font-size: 0.82rem;
+				font-weight: 700;
+				color: var(--accent);
+				text-decoration: none;
+				display: inline-flex;
+				align-items: center;
+				gap: 0.25rem;
+			}
+			.author-link:hover {
+				color: var(--accent-dark);
+				text-decoration: underline;
+			}
+
+			@media (max-width: 600px) {
+				.author-card {
+					flex-direction: column;
+					text-align: center;
+					padding: 1.25rem;
+					gap: 0.85rem;
+				}
+				.author-header {
+					justify-content: center;
+				}
+				.author-link {
+					justify-content: center;
+				}
+			}
+
+			/* スペック比較表コンポーネント用スタイル */
+			:global(.comparison-table-wrapper) {
+				max-width: 100%;
+				box-sizing: border-box;
+				clear: both;
+			}
+			:global(.comparison-table-wrapper table) {
+				margin: 0 !important;
 			}
 
 		</style>
 	</head>
 
 	<body>
+		<div id="reading-progress-bar" class="reading-progress-bar" aria-hidden="true"></div>
 		<Header />
 		<main>
 			<article class="blog-layout-container">
@@ -949,31 +1321,128 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						</nav>
 
 						<div class="title">
-							{pubDate && (
-								<div class="date">
-									<FormattedDate date={pubDate} />
-									{
-										updatedDate && (
-											<div class="last-updated-on">
-												最終更新日: <FormattedDate date={updatedDate} />
-											</div>
-										)
-									}
-								</div>
-							)}
+							<div class="date-and-meta">
+								{pubDate && (
+									<div class="date">
+										<FormattedDate date={pubDate} />
+										{
+											updatedDate && (
+												<span class="last-updated-on">
+													（最終更新日: <FormattedDate date={updatedDate} />）
+												</span>
+											)
+										}
+									</div>
+								)}
+								{readingTime && (
+									<div class="reading-time-badge">
+										<span class="reading-time-icon">⏱️</span>
+										<span>この記事は約{readingTime}分で読めます</span>
+									</div>
+								)}
+							</div>
 							<h1>{title}</h1>
 						</div>
 						{heroImage && (
-							<div class="hero-image">
-								<img src={heroImage} alt={title} loading="eager" />
+							<div class="hero-image-container">
+								<div class="hero-image-frame">
+									<img src={heroImage} alt={title} loading="eager" class="hero-image-main" />
+								</div>
 							</div>
 						)}
+
+						<!-- スマート目次（Table of Contents） -->
+						{headings && headings.filter(h => h.depth === 2 || h.depth === 3).length > 0 && (
+							<div class="toc-container">
+								<details class="toc-details">
+									<summary class="toc-summary">
+										<span class="toc-icon">📑</span>
+										<span class="toc-title">目次</span>
+										<span class="toc-badge">{headings.filter(h => h.depth === 2).length}項目（タップで開閉）</span>
+									</summary>
+									<nav class="toc-nav" aria-label="目次">
+										<ul class="toc-list">
+											{headings
+												.filter(h => h.depth === 2 || h.depth === 3)
+												.map((heading) => (
+													<li class={`toc-item toc-depth-${heading.depth}`}>
+														<a href={`#${heading.slug}`} class="toc-link">
+															{heading.text}
+														</a>
+													</li>
+												))}
+										</ul>
+									</nav>
+								</details>
+							</div>
+						)}
+
 						<slot />
 						{pubDate && (
 							<div class="post-end-date">
 								<p>投稿日：<FormattedDate date={pubDate} />{updatedDate && <span>（最終更新日：<FormattedDate date={updatedDate} />）</span>}</p>
 							</div>
 						)}
+
+						<!-- SNSシェアボタンセクション -->
+						<section class="share-section" aria-label="記事をシェアする">
+							<h3 class="share-title">この記事が役に立ったらぜひシェアしてください</h3>
+							<div class="share-buttons">
+								<a
+									href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(Astro.url.href)}&text=${encodeURIComponent(title)}`}
+									target="_blank"
+									rel="nofollow noopener noreferrer"
+									class="share-btn share-btn-x"
+									aria-label="X（旧Twitter）でポスト"
+								>
+									<svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+										<path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+									</svg>
+									<span>Xでシェア</span>
+								</a>
+								<a
+									href={`https://b.hatena.ne.jp/entry/${Astro.url.href}`}
+									target="_blank"
+									rel="nofollow noopener noreferrer"
+									class="share-btn share-btn-hatena"
+									aria-label="はてなブックマークに追加"
+								>
+									<span style="font-weight: 900; font-family: sans-serif;">B!</span>
+									<span>はてブ</span>
+								</a>
+								<button
+									type="button"
+									class="share-btn share-btn-copy"
+									id="copy-url-btn"
+									data-url={Astro.url.href}
+									aria-label="記事URLをクリップボードにコピー"
+								>
+									<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+										<rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+										<path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+									</svg>
+									<span id="copy-btn-text">URLコピー</span>
+								</button>
+							</div>
+						</section>
+
+						<!-- E-E-A-T 著者プロフィールカード -->
+						<section class="author-card" aria-label="この記事の執筆者">
+							<img src="/images/profile-workout.jpg" alt="宅トレ研究家" class="author-avatar" loading="lazy" />
+							<div class="author-info">
+								<div class="author-header">
+									<span class="author-label">WRITTEN BY</span>
+									<h4 class="author-name">宅トレ研究家</h4>
+									<span class="author-role">宅トレ歴5年・器具＆サプリ検証</span>
+								</div>
+								<p class="author-bio">
+									自宅でのダンベル・チンニングスタンド・プロテインを徹底検証。運動生理学と論文エビデンスに基づき、時間効率と効果を最大化する情報を発信しています。
+								</p>
+								<a href="/about/" class="author-link">
+									詳しいプロフィール・検証方針を見る ➔
+								</a>
+							</div>
+						</section>
 
 						<!-- FAQ（よくある質問）セクション -->
 						{faq && faq.length > 0 && (
@@ -1273,6 +1742,98 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					setTimeout(updateSidebar, 600);
 					setTimeout(updateSidebar, 1500);
 				}
+
+				// 読書進捗バーのリアルタイム更新
+				const progressBar = document.getElementById('reading-progress-bar');
+				if (progressBar) {
+					const updateProgress = () => {
+						const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+						if (docHeight > 0) {
+							const percent = (window.scrollY / docHeight) * 100;
+							progressBar.style.width = `${Math.min(100, Math.max(0, percent))}%`;
+						}
+					};
+					window.addEventListener('scroll', updateProgress, { passive: true });
+					updateProgress();
+				}
+
+				// URLコピーボタン機能
+				const copyBtn = document.getElementById('copy-url-btn');
+				const copyText = document.getElementById('copy-btn-text');
+				if (copyBtn) {
+					copyBtn.addEventListener('click', async () => {
+						try {
+							const url = copyBtn.getAttribute('data-url') || window.location.href;
+							await navigator.clipboard.writeText(url);
+							if (copyText) {
+								const originalText = copyText.textContent;
+								copyText.textContent = 'コピー完了！';
+								setTimeout(() => {
+									copyText.textContent = originalText;
+								}, 2000);
+							}
+						} catch (err) {
+							console.error('URLコピーに失敗しました', err);
+						}
+					});
+				}
+
+				// 目次の初期開閉制御（PCはデフォルト展開、スマホは初期折りたたみでファーストビュー確保）
+				const tocDetails = document.querySelector('.toc-details');
+				if (tocDetails && window.innerWidth > 640) {
+					tocDetails.setAttribute('open', '');
+				}
+
+				// リアルタイム価格・在庫情報の非同期取得と画面反映
+				try {
+					fetch('/data/live_prices.json')
+						.then(res => res.ok ? res.json() : null)
+						.then(prices => {
+							if (!prices) return;
+
+							// 商品カードの価格・在庫更新
+							document.querySelectorAll('.live-price-box[data-product-key]').forEach(box => {
+								const key = box.getAttribute('data-product-key');
+								const data = prices[key];
+								if (!data) return;
+
+								const stockEl = box.querySelector('.live-stock-badge');
+								const priceEl = box.querySelector('.live-price-display');
+								const noteEl = box.querySelector('.live-price-disclaimer');
+
+								if (stockEl && data.stock_label) {
+									stockEl.textContent = data.stock_label;
+								}
+								if (priceEl && data.price) {
+									let pText = `¥${data.price.toLocaleString()}`;
+									if (data.discount) {
+										pText += ` (▼${data.discount}% OFF)`;
+									}
+									priceEl.textContent = pText;
+								}
+								if (noteEl && data.disclaimer) {
+									noteEl.textContent = data.disclaimer;
+								}
+							});
+
+							// 比較表内の価格・在庫更新
+							document.querySelectorAll('.live-table-price[data-product-key]').forEach(el => {
+								const key = el.getAttribute('data-product-key');
+								const data = prices[key];
+								if (data && data.price) {
+									el.textContent = `¥${data.price.toLocaleString()}`;
+								}
+							});
+							document.querySelectorAll('.live-table-stock[data-product-key]').forEach(el => {
+								const key = el.getAttribute('data-product-key');
+								const data = prices[key];
+								if (data && data.stock_label) {
+									el.textContent = data.in_stock ? '🟢 在庫あり' : '🟡 残りわずか';
+								}
+							});
+						})
+						.catch(() => {});
+				} catch (e) {}
 			});
 		</script>
 	</body>

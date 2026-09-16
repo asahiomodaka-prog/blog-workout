@@ -42,15 +42,6 @@ sidebarProducts:
 
 前進時の強烈なストレッチ刺激をしっかり受け止めつつ、戻りの初動をバネが絶妙に補助してくれるため、怪我のリスクを最小限に抑えながら立ちコロをマスターできます。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 内蔵スプリングが戻りをアシストし、腰への急性ストレスを防止しながら限界まで反復できる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 膝コロを卒業して「立ちコロ」へステップアップしたい中級者・本格派トレーニー。</li>
-<li><strong>使い方のコツ</strong>: 戻りのバネの力に身を任せすぎず、常に腹筋でブレーキをかけながらコントロールすること。</li>
-</ul>
-</div>
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -61,7 +52,7 @@ sidebarProducts:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">4輪アシスト腹筋ローラー (自動リバウンド機能搭載)</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>内蔵スプリングによる自動リバウンドシステムを搭載した4輪腹筋ローラー。戻りの初動をアシストすることで腰への過度な負担を防ぎ、初心者から立ちコロを目指す中上級者まで安全かつ高強度な体幹トレーニングを実現します。</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D4%25E8%25BC%25AA%25E3%2582%25A2%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2588%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D4%25E8%25BC%25AA%25E3%2582%25A2%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2588%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00uubq1.ve2q5a3a.g00uubq1.ve2q69bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocoanouriba%2Fjf-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocoanouriba%2Fi%2F10014574%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
@@ -159,15 +150,6 @@ sidebarProducts:
 
 この腹筋ローラーが、あなたの宅トレ生活をより豊かで効果的なものにするきっかけとなれば嬉しいです。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質の漸進性過負荷を実現し、狙った筋肉へ的確に刺激を届けられる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大を目指し、怪我のリスクを抑えて宅トレを継続したい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃・キズを防ぐトレーニングマットの併用を推奨。</li>
-</ul>
-</div>
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -178,7 +160,7 @@ sidebarProducts:
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">腹筋ローラー アブローラー アシスト機能 女性</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>関連キーワード 腹筋ローラー 腹筋 アブローラー ふっきんろーらー 腹筋ローラー 肘付き アブローラー 筋トレ 腹筋マシーン 腹筋ローラー 4輪 あぶろーらー 腹筋 ローラー 腹筋器具 コアローラー アブローラー 静音 初心者向け 腹筋ロー</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%2520%25E3%2582%25A2%25E3%2583%2596%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%2520%25E3%2582%25A2%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2588%25E6%25A9%259F%25E8%2583%25BD%2520%25E5%25A5%25B3%25E6%2580%25A7" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%2520%25E3%2582%25A2%25E3%2583%2596%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%2520%25E3%2582%25A2%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2588%25E6%25A9%259F%25E8%2583%25BD%2520%25E5%25A5%25B3%25E6%2580%25A7" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00uubq1.ve2q5a3a.g00uubq1.ve2q69bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocoanouriba%2Fjf-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocoanouriba%2Fi%2F10014574%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>

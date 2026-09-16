@@ -26,15 +26,6 @@ faq:
 
 日々のメニュー消化が驚くほどスムーズになり、これまで感じていたストレスもなくなりました。トレーニング後の達成感が大きく、自宅が本格的なジムへと変わった感覚です。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質の漸進性過負荷を実現し、[狙った筋肉](/blog/proiron-power-grip/)へ的確に刺激を届けられる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大を目指し、怪我のリスクを抑えて宅トレを継続したい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃・キズを防ぐトレーニングマットの併用を推奨。</li>
-</ul>
-</div>
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -141,15 +132,6 @@ MRG 可変式ダンベル 60kg 可変ダイヤル式 は、自宅で質の高い
 トレーニングの質が上がり、日々の生活にハリが生まれることを実感できるでしょう。
 
 ジム通いが難しい方や、自宅で本格的に体を変えたい方には最適な選択肢の一つです。このダンベルが、あなたの理想の体づくりを力強くサポートし、健康的なライフスタイルを築くきっかけとなることを願っています。
-
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質の漸進性過負荷を実現し、狙った筋肉へ的確に刺激を届けられる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大を目指し、怪我のリスクを抑えて宅トレを継続したい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃・キズを防ぐトレーニングマットの併用を推奨。</li>
-</ul>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">

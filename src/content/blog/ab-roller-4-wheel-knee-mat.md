@@ -29,9 +29,9 @@ faq:
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 肘当てレストにより手首の痛みを解消し、腰が反らない安全なプランク姿勢を維持できる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 過去に腹筋ローラーで手首や腰を痛めた方、体幹のインナーマッスルを確実に強化したい方。</li>
-<li><strong>使い方のコツ</strong>: 付属の膝マットを使用し、可動域を欲張らず「お腹を丸めて戻る」丁寧な動作を意識すること。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 関節に過度な負担をかけず、動作全域で継続的なテンションを届けられる高い安全性と携帯性。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 自宅の限られたスペースで手軽に効かせたい方や、自重トレーニングの負荷アップを図りたい方。</li>
+<li><strong>購入前の注意点</strong>: ゴムの耐久性・強度バリエーションの確認と、固定具の確実な固定チェック。</li>
 </ul>
 </div>
 

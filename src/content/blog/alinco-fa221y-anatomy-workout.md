@@ -35,9 +35,9 @@ faq:
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質の漸進性過負荷を実現し、狙った筋肉へ的確に刺激を届けられる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大を目指し、怪我のリスクを抑えて宅トレを継続したい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃・キズを防ぐトレーニングマットの併用を推奨。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質のトレーニング負荷を実現し、狙った筋肉へ的確に刺激を届けられる点。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大・体力向上を目指し、宅トレを習慣化したい方。</li>
+<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃やキズを防ぐマット等の保護具の併用。</li>
 </ul>
 </div>
 
@@ -69,7 +69,7 @@ faq:
 
 このフィットネスバイクは、手軽に運動習慣をスタートさせたい方、特に心肺機能の向上と下半身の基礎体力を無理なく養いたいと考えている方にとって、非常に有効な一台となり得るでしょう。静音性や省スペース設計はもちろんのこと、運動生理学に基づいた「続けやすさ」への配慮が随所に感じられ、私自身も自宅でのルーティンに欠かせない存在となっています。
 
-## 身体のメカニズムから読み解くFA221Yの設計思想：なぜ「続けられる」のか
+## 身体の仕組みと使いやすさの秘密から読み解くFA221Yの設計思想：なぜ「続けられる」のか
 
 アルインコ FA221Yは、単にペダルを漕ぐだけの器具ではありません。その設計には、人間の身体のメカニズムを深く理解し、いかに効率的かつ安全に運動を継続させるかという、明確な哲学が込められていると私たちは考えます。
 
@@ -247,7 +247,7 @@ FA221Yはあくまで「下半身と有酸素運動の柱」と捉え、他の�
 
 これらのデメリットと割り切りポイントを理解した上でFA221Yを導入すれば、そのメリットを最大限に享受できるはずです。ご自身のトレーニング目的とライフスタイルに合わせて、賢く選択してください。
 
-## 自宅で健康と理想の体を育むための実践的な投資としての結論
+## 宅トレの質を根本から変えるための賢い選択としての結論
 
 運動習慣がない、ジムに行く時間がない、場所も費用も限られている。そんなあなたの悩みに、アルインコ FA221Yは実用的かつ効果的な解決策を提示します。
 

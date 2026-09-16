@@ -42,15 +42,6 @@ sidebarProducts:
 
 [YUREN 二人用ヨガマット](https://hb.afl.rakuten.co.jp/hgc/g00tqov1.ve2q5a10.g00tqov1.ve2q6958/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuren%2Fsr-yjd-15mm-ps2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuren%2Fi%2F10000105%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、そのクッション性と広さで、初心者でも安全かつ快適にトレーニングに集中できるための、まさに「土台」となるアイテムです。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質の漸進性過負荷を実現し、[狙った筋肉](/blog/proiron-power-grip/)へ的確に刺激を届けられる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大を目指し、怪我のリスクを抑えて宅トレを継続したい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃・キズを防ぐトレーニングマットの併用を推奨。</li>
-</ul>
-</div>
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -154,15 +145,6 @@ YURENの二人用ヨガマットは、特に宅トレ初心者の方にとって
 家族やパートナーと一緒に体を動かせる点も、継続的なモチベーションに繋がるはずです。
 
 本格的なボディメイクを目指す上級者にとっても、質の高いストレッチや体幹トレーニングの土台として、その価値は十分にあります。あなたの宅トレを「もっと安全に、もっと快適に」変えるための投資として、この[YUREN 二人用ヨガマット](https://hb.afl.rakuten.co.jp/hgc/g00tqov1.ve2q5a10.g00tqov1.ve2q6958/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuren%2Fsr-yjd-15mm-ps2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuren%2Fi%2F10000105%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)を検討してみるのもおすすめだ。
-
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質の漸進性過負荷を実現し、狙った筋肉へ的確に刺激を届けられる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大を目指し、怪我のリスクを抑えて宅トレを継続したい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃・キズを防ぐトレーニングマットの併用を推奨。</li>
-</ul>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">

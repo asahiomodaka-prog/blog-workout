@@ -41,15 +41,6 @@ sidebarProducts:
 
 このダンベルは、費用対効果の高さと実用性、そして長期的なメンテナンス性において、宅トレ愛好家にとって最適な選択肢の一つだと断言できます。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質の漸進性過負荷を実現し、[狙った筋肉](/blog/proiron-power-grip/)へ的確に刺激を届けられる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大を目指し、怪我のリスクを抑えて宅トレを継続したい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃・キズを防ぐトレーニングマットの併用を推奨。</li>
-</ul>
-</div>
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -147,15 +138,6 @@ sidebarProducts:
 IROTECの[ラバー ダンベル 40KGセット](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) 40KGラバーダンベルセットは、自宅でのトレーニング環境を大幅に改善してくれる優れた投資です。ジムに通う費用や時間を節約しながら、本格的な筋力トレーニングを実現できます。
 
 特に、自宅で継続的にトレーニングしたい人、コストパフォーマンスを重視する人、そしてマンションなど集合住宅で音や床への配慮が必要な人には最適です。このダンベルは、あなたの宅トレ生活に新たな刺激と成長をもたらしてくれるでしょう。
-
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #14532d; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 自宅にいながらジム品質の漸進性過負荷を実現し、狙った筋肉へ的確に刺激を届けられる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 限られたスペースで効率よく筋肥大を目指し、怪我のリスクを抑えて宅トレを継続したい方。</li>
-<li><strong>購入前の注意点</strong>: 設置スペースの確保とともに、床への衝撃・キズを防ぐトレーニングマットの併用を推奨。</li>
-</ul>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
