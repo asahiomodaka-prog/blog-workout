@@ -27,7 +27,7 @@ faq:
 
 プロテイン選びにおいて、**「味の美味しさ（続けやすさ）」と「1杯あたりのコスト」**は誰もが最も気になるポイントです。
 
-本記事では、VALXホエイプロテインの人気フレーバー（チョコレート、ベリー、カフェオレ、抹茶など）のリアルな口コミ・味の特徴と、420g袋と1kg袋の価格差・コスパを徹底比較します。
+本記事では、VALXホエイプロテインの人気フレーバー（チョコレート、ベリー、カフェオレ、抹茶など）のフレーバー特性と、420g袋と1kg袋の価格差・コスパを徹底比較します。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #166534; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
