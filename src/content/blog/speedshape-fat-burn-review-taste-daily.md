@@ -117,7 +117,7 @@ sidebarProducts:
 
 その点で[300粒がこの価格 &即日出荷 スピードシェイプ®](https://hb.afl.rakuten.co.jp/hgc/g00upha1.ve2q54b2.g00upha1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foriginentalspa-shop%2F4580092270353-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foriginentalspa-shop%2Fi%2F10000421%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、僕にとって継続しやすいサプリでした。
 
-まず、こちらはカプセルや錠剤タイプなので、味の心配は基本的に不要です。水と一緒に流し込むだけなので、[プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)のような溶けやすさや泡立ちを気にする必要もありません。
+まず、こちらはカプセルや錠剤タイプなので、味の心配は基本的に不要です。水と一緒に流し込むだけなので、[プロテイン](https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)のような溶けやすさや泡立ちを気にする必要もありません。
 
 僕の場合、朝食後に数粒、就寝前に数粒といった形で、食事のタイミングに合わせて飲むようにしています。初日はどのタイミングで飲めば効果的か迷いましたが、説明書に従い、まずは習慣化を優先しました。
 
