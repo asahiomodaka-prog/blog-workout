@@ -93,7 +93,7 @@ YURENの二人用ヨガマットは、長さ200cm、幅130cmという特大サ�
 このマットの導入は、ジムの年間会費や移動時間を考慮すると、長期的な健康投資としても非常に合理的です。初期費用はかかりますが、毎月の出費がなく、自分の好きな時に好きなだけトレーニングできる環境は、継続する上で大きなメリットになります。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 7,192円 |
 | 販売ショップ | YUREN公式ショップ |
 | レビュー評価 | 4.46 (382件) |
@@ -108,7 +108,6 @@ YURENの二人用ヨガマットは、長さ200cm、幅130cmという特大サ�
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 

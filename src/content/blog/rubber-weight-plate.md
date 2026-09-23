@@ -137,12 +137,12 @@ faq:
 
 ### スペック情報
 
-| 項目         | 詳細                       |
-|--------------|----------------------------|
-| 素材         | ラバーコーティング、鉄製     |
-| 穴径         | 50mm (オリンピックシャフト対応) |
-| 特徴         | 高い静音性、床への衝撃吸収 |
-| その他       | グリップしやすいデザイン   |
+| 項目 | 詳細 |
+| --- | --- |
+| 素材 | ラバーコーティング、鉄製 |
+| 穴径 | 50mm (オリンピックシャフト対応) |
+| 特徴 | 高い静音性、床への衝撃吸収 |
+| その他 | グリップしやすいデザイン |
 
 ※具体的な重量ラインナップや外径は、販売店やセット内容により異なる場合があります。
 
@@ -154,7 +154,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 
@@ -231,7 +230,6 @@ faq:
 
 大手ジム採用ラバープレートを見るは、単なる重りではなく、あなたのトレーニングライフを支える信頼できるパートナーとなるでしょう。自宅で理想の体を目指すなら、この確かな品質が、あなたの一歩を踏み出すきっかけになるかもしれません。
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%20%E3%83%A9%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%20%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">

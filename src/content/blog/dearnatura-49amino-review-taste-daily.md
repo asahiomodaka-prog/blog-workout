@@ -29,7 +29,8 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ugyn1.ve2q5bfb.g00ugyn1.ve2q689c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4987035262213%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10019050%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/213/4987035262213.jpg?_ex=600x600'
     price: 2562
-    microCopy: '詳細を見る'---
+    microCopy: '詳細を見る'
+---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
@@ -120,7 +121,7 @@ sidebarProducts:
 <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/823/4946842639823.jpg?_ex=600x600" alt="ディアナチュラ 49種アミノ" loading="lazy" decoding="async" />
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 2,852円 |
 | 販売ショップ | 楽天24エクスプレス |
 | レビュー評価 | 4.68 (25件) |
@@ -194,7 +195,6 @@ A3: このサプリメントは、継続して摂取することで日々の栄�
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 

@@ -108,7 +108,7 @@ sidebarProducts:
 美味しく、手軽に続けられるこのプロテインが、あなたの宅トレライフをより豊かにしてくれるでしょう。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 14,990円 |
 | 販売ショップ | STEADY(ステディ) |
 | レビュー評価 | 4.54 (1695件) |
@@ -164,7 +164,6 @@ A3: もし乳糖不耐症の可能性があるなら、乳糖が除去されたW
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 

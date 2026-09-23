@@ -83,7 +83,7 @@ VALX ホエイプロテイン WPCは、タンパク質の栄養価を示す国�
 ### 商品スペック情報
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | **商品名** | VALX ホエイプロテイン WPC |
 | **監修者** | 山本義徳 |
 | **容量** | 1kg / 2kg |
@@ -105,7 +105,6 @@ VALX ホエイプロテイン WPCは、タンパク質の栄養価を示す国�
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 

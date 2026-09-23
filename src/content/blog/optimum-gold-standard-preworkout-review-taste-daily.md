@@ -86,7 +86,6 @@ L-シトルリンは、血流を促進し、トレーニング中に筋肉がパ
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 
@@ -103,7 +102,7 @@ Optimum Nutritionの[Gold Standard Pre-Workout](https://af.moshimo.com/af/c/clic
 一方で、カフェインに非常に敏感な方や、ベータアラニンによる皮膚のチクチク感がどうしても苦手な方には、慎重な検討が必要です。しかし、配合成分の充実度においては確かな実力を備えており、世界中で愛される「ゴールドスタンダード」ブランドの信頼性も、選択の後押しとなるでしょう。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 4,480円 |
 | メーカー | Optimum Nutrition |
 | 型番/仕様 | 30回分（約300g）、ブルーベリーレモネード味、主要成分：カフェイン、クレアチン、ベータアラニン、L-シトルリン |

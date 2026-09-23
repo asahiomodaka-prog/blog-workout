@@ -118,7 +118,7 @@ G3710を使えば、前腕の疲労を気にせず、背中の広がりや厚み
 これは、周囲に家族がいる宅トレ環境において、心理的な安心感にも繋がる重要なポイントです。僕も一度、高重量のダンベルを滑らせて床に落としそうになったことがありましたが、G3710を使い始めてからは、その不安が解消されました。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 8,800円 |
 | メーカー | GOLD'S GYM (ゴールドジム) |
 | 型番/仕様 | G3710（サイズ展開: S, M, L）, ノンスリップラバー素材 |
@@ -158,7 +158,6 @@ GOLD'S GYMというブランド名が示す通り、このパワーグリップ�
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 
@@ -241,7 +240,6 @@ GOLD'S GYM パワーグリップ プロ G3710は、まさにこのゴールド�
 
 GOLD'S GYM パワーグリップ プロ G3710は、あなたの宅トレを次のレベルへと押し上げ、自宅での健康と理想の身体づくりを強力にサポートするパートナーとなることでしょう。このスマートな選択が、あなたのトレーニングライフに確かな変化をもたらすことを願っています。
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%20%E3%83%97%E3%83%AD%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">

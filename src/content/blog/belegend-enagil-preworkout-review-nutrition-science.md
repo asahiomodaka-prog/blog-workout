@@ -102,7 +102,6 @@ sidebarProducts:
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 
@@ -119,7 +118,7 @@ sidebarProducts:
 ただし、ベータアラニンによる「ピリピリ感」は、体質によって感じ方が異なります。初めて摂取する際は、少量から試して自分の身体の反応を確認することが大切です。カフェインへの感受性が高い方もいるため、摂取量には注意が必要です。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 3,980円 |
 | 販売ショップ | ビーレジェンド [プロテイン](https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3) -公式- |
 | レビュー評価 | 4.5 (20件) |

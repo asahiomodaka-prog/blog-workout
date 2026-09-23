@@ -127,7 +127,7 @@ faq:
 
 ### 宅トレの一般的な構成要素と機能
 | 構成要素 | 主な機能 | 想定されるメリット |
-| :------- | :------- | :----------------- |
+| --- | --- | --- |
 | **可変式ダンベル** | 重量調整可能なダンベル | 省スペース、様々な部位の筋力トレーニング |
 | **懸垂バー** | ドアフレーム設置型など | 背中、腕の筋肉強化（広背筋、上腕二頭筋など） |
 | **トレーニングチューブ** | 抵抗による負荷 | 全身の筋力トレーニング、リハビリ、ウォーミングアップ |
@@ -186,7 +186,6 @@ faq:
 
 宅トレは、時間、費用、そして何よりも「継続性」という観点から、あなたの健康と理想の身体を育むための、実践的で効率的なソリューションの一つです。ご自身の身体の声を聴き、最適なアプローチを見つけ出す「アルギニン 120粒 サプリメント」というライフスタイルを、ご自身のペースで取り入れてみてください。
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">

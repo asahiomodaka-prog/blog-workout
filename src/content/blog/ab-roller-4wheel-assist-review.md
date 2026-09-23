@@ -102,7 +102,6 @@ sidebarProducts:
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 
@@ -121,7 +120,7 @@ sidebarProducts:
 体幹の安定性を高めるための基礎固めや、ウォームアップとしても活用できる汎用性の高さも魅力です。特に体幹の機能向上を目指す方には、普段のトレーニングに加えて取り入れる価値は十分にあります。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 4,280円 |
 | 販売ショップ | Cocoaの売り場 |
 | レビュー評価 | 5.0 (1件) |

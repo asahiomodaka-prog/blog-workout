@@ -143,7 +143,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 
@@ -159,10 +158,10 @@ faq:
 
 ### スペック情報
 
-| 項目         | 詳細                       |
-|--------------|----------------------------|
+| 項目 | 詳細 |
+| --- | --- |
 | 商品タイトル | 4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付） |
-| 公式説明     | 4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付） review and specs. |
+| 公式説明 | 4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付） review and specs. |
 
 逆に、**この製品が向かない人**もいます。例えば、短期的な爆発的な筋肥大を目的として、高重量のウェイトトレーニングだけを求めている人には、この器具単体では物足りなく感じるかもしれません。
 
@@ -206,23 +205,22 @@ faq:
 
 自宅というプライベートな空間で、自身の身体と真剣に向き合い、健康的で活動的なライフスタイルを築きたいと願うすべての方にとって、「4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付）」は、その努力を確かな結果へと繋げる、賢明な投資となるでしょう。
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F4%E8%BC%AA%E5%BC%8F%20%E8%85%B9%E7%AD%8B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%20%E8%82%98%E5%BD%93%E3%81%A6%20%E8%86%9D%E3%83%9E%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/ab-roller-4-wheel-knee-mat.jpg" alt="4輪式Abローラーが体幹を劇的に変える" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/ab-roller-4-wheel-knee-mat.jpg" alt="4輪式 腹筋ローラー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">4輪式Abローラーが体幹を劇的に変える</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">4輪式 腹筋ローラー</h4>
 
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D4%25E8%25BC%25AA%25E5%25BC%258FAb%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%258C%25E4%25BD%2593%25E5%25B9%25B9%25E3%2582%2592%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D4%25E8%25BC%25AA%25E5%25BC%258F%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F4%E8%BC%AA%E5%BC%8FAb%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%81%8C%E4%BD%93%E5%B9%B9%E3%82%92%E5%8A%87%E7%9A%84%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D4%25E8%25BC%25AA%25E5%25BC%258FAb%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%258C%25E4%25BD%2593%25E5%25B9%25B9%25E3%2582%2592%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F4%E8%BC%AA%E5%BC%8F%20%E8%85%B9%E7%AD%8B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D4%25E8%25BC%25AA%25E5%25BC%258F%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>

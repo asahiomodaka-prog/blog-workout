@@ -101,7 +101,6 @@ sidebarProducts:
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 
@@ -114,7 +113,7 @@ sidebarProducts:
 私自身も、24kgという最大重量は、一般的な宅トレ種目において十分な負荷を提供すると感じています。ダンベルプレスやスクワット、ランジなど、主要な全身運動で高い効果を実感できます。カラーバリエーションも増え、インテリアに合わせた選択肢があるのも嬉しいポイントです。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 9,280円 |
 | 販売ショップ | ONE STEP |
 | レビュー評価 | 4.69 (2858件) |

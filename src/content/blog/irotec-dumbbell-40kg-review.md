@@ -99,7 +99,6 @@ sidebarProducts:
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 
@@ -114,7 +113,7 @@ sidebarProducts:
 製品の特徴として特に際立っているのは、やはりラバーリングによる静音性と床保護に関する良い評価です。「マンションでも気兼ねなく使える」「フローリングへの傷を心配しなくて済む」といった声が多く見られます。僕自身も夜間にトレーニングすることがあるため、この点は非常に重宝しています。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 15,950円 |
 | 販売ショップ | スーパースポーツカンパニー |
 | レビュー評価 | 4.44 (1560件) |

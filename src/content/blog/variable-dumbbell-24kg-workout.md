@@ -146,14 +146,14 @@ faq:
 
 しかし、一般的に自宅でパーソナルトレーニングを受けたり、高機能なジムの設備を利用したりすることを考えれば、可変式ダンベルへの初期投資は、むしろ長期的な視点で見て非常に合理的なコストだと筆者は考えています。
 
-| 項目         | 内容                                         |
-| :----------- | :------------------------------------------- |
+| 項目 | 内容 |
+| --- | --- |
 | 商品タイトル | 可変式クイックダンベル 24kg 単品 / 2個セット |
-| 最大重量     | 24kg                                         |
-| 調整幅       | モデルにより異なる（例: 2kg刻み、2.5kg刻み） |
-| 素材         | スチール、プラスチック、ラバーなど           |
-| 特徴         | 省スペース、迅速な重量変更、高コストパフォーマンス |
-| 用途         | 自宅での筋力トレーニング全般                 |
+| 最大重量 | 24kg |
+| 調整幅 | モデルにより異なる（例: 2kg刻み、2.5kg刻み） |
+| 素材 | スチール、プラスチック、ラバーなど |
+| 特徴 | 省スペース、迅速な重量変更、高コストパフォーマンス |
+| 用途 | 自宅での筋力トレーニング全般 |
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #166534; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
@@ -163,7 +163,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACQ+4CL0VM+4RUO+5YJRM" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #16a34a, #15803d); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料体験トレーニングを試してみる
-</a>
 </div>
 </div>
 
@@ -235,7 +234,6 @@ faq:
 
 可変式ダンベル24kgは自宅筋トレの最適解
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2024kg%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
