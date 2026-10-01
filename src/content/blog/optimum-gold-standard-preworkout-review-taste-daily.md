@@ -14,6 +14,12 @@ faq:
     answer: '基本的に毎日飲用しても問題ありませんが、カフェインの過剰摂取を避けるため、メーカー推奨の摂取量を守りましょう。また、カフェイン耐性ができる可能性もあるため、数週間使用したら一時的に休止期間を設ける「サイクル」を取り入れる人もいます。'
   - question: 'ブルーベリーレモネード味以外にもおすすめのフレーバーはありますか？'
     answer: 'ゴールドスタンダード プレワークアウトには、他にも多くのフレーバーがあります。もしブルーベリーレモネード味が合わないと感じたら、ストロベリーやフルーツパンチなど、他の定番フレーバーも試してみると良いでしょう。'
+sidebarProducts:
+  - title: 'ゴールドスタンダード プレワークアウト'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%20%E3%83%97%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%2F'
+    imageUrl: '/images/optimum-gold-standard-preworkout-review-taste-daily.png'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

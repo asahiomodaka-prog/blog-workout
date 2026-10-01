@@ -14,6 +14,12 @@ faq:
     answer: 'はい、瞬時に重量変更できるためプレート付け替えの無駄時間がゼロになります。スーパーセットやドロップセットを取り入れることで、30分以内の短時間集中でもジムでの1時間相当の筋刺激を再現可能です。'
   - question: '可変式ダンベルだけで全身を鍛えることは可能ですか？'
     answer: 'はい、胸（プレス・フライ）、背中（ローイング）、肩（サイドレイズ）、腕（カール・エクステンション）、脚（ランジ・ブルガリアンスクワット）まで全身の主要筋群を幅広く網羅できます。'
+sidebarProducts:
+  - title: '可変式ダンベル 24kg アジャスタブルダンベル'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2024kg%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%2F'
+    imageUrl: '/images/variable-dumbbell-24kg-workout.jpg'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

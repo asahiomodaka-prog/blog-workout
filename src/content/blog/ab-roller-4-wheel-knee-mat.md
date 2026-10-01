@@ -14,6 +14,12 @@ faq:
     answer: '肘当てに前腕を乗せ、お腹を軽く引き込んで背中を丸め気味にする「骨盤後傾」を保つことで、腰椎へのストレスをほぼゼロに抑えて腹筋だけをダイレクトに収縮できます。'
   - question: '腹筋ローラー初心者でも使えますか？'
     answer: 'はい、4輪による左右の横ブレ防止と付属の肉厚膝マットがあるため、運動初心者や筋力に自信のない女性でもグラつかず安心して始められます。'
+sidebarProducts:
+  - title: '4輪式 腹筋ローラー (肘当て・膝マット付き)'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F4%E8%BC%AA%E5%BC%8F%20%E8%85%B9%E7%AD%8B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%20%E8%82%98%E5%BD%93%E3%81%A6%2F'
+    imageUrl: '/images/ab-roller-4-wheel-knee-mat.jpg'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

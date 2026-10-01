@@ -14,6 +14,12 @@ faq:
     answer: 'このタイプのアームバーは固定負荷式です。自身の筋力レベルに合わせて選択するか、筋力向上後は回数を増やすか、より高負荷のモデルを検討することになります。'
   - question: 'どのような筋肉に効果がありますか？'
     answer: '主に上腕二頭筋、上腕三頭筋、大胸筋、三角筋前部に効果的です。特に、胸を中央で強く収縮させる動きにおいて、優れた刺激を与えることができます。'
+sidebarProducts:
+  - title: 'アームバー エキスパンダー 筋トレ器具 22cm'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00up3c1.ve2q5166.g00up3c1.ve2q616b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaocyame%2Fb0grwcd2y2-tghphsnvf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaocyame%2Fi%2F10031634%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: '/images/home-training-arm-bar-review.jpg'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

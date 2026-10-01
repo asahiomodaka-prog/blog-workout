@@ -14,6 +14,12 @@ faq:
     answer: 'フレックスベルはシャフト回転式でスマートですが価格が約2〜3倍高価です。LE-AD24はサイドダイヤル式でコストを大幅に抑えつつ、2.5kg刻みで実用十分な性能を備えているためコスパ重視の方に最適です。'
   - question: '24kgという最大重量で、全身のトレーニングは十分可能ですか？'
     answer: '二頭筋カールやショルダープレスなどの上半身種目、ブルガリアンスクワットなどの片脚種目において片手24kgは十分な高負荷を提供できます。'
+sidebarProducts:
+  - title: 'LEADING EDGE 可変式ダンベル LE-AD24'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%83%E3%82%B8%20%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%20LE-AD24%2F'
+    imageUrl: '/images/leading-edge-adjustable-dumbbell.png'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

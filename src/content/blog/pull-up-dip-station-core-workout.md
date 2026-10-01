@@ -14,6 +14,12 @@ faq:
     answer: '土台は約幅100cm×奥行100cm（畳約1枚分）です。ディップス時に肘を広げられる幅と、懸垂時に頭が当たらない天井高（2.2m以上）を確保してください。'
   - question: 'トレーニング中の音や床への影響はありますか？'
     answer: '金属フレームの剛性が高いため静かですが、着地時の振動や床の凹みを防止するため、必ず厚手（10mm以上）の硬質トレーニングマットを敷いてください。'
+sidebarProducts:
+  - title: 'ぶら下がり健康器 懸垂マシン マルチジム'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%82%8A%E5%81%A5%E5%BA%B7%E5%99%A8%20%E6%87%B8%E5%9E%82%E3%83%9E%E3%82%B7%E3%83%B3%20%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B8%E3%83%A0%2F'
+    imageUrl: '/images/pull-up-dip-station-core-workout.jpg'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

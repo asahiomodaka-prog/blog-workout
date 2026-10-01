@@ -14,6 +14,12 @@ faq:
     answer: '付属の説明書と六角レンチで一人でも組み立て可能です（所要時間40〜60分）。大型パイプを支える際は床に布を敷いて寝かせながら作業すると安全です。'
   - question: '賃貸住宅でも床を傷つけずに設置できますか？'
     answer: '接地面に厚手のジョイントマットや硬質ラバーマットを敷くことで、床への圧力痕やキズを完全に防ぎ、同時に揺れや振動を抑えられます。'
+sidebarProducts:
+  - title: 'ぶら下がり健康器 懸垂マシン マルチジム'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%82%8A%E5%81%A5%E5%BA%B7%E5%99%A8%20%E6%87%B8%E5%9E%82%E3%83%9E%E3%82%B7%E3%83%B3%20%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B8%E3%83%A0%2F'
+    imageUrl: '/images/pull-up-dip-station-barbell-rack-home-gym.jpg'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

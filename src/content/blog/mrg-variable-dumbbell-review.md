@@ -14,6 +14,12 @@ faq:
     answer: 'プレートの素材が高密度プラスチックとスチールなので、金属同士がぶつかるような大きな音は出にくい設計です。重量変更時のカチッという音はしますが、一般的な固定式ダンベルのプレート交換音よりは静かです。 床に置く際はトレーニングマットの使用を推奨します。'
   - question: '床への対策は必要ですか？'
     answer: 'はい、ダンベルの重さから床への衝撃や傷つきを防ぐため、厚手のトレーニングマットを敷くことをおすすめします。マットは防音対策にもつながり、集合住宅での使用では特に重要になります。'
+sidebarProducts:
+  - title: 'MRG 可変式ダンベル 60kg 可変ダイヤル式'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMRG%20%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2060kg%20%E5%8F%AF%E5%A4%89%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E5%BC%8F%2F'
+    imageUrl: '/images/mrg-variable-dumbbell-review.png'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
