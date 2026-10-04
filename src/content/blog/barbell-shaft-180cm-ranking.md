@@ -54,7 +54,7 @@ sidebarProducts:
 
 #### 第1位：FIELDOOR 3分割 長さ180cm（マックスシェアー maxshare）
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/a12/a12367-100.jpg?_ex=200x200" alt="FIELDOOR 3分割 長さ180cm（マックスシェアー maxshare）" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/a12/a12367-100.jpg?_ex=600x600" alt="FIELDOOR 3分割 長さ180cm（マックスシェアー maxshare）" loading="lazy" decoding="async" />
 
 このFIELDOORのバーベルシャフトは、3分割できるという点で宅トレの悩みを一気に解消してくれます。僕も最初にバーベルシャフトを購入したとき、180cmの一体型では部屋の隅に立てかけるのがやっとでした。
 
@@ -95,7 +95,7 @@ sidebarProducts:
 
 #### 第2位：FIELDOOR 3分割 長さ180cm（タープ&テントのスマイルプライス）
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/smile88/cabinet/a12/a12367-100.jpg?_ex=200x200" alt="FIELDOOR 3分割 長さ180cm（タープ&テントのスマイルプライス）" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/smile88/cabinet/a12/a12367-100.jpg?_ex=600x600" alt="FIELDOOR 3分割 長さ180cm（タープ&テントのスマイルプライス）" loading="lazy" decoding="async" />
 
 第1位と同じくFIELDOORの3分割バーベルシャフトですが、こちらは販売ショップが異なります。商品自体の性能は全く同じです。
 
@@ -127,7 +127,7 @@ sidebarProducts:
 
 #### 第3位：[IROTEC](/blog/dumbbell-30kg-adjustable-vs-comparison/)(アイロテック)NEWレギュラーバーベルシャフト180cmワイドグリップタイプ
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/irezumi/new_barbell_180_01.jpg?_ex=200x200" alt="IROTEC(アイロテック)NEWレギュラーバーベルシャフト180cmワイドグリップタイプ" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/irezumi/new_barbell_180_01.jpg?_ex=600x600" alt="IROTEC(アイロテック)NEWレギュラーバーベルシャフト180cmワイドグリップタイプ" loading="lazy" decoding="async" />
 
 IROTECは、宅トレ器具の分野で信頼性の高いブランドとして知られています。このバーベルシャフトは一体型であり、その安定性が最大の魅力です。
 
@@ -171,7 +171,7 @@ IROTECは、宅トレ器具の分野で信頼性の高いブランドとして�
 
 #### 第4位：BODYMAKER バーベルシャフト 180cm
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/w_series_11/bs180_01.jpg?_ex=200x200" alt="BODYMAKER バーベルシャフト 180cm" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/w_series_11/bs180_01.jpg?_ex=600x600" alt="BODYMAKER バーベルシャフト 180cm" loading="lazy" decoding="async" />
 
 BODYMAKERもトレーニング器具で有名なブランドです。このバーベルシャフトの最大の強みは、その高い耐荷重150kgにあります。
 
