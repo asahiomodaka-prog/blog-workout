@@ -4,6 +4,8 @@ description: '山本義徳氏監修で話題のVALXホエイプロテインWPC�
 pubDate: '2026-07-05'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f122262-futtsu/cabinet/main/06271849/11937784/imgrc0098806475.jpg?_ex=600x600'
 genre: 'プロテイン'
+featured: true
+featuredOrder: 3
 mediaType: 'protein'
 tags:
   - 'angle:nutrition-science'

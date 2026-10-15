@@ -5,15 +5,6 @@ pubDate: '2026-10-15'
 heroImage: '/images/resistance-bands-strength-levels-ranking.jpg'
 genre: 'workout'
 mediaType: 'dumbbell'
-heroImages:
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/honest-online/cabinet/08451362/08792667/main.jpg?_ex=600x600'
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/dmonline-shop/cabinet/aa8900012
----
-
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
-
--/tbb-3_rakuten.jpg?_ex=600x600'
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/3qshop/cabinet/image5/chi2268.jpg?_ex=600x600'
 tags:
   - 'angle:ranking'
 faq:
@@ -54,6 +45,9 @@ sidebarProducts:
     price: 2700
     microCopy: '詳細を見る'
 ---
+
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+
 自宅で手軽に全身を鍛えたいけれど、「[ダンベル](/blog/compact-dumbbell-set-guide/)の置き場所がない」「ジムに通う時間がない」と悩む人は多いのではないでしょうか。
 
 そんな宅トレの悩みを解決する強力なツールが、**トレーニングチューブ**です。

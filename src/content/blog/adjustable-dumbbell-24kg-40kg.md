@@ -4,6 +4,8 @@ description: '「可変式ダンベルは24kgと40kg、どちらを買うべき�
 pubDate: '2026-08-10'
 heroImage: '/images/adjustable-dumbbell-24kg-40kg.jpg'
 genre: 'ダンベル・バーベル'
+featured: true
+featuredOrder: 1
 mediaType: 'dumbbell'
 tags:
   - 'angle:comparison'

@@ -4,6 +4,8 @@ description: '「自宅でジム並みの逆三角形ボディを作りたい！
 pubDate: '2026-07-15'
 heroImage: '/images/pull-up-dip-station-core-workout.jpg'
 genre: 'workout'
+featured: true
+featuredOrder: 2
 mediaType: 'machine'
 tags:
   - 'angle:workout-menu'
