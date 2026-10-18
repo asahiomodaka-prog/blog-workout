@@ -2,7 +2,7 @@
 title: '宅トレ限界突破！『アルギニン 120粒』で筋肉の血流と成長ホルモンを科学する'
 description: '宅トレでトレーニングの停滞期を打破！Amazonで2980円から始める自宅環境の最適化戦略を徹底解説。効率と継続性を最大化する「アルギニン 120粒 サプリメント」のメリットや具体的な導入方法、最適な機材レビューまで。'
 pubDate: '2026-07-17'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/bcaa/bcaa_main.jpg?_ex=600x600'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/vitatra/cabinet/product/24717021.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'supplement'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'アルギニン 120粒'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%AE%E3%83%8B%E3%83%B3%20120%E7%B2%92%2F'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/bcaa/bcaa_main.jpg?_ex=600x600'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/vitatra/cabinet/product/24717021.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -36,7 +36,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/bcaa/bcaa_main.jpg?_ex=600x600" alt="アルギニン 120粒" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/vitatra/cabinet/product/24717021.jpg?_ex=600x600" alt="アルギニン 120粒" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -197,7 +197,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/bcaa/bcaa_main.jpg?_ex=600x600" alt="アルギニン 120粒" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/vitatra/cabinet/product/24717021.jpg?_ex=600x600" alt="アルギニン 120粒" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

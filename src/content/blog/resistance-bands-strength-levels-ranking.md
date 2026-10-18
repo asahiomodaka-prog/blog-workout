@@ -36,7 +36,7 @@ sidebarProducts:
     microCopy: '詳細を見る'
   - title: 'セラバンド トレーニングバンド 2m 強度レベル+1 グリーン #TBB-3 THERABAND'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tqw31.ve2q502c.g00tqw31.ve2q6ae5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdmonline-shop%2Faa8900012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdmonline-shop%2Fi%2F10000150%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dmonline-shop/cabinet/products/exerciseband/tbb-3.jpg?_ex=600x600'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin100_03/168-8557.jpg?_ex=600x600'
     price: 2200
     microCopy: '詳細を見る'
   - title: 'トレーニングバンド トレーニングチューブ エクササイズバンド 美尻 3本セット 強度別 筋トレ チューブ お尻トレ 美脚 脚痩せ ダイエット ヨガ ピラティス バンド エクササイズ ストレッチ トレーニング 丈夫 収納袋付き 送料無料'
@@ -115,7 +115,7 @@ sidebarProducts:
 
 ## 第1位: STEADY トレーニングチューブ 強度別5本セット
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/item01/steady-st104-tube_001.jpg" alt="STEADY トレーニングチューブ 強度別5本セット" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/fitness/st104/260924_thumb.jpg?_ex=600x600" alt="STEADY トレーニングチューブ 強度別5本セット" loading="lazy" decoding="async" />
 
 STEADYのトレーニングチューブは、**自宅トレーニングの課題を総合的に解決してくれる**、非常にバランスの取れた製品です。5段階の強度別チューブと充実した付属品で、全身くまなく鍛えられます。レビュー評価4.69（2051件）という実績も信頼の証ですね。
 
@@ -156,7 +156,7 @@ A3: ドアの隙間にアンカーを挟み、ドアを閉めることで固定�
 
 ## 第2位: HONEST トレーニングチューブ 5本セット
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/honest-online/cabinet/tubestrap_00.jpg" alt="HONEST トレーニングチューブ 5本セット" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/honest-online/cabinet/08451362/08792667/main.jpg?_ex=600x600" alt="HONEST トレーニングチューブ 5本セット" loading="lazy" decoding="async" />
 
 HONESTのトレーニングチューブは、STEADYと同様に5段階の強度別チューブと充実の付属品が魅力です。特に注目すべきは、**高品質なTPE素材と選べる表面加工**。品質とデザイン性を両立したい人にぴったりの選択肢です。
 
@@ -197,7 +197,7 @@ A3: 基本的な機能は同じですが、カラフルタイプは表面に凹�
 
 ## 第3位: セラバンド トレーニングバンド 2m 強度レベル+1
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dmonline-shop/cabinet/products/exerciseband/tbb-3.jpg" alt="セラバンド トレーニングバンド 2m 強度レベル+1" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin100_03/168-8557.jpg?_ex=600x600" alt="セラバンド トレーニングバンド 2m 強度レベル+1" loading="lazy" decoding="async" />
 
 セラバンドは、約40年前に医療リハビリ用として開発され、現在では世界約60か国で使用されている**信頼性の高いトレーニングバンド**です。APTA（米国理学療法士協会）にも認められており、その品質は折り紙付き。
 
@@ -244,7 +244,7 @@ A3: パウダーはゴムの劣化を防ぐために塗布されています。�
 
 ## 第4位: トレーニングバンド 美尻 3本セット
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/3qshop/cabinet/2268/chi2268_00.jpg" alt="トレーニングバンド 美尻 3本セット" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/3qshop/cabinet/image5/chi2268.jpg?_ex=600x600" alt="トレーニングバンド 美尻 3本セット" loading="lazy" decoding="async" />
 
 「美尻、美脚を目指したい！」そんな目的がはっきりしている方に特におすすめなのが、この布製トレーニングバンドです。お尻や脚のトレーニングに特化しており、**従来のゴムチューブの弱点を克服**した、快適な使用感が魅力です。
 

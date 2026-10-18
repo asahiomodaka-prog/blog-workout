@@ -27,7 +27,7 @@ sidebarProducts:
     microCopy: '詳細を見る'
   - title: 'ザバス　リッチショコラ　980g　ホエイプロテイン100　1パック 　明治【送料無料】'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qpdq1.ve2q5a41.g00qpdq1.ve2q61ec/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F666-4565%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10632624%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/p-tano/cabinet/shohin600_09/666-4565.jpg?_ex=600x600'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/store-megasports/cabinet/img/3697/64453921.jpg?_ex=600x600'
     price: 5429
     microCopy: '詳細を見る'
 ---

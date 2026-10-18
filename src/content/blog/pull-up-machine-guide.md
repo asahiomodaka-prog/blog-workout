@@ -137,7 +137,7 @@ sidebarProducts:
 
 #### **GronG 懸垂バー**
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/item01/grong-777_1.jpg?_ex=600x600" alt="GronG 懸垂バー" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/grong/cabinet/07429343/cp_pxline/hn4241_260923.jpg?_ex=600x600" alt="GronG 懸垂バー" loading="lazy" decoding="async" />
 
 | 項目 | 詳細 |
 | :--- | :--- |
@@ -161,7 +161,7 @@ sidebarProducts:
 
 #### **ぶら下がり健康器 ぶらさがり健康器**
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/kazoku/de025-a.jpg?_ex=600x600" alt="ぶら下がり健康器" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/d/de025.jpg?_ex=600x600" alt="ぶら下がり健康器" loading="lazy" decoding="async" />
 
 | 項目 | 詳細 |
 | :--- | :--- |
@@ -183,7 +183,7 @@ sidebarProducts:
 
 #### **LEADING EDGE 懸垂器具 チンニングスタンド**
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/image5/6000000000711_02.jpg?_ex=600x600" alt="LEADING EDGE チンニングスタンド" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/6000/6000000000711.jpg?_ex=600x600" alt="LEADING EDGE チンニングスタンド" loading="lazy" decoding="async" />
 
 | 項目 | 詳細 |
 | :--- | :--- |
@@ -209,7 +209,7 @@ LEADING EDGEのチンニングスタンドは、**意匠登録済みの多機能
 
 #### **BoDYLINK ケーブルクロスマシン ナロータイプ**
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/body-link-irotecpro/cabinet/item/mb-cxm-n_01.jpg?_ex=600x600" alt="BoDYLINK ケーブルクロスマシン ナロータイプ" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/11710986/13830436/ohb2026main1.jpg?_ex=600x600" alt="BoDYLINK ケーブルクロスマシン ナロータイプ" loading="lazy" decoding="async" />
 
 | 項目 | 詳細 |
 | :--- | :--- |

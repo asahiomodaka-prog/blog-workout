@@ -46,7 +46,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/wasai/cabinet/point/imgrc0116929720.jpg?_ex=600x600" alt="懸垂 懸垂マシン 懸垂器具 ぶら下がり健康器" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/wasai/cabinet/point/imgrc0122460579.jpg?_ex=600x600" alt="懸垂 懸垂マシン 懸垂器具 ぶら下がり健康器" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -102,7 +102,7 @@ WASAI MK301YLのサイズは幅73cm、奥行80cmと比較的コンパクトで�
 
 高さは163cmから203cmまで10段階で調整できるため、家族みんなで使える点も高評価です。身長に合わせて最適な高さに設定できるのは、正しいフォームを習得する上で非常に重要です。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/wasai/cabinet/point/imgrc0116929720.jpg?_ex=600x600" alt="懸垂 懸垂マシン 懸垂器具 ぶら下がり健康器" loading="lazy" decoding="async" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/wasai/cabinet/point/imgrc0122460579.jpg?_ex=600x600" alt="懸垂 懸垂マシン 懸垂器具 ぶら下がり健康器" loading="lazy" decoding="async" />
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #166534; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
@@ -166,7 +166,7 @@ WASAI MK301YLは、自宅で本格的なトレーニング環境を構築した�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/wasai/cabinet/point/imgrc0116929720.jpg?_ex=600x600" alt="懸垂 懸垂マシン 懸垂器具 ぶら下がり健康器" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/wasai/cabinet/point/imgrc0122460579.jpg?_ex=600x600" alt="懸垂 懸垂マシン 懸垂器具 ぶら下がり健康器" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
