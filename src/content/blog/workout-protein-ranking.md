@@ -2,7 +2,7 @@
 title: '【2026年最新】プロテインおすすめ人気ランキング4選を徹底比較！'
 description: 'プロテインの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-15'
-heroImage: '/images/workout-protein-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/lf001_r_01-1.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'protein'
 tags:

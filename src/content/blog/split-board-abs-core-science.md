@@ -2,7 +2,7 @@
 title: 'トレーニングボード解体新書！分離式が腹筋と体幹を科学的に鍛えるメカニズム'
 description: '2980円の多機能トレーニングボードで自宅トレ停滞期を打破！大胸筋・上腕三頭筋・三角筋を多角的に刺激し、正しいフォームへ矯正。Amazonで人気の本製品のレビューや効果的な使い方を徹底解説します。'
 pubDate: '2026-07-05'
-heroImage: '/images/split-board-abs-core-science.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/imeilifestyle/cabinet/10560659/11109405/y920764_1.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '設置や片付けは簡単ですか？'
     answer: '非常に簡単です。このトレーニングボードは基本的に組み立て不要で、製品が届いたらすぐにトレーニングを開始できます。グリップをボードの穴に差し込むだけで準備完了。トレーニングが終わったら、グリップを抜いてボードの裏側に収納したり、そのままボードに差し込んだ状態で壁に立てかけたりするだけで片付けが完了します。コンパクトで場所を取らないため、リビングや寝室の隅に置いておいても邪魔になりにくいでしょう。'
 sidebarProducts:
-  - title: 'トレーニングボード'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9C%E3%83%BC%E3%83%89%2F'
-    imageUrl: '/images/split-board-abs-core-science.jpg'
-    price: 2980
+  - title: '自動リバウンド 腹筋マシン コア&腹筋筋力トレーニングボード'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u7xo1.ve2q5c18.g00u7xo1.ve2q6901/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimeilifestyle%2Fy920764%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimeilifestyle%2Fi%2F10004286%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/imeilifestyle/cabinet/10560659/11109405/y920764_1.jpg?_ex=600x600'
+    price: 9853
     microCopy: '詳細を見る'
 ---
 
@@ -36,7 +36,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/split-board-abs-core-science.jpg" alt="トレーニングボード" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/imeilifestyle/cabinet/10560659/11109405/y920764_1.jpg?_ex=600x600" alt="トレーニングボード" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -100,7 +100,7 @@ sidebarProducts:
 
 これは、ジムの設備を使わずとも、筋肉に効率的な刺激を与え続け、停滞期を打破するための強力な武器になります。怪我のリスクを最小限に抑えつつ、最大限の効果を引き出すための、まさに科学的な根拠に基づいた設計が施されていると言えるでしょう。
 
-![トレーニングボード](/images/split-board-abs-core-science.jpg)
+![トレーニングボード](https://thumbnail.image.rakuten.co.jp/@0_mall/imeilifestyle/cabinet/10560659/11109405/y920764_1.jpg?_ex=600x600)
 
 ## 宅トレのリアルな効率：ジムとのコスト比較と設置シミュレーション
 
@@ -255,7 +255,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/split-board-abs-core-science.jpg" alt="トレーニングボード" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/imeilifestyle/cabinet/10560659/11109405/y920764_1.jpg?_ex=600x600" alt="トレーニングボード" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

@@ -2,7 +2,7 @@
 title: '【立ちコロ挑戦】自動リバウンド4輪腹筋ローラーの実力！引き戻しアシストで安全に負荷を高める方法'
 description: '腹筋ローラーの究極目標「立ちコロ」へ安全にステップアップ！内蔵スプリングによる強力な引き戻しアシスト機能を備えた4輪アブローラーを徹底レビュー。膝コロから立ちコロへ移行する実践フォームと怪我防止の極意を解説します。'
 pubDate: '2026-09-08'
-heroImage: '/images/ab-roller-4wheel-assist-review.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tcconlineshop/cabinet/08713206/compass1690191513.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 tags:

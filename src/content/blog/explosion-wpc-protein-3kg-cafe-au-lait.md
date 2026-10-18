@@ -2,7 +2,7 @@
 title: 'プロテイン WPC エクスプロージョン 3kgを飲むべき理由。宅トレの成果を最大化する栄養戦略'
 description: '宅トレ初心者のプロテイン選びに！プロテイン WPC エクスプロージョンのリアルなレビュー。Amazonで2980円から購入可能。高コスパで溶けやすく、美味しいと評判のプロテインを徹底検証。失敗しない選び方やメリット・デメリットを解説します。'
 pubDate: '2026-07-29'
-heroImage: '/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/5/4902777302102.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'protein'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'プロテイン WPC エクスプロージョン'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%20WPC%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%2F'
-    imageUrl: '/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/5/4902777302102.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -36,7 +36,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg" alt="プロテイン WPC エクスプロージョン" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/5/4902777302102.jpg?_ex=600x600" alt="プロテイン WPC エクスプロージョン" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -140,7 +140,7 @@ sidebarProducts:
 高価なプロテインだと「今日はちょっと贅沢かな…」と躊躇してしまう日もありますが、エクスプロージョンなら毎日躊躇なく飲めます。
 これが、私がエクスプロージョンを宅トレ初心者におすすめする大きな理由の一つです。
 
-![プロテイン WPC エクスプロージョン](/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg)
+![プロテイン WPC エクスプロージョン](https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/5/4902777302102.jpg?_ex=600x600)
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #166534; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
@@ -278,7 +278,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/explosion-wpc-protein-3kg-cafe-au-lait.jpg" alt="プロテイン WPC エクスプロージョン" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/5/4902777302102.jpg?_ex=600x600" alt="プロテイン WPC エクスプロージョン" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

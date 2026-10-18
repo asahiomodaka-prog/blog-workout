@@ -2,7 +2,7 @@
 title: '腹筋ローラー＆プッシュアップバーの真価。効率的な上半身トレと解剖学的効果を検証'
 description: '自宅トレの効果に悩むあなたへ。「腹筋ローラー＆プッシュアップバー」セットをAmazonで徹底レビュー。2980円で体幹と上半身を効率的に強化し、全身運動を実現します。継続しやすい使い方から具体的なメリット・デメリットまで解説。'
 pubDate: '2026-07-24'
-heroImage: '/images/abs-roller-push-up-bar-fitness-kit.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: '腹筋ローラー＆プッシュアップバー'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%85%B9%E7%AD%8B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%EF%BC%86%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F'
-    imageUrl: '/images/abs-roller-push-up-bar-fitness-kit.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/abs-roller-push-up-bar-fitness-kit.jpg" alt="腹筋ローラー＆プッシュアップバー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600" alt="腹筋ローラー＆プッシュアップバー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -93,7 +93,7 @@ sidebarProducts:
 
 まるで連動したモーターのように、それぞれの運動が次の運動の質を高め合う。まさに、自宅という限られた環境で、全身を効率的に鍛えるための知的な設計思想が詰まっていると、宅トレ愛好家として実感しています。
 
-![腹筋ローラー＆プッシュアップバー](/images/abs-roller-push-up-bar-fitness-kit.jpg)
+![腹筋ローラー＆プッシュアップバー](https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600)
 
 ## 日常で感じる圧倒的な使い勝手とコストメリット
 
@@ -261,7 +261,7 @@ A3: 自宅トレーニングの最大のメリットは、移動時間や月会�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/abs-roller-push-up-bar-fitness-kit.jpg" alt="腹筋ローラー＆プッシュアップバー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600" alt="腹筋ローラー＆プッシュアップバー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

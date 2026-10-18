@@ -2,7 +2,7 @@
 title: '宅トレ進化の鍵！IROTEC可変ダンベル40KGで費用対効果を最大化'
 description: 'IROTEC 40KGラバーダンベルセットのリアルな使用感を徹底解説。宅トレの停滞期を打破し、費用対効果の高い筋力アップを目指す方に向け、解剖学的視点とコストパフォーマンスから深掘りします。'
 pubDate: '2026-09-07'
-heroImage: '/images/irotec-dumbbell-40kg-review.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb20i_sku10.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:

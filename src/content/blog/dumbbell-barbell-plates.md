@@ -2,7 +2,7 @@
 title: '停滞期打破！ダンベルプレートが宅トレの筋肥大効率を最大化する解剖学的根拠'
 description: '宅トレの「停滞期」を打ち破る『停滞期打破』を徹底レビュー。自宅で効率的な負荷調整ができる可変式ダンベル・バーベルセットのスペック、使い方、メリット・デメリットを解説。Amazonで2980円、あなたの筋力アップを後押しします。'
 pubDate: '2026-08-07'
-heroImage: '/images/dumbbell-barbell-plates.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a15196.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'ダンベル バーベル用 プレート (追加ウェイト)'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%20%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%20%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%2F'
-    imageUrl: '/images/dumbbell-barbell-plates.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a15196.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -44,7 +44,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/dumbbell-barbell-plates.jpg" alt="ダンベル バーベル用 プレート" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a15196.jpg?_ex=600x600" alt="ダンベル バーベル用 プレート" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -99,7 +99,7 @@ sidebarProducts:
 
 これは、筋肉の起始・停止部に正確な負荷をかけ、筋線維の伸展と収縮を最大限に引き出す上で極めて重要な要素です。
 
-![停滞期打破](/images/dumbbell-barbell-plates.jpg)
+![停滞期打破](https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a15196.jpg?_ex=600x600)
 
 ### 素材選定とその影響
 
@@ -272,7 +272,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/dumbbell-barbell-plates.jpg" alt="ダンベル バーベル用 プレート" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a15196.jpg?_ex=600x600" alt="ダンベル バーベル用 プレート" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

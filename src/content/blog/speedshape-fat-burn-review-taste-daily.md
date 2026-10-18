@@ -2,7 +2,7 @@
 title: '運動苦手でも理想の体に？スピードシェイプ®で変わる日常と脂肪燃焼の秘密'
 description: '運動が苦手な男性でも理想の体を目指せる「スピードシェイプ®」。僕が300粒を飲み続けて感じた変化と、脂肪燃焼をサポートする成分の科学的根拠、そして無理なく続けられる工夫まで徹底解説します。'
 pubDate: '2026-09-17'
-heroImage: '/images/speedshape-fat-burn-review-taste-daily.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/originentalspa-shop/cabinet/13852753/imgrc0135457920.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 tags:

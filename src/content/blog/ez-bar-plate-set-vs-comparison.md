@@ -2,7 +2,7 @@
 title: 'オリンピック EZバー Wバー Wシャフト vs RITFIT オリンピックWバーセット バーベル 徹底比較！どっちを選ぶべき？'
 description: 'EZバー プレートセットの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-18'
-heroImage: '/images/ez-bar-plate-set-vs-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ritfit/cabinet/product/wolmpicbarset/wolmpicbarset017.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:

@@ -2,7 +2,7 @@
 title: '初心者のための「コンパクト ダンベル セット」完全選び方ガイド！失敗しないポイント'
 description: 'コンパクト ダンベル セットの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-20'
-heroImage: '/images/compact-dumbbell-set-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/h2brothers/cabinet/fitness/danberu-80kgns2.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:

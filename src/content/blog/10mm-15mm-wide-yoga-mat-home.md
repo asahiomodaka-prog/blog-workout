@@ -2,7 +2,7 @@
 title: '10mm/15mm「幅広ヨガマット」を自宅トレに導入すべき理由！解剖学的安定と筋効率。'
 description: '宅トレ時の膝・肘の痛み、階下への振動にお悩みですか？厚さ10mm・15mmのトレーニングマットが解決策。関節を保護し集中できる環境をAmazonで2980円から。選び方・スペック・レビューを解説。(117文字)'
 pubDate: '2026-07-06'
-heroImage: '/images/10mm-15mm-wide-yoga-mat-home.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: '幅広ヨガマット'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B9%85%E5%BA%83%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2F'
-    imageUrl: '/images/10mm-15mm-wide-yoga-mat-home.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -49,7 +49,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/10mm-15mm-wide-yoga-mat-home.jpg" alt="幅広ヨガマット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600" alt="幅広ヨガマット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -166,7 +166,7 @@ sidebarProducts:
 
 特に、膝や腰に持病を持つ方や、トレーニング中に身体のどこかに痛みを感じやすかった方からは、という利点が多くの場面で実感されています。
 
-![10mm 15mm](/images/10mm-15mm-wide-yoga-mat-home.jpg)
+![10mm 15mm](https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600)
 
 初心者の方にとって、このマットはトレーニングのハードルを大きく下げてくれる存在です。
 怪我への不安が減ることで、これまで挑戦できなかったポーズや動きにも積極的に取り組めるようになります。
@@ -308,7 +308,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/10mm-15mm-wide-yoga-mat-home.jpg" alt="幅広ヨガマット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600" alt="幅広ヨガマット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

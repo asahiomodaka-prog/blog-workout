@@ -2,7 +2,7 @@
 title: '【2026年最新】バーベルシャフト 180cmおすすめ人気ランキング4選を徹底比較！'
 description: 'バーベルシャフト 180cmの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-01'
-heroImage: '/images/barbell-shaft-180cm-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a12367.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:

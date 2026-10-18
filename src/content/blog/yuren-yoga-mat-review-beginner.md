@@ -2,7 +2,7 @@
 title: '宅トレ初心者の不安を解消！YUREN二人用ヨガマットで安全な運動習慣を'
 description: '宅トレ初心者が直面する床の傷や騒音、身体への負担。YUREN二人用ヨガマット（厚さ15mm、幅130cm）が、いかに安全で快適なトレーニング環境を提供するかを深掘りします。'
 pubDate: '2026-09-03'
-heroImage: '/images/yuren-yoga-mat-review-beginner.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/vivikota/cabinet/jhmover/viv0718018vigmq/jt0718hpyxv_01.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 tags:

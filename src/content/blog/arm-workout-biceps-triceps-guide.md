@@ -2,7 +2,7 @@
 title: '初心者のための「腕トレ 二頭筋 三頭筋」完全選び方ガイド！失敗しないポイント'
 description: '腕トレ 二頭筋 三頭筋の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-24'
-heroImage: '/images/arm-workout-biceps-triceps-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/uchinogym/cabinet/rep_fitness/12158771/fta-5010/imgrc0134582359.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:

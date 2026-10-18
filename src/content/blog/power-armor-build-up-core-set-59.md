@@ -2,7 +2,7 @@
 title: 'POWER ARMOR ビルドアップコアセット59は宅トレ最適解か？解剖学的効果を検証！'
 description: 'POWER ARMORのレビューとスペックを徹底解説！自宅での精密な負荷調整と卓越した安定性を両立し、トレーニングの質を向上。中級者以上のトレーニーに最適な理由を検証します。Amazonで2980円から購入可能。'
 pubDate: '2026-08-11'
-heroImage: '/images/power-armor-build-up-core-set-59.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/proshopjapan/cabinet/08163909/08339159/imgrc0097446424.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'POWER ARMOR'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPOWER%20ARMOR%2F'
-    imageUrl: '/images/power-armor-build-up-core-set-59.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/proshopjapan/cabinet/08163909/08339159/imgrc0097446424.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ POWER ARMOR
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/power-armor-build-up-core-set-59.jpg" alt="POWER ARMOR" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/proshopjapan/cabinet/08163909/08339159/imgrc0097446424.jpg?_ex=600x600" alt="POWER ARMOR" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -105,7 +105,7 @@ POWER ARMOR
 
 例えば、グリスアップやボルトの増し締めといった簡単なメンテナンスは必要ですが、特別な部品交換は稀であり、初期投資の回収期間は非常に短いと言えるでしょう。
 
-![POWER ARMOR](/images/power-armor-build-up-core-set-59.jpg)
+![POWER ARMOR](https://thumbnail.image.rakuten.co.jp/@0_mall/proshopjapan/cabinet/08163909/08339159/imgrc0097446424.jpg?_ex=600x600)
 
 私の自宅は6畳ほどの部屋ですが、POWER ARMORは非常にコンパクトに設計されており、設置スペースは最小限に抑えられています。具体的な設置面積を測ってみると、幅約120cm、奥行き約150cmといったところです。
 
@@ -221,7 +221,7 @@ POWER ARMOR
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/power-armor-build-up-core-set-59.jpg" alt="POWER ARMOR" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/proshopjapan/cabinet/08163909/08339159/imgrc0097446424.jpg?_ex=600x600" alt="POWER ARMOR" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

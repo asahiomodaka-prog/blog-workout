@@ -2,7 +2,7 @@
 title: '宅トレを格上げ！多機能ベンチで解剖学に基づいた効果的な筋トレを'
 description: '自宅トレーニングの質を高める多機能インクラインベンチ「P10倍★11日」を徹底レビュー。解剖学的視点から角度調整の重要性、省スペース設計、長期的なコストパフォーマンスを詳しく解説します。'
 pubDate: '2026-09-06'
-heroImage: '/images/home-training-bench-review.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/12514151/bw-dc04_thumbi.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'machine'
 tags:

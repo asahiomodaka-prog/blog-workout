@@ -2,7 +2,7 @@
 title: '【実機検証】LEADING EDGE可変式ダンベルLE-AD24の実力！フレックスベルや他社製との違いを徹底比較'
 description: '人気フィットネスブランドLEADING EDGEの可変式ダンベル「LE-AD24」を徹底レビュー。ダイヤル操作のスムーズさ、台座の安定性、フレックスベルや安価モデルとの違い、実際の耐久性まで詳しく解説します。'
 pubDate: '2026-09-01'
-heroImage: '/images/leading-edge-adjustable-dumbbell.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/9221/9221510090002.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '24kgという最大重量で、全身のトレーニングは十分可能ですか？'
     answer: '二頭筋カールやショルダープレスなどの上半身種目、ブルガリアンスクワットなどの片脚種目において片手24kgは十分な高負荷を提供できます。'
 sidebarProducts:
-  - title: 'LEADING EDGE 可変式ダンベル LE-AD24'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%83%E3%82%B8%20%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%20LE-AD24%2F'
-    imageUrl: '/images/leading-edge-adjustable-dumbbell.png'
-    price: 0
+  - title: 'LEADING EDGE リーディングエッジ ダンベル プレート セット'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F9221510090002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11433951%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/9221/9221510090002.jpg?_ex=600x600'
+    price: 2990
     microCopy: '詳細を見る'
 ---
 
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/leading-edge-adjustable-dumbbell.png" alt="リーディングエッジ 可変式ダンベル LE-AD24" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/9221/9221510090002.jpg?_ex=600x600" alt="リーディングエッジ 可変式ダンベル LE-AD24" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -210,7 +210,7 @@ LEADING EDGE 可変式ダンベル 24kg 2個セット LE-AD24は、単なるト�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/leading-edge-adjustable-dumbbell.png" alt="リーディングエッジ 可変式ダンベル LE-AD24" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/9221/9221510090002.jpg?_ex=600x600" alt="リーディングエッジ 可変式ダンベル LE-AD24" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

@@ -2,7 +2,7 @@
 title: 'MYPROTEIN BCAAは誰向け？科学的根拠で解き明かす宅トレ活用術'
 description: 'MYPROTEIN BCAA 分岐鎖アミノ酸が宅トレの質を高める！黄金比2:1:1で集中力とパフォーマンスを維持し、運動後のリカバリーをサポート。豊富なフレーバーで飲みやすく、amazonで2980円。費用対効果の高いBCAAで効率的な成果を。'
 pubDate: '2026-08-31'
-heroImage: '/images/myprotein-bcaa.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/act-online/cabinet/point/mp-wp-006.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'protein'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: 'ピーチティー以外のフレーバーでおすすめはありますか？'
     answer: 'MYPROTEINのBCAAは非常に多くのフレーバーが展開されています。ピーチティー以外で個人的に気に入っているのは、フレッシュな味わいの「レモン＆ライム」や、少し甘みが欲しい時に選ぶ「グレープ」です。フレーバーの好みは個人差が大きいので、まずは少量パックで試したり、SNSなどで他のユーザーのレビューを参考にしたりするのも良いでしょう。特に、トレーニング中に飽きずに継続できるフレーバーを見つけることが大切です。'
 sidebarProducts:
-  - title: 'Myprotein (マイプロテイン) BCAA 2:1:1 パウダー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%20BCAA%2F'
-    imageUrl: '/images/myprotein-bcaa.png'
-    price: 2980
+  - title: 'マイプロテイン 2:1:1 BCAA 250g Myprotein'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00stxr1.ve2q5da5.g00stxr1.ve2q63c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fact-online%2Fmp-wp-006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fact-online%2Fi%2F10000174%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/act-online/cabinet/point/mp-wp-006.jpg?_ex=600x600'
+    price: 3980
     microCopy: '詳細を見る'
 ---
 
@@ -42,7 +42,7 @@ MYPROTEIN BCAA 分岐鎖アミノ酸は、その理想的な配合比率と優�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/myprotein-bcaa.png" alt="Myprotein BCAA 2:1:1 パウダー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/act-online/cabinet/point/mp-wp-006.jpg?_ex=600x600" alt="Myprotein BCAA 2:1:1 パウダー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -211,7 +211,7 @@ MYPROTEIN BCAAは非常に優れたサプリメントですが、購入前に知
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/myprotein-bcaa.png" alt="Myprotein BCAA 2:1:1 パウダー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/act-online/cabinet/point/mp-wp-006.jpg?_ex=600x600" alt="Myprotein BCAA 2:1:1 パウダー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

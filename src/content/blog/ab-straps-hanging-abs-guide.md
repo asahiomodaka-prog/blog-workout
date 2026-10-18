@@ -2,7 +2,7 @@
 title: '初心者のための「アブストラップ 懸垂腹筋」完全選び方ガイド！失敗しないポイント'
 description: 'アブストラップ 懸垂腹筋の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-26'
-heroImage: '/images/ab-straps-hanging-abs-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/apiness/cabinet/13325447/13325448/imgrc0113646780.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'machine'
 tags:

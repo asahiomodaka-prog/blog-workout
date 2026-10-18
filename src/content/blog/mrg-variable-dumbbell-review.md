@@ -2,7 +2,7 @@
 title: '宅トレ効率激変！MRG可変式ダンベルで毎日が変わる'
 description: '自宅トレの質と効率を最大化するMRG可変式ダンベル60kgを徹底レビュー。ダイヤル式で重量変更がスムーズ、省スペースで全身を鍛える具体的な活用法とメリットを解説します。'
 pubDate: '2026-09-02'
-heroImage: '/images/mrg-variable-dumbbell-review.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/md/md-24-40_tum_1.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '床への対策は必要ですか？'
     answer: 'はい、ダンベルの重さから床への衝撃や傷つきを防ぐため、厚手のトレーニングマットを敷くことをおすすめします。マットは防音対策にもつながり、集合住宅での使用では特に重要になります。'
 sidebarProducts:
-  - title: 'MRG 可変式ダンベル 60kg 可変ダイヤル式'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMRG%20%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2060kg%20%E5%8F%AF%E5%A4%89%E3%83%80%E3%82%A4%E3%83%A4%E3%83%AB%E5%BC%8F%2F'
-    imageUrl: '/images/mrg-variable-dumbbell-review.png'
-    price: 0
+  - title: '可変式ダンベル 24kg アジャスタブルダンベル'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tqlh1.ve2q52c7.g00tqlh1.ve2q624d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotions%2Fmd242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotions%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/md/md-24-40_tum_1.jpg?_ex=600x600'
+    price: 9780
     microCopy: '詳細を見る'
 ---
 
@@ -35,7 +35,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/mrg-variable-dumbbell-review.png" alt="MRG 可変式ダンベル 60kg 可変ダイヤル式" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/md/md-24-40_tum_1.jpg?_ex=600x600" alt="MRG 可変式ダンベル 60kg 可変ダイヤル式" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -141,7 +141,7 @@ MRG 可変式ダンベル 60kg 可変ダイヤル式 は、自宅で質の高い
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/mrg-variable-dumbbell-review.png" alt="MRG 可変式ダンベル 60kg 可変ダイヤル式" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/motions/cabinet/md/md-24-40_tum_1.jpg?_ex=600x600" alt="MRG 可変式ダンベル 60kg 可変ダイヤル式" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

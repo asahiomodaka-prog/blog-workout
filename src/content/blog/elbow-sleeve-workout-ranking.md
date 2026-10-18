@@ -2,7 +2,7 @@
 title: '【2026年最新】肘サポーター エルボースリーブおすすめ人気ランキング4選を徹底比較！'
 description: '肘サポーター エルボースリーブの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-15'
-heroImage: '/images/elbow-sleeve-workout-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gorilla-squad/cabinet/elbow-sleeves01-02.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 heroImages:

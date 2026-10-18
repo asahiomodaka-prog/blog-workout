@@ -2,7 +2,7 @@
 title: 'インクラインベンチが自宅に必須な理由。胸筋上部を”効かせる”解剖学'
 description: '自宅で「胸筋上部」を鍛えたい宅トレーニー必見！インクラインベンチが自宅に必須な理由を徹底解説。効率的に胸板を厚くし、大胸筋のセパレーションを明確にする方法を紹介。Amazonで2980円から手に入れ、自宅トレの質を高めよう。'
 pubDate: '2026-08-06'
-heroImage: '/images/incline-dumbbell-bench.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/imgrc0133982554.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '組み立ては難しいですか？一人でもできますか？'
     answer: 'ほとんどのインクラインベンチは、詳細な説明書が付属しており、工具も同梱されていることが多いです。手順通りに組み立てれば、一人でも十分に可能です。ただし、部品の持ち運びやボルトの締め付け作業などで、少し力が必要な場面もあるかもしれません。不安な場合は、ご家族や友人に手伝ってもらうとスムーズに作業できるでしょう。'
 sidebarProducts:
-  - title: 'インクラインベンチ (アジャスタブル トレーニングベンチ)'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%99%E3%83%B3%E3%83%81%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81%2F'
-    imageUrl: '/images/incline-dumbbell-bench.jpg'
-    price: 2980
+  - title: 'トレーニングベンチ インクラインベンチ ダンベル ベンチ'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbc-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000002%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/imgrc0133982554.jpg?_ex=600x600'
+    price: 6999
     microCopy: '詳細を見る'
 ---
 
@@ -38,7 +38,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/incline-dumbbell-bench.jpg" alt="インクラインベンチ アジャスタブルベンチ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/imgrc0133982554.jpg?_ex=600x600" alt="インクラインベンチ アジャスタブルベンチ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -113,7 +113,7 @@ sidebarProducts:
 
 多くのモデルは折りたたみ式で、使用しない時はコンパクトに収納できるため、例えばベッドの下や壁の隙間に立てかけておけば、普段の生活空間を圧迫することもありません。
 
-![アジャスタブル インクラインベンチ（角度調節可能）](/images/incline-dumbbell-bench.jpg)
+![アジャスタブル インクラインベンチ（角度調節可能）](https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/imgrc0133982554.jpg?_ex=600x600)
 
 ## 客観的評価とフィットネスレベル別の見解
 
@@ -231,7 +231,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/incline-dumbbell-bench.jpg" alt="インクラインベンチ アジャスタブルベンチ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/imgrc0133982554.jpg?_ex=600x600" alt="インクラインベンチ アジャスタブルベンチ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

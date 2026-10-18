@@ -2,7 +2,7 @@
 title: '【自重トレ最強の核】多機能懸垂マシン（チンニングスタンド）徹底比較！逆三角形の背中を作る選び方と活用法'
 description: '「自宅でジム並みの逆三角形ボディを作りたい！」多機能懸垂マシンの土台安定性、チンニング・ディップスの解剖学的効果、部屋の天井高・設置スペースの注意点まで、後悔しない選び方を徹底解説します。'
 pubDate: '2026-07-15'
-heroImage: '/images/pull-up-dip-station-core-workout.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/d/de025.jpg?_ex=600x600'
 genre: 'workout'
 featured: true
 featuredOrder: 2
@@ -21,7 +21,7 @@ faq:
 sidebarProducts:
   - title: 'ぶら下がり健康器 懸垂マシン マルチジム'
     url: 'https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3'
-    imageUrl: '/images/pull-up-dip-station-core-workout.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/d/de025.jpg?_ex=600x600'
     price: 13800
     microCopy: '詳細を見る'
 ---
@@ -50,7 +50,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/pull-up-dip-station-core-workout.jpg" alt="ぶら下がり健康器 懸垂マシン マルチジム" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/alice-zk/cabinet/d/de025.jpg?_ex=600x600" alt="ぶら下がり健康器 懸垂マシン マルチジム" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">広背筋・大胸筋・体幹強化</span></div>

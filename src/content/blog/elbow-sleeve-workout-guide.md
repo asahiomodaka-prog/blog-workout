@@ -2,7 +2,7 @@
 title: '初心者のための「肘サポーター エルボースリーブ」完全選び方ガイド！失敗しないポイント'
 description: '肘サポーター エルボースリーブの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-11'
-heroImage: '/images/elbow-sleeve-workout-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gorilla-squad/cabinet/elbow-sleeves01-02.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'machine'
 tags:

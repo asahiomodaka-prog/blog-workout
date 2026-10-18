@@ -2,7 +2,7 @@
 title: 'ハーフラックで宅トレ限界突破！解剖学的安全と高負荷を両立する理由'
 description: '「ハーフラックで宅トレ」を検討中？ダンベルでは物足りない高重量トレーニングも、自宅で安全に実現します。2980円のハーフラックのレビューとスペックを徹底解説。Amazonでの購入を考えている方も必見！本格的な筋力アップを目指すあなたの不安を解消します。'
 pubDate: '2026-08-13'
-heroImage: '/images/half-power-rack-barbell.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/fmpbg/imgrc0065532620.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'ハーフラックで宅トレ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A7%E5%AE%85%E3%83%88%E3%83%AC%2F'
-    imageUrl: '/images/half-power-rack-barbell.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/fmpbg/imgrc0065532620.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -40,7 +40,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/half-power-rack-barbell.jpg" alt="ハーフラックで宅トレ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/fmpbg/imgrc0065532620.jpg?_ex=600x600" alt="ハーフラックで宅トレ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -93,7 +93,7 @@ sidebarProducts:
 
 しっかりとしたフレームは、バーベルの荷重を均等に分散させ、安定した土台を提供します。この構造的な安定感が、心理的な安心感を生み出し、結果としてパフォーマンス向上と筋肉の成長を最大化する基盤となります。
 
-![ハーフラックで宅トレ](/images/half-power-rack-barbell.jpg)
+![ハーフラックで宅トレ](https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/fmpbg/imgrc0065532620.jpg?_ex=600x600)
 
 ## 自宅トレーニングのリアルな費用対効果とスペースシミュレーション
 
@@ -260,7 +260,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/half-power-rack-barbell.jpg" alt="ハーフラックで宅トレ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/fmpbg/imgrc0065532620.jpg?_ex=600x600" alt="ハーフラックで宅トレ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

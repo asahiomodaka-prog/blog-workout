@@ -2,7 +2,7 @@
 title: 'なぜ今、トレーニングベンチ＋可変式ダンベルか？解剖学的メリットで宅トレ効果を最大化'
 description: 'ジム不要！自宅で効率的に全身を鍛えたいなら「トレーニングベンチ＋可変式ダンベル」が最適解。省スペースで本格的な筋トレ環境を構築し、効果を最大化する方法を解説。選び方やamazonのおすすめまで、あなたの疑問を解決します。'
 pubDate: '2026-07-11'
-heroImage: '/images/home-workout-bench-dumbbell-max.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744544/08964855/set2.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '狭い部屋でも本当に設置できますか？収納スペースが気になります。'
     answer: 'はい、ある程度のスペースがあれば設置可能です。使用時はベンチとダンベルで畳一畳半ほどのスペースを確保できれば、多くのトレーニングができます。さらに、多くのトレーニングベンチは折りたたみ式で、使用しない時は立てかけたり、ベッドの下やクローゼットの隙間に収納したりできるよう設計されています。キャスター付きのベンチを選べば、移動も楽になります。可変式ダンベルも、複数の固定ダンベルを揃えるよりもはるかにコンパクトで、専用台座にきれいに収まります。僕の部屋も特別広いわけではありませんが、折りたたみ式のベンチと台座付きの可変式ダンベルを壁際に寄せて置くことで、普段の生活に支障なく運用できています。具体的な寸法は各製品によりますので、購入前に必ず確認することをおすすめします。'
 sidebarProducts:
-  - title: 'トレーニングベンチ ＋ 可変式ダンベル セット'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%99%E3%83%B3%E3%83%81%20%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2F'
-    imageUrl: '/images/home-workout-bench-dumbbell-max.jpg'
-    price: 0
+  - title: 'トレーニングベンチ＋可変式ダンベル セット'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u4s71.ve2q517b.g00u4s71.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeru-shop%2Ftrlgbcset-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeru-shop%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744544/08964855/set2.jpg?_ex=600x600'
+    price: 27000
     microCopy: '詳細を見る'
 ---
 
@@ -44,7 +44,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/home-workout-bench-dumbbell-max.jpg" alt="トレーニングベンチ ＋ 可変式ダンベル セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744544/08964855/set2.jpg?_ex=600x600" alt="トレーニングベンチ ＋ 可変式ダンベル セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -113,7 +113,7 @@ sidebarProducts:
 
 この設計思想は、限られた環境下で最大限のトレーニング効果を引き出すための、まさに知恵の結晶と言えるでしょう。
 
-![トレーニングベンチ＆可変式ダンベル セット](/images/home-workout-bench-dumbbell-max.jpg)
+![トレーニングベンチ＆可変式ダンベル セット](https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744544/08964855/set2.jpg?_ex=600x600)
 
 ## 限られたスペースでジムを再現する現実的な選択
 
@@ -341,7 +341,7 @@ A3: はい、ある程度のスペースがあれば設置可能です。
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/home-workout-bench-dumbbell-max.jpg" alt="トレーニングベンチ ＋ 可変式ダンベル セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744544/08964855/set2.jpg?_ex=600x600" alt="トレーニングベンチ ＋ 可変式ダンベル セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

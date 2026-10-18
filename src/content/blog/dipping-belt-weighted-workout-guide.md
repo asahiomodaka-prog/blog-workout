@@ -2,7 +2,7 @@
 title: '初心者のための「ディッピングベルト 自重加重 懸垂 ディップス」完全選び方ガイド！失敗しないポイント'
 description: 'ディッピングベルト 自重加重 懸垂 ディップスの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-28'
-heroImage: '/images/dipping-belt-weighted-workout-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/hummingbird2022/cabinet/nankinjo/09995469/01.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'machine'
 tags:

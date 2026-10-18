@@ -2,7 +2,7 @@
 title: '【24kg vs 40kg】可変式ダンベルはどっちを選ぶべき？宅トレ筋肥大の限界と後悔しない重量選び'
 description: '「可変式ダンベルは24kgと40kg、どちらを買うべき？」そんな疑問を徹底解決。種目別の重量限界、体重・筋力レベルに応じた適性、将来的な買い直しコストまで、後悔しない選び方を詳しく比較・解説します。'
 pubDate: '2026-08-10'
-heroImage: '/images/adjustable-dumbbell-24kg-40kg.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product5/pk24-40_th.jpg?_ex=600x600'
 genre: 'ダンベル・バーベル'
 featured: true
 featuredOrder: 1
@@ -19,10 +19,10 @@ faq:
   - question: '最初は24kgを買って、物足りなくなったら40kgを買い足すのはアリですか？'
     answer: '24kgを後から40kgに拡張することは構造上できない製品がほとんどです。買い直す場合は24kgモデルの処分費用やフリマアプリでの再販手間がかかり、トータル出費が大きく膨らんでしまいます。大胸筋や背中の本格的な筋肥大を目指す男性であれば、最初から40kgモデルを選んでおく方が長期的に圧倒的にお得です。'
 sidebarProducts:
-  - title: '可変式ダンベル 24kg / 40kg'
-    url: 'https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB'
-    imageUrl: '/images/adjustable-dumbbell-24kg-40kg.jpg'
-    price: 23800
+  - title: 'ライシン パンプキング 可変式ダンベル 24kg/40kg'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fls-pk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000562%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product5/pk24-40_th.jpg?_ex=600x600'
+    price: 9900
     microCopy: '詳細を見る'
 ---
 
@@ -48,7 +48,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/adjustable-dumbbell-24kg-40kg.jpg" alt="可変式ダンベル 24kg 40kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product5/pk24-40_th.jpg?_ex=600x600" alt="可変式ダンベル 24kg 40kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・瞬時重量変更</span></div>

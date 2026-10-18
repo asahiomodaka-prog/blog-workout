@@ -2,14 +2,14 @@
 title: 座って安心ワンツーステッパーを導入すべき理由。宅トレ下半身強化の科学的メリット
 description: 「座って安心ワンツーステッパー」で下半身エクササイズ。3600円で座ったまま手軽に「ながらトレーニング」を始められます。膝への負担が少なく、安定性に優れ、運動が苦手な方や座りっぱなしの方に最適。軽量コンパクトで組み立て不要、届いてすぐに理想のスタイルへ。楽天で購入可能。
 pubDate: '2026-08-08'
-heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600'
 genre: workout
 sidebarProducts:
   - title: '座って安心ワンツーステッパーを導入すべき理由'
     url: ''
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/outlet-f/cabinet/cw/nishio/a33923_kago.jpg?_ex=600x600'
     microCopy: '詳細を見る'
-mediaType: comic
+mediaType: 'machine'
 tags:
   - 'angle:review'
 faq:

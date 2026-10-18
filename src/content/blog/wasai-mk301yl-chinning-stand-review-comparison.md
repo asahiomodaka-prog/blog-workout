@@ -2,7 +2,7 @@
 title: 'WASAI MK301YL懸垂マシンで始める宅トレ革命：本当に必要な一台はどれ？'
 description: '宅トレに懸垂マシンを導入したいけれど、どれを選べば良いか迷っていませんか？WASAI MK301YLの軽量性と安定性を徹底レビュー。省スペース性やトレーニング効果、費用対効果から、どんな人に最適な一台かを解説します。'
 pubDate: '2026-09-10'
-heroImage: '/images/wasai-mk301yl-chinning-stand-review-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/12884245/imgrc0105240395.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'machine'
 tags:

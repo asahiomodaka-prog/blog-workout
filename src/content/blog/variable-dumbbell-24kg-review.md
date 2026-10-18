@@ -2,7 +2,7 @@
 title: '【初心者・女性必見】可変式ダンベル24kgで始める安全宅トレ！自重からのステップアップ完全ガイド'
 description: '自重トレーニングからワンランク上を目指す初心者・女性に向けて、可変式ダンベル24kgを徹底解説。2.5kgからの安心設計、怪我を防ぐ重量選択、家族でシェアできる省スペース性まで、宅トレの始め方を分かりやすくまとめました。'
 pubDate: '2026-09-09'
-heroImage: '/images/variable-dumbbell-24kg-review.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:

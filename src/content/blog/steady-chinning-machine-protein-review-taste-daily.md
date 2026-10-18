@@ -2,7 +2,7 @@
 title: 'STEADY懸垂マシンと極める宅トレ！きなこプロテインで成果を最大化'
 description: 'STEADYの頑丈な懸垂マシンで背中を鍛え、付属のきなこ風味完全栄養プロテインで栄養補給。宅トレを加速させる、味と継続性にこだわったプロテインのリアルな感想を深掘りします。'
 pubDate: '2026-09-12'
-heroImage: '/images/steady-chinning-machine-protein-review-taste-daily.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/fitness/st115/241204_thumb.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'protein'
 tags:
@@ -17,17 +17,17 @@ faq:
 sidebarProducts:
   - title: 'STEADY 懸垂マシン 改良バー 耐荷重150kg チンニングスタンド'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTEADY%20%E6%87%B8%E5%9E%82%E3%83%9E%E3%82%B7%E3%83%B3%2F'
-    imageUrl: '/images/steady-chinning-machine-protein-review-taste-daily.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/fitness/st115/241204_thumb.jpg?_ex=600x600'
     price: 14980
     microCopy: '詳細を見る'
   - title: 'STEADY トレーニング用 高反発防音フロアマット 厚さ10mm'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTEADY%20%E3%83%95%E3%83%AD%E3%82%A2%E3%83%9E%E3%83%83%E3%83%88%2F'
-    imageUrl: '/images/steady-chinning-machine-protein-review-taste-daily.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/fitness/st115/241204_thumb.jpg?_ex=600x600'
     price: 3980
     microCopy: '詳細を見る'
   - title: 'STEADY パワーグリップ 本革仕様 握力補助・手首保護'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSTEADY%20%E3%83%91%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%2F'
-    imageUrl: '/images/steady-chinning-machine-protein-review-taste-daily.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/fitness/st115/241204_thumb.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---

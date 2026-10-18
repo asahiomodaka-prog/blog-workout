@@ -2,7 +2,7 @@
 title: 'アルインコ FA221Yの真価。解剖学で解き明かす「効く」宅トレの極意'
 description: 'アルインコ FA221Yのレビューとスペックを徹底解説。amazonで2980円のこのフィットネスバイクは、宅トレ初心者でも続けやすい静音・省スペース設計。心肺機能向上や下半身強化を目指すあなたに最適です。運動習慣を無理なく始められます。'
 pubDate: '2026-07-05'
-heroImage: '/images/alinco-fa221y-anatomy-workout.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dynamicdrive/cabinet/11414208/imgrc0111626199.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'machine'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'アルインコ FA221Y'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%B3%20FA221Y%2F'
-    imageUrl: '/images/alinco-fa221y-anatomy-workout.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dynamicdrive/cabinet/11414208/imgrc0111626199.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -50,7 +50,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/alinco-fa221y-anatomy-workout.jpg" alt="アルインコ FA221Y" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dynamicdrive/cabinet/11414208/imgrc0111626199.jpg?_ex=600x600" alt="アルインコ FA221Y" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -107,7 +107,7 @@ FA221Yの優れた点は、こうした運動生理学的なメリットだけ�
 
 この環境は、自宅でトレーニングを継続する上で何よりも大切な要素だと感じています。運動を習慣化するためには、「手軽さ」と「続けやすさ」が不可欠であり、FA221Yはまさにその二つの要素を高次元で両立させていると言えるでしょう。
 
-![アルインコ FA221Y](/images/alinco-fa221y-anatomy-workout.jpg)
+![アルインコ FA221Y](https://thumbnail.image.rakuten.co.jp/@0_mall/dynamicdrive/cabinet/11414208/imgrc0111626199.jpg?_ex=600x600)
 
 ## 現実的な宅トレ環境をシミュレート：FA221Yが提供するコストとスペース効率
 
@@ -271,7 +271,7 @@ FA221Yはあくまで「下半身と有酸素運動の柱」と捉え、他の�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/alinco-fa221y-anatomy-workout.jpg" alt="アルインコ FA221Y" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dynamicdrive/cabinet/11414208/imgrc0111626199.jpg?_ex=600x600" alt="アルインコ FA221Y" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

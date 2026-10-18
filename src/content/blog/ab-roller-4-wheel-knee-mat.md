@@ -2,7 +2,7 @@
 title: '【手首・腰を守る】肘当て付き4輪腹筋ローラーの真価！プランク姿勢で体幹深部を鍛える科学'
 description: '「腹筋ローラーで手首や腰を痛めた経験がある」という方へ。肘当てプレート（エルボーレスト）と膝マットを搭載した4輪腹筋ローラーを徹底解説。プランク姿勢を維持したまま腹横筋・腹直筋へ安全に負荷をかける方法をまとめました。'
 pubDate: '2026-08-15'
-heroImage: '/images/ab-roller-4-wheel-knee-mat.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: '4輪式 腹筋ローラー (肘当て・膝マット付き)'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F4%E8%BC%AA%E5%BC%8F%20%E8%85%B9%E7%AD%8B%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%20%E8%82%98%E5%BD%93%E3%81%A6%2F'
-    imageUrl: '/images/ab-roller-4-wheel-knee-mat.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600'
     price: 0
     microCopy: '詳細を見る'
 ---
@@ -44,7 +44,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/ab-roller-4-wheel-knee-mat.jpg" alt="4輪式 腹筋ローラー (肘当て・膝マット付き)" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600" alt="4輪式 腹筋ローラー (肘当て・膝マット付き)" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -65,7 +65,7 @@ sidebarProducts:
 
 ## 体幹の深部へ響く精密な軌道設計
 
-![4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付）](/images/ab-roller-4-wheel-knee-mat.jpg)
+![4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付）](https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600)
 
 この「4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付）」を初めて使ったとき、その設計思想の深さに感銘を受けました。一見するとシンプルなトレーニング器具ですが、解剖学的・運動生理学的な視点から見ると、体幹の安定性を司るインナーユニット、特に腹横筋、多裂筋、骨盤底筋群、そして呼吸の要となる横隔膜まで、連動したアプローチを可能にする設計思想が込められています。
 
@@ -216,7 +216,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/ab-roller-4-wheel-knee-mat.jpg" alt="4輪式 腹筋ローラー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600" alt="4輪式 腹筋ローラー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

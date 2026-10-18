@@ -2,7 +2,7 @@
 title: '初心者のための「FIXIT プロテイン」完全選び方ガイド！失敗しないポイント'
 description: 'FIXIT プロテインの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-04'
-heroImage: '/images/fixit-protein-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/import-garden/cabinet/fixit/thinksimplewpi/thumbnails/imgrc0114677838.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'protein'
 tags:

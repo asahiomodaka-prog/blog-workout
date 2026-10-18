@@ -2,7 +2,7 @@
 title: 'ミズノ ダンベルボールは「使える」？宅トレ効果を解剖学的に深掘り！'
 description: 'ミズノ ダンベルボールは宅トレの強い味方！マンションでも静かで省スペース、怪我の不安なく効果的に鍛えられます。2980円で手に入るその実力は？実際のレビューとスペックを徹底解説。Amazonで購入可能。'
 pubDate: '2026-07-30'
-heroImage: '/images/mizuno-dumbbell-ball-workout.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mizunoshop/cabinet/goods/1023/sh_c3jhi90449.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: 'ミズノ ダンベルボールでどんなトレーニングができるの？'
     answer: 'ダンベルボールは汎用性が高く、全身の様々な部位を鍛えることができます。 例えば、スクワットやランジで下半身、アームカールやショルダープレスで上半身、プランクやロシアンツイストで体幹を鍛えられます。ボールの形状を活かして、プッシュアップの際にバランスを取ったり、片手で持って深層筋を刺激したりすることも可能です。ミズノの公式ウェブサイトやYouTubeなどで公開されているエクササイズ動画を参考にすると、より多くのトレーニングバリエーションを見つけることができます。'
 sidebarProducts:
-  - title: 'MIZUNO (ミズノ) ダンベルボール ボルレッチ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9F%E3%82%BA%E3%83%8E%20%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%83%9C%E3%83%AB%E3%83%AC%E3%83%83%E3%83%81%2F'
-    imageUrl: '/images/mizuno-dumbbell-ball-workout.jpg'
-    price: 2980
+  - title: 'ミズノ公式 ダンベルボール ボルレッチ 2個入り'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00s5hs1.ve2q5eb6.g00s5hs1.ve2q60c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmizunoshop%2Fc3jhi90449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmizunoshop%2Fi%2F10124368%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mizunoshop/cabinet/goods/1023/sh_c3jhi90449.jpg?_ex=600x600'
+    price: 3960
     microCopy: '詳細を見る'
 ---
 ---
@@ -55,7 +55,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/mizuno-dumbbell-ball-workout.jpg" alt="ミズノ ダンベルボール ボルレッチ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mizunoshop/cabinet/goods/1023/sh_c3jhi90449.jpg?_ex=600x600" alt="ミズノ ダンベルボール ボルレッチ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -76,7 +76,7 @@ sidebarProducts:
 
 ## 丸い形状が導く、身体に優しい全身運動の仕組みと使いやすさの秘密
 
-![ミズノ ダンベルボールを使った宅トレ](/images/mizuno-dumbbell-ball-workout.jpg)
+![ミズノ ダンベルボールを使った宅トレ](https://thumbnail.image.rakuten.co.jp/@0_mall/mizunoshop/cabinet/goods/1023/sh_c3jhi90449.jpg?_ex=600x600)
 
 私たちがトレーニング器具を選ぶ際、その形状や素材が身体にどう作用するか、深く考える機会は少ないかもしれません。しかし、ミズノのダンベルボールは、その「ボール型」というシンプルながらも独創的な形状の中に、ユーザーの安全性と運動効果を追求する緻密な設計思想が込められています。
 
@@ -303,7 +303,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/mizuno-dumbbell-ball-workout.jpg" alt="ミズノ ダンベルボール ボルレッチ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mizunoshop/cabinet/goods/1023/sh_c3jhi90449.jpg?_ex=600x600" alt="ミズノ ダンベルボール ボルレッチ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

@@ -2,7 +2,7 @@
 title: 'TR0725マルチポジションベンチを自宅に導入すべき理由。解剖学的メリットとコスパを検証'
 description: 'TR0725マルチポジションベンチを徹底レビュー。Amazonで2980円で購入できる宅トレベンチは、自宅で全身を効率的に鍛えたい初心者〜上級者向け。限られたスペースで多様なトレーニングを実現し、長期的な自宅筋トレの質を高めます。'
 pubDate: '2026-07-25'
-heroImage: '/images/multi-position-workout-bench-tr0725.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'machine'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'TR0725マルチポジションベンチを自宅に導入すべ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTR0725%E3%83%9E%E3%83%AB%E3%83%81%E3%83%9D%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%99%E3%83%B3%E3%83%81%E3%82%92%E8%87%AA%E5%AE%85%E3%81%AB%E5%B0%8E%E5%85%A5%E3%81%99%E3%81%B9%2F'
-    imageUrl: '/images/multi-position-workout-bench-tr0725.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -40,7 +40,7 @@ TR0725マルチポジションベンチは、限られたスペースでも多�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/multi-position-workout-bench-tr0725.jpg" alt="TR0725マルチポジションベンチを自宅に導入すべ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600" alt="TR0725マルチポジションベンチを自宅に導入すべ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -87,7 +87,7 @@ TR0725マルチポジションベンチは、こうした身体のメカニズ�
 
 表面的な機能だけでなく、こうした設計思想が、長期的に健康的な身体を作り上げていく上でどれほど重要か、筆者自身も深く実感しています。
 
-![TR0725マルチポジションベンチを自宅に導](/images/multi-position-workout-bench-tr0725.jpg)
+![TR0725マルチポジションベンチを自宅に導](https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600)
 
 ## ジムを超える利便性：自宅がパーソナルトレーニング空間に変わる
 
@@ -217,7 +217,7 @@ TR0725マルチポジションベンチ
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/multi-position-workout-bench-tr0725.jpg" alt="TR0725マルチポジションベンチを自宅に導入すべ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600" alt="TR0725マルチポジションベンチを自宅に導入すべ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>

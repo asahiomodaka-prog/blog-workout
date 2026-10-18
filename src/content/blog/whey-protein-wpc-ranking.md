@@ -2,7 +2,7 @@
 title: '【2026年最新】ホエイプロテイン WPCおすすめ人気ランキング4選を徹底比較！'
 description: 'ホエイプロテイン WPCの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-16'
-heroImage: '/images/whey-protein-wpc-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/11362306/241227_10000019.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'protein'
 heroImages:

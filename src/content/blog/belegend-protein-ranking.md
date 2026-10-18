@@ -2,7 +2,7 @@
 title: '【2026年最新】ビーレジェンド プロテイン おすすめおすすめ人気ランキング4選を徹底比較！'
 description: 'ビーレジェンド プロテイン おすすめの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-05'
-heroImage: '/images/belegend-protein-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/realstyle4u/cabinet/shouhin/bljc07ap1_line.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'protein'
 heroImages:

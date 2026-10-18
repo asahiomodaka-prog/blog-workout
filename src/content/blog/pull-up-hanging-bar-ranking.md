@@ -2,7 +2,7 @@
 title: '【2026年最新】懸垂マシン ぶら下がり健康器おすすめ人気ランキング4選を徹底比較！'
 description: '懸垂マシン ぶら下がり健康器の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-02'
-heroImage: '/images/pull-up-hanging-bar-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/wasai/cabinet/05926486/imgrc0109728117.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'machine'
 tags:

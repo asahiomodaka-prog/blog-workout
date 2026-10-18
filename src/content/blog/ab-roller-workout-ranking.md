@@ -2,7 +2,7 @@
 title: '【2026年最新】腹筋ローラーおすすめ人気ランキング4選を徹底比較！'
 description: '腹筋ローラーの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-06'
-heroImage: '/images/ab-roller-workout-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tcconlineshop/cabinet/08713206/compass1690191596.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 heroImages:

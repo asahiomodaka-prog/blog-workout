@@ -2,7 +2,7 @@
 title: '【2026年最新】トレーニンググローブ 滑り止めおすすめ人気ランキング4選を徹底比較！'
 description: 'トレーニンググローブ 滑り止めの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-01'
-heroImage: '/images/training-gloves-non-slip-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/koala2020/cabinet/st02/ox-gv-stn296th.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:

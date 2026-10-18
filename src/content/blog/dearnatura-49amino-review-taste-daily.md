@@ -2,7 +2,7 @@
 title: '宅トレ愛好家が選ぶ！ディアナチュラ49種アミノで毎日を最適化する戦略'
 description: '宅トレの成果を最大化する秘訣は「日々の継続」。ディアナチュラ49種アミノの豊富な栄養素が、忙しい生活の中でも手軽に体調を整え、パフォーマンスを高める理由を徹底解説します。'
 pubDate: '2026-09-19'
-heroImage: '/images/dearnatura-49amino-review-taste-daily.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/823/4946842639823.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'supplement'
 tags:

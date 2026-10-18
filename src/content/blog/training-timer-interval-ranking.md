@@ -2,7 +2,7 @@
 title: '【2026年最新】トレーニングタイマー インターバルおすすめ人気ランキング4選を徹底比較！'
 description: 'トレーニングタイマー インターバルの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-15'
-heroImage: '/images/training-timer-interval-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mnshoten-osaka/cabinet/ck082/ck082056480a6d9_1.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 tags:

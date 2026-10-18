@@ -2,7 +2,7 @@
 title: '宅トレ初心者の停滞期に効く！アームバーで上腕を賢く鍛える'
 description: '宅トレで上腕や胸の停滞期に悩む初心者へ。アームバー エキスパンダー 22cmの科学的効果とリアルな使い勝手を解説。省スペースで効率的な筋トレを実現します。'
 pubDate: '2026-09-05'
-heroImage: '/images/home-training-arm-bar-review.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/naocyame/cabinet/13177744/13177748/imgrc0142174359.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'gear'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'アームバー エキスパンダー 筋トレ器具 22cm'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00up3c1.ve2q5166.g00up3c1.ve2q616b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaocyame%2Fb0grwcd2y2-tghphsnvf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaocyame%2Fi%2F10031634%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: '/images/home-training-arm-bar-review.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/naocyame/cabinet/13177744/13177748/imgrc0142174359.jpg?_ex=600x600'
     price: 0
     microCopy: '詳細を見る'
 ---

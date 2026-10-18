@@ -2,7 +2,7 @@
 title: 'ビーレジェンド エナギルで覚醒！宅トレ進化を栄養学で解剖'
 description: 'ビーレジェンド エナギル プレワークアウトを徹底レビュー。ベータアラニン、カフェイン、アルギニン、シトルリンが宅トレのパフォーマンスをどう高めるのか、その科学的根拠と摂取タイミングを解説します。'
 pubDate: '2026-09-13'
-heroImage: '/images/belegend-enagil-preworkout-review-nutrition-science.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/realstyle4u/cabinet/shouhin/blwo03as1_line.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'supplement'
 tags:
@@ -15,20 +15,10 @@ faq:
   - question: '摂取するベストなタイミングはいつですか？'
     answer: 'トレーニングの20〜30分前が理想的です。成分が体内に吸収され、パフォーマンスサポート効果が発揮され始めるまでの時間を考慮すると、このタイミングがトレーニングに最大限の恩恵をもたらします。'
 sidebarProducts:
-  - title: 'ProSupps ミスターハイド プレワークアウト 【 iHerb アイハーブ 公式 】 プロサップス Mr Hyde シグネチャー クレアチン ベータアラニン アミノ酸 カフェイン サプリメント サプリ パウダー 粉末 ブルーラズ味 216g'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u5mk1.ve2q540b.g00u5mk1.ve2q6f3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiherb-official%2F87246%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiherb-official%2Fi%2F10007688%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/08739184/10215617/6008062_01.jpg?_ex=600x600'
-    price: 4408
-    microCopy: '詳細を見る'
-  - title: 'ザカース オレンジマンゴー 250g（8.8oz） 50回分 JNX SPORTS（ジェーエヌエックススポーツ）アミノ酸 カフェイン プレワークアウト トレーニング'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t6u91.ve2q5cac.g00t6u91.ve2q6678/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwomensfitness%2Fjx-64491%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwomensfitness%2Fi%2F10004539%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/womensfitness/cabinet/item/j_01/jx-64491.jpg?_ex=600x600'
-    price: 3892
-    microCopy: '詳細を見る'
-  - title: 'ザ・カース！ プレワークアウト ダークグレープ味 150g (5.3oz) パウダー JNX Sports THE CURSE！ PRE-WORKOUT Dark Grape カフェイン エネルギー スタミナ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t6u91.ve2q5cac.g00t6u91.ve2q6678/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwomensfitness%2Fjx-60015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwomensfitness%2Fi%2F10024964%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/womensfitness/cabinet/item/j_01/jx-60015.jpg?_ex=600x600'
-    price: 2882
+  - title: 'ビーレジェンド エナギル プレワークアウト'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblwo03as1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10002443%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/realstyle4u/cabinet/shouhin/blwo03as1_line.jpg?_ex=600x600'
+    price: 3980
     microCopy: '詳細を見る'
 ---
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

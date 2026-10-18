@@ -2,7 +2,7 @@
 title: '【2026年最新】スクワット 自宅 器具おすすめ人気ランキング4選を徹底比較！'
 description: 'スクワット 自宅 器具の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-08'
-heroImage: '/images/squat-home-equipment-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bagray/cabinet/image06/squatbar001-1.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 heroImages:

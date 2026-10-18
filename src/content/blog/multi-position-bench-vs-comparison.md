@@ -2,7 +2,7 @@
 title: 'マルチポジションベンチ 耐荷重300kg 高重量 vs 10 14 20 00  P10倍 要エントリー 徹底比較！どっちを選ぶべき？'
 description: 'マルチポジションベンチの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-12'
-heroImage: '/images/multi-position-bench-vs-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511627/13475530/imgrc0149195552.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 heroImages:

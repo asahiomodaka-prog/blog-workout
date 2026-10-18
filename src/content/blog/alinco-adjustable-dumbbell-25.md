@@ -2,7 +2,7 @@
 title: 'アジャスタブルダンベル25は本当に必要？宅トレ効果を最大化する科学的根拠'
 description: 'アジャスタブルダンベル25は自宅筋トレに本当に必要？省スペースで重量調整可能な本製品を徹底レビュー。価格以上の価値があるのか、メリット・デメリット、スペックを解説します。Amazonでの購入を検討中の方へ。'
 pubDate: '2026-08-14'
-heroImage: '/images/alinco-adjustable-dumbbell-25.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600'
 genre: 'workout'
 mediaType: 'dumbbell'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'ALINCO (アルインコ) アジャスタブルダンベル 25kg'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%BD%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2025kg%2F'
-    imageUrl: '/images/alinco-adjustable-dumbbell-25.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600'
     price: 0
     microCopy: '詳細を見る'
 ---
@@ -44,7 +44,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/alinco-adjustable-dumbbell-25.jpg" alt="ALINCO アジャスタブルダンベル 25kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600" alt="ALINCO アジャスタブルダンベル 25kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
@@ -107,7 +107,7 @@ sidebarProducts:
 
 ## 宅トレ環境で実現するコストパフォーマンスと利便性
 
-![アジャスタブルダンベル25は本当に必要](/images/alinco-adjustable-dumbbell-25.jpg)
+![アジャスタブルダンベル25は本当に必要](https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600)
 
 自宅でトレーニングをするメリットの一つは、ジムに通う費用と時間を節約できることです。
 仮に月額1万円のジムに5年間通うとすれば、費用は60万円にもなります。
@@ -279,7 +279,7 @@ A3: はい、十分に可能です。
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/alinco-adjustable-dumbbell-25.jpg" alt="ALINCO アジャスタブルダンベル 25kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600" alt="ALINCO アジャスタブルダンベル 25kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
