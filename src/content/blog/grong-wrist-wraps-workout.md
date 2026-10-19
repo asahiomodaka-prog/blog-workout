@@ -99,7 +99,7 @@ GronG(グロング) リストラップ 60cm 左右セット
 
 手首の構造とその脆弱性を理解し、それを補強するリストラップの機能性を知ることで、トレーニングはより深く、より安全なものへと進化するはずです。
 
-![GronG(グロング) リストラップ 60cm 左右セット](https://thumbnail.image.rakuten.co.jp/@0_mall/volix/cabinet/11470098/aj2_20486.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/volix/cabinet/11470098/aj2_20486.jpg?_ex=600x600" alt="GronG(グロング) リストラップ 60cm 左右セット" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 宅トレのリアルな効率化と経済性：リストラップがもたらす長期的な価値
 

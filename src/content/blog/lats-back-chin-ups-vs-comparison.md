@@ -1,5 +1,5 @@
 ---
-title: 'ラットプルダウンバー 116cm ストレートバー 筋トレ vs ラットプルダウンバー 116cm ストレートバー 筋トレ 徹底比較！どっちを選ぶべき？'
+title: '【ラットプルダウンバー 116cm】背筋を極めるおすすめアタッチメント徹底比較！'
 description: '広背筋 背中トレ チンニングの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-19'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/miha-zacca/cabinet/z20/z2067325e095_1.jpg?_ex=600x600'

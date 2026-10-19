@@ -15,6 +15,9 @@ type Props = CollectionEntry<'blog'>['data'] & {
 
 const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProducts, faq, rating, headings = [], readingTime } = Astro.props;
 
+// 本文中にFAQ（よくある質問）見出しが存在する場合はアコーディオンとの二重表示を防止
+const hasBodyFaq = (headings || []).some((h) => /よくある質問|FAQ|Frequently Asked/i.test(h.text || ''));
+
 const defaultProducts = [
 	{
 		title: '可変式ダンベル 選べるPRO/従来モデル 24kg/40kg 単品/2個セット | motions motionsfit',
@@ -1445,7 +1448,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						</section>
 
 						<!-- FAQ（よくある質問）セクション -->
-						{faq && faq.length > 0 && (
+						{faq && faq.length > 0 && !hasBodyFaq && (
 							<section class="faq-section">
 								<h3 class="faq-section-title">よくある質問（FAQ）</h3>
 								<div class="faq-list">

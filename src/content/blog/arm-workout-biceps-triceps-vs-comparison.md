@@ -1,5 +1,5 @@
 ---
-title: 'REP Fitness 正規販売店 vs EZカールバー BB-4400 イージーバー 徹底比較！どっちを選ぶべき？'
+title: 'REP Fitness バーベル vs EZカールバー BB-4400 徹底比較！どっちを選ぶべき？'
 description: '腕トレ 二頭筋 三頭筋の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-18'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/uchinogym/cabinet/12584816/12868495/imgrc0143806494.jpg?_ex=600x600'

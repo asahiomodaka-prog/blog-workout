@@ -87,7 +87,7 @@ TR0725マルチポジションベンチは、こうした身体のメカニズ�
 
 表面的な機能だけでなく、こうした設計思想が、長期的に健康的な身体を作り上げていく上でどれほど重要か、筆者自身も深く実感しています。
 
-![TR0725マルチポジションベンチを自宅に導](https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744517/1.jpg?_ex=600x600" alt="TR0725マルチポジションベンチを自宅に導" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## ジムを超える利便性：自宅がパーソナルトレーニング空間に変わる
 

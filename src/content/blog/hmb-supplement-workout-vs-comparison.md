@@ -1,5 +1,5 @@
 ---
-title: 'HMB MAX pro 432粒 vs HMB 100 000mg 薬剤師監修 日本製 徹底比較！どっちを選ぶべき？'
+title: 'HMB MAX pro 432粒 vs HMB 100,000mg 徹底比較！成分量とコスパで選ぶならどっち？'
 description: 'HMB サプリメントの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-16'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/starlabosupli/cabinet/07308594/05_hmb_thum_240426.jpg?_ex=600x600'

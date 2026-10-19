@@ -99,7 +99,7 @@ PROIRON パワーグリップ なぜは、安定したグリップを提供す�
 
 特にPROIRON パワーグリップ なぜは、手のひら側のラバー素材がバーにしっかりと馴染み、高重量でも滑りにくい感触が気に入っています。
 
-![PROIRON パワーグリップ なぜ](https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/10958164/1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/proiron/cabinet/10958164/1.jpg?_ex=600x600" alt="PROIRON パワーグリップ なぜ" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 自宅だからこそ活きる効率性：PROIRON パワーグリップ なぜで宅トレの質を最大化
 

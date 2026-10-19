@@ -105,7 +105,7 @@ POWER ARMOR
 
 例えば、グリスアップやボルトの増し締めといった簡単なメンテナンスは必要ですが、特別な部品交換は稀であり、初期投資の回収期間は非常に短いと言えるでしょう。
 
-![POWER ARMOR](https://thumbnail.image.rakuten.co.jp/@0_mall/proshopjapan/cabinet/08163909/08339159/imgrc0097446424.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/proshopjapan/cabinet/08163909/08339159/imgrc0097446424.jpg?_ex=600x600" alt="POWER ARMOR" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 私の自宅は6畳ほどの部屋ですが、POWER ARMORは非常にコンパクトに設計されており、設置スペースは最小限に抑えられています。具体的な設置面積を測ってみると、幅約120cm、奥行き約150cmといったところです。
 

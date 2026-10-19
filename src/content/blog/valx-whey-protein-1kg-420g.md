@@ -60,7 +60,6 @@ faq:
 
 ## 1kg vs 420g：コスパと風味劣化を防ぐサイズ選びの科学
 
-
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 

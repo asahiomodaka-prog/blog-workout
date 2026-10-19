@@ -64,7 +64,6 @@ faq:
 
 ## 重量バリエーションと種目別の漸進性過負荷アプローチ
 
-
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 

@@ -87,7 +87,7 @@ sidebarProducts:
 
 このように、トレーニング効果を最大化しつつ、身体への負担を最小限に抑えるための工夫が凝らされていると言えるでしょう。
 
-![オリンピック ラバープレート（ダンベル・バーベル用）](https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/max-a09809.jpg?_ex=600x600" alt="オリンピック ラバープレート（ダンベル・バーベル用）" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 宅トレだからこそ活きるメリット！コストとスペースから考える賢い選択
 

@@ -100,7 +100,7 @@ sidebarProducts:
 
 これは、ジムの設備を使わずとも、筋肉に効率的な刺激を与え続け、停滞期を打破するための強力な武器になります。怪我のリスクを最小限に抑えつつ、最大限の効果を引き出すための、まさに科学的な根拠に基づいた設計が施されていると言えるでしょう。
 
-![トレーニングボード](https://thumbnail.image.rakuten.co.jp/@0_mall/imeilifestyle/cabinet/10560659/11109405/y920764_1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/imeilifestyle/cabinet/10560659/11109405/y920764_1.jpg?_ex=600x600" alt="トレーニングボード" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 宅トレのリアルな効率：ジムとのコスト比較と設置シミュレーション
 

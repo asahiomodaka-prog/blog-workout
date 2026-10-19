@@ -135,7 +135,7 @@ sidebarProducts:
 
 筆者が選んだベンチも、簡単に折りたたんで隅に立てかけておけるタイプなので、部屋が狭く感じられることはありません。
 
-![トレーニングベンチ新型は宅トレ必須か](https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/12855415/13042862/260918_st123_thumb.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/tkms/cabinet/12855415/13042862/260918_st123_thumb.jpg?_ex=600x600" alt="トレーニングベンチ新型は宅トレ必須か" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 このベンチがもたらすのは、単なる運動器具以上の価値です。時間と場所の制約から解放され、より自由に、より深く自分の身体と向き合える。これは、宅トレ愛好家にとっては何物にも代えがたいメリットだと、筆者は感じています。
 

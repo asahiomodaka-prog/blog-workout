@@ -107,7 +107,7 @@ sidebarProducts:
 
 ## 宅トレ環境で実現するコストパフォーマンスと利便性
 
-![アジャスタブルダンベル25は本当に必要](https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/lysin/cabinet/product4/fb32i_sku0001.jpg?_ex=600x600" alt="アジャスタブルダンベル25は本当に必要" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 自宅でトレーニングをするメリットの一つは、ジムに通う費用と時間を節約できることです。
 仮に月額1万円のジムに5年間通うとすれば、費用は60万円にもなります。

@@ -113,7 +113,7 @@ sidebarProducts:
 
 この設計思想は、限られた環境下で最大限のトレーニング効果を引き出すための、まさに知恵の結晶と言えるでしょう。
 
-![トレーニングベンチ＆可変式ダンベル セット](https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744544/08964855/set2.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ikeru-shop/cabinet/08744544/08964855/set2.jpg?_ex=600x600" alt="トレーニングベンチ＆可変式ダンベル セット" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 限られたスペースでジムを再現する現実的な選択
 

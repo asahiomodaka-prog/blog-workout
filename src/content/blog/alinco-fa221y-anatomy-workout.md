@@ -35,7 +35,6 @@ sidebarProducts:
 | モニター表示 | 時間、速度、距離、カロリー、心拍数（簡易） |
 | その他 | 折りたたみ収納可能、移動用キャスター付き |
 
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #16a34a; border-radius: 10px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
@@ -107,7 +106,7 @@ FA221Yの優れた点は、こうした運動生理学的なメリットだけ�
 
 この環境は、自宅でトレーニングを継続する上で何よりも大切な要素だと感じています。運動を習慣化するためには、「手軽さ」と「続けやすさ」が不可欠であり、FA221Yはまさにその二つの要素を高次元で両立させていると言えるでしょう。
 
-![アルインコ FA221Y](https://thumbnail.image.rakuten.co.jp/@0_mall/dynamicdrive/cabinet/11414208/imgrc0111626199.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dynamicdrive/cabinet/11414208/imgrc0111626199.jpg?_ex=600x600" alt="アルインコ FA221Y" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 現実的な宅トレ環境をシミュレート：FA221Yが提供するコストとスペース効率
 
@@ -207,7 +206,6 @@ FA221Yの本体サイズは、概ね幅45cm、奥行き80cm、高さ110cm程度�
 1.  **組み立て:** アルインコの製品は比較的組み立てが容易ですが、ネジの締め忘れや部品の向き間違いは怪我の原因になります。付属の説明書をよく読み、手順通りに確実に組み立ててください。
 
 私自身も初めて組み立てた際は、説明書を熟読し、約40分ほど時間をかけて丁寧に作業を進めました。特に、ペダルは左右があるので注意が必要です。
-
 
 2.  **サドルとハンドルの調整:** 最も重要なのは、ご自身の体格に合わせたポジション設定です。
     *   **サドル高:** ペダルが一番下に来た時に、膝が軽く曲がる（約25度～30度）程度が理想です。

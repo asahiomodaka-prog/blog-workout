@@ -93,7 +93,7 @@ sidebarProducts:
 
 まるで連動したモーターのように、それぞれの運動が次の運動の質を高め合う。まさに、自宅という限られた環境で、全身を効率的に鍛えるための知的な設計思想が詰まっていると、宅トレ愛好家として実感しています。
 
-![腹筋ローラー＆プッシュアップバー](https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600" alt="腹筋ローラー＆プッシュアップバー" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 日常で感じる圧倒的な使い勝手とコストメリット
 

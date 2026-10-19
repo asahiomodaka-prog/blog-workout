@@ -1,5 +1,5 @@
 ---
-title: 'IROTEC ラバーダンベル 60KG セット vs IROTEC アイアンダンベル60KGセット 徹底比較！どっちを選ぶべき？'
+title: 'IROTEC ラバーダンベル 60KG vs アイアンダンベル 60KGセット 徹底比較！どっちを選ぶべき？'
 description: 'ダンベル 30kg 可変式の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-27'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511621/1x1_id60.jpg?_ex=600x600'

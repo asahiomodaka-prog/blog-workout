@@ -1,5 +1,5 @@
 ---
-title: '筋トレウェイト リストウェイト アンクルウェイト vs 1 0kgx2 アディダス プロアバンセ メンズ 徹底比較！どっちを選ぶべき？'
+title: 'アンクルリストウェイト vs アディダス 筋トレウェイト 徹底比較！どっちを選ぶべき？'
 description: 'アンクルウェイト 足首重りの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-11'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/vitaliser/cabinet/300029/adidas-9848.jpg?_ex=600x600'

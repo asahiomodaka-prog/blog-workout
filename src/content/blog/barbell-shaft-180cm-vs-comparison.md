@@ -1,5 +1,5 @@
 ---
-title: '10 9 1 59迄 P10倍 要エントリー vs P10倍★9日 徹底比較！どっちを選ぶべき？'
+title: '【バーベルシャフト 180cm】人気モデル徹底比較！耐荷重と失敗しない選び方'
 description: 'バーベルシャフト 180cmの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-07'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/b/bs_01.jpg?_ex=600x600'

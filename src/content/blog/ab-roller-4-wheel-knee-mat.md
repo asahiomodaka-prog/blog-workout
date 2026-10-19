@@ -65,7 +65,7 @@ sidebarProducts:
 
 ## 体幹の深部へ響く精密な軌道設計
 
-![4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付）](https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/merach/cabinet/2366/2366-1.jpg?_ex=600x600" alt="4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付）" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 この「4輪式 腹筋ローラー（肘当て・膝マット・スマホスタンド付）」を初めて使ったとき、その設計思想の深さに感銘を受けました。一見するとシンプルなトレーニング器具ですが、解剖学的・運動生理学的な視点から見ると、体幹の安定性を司るインナーユニット、特に腹横筋、多裂筋、骨盤底筋群、そして呼吸の要となる横隔膜まで、連動したアプローチを可能にする設計思想が込められています。
 

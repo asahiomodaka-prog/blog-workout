@@ -109,7 +109,7 @@ sidebarProducts:
 
 これは、トレーニングの継続性という点で非常に大きなアドバンテージです。
 
-![uFit Training Tube (トレーニングチューブ 5本セット)](https://thumbnail.image.rakuten.co.jp/@0_mall/ufit-shop/cabinet/09979751/imgrc0103196853.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ufit-shop/cabinet/09979751/imgrc0103196853.jpg?_ex=600x600" alt="uFit Training Tube (トレーニングチューブ 5本セット)" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 私自身、このチューブを導入してからは、朝、家族がまだ寝ている静かな時間帯に、リビングの隅で広背筋を刺激するローイングを行ったり、就寝前にベッドの上で軽い負荷で肩のインナーマッスルを整えたりと、本当に「いつでもどこでも」トレーニングができるようになりました。ジムで感じる周囲の視線や、器具の順番待ちといったストレスも一切ありません。
 
@@ -464,7 +464,7 @@ A3: uFit Training Tubeは、高品質な天然ラテックス素材で作られ�
 
 これは、トレーニングの継続性という点で非常に大きなアドバンテージです。
 
-![uFit Training Tube (トレーニングチューブ 5本セット)](https://thumbnail.image.rakuten.co.jp/@0_mall/ufit-shop/cabinet/09979751/imgrc0103196853.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/ufit-shop/cabinet/09979751/imgrc0103196853.jpg?_ex=600x600" alt="uFit Training Tube (トレーニングチューブ 5本セット)" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 私自身、このチューブを導入してからは、朝、家族がまだ寝ている静かな時間帯に、リビングの隅で広背筋を刺激するローイングを行ったり、就寝前にベッドの上で軽い負荷で肩のインナーマッスルを整えたりと、本当に「いつでもどこでも」トレーニングができるようになりました。
 ジムで感じる周囲の視線や、器具の順番待ちといったストレスも一切ありません。

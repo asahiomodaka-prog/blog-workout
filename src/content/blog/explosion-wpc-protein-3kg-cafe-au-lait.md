@@ -140,7 +140,7 @@ sidebarProducts:
 高価なプロテインだと「今日はちょっと贅沢かな…」と躊躇してしまう日もありますが、エクスプロージョンなら毎日躊躇なく飲めます。
 これが、私がエクスプロージョンを宅トレ初心者におすすめする大きな理由の一つです。
 
-![プロテイン WPC エクスプロージョン](https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/5/4902777302102.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/5/4902777302102.jpg?_ex=600x600" alt="プロテイン WPC エクスプロージョン" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #bbf7d0; border-radius: 14px; background: linear-gradient(135deg, #f0fdf4, #dcfce7); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #166534; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>

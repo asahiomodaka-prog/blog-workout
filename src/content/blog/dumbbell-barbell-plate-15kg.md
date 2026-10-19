@@ -99,7 +99,7 @@ sidebarProducts:
 
 正しいフォームを習得し、段階的に負荷を増やしていくことで、ジムと遜色ない、いや、むしろ自宅という集中できる環境だからこそ得られる、質の高いトレーニングが実現できるはずです。
 
-![ダンベル プレート バーベル](https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a15200.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a15200.jpg?_ex=600x600" alt="ダンベル プレート バーベル" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 宅トレならではの効率と経済性：ジムとの比較シミュレーション
 
