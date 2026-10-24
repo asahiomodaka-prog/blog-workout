@@ -190,15 +190,24 @@ function getArticleTypeBadge(post: { id: string; data: { title: string } }) {
 				margin-bottom: 1.5rem;
 				text-align: left;
 			}
+			.featured-header-top {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				margin-bottom: 0.4rem;
+			}
 			.featured-heading {
 				display: flex;
 				align-items: center;
 				gap: 0.5rem;
 				font-size: 1.35rem;
 				color: #0f172a;
-				margin: 0 0 0.4rem;
+				margin: 0;
 				font-weight: 800;
 				letter-spacing: -0.01em;
+			}
+			.swipe-hint {
+				display: none;
 			}
 			.featured-subheading {
 				font-size: 0.88rem;
@@ -474,15 +483,68 @@ function getArticleTypeBadge(post: { id: string; data: { title: string } }) {
 					font-size: 1.6rem;
 				}
 				.featured-section {
-					padding: 1.5rem 1rem;
+					padding: 1.25rem 0.75rem 1rem;
 					border-radius: 1.25rem;
 				}
+				.featured-header {
+					padding: 0 0.25rem;
+					margin-bottom: 0.85rem;
+				}
 				.featured-heading {
-					font-size: 1.2rem;
+					font-size: 1.12rem;
+				}
+				.swipe-hint {
+					display: inline-flex;
+					align-items: center;
+					gap: 0.25rem;
+					font-size: 0.72rem;
+					font-weight: 700;
+					color: #ea580c;
+					background: rgba(234, 88, 12, 0.1);
+					padding: 0.2rem 0.55rem;
+					border-radius: 9999px;
+					border: 1px solid rgba(234, 88, 12, 0.25);
+				}
+				.featured-subheading {
+					font-size: 0.8rem;
 				}
 				.featured-grid {
-					grid-template-columns: 1fr;
-					gap: 1.25rem;
+					display: flex;
+					overflow-x: auto;
+					scroll-snap-type: x mandatory;
+					-webkit-overflow-scrolling: touch;
+					gap: 1rem;
+					padding: 0.25rem 0.25rem 0.85rem;
+					margin: 0 -0.25rem;
+					scrollbar-width: thin;
+				}
+				.featured-grid::-webkit-scrollbar {
+					height: 4px;
+				}
+				.featured-grid::-webkit-scrollbar-track {
+					background: rgba(234, 88, 12, 0.05);
+					border-radius: 9999px;
+				}
+				.featured-grid::-webkit-scrollbar-thumb {
+					background: rgba(234, 88, 12, 0.35);
+					border-radius: 9999px;
+				}
+				.featured-card-item {
+					flex: 0 0 82%;
+					max-width: 310px;
+					scroll-snap-align: start;
+				}
+				.featured-card-body {
+					padding: 1rem;
+				}
+				.featured-card-title {
+					font-size: 0.98rem;
+					margin-bottom: 0.4rem;
+				}
+				.featured-card-desc {
+					font-size: 0.82rem;
+					margin-bottom: 0.75rem;
+					-webkit-line-clamp: 2;
 				}
 				.articles-grid {
 					grid-template-columns: 1fr;
@@ -536,7 +598,10 @@ function getArticleTypeBadge(post: { id: string; data: { title: string } }) {
 				featuredPosts.length > 0 && (
 					<section class="featured-section" id="featuredSection">
 						<div class="featured-header">
-							<h2 class="featured-heading">👑 編集部厳選の決定版ガイド</h2>
+							<div class="featured-header-top">
+								<h2 class="featured-heading">👑 編集部厳選の決定版ガイド</h2>
+								<span class="swipe-hint">スワイプで全6件 ➔</span>
+							</div>
 							<p class="featured-subheading">自宅を最強のホームジムに。筋肥大・宅トレ効率を極める決定版レビュー特集</p>
 						</div>
 						<div class="featured-grid">
