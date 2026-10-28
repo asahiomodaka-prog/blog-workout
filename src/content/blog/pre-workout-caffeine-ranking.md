@@ -38,7 +38,6 @@ sidebarProducts:
 
 今回は「カフェイン入りプレワークアウト」に焦点を当て、その科学的なメカニズムと、僕が実際に使ってみて感じた効果から、本当におすすめできる商品をランキング形式で紹介します。カフェイン以外の成分にも注目し、宅トレを次のレベルへ押し上げるプレワークアウトを見つけましょう。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -61,14 +60,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00u5mk1.ve2q540b.g00u5mk1.ve2q6f3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiherb-official%2F87246%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiherb-official%2Fi%2F10007688%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DProSupps%2520%25E3%2583%259F%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%258F%25E3%2582%25A4%25E3%2583%2589%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## なぜ宅トレにプレワークアウトが必要なのか？
 
@@ -113,10 +110,8 @@ sidebarProducts:
 | 項目 | 詳細 |
 | --- | --- |
 | 価格 | 3,980円 |
-| 販売ショップ | [ビーレジェンド](/blog/belegend-enagil-preworkout-review-nutrition-science/) [プロテイン](/blog/explosion-wpc-protein-3kg-cafe-au-lait/) -公式- |
+| 販売ショップ | ビーレジェンド プロテイン -公式- |
 | レビュー評価 | 4.5 (20件) |
-
-👉 [【LINE登録で最大1000円OFF】ビーレジェンド エナギル プレワークアウト 元気ドリンク風味 300g インフォームドスポーツ取得 ベータアラニン ( βアラニン ) カフェイン アルギニン シトルリン 女性 男性 オススメ（be LEGEND） の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblwo03as1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10002443%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 **特徴と評価**:
 国内メーカー「ビーレジェンド」が手掛けるプレワークアウトです。1回分あたりカフェイン150mg、ベータアラニン2g、アルギニン、シトルリンを配合しています。
@@ -146,8 +141,6 @@ sidebarProducts:
 | 販売ショップ | Costopa |
 | レビュー評価 | 5.0 (2件) |
 
-👉 [ザカース オレンジマンゴー 250g（8.8oz） 50回分 JNX SPORTS（ジェーエヌエックススポーツ）アミノ酸 カフェイン プレワークアウト トレーニング の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00t6u91.ve2q5cac.g00t6u91.ve2q6678/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwomensfitness%2Fjx-64491%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwomensfitness%2Fi%2F10004539%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 **特徴と評価**:
 JNX SPORTSの「ザカース」は、そのネーミングからしてインパクトがあります。1回分でカフェイン155mg、ベータアラニン・クレアチンモノハイドレート・クエン酸が計3,000mg、さらにL-シトルリンとL-アルギニンα-ケトグルタレート（AKG）が計900mg配合されており、非常にバランスの良い配合です。
 
@@ -172,8 +165,6 @@ JNX SPORTSの「ザカース」は、そのネーミングからしてインパ�
 | --- | --- |
 | 価格 | 4,477円 |
 | 販売ショップ | iHerb |
-
-👉 [ProSupps ミスターハイド プレワークアウト 【 iHerb アイハーブ 公式 】 プロサップス Mr Hyde シグネチャー クレアチン ベータアラニン アミノ酸 カフェイン サプリメント サプリ パウダー 粉末 ブルーラズ味 216g の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00u5mk1.ve2q540b.g00u5mk1.ve2q6f3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiherb-official%2F87246%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiherb-official%2Fi%2F10007688%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 **特徴と評価**:
 ProSuppsのミスターハイドは、非常に多角的なアプローチでトレーニングをサポートする海外製のプレワークアウトです。クレアチン、ベータアラニンはもちろん、Nitrosigine?（アルギニンケイ酸塩イノシトール）、L-テアニン、N-アセチル-チロシン、GABA、そして3種類のカフェイン源（無水カフェイン、リンゴ酸ディカフェイン、TeaCrine?テアクリン）をブレンドしています。
@@ -200,10 +191,8 @@ ProSuppsのミスターハイドは、非常に多角的なアプローチでト
 | 価格 | 2,882円 |
 | 販売ショップ | Costopa |
 
-👉 [ザ・カース！ プレワークアウト ダークグレープ味 150g (5.3oz) パウダー JNX Sports THE CURSE！ PRE-WORKOUT Dark Grape カフェイン エネルギー スタミナ の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00t6u91.ve2q5cac.g00t6u91.ve2q6678/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwomensfitness%2Fjx-60015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwomensfitness%2Fi%2F10024964%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 **特徴と評価**:
-第2位で紹介した「ザカース」の少量パック版です。ダークグレープ味で、150gと[コンパクト](/blog/compact-dumbbell-set-guide/)なサイズ感。
+第2位で紹介した「ザカース」の少量パック版です。ダークグレープ味で、150gとコンパクトなサイズ感。
 
 JNX Sportsは「世界から言い訳を無くす」をミッションに掲げたブランドだけあって、強力なサポートが期待できます。主要成分はオレンジマンゴー味とほぼ同じで、カフェイン、ベータアラニン、クレアチン、クエン酸などがブレンドされています。
 

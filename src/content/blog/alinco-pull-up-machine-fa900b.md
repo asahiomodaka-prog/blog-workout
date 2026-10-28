@@ -7,13 +7,6 @@ genre: 'workout'
 mediaType: 'machine'
 tags:
   - 'angle:review'
-faq:
-  - question: '組み立ては難しいですか？'
-    answer: '説明書が付属しており、部品点数もそこまで多くないので、一般的な組み立て家具の経験があれば一人でも組み立て可能です。ただし、フレームが大きく重いため、できれば二人で行うとより安全かつスムーズに作業が進みます。必要な工具はプラスドライバーと付属の六角レンチです。'
-  - question: '騒音や床へのダメージは大丈夫ですか？'
-    answer: '懸垂中の騒音は、基本的に本体の軋み音などはほとんどありません。懸垂後の着地音や、マシンが少し揺れる音が気になる場合は、ホームセンターなどで販売されている厚手のトレーニングマットを下に敷くことを強くおすすめします。マットは床へのダメージを防ぐだけでなく、防音・防振効果も高めてくれますので、特に集合住宅にお住まいの方には安心材料となります。'
-  - question: '身長が低いのですが使えますか？'
-    answer: 'ALINCO FA900Bは高さ5段階調節機能がついていますので、身長に合わせて最適な高さを選べます。最も低い設定でもバーの高さが約190cmありますので、身長160cm以下の方などは、バーにぶら下がった際に足が床についてしまうかもしれません。しかし、その場合でも膝を曲げて行う斜め懸垂や、足台を使って補助しながらトレーニングを始めることが可能です。ご自身の身長とバーの高さ、そして天井までの高さを考慮して検討されることをおすすめします。'
 sidebarProducts:
   - title: 'ALINCO (アルインコ) 懸垂マシン FA900B'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%B3%20%E6%87%B8%E5%9E%82%E3%83%9E%E3%82%B7%E3%83%B3%20FA900B%2F'
@@ -29,7 +22,6 @@ sidebarProducts:
 私自身、このマシンを導入して以来、自宅でのトレーニングルーティンが劇的に変わり、以前は鍛えにくかった背中の筋肉へ、日々の継続的な刺激を与えられるようになりました。特に、姿勢改善や肩こり予防にも効果を実感しており、ジムの月会費や移動時間を考慮すれば、長期的な視点で見れば、非常に費用対効果の高い投資であると実感しています。
 
 ALINCO 懸垂マシン FA900B
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -53,14 +45,12 @@ ALINCO 懸垂マシン FA900B
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%B3%20%E6%87%B8%E5%9E%82%E3%83%9E%E3%82%B7%E3%83%B3%20FA900B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DALINCO%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520FA900B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 背中を彫刻する機能美：FA900Bの設計思想と筋肉への恩恵
 
@@ -185,7 +175,7 @@ ALINCO FA900Bは優れた懸垂マシンですが、すべての人に最適な�
 | 項目 | 詳細 |
 | --- | --- |
 | 価格 | 17,800円（税込、Amazon販売価格） |
-| メーカー | [アルインコ](/blog/alinco-fa221y-anatomy-workout/) (ALINCO) |
+| メーカー | アルインコ (ALINCO) |
 | 型番/仕様 | FA900B (ブラック) / 耐荷重90kg / 高さ5段階調節（約190cm〜220cm） |
 | 主な特徴 | ぶら下がり・懸垂運動に加え、腹筋運動にも対応。高さ調節可能で家族みんなで使える。安定性の高い土台と握りやすいグリップで安全にトレーニング。 |
 

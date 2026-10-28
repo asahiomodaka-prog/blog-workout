@@ -37,10 +37,9 @@ A3: はい、非常に省スペースです。1ペアのNUOBELLが占める床�
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-自宅でのトレーニングにおいて、「もっと高負荷で追い込みたいけれど、ダンベルを何本も置くスペースがない」「重量変更の手間が億劫で、集中力が途切れる」と感じている方は多いのではないでしょうか。そんな悩みを解決し、自宅トレーニングの質を劇的に向上させるのが、**NUOBELL（ヌオベル）可変式[ダンベル](/blog/dumbbell-barbell-plate-15kg/)**です。
+自宅でのトレーニングにおいて、「もっと高負荷で追い込みたいけれど、ダンベルを何本も置くスペースがない」「重量変更の手間が億劫で、集中力が途切れる」と感じている方は多いのではないでしょうか。そんな悩みを解決し、自宅トレーニングの質を劇的に向上させるのが、**NUOBELL（ヌオベル）可変式ダンベル**です。
 
 わずか2本のダンベルで幅広い重量をカバーし、省スペースかつスムーズな重量変更を実現するこのアイテムは、自宅での筋トレを本格的に継続したいと考える方にとって、まさに強力な味方となるでしょう。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -64,14 +63,12 @@ A3: はい、非常に省スペースです。1ペアのNUOBELLが占める床�
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNUOBELL%20%E5%8F%AF%E5%A4%89%E5%BC%8F%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB%2040kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DNUOBELL%252040kg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 自宅トレーニングの限界を打ち破る「NUOBELL可変式ダンベル」：効率と成果を両立する投資
 

@@ -42,7 +42,6 @@ sidebarProducts:
 
 初心者が手軽に始められる注水式と、本格的に追い込めるプレート式の2タイプを深掘りしていきましょう。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -65,14 +64,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00upl81.ve2q51c7.g00upl81.ve2q63d6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-and-d1212%2Fhl001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-and-d1212%2Fi%2F10000502%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25AB%2520%25E6%25B3%25A8%25E6%25B0%25B4%25E5%25BC%258F%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2583%2599%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 導入初日のヒヤリ体験と、僕が可変式ケトルベルを選ぶ理由
 ケトルベルは、ダンベルとは異なり重心が手から離れているため、全身を連動させる機能的な動きや、体幹の安定性を高めるのに非常に有効なトレーニング器具です。しかし、固定式のケトルベルは重量ごとに何個も揃える必要があり、宅トレではスペースが大きな課題になります。そこで僕が着目したのが、**1台で複数の重量をカバーできる可変式ケトルベル**でした。
@@ -99,8 +96,6 @@ PE素材は床に優しく、万が一落としてしまってもフローリン
 | 販売ショップ | A&D plus 楽天市場店 |
 | レビュー評価 | 5.0 (1件) |
 
-[注水式可変ケトルベルの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00upl81.ve2q51c7.g00upl81.ve2q63d6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-and-d1212%2Fhl001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-and-d1212%2Fi%2F10000502%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ## AXIS FIT 可変式ケトルベル：20kgまでの高負荷で限界を突破する
 次に、本格的な筋肥大や筋力アップを目指す方に向けた「AXIS FIT 可変式ケトルベル」です。これは**2kgから20kgまで、7段階で重量調整が可能**なプレート式ケトルベルです。
 
@@ -120,8 +115,6 @@ PE素材は床に優しく、万が一落としてしまってもフローリン
 | 価格 | 16,800円 |
 | 販売ショップ | エヌカルテット |
 | レビュー評価 | 5.0 (1件) |
-
-[AXIS FIT 可変式ケトルベルの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00unbs1.ve2q5c11.g00unbs1.ve2q6983/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnquartet%2Fkettlebell-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnquartet%2Fi%2F10000102%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## 徹底比較！2つの可変式ケトルベル、どちらがあなたの宅トレを変えるか？
 2つのケトルベルは、それぞれ異なる強みとターゲットを持っています。あなたのトレーニング目標に合わせて選ぶことが重要です。

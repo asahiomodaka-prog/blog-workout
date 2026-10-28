@@ -7,13 +7,6 @@ genre: 'workout'
 mediaType: 'machine'
 tags:
   - 'angle:comparison'
-faq:
-  - question: '組み立ては難しいですか？'
-    answer: '付属工具は簡易的なものですが、取扱説明書に従って進めれば一人でも組み立て可能です。よりスムーズに、かつしっかりと固定したい場合は、ご家庭にあるモンキーレンチなどの工具を併用することをおすすめします。'
-  - question: '懸垂中の揺れは気になりますか？'
-    answer: '八字型フレームと2点支柱構造により、一般的な家庭用懸垂マシンとしては揺れが最小限に抑えられています。しかし、体重やトレーニングの強度（特に反動を使った場合など）によっては、多少の揺れを感じる可能性もあります。'
-  - question: '設置する場所の高さが足りない場合でも使えますか？'
-    answer: '本製品は163cmから203cmまで10段階で高さ調整が可能です。設置場所の天井高に合わせて、無理のない範囲で調整できます。高身長の方でも膝を軽く曲げてトレーニングできる設計です。'
 sidebarProducts:
   - title: '■9/11迄 最大600円OFF■ ぶら下がり健康器 高さ調整12段階 高さ調節 クッションパット搭載 懸垂 懸垂バー 筋トレ器具 懸垂マシン チンニングスタンド 腹筋マシーン　背面クッション けんすいマシーン ぶらさがり健康機 懸垂器具 背筋 介護'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00sc6q1.ve2q582b.g00sc6q1.ve2q647c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarketjapan%2Fbw-bls05%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarketjapan%2Fi%2F10001338%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -42,8 +35,7 @@ sidebarProducts:
 
 僕が実際に使用して感じたリアルなメリットや、他の製品との比較を交えながら、WASAI MK301YLの魅力をお伝えします。
 
-[WASAI MK301YL 懸垂マシン 懸垂器具 ぶら下がり健康器](https://hb.afl.rakuten.co.jp/hgc/g00ruxc1.ve2q542b.g00ruxc1.ve2q638b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwasai%2Fmk301%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwasai%2Fi%2F10000090%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
+WASAI MK301YL 懸垂マシン 懸垂器具 ぶら下がり健康器
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -67,14 +59,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00sc6q1.ve2q582b.g00sc6q1.ve2q647c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarketjapan%2Fbw-bls05%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarketjapan%2Fi%2F10001338%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E2%2596%25A09%252011%25E8%25BF%2584%2520%25E6%259C%2580%25E5%25A4%25A7600%25E5%2586%2586OFF%25E2%2596%25A0%2520%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 安定したフォームを支える設計思想の深掘り
 
@@ -160,7 +150,7 @@ WASAI MK301YLは、自宅で本格的なトレーニング環境を構築した�
 
 僕自身、このマシンを導入して以来、自宅でのトレーニングが格段に充実しました。もうジムへ行くための億劫な準備も、移動時間も必要ありません。あなたのトレーニング目標達成のために、WASAI MK301YLは間違いなく価値のある選択肢となるでしょう。
 
-[WASAI MK301YL 懸垂マシン 懸垂器具 ぶら下がり健康器](https://hb.afl.rakuten.co.jp/hgc/g00ruxc1.ve2q542b.g00ruxc1.ve2q638b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwasai%2Fmk301%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwasai%2Fi%2F10000090%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+WASAI MK301YL 懸垂マシン 懸垂器具 ぶら下がり健康器
 
 ### よくある質問
 

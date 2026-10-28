@@ -30,7 +30,6 @@ sidebarProducts:
 
 MYPROTEIN BCAA 分岐鎖アミノ酸は、その理想的な配合比率と優れたコストパフォーマンスで、宅トレの質を一段階引き上げてくれるでしょう。僕自身も長年愛用し、その効果を実感しています。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -53,14 +52,12 @@ MYPROTEIN BCAA 分岐鎖アミノ酸は、その理想的な配合比率と優�
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00stxr1.ve2q5da5.g00stxr1.ve2q63c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fact-online%2Fmp-wp-006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fact-online%2Fi%2F10000174%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259E%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25202%25201%25201%2520BCAA%2520250g" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 身体の仕組みと使いやすさの秘密から読み解くBCAAの役割と黄金比2:1:1の科学
 
@@ -139,7 +136,7 @@ MYPROTEIN BCAAの評判は、SNSや各種レビューサイトでも非常に高
 
 ## プロテインやEAAとの比較：賢いサプリメント戦略
 
-宅トレを始めたばかりの方にとって、BCAA、[プロテイン](/blog/explosion-wpc-protein-3kg-cafe-au-lait/)、EAAといったサプリメントの種類は複雑に感じられるかもしれません。それぞれの役割を理解し、自身のトレーニング目的と生活習慣に合わせて賢く使い分けることが、効率的なボディメイクへの近道です。
+宅トレを始めたばかりの方にとって、BCAA、プロテイン、EAAといったサプリメントの種類は複雑に感じられるかもしれません。それぞれの役割を理解し、自身のトレーニング目的と生活習慣に合わせて賢く使い分けることが、効率的なボディメイクへの近道です。
 
 まず、**プロテイン**は、タンパク質を構成するアミノ酸を網羅的に摂取できる「総合的な栄養補給」の位置づけです。筋肉の材料となるアミノ酸を広くカバーしているため、普段の食事でタンパク質が不足しがちな方や、トレーニング後の筋肉修復・成長のベースを作るために非常に重要です。
 

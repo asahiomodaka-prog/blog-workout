@@ -36,10 +36,9 @@ sidebarProducts:
 
 宅トレを続ける中で、多くの人が直面するのが「栄養の偏り」と「疲労からの停滞」です。毎日の食事で必要なビタミン、ミネラル、アミノ酸すべてを完璧に摂取するのは至難の業でしょう。しかし、そんな悩みを解決し、宅トレの効果を最大限に引き出す合理的な選択肢があります。
 
-それが、アサヒグループ食品の「[ディアナチュラ 49種アミノ](https://hb.afl.rakuten.co.jp/hgc/g00ugyn1.ve2q5bfb.g00ugyn1.ve2q689c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4946842639823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10016166%2F&rafcid=wsc_i_is_732732a1-5b08-44e4-a7a6-bdd68daad98b)」です。このサプリメントは、18種類のアミノ酸、12種類のビタミン、9種類のミネラル、そして10種類の乳酸菌をたった4粒で補給できる優れもの。
+それが、アサヒグループ食品の「ディアナチュラ 49種アミノ」です。このサプリメントは、18種類のアミノ酸、12種類のビタミン、9種類のミネラル、そして10種類の乳酸菌をたった4粒で補給できる優れもの。
 
 忙しい僕たち宅トレ愛好家にとって、日々のコンディションを整え、トレーニング効果を高める強力な味方になってくれます。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,14 +62,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00ugyn1.ve2q5bfb.g00ugyn1.ve2q689c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4946842639823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10016166%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25A2%25E3%2583%258A%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25A9%252049%25E7%25A8%25AE%25E3%2582%25A2%25E3%2583%259F%25E3%2583%258E%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%2593%25E3%2582%25BF%25E3%2583%259F%25E3%2583%25B3%25EF%25BC%2586%25E3%2583%259F%25E3%2583%258D%25E3%2583%25A9%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 宅トレの成果を底上げする「49種」のメカニズム
 
@@ -131,11 +128,11 @@ sidebarProducts:
 特に僕がおすすめしたいのは、以下のような方々です。
 *   **宅トレ初心者で、何から始めればいいか迷っている方。
 
-** [プロテイン](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3)よりも手軽に始められ、包括的な栄養補給が可能です。
+** プロテインよりも手軽に始められ、包括的な栄養補給が可能です。
 *   **食事管理が難しい、または食生活が偏りがちな方。
 
 ** 外食が多い、自炊する時間がない、といった状況でも、不足しがちなビタミンやミネラル、アミノ酸を補うことができます。
-*   **運動効果を最大限に引き出したいが、[プロテイン](/blog/explosion-wpc-protein-3kg-cafe-au-lait/)は重いと感じる方。
+*   **運動効果を最大限に引き出したいが、プロテインは重いと感じる方。
 
 ** 粒タイプなので、トレーニング前後の胃腸への負担が少なく、手軽に栄養サポートを受けられます。
 *   **疲労回復や日々のコンディション維持を重視する方。
@@ -162,7 +159,7 @@ sidebarProducts:
 
 自宅でのトレーニングは、ジムに通うよりも手軽で続けやすい反面、栄養面がおろそかになりがちです。しかし、トレーニングの成果は、負荷やフォームだけでなく、適切な栄養補給によって大きく左右されます。
 
-[ディアナチュラ 49種アミノ](https://hb.afl.rakuten.co.jp/hgc/g00ugyn1.ve2q5bfb.g00ugyn1.ve2q689c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4946842639823%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10016166%2F&rafcid=wsc_i_is_732732a1-5b08-44e4-a7a6-bdd68daad98b)は、食事だけではカバーしきれない微量栄養素やアミノ酸を、手軽かつ経済的に補給できる賢い選択肢です。忙しい日々の中で、体調を崩しにくく、トレーニングのパフォーマンスを維持したいと考える僕のような宅トレ愛好家にとって、これは合理的な「栄養投資」と言えます。
+ディアナチュラ 49種アミノは、食事だけではカバーしきれない微量栄養素やアミノ酸を、手軽かつ経済的に補給できる賢い選択肢です。忙しい日々の中で、体調を崩しにくく、トレーニングのパフォーマンスを維持したいと考える僕のような宅トレ愛好家にとって、これは合理的な「栄養投資」と言えます。
 
 日々の積み重ねが、理想のボディメイクへとつながります。このサプリメントが、あなたの宅トレライフをさらに充実させる一助となれば幸いです。
 

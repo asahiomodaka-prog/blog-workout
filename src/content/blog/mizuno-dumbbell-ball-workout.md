@@ -40,10 +40,9 @@ sidebarProducts:
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 宅トレを始めたいけれど、どんな器具を選べばいいか迷っていませんか？　
-特に、自宅のスペースや近所への騒音、そして何より「怪我なく効果的に続けられるか」という不安は、多くの方が最初に感じるハードルではないでしょうか。そんな悩みを抱えるあなたに、今回私が実際に使ってみて「これは自宅トレーニングの強い味方になる」と感じたのが、ミズノ [ダンベル](/blog/dumbbell-barbell-plate-15kg/)ボールです。
+特に、自宅のスペースや近所への騒音、そして何より「怪我なく効果的に続けられるか」という不安は、多くの方が最初に感じるハードルではないでしょうか。そんな悩みを抱えるあなたに、今回私が実際に使ってみて「これは自宅トレーニングの強い味方になる」と感じたのが、ミズノ ダンベルボールです。
 
 このダンベルボールは、自宅で安全かつ効率的に全身を鍛えたい初心者の方にとって、まさに理想的なファーストステップとなるトレーニングギアと言えるでしょう。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -67,14 +66,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00s5hs1.ve2q5eb6.g00s5hs1.ve2q60c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmizunoshop%2Fc3jhi90449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmizunoshop%2Fi%2F10124368%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259F%25E3%2582%25BA%25E3%2583%258E%25E5%2585%25AC%25E5%25BC%258F%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%2520%25E3%2583%259C%25E3%2583%25AB%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2581%25202%25E5%2580%258B%25E5%2585%25A5%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 丸い形状が導く、身体に優しい全身運動の仕組みと使いやすさの秘密
 

@@ -55,7 +55,6 @@ sidebarProducts:
 
 ---
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -78,14 +77,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000025%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D10%252014%252020%252000%2520P10%25E5%2580%258D%2520%25E8%25A6%2581%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 1. 宅トレの成果を決定づける可変ベンチの解剖学的メリット
 
@@ -126,8 +123,6 @@ LE-B80シリーズはこの課題を解決するため、背もたれ中央付�
 | **特殊機能** | 3点支持フレーム、ワンタッチ折りたたみ収納、キャスター付き |
 | **おすすめ対象** | 本格的に高重量ダンベルを扱い、使わない時は部屋を広く使いたい方 |
 
-👉 [楽天市場で『LEADING EDGE LE-B80シリーズ』の最安値をチェックする](https://hb.afl.rakuten.co.jp/hgc/g00poaw1.ve2q565e.g00poaw1.ve2q6fea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesportskenko%2F9651513090034%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesportskenko%2Fi%2F10733973%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ---
 
 ## 3. IROTEC マルチポジションベンチ：全身を鍛え上げるアタッチメント拡張性
@@ -149,8 +144,6 @@ IROTECの最大の特徴は、単なるダンベル用ベンチにとどまら�
 | **機能性** | フラット、インクライン、デクライン、レッグカール、アームカール |
 | **付属パーツ** | レッグアタッチメント、プリーチャーカールパッド |
 | **おすすめ対象** | 部屋の固定スペースをホームジム化し、脚や腕までマシン種目で追い込みたい方 |
-
-👉 [楽天市場で『IROTEC マルチポジションベンチ』をチェックする](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000025%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ---
 

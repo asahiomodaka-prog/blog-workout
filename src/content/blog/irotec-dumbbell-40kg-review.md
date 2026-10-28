@@ -37,10 +37,9 @@ sidebarProducts:
 「宅トレを続けているけど、なかなか次のステップに進めない」と感じていませんか？ ジムに通う時間や費用を考えると、自宅での筋力アップは難しいと思われがちです。
 
 僕も以前は同じ悩みを抱えていました。
-しかし、IROTEC（アイロテック）の[ラバー ダンベル 40KGセット](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) 40KGラバーダンベルセットを導入してからは、自宅トレーニングの質が劇的に向上しました。
+しかし、IROTEC（アイロテック）のラバー ダンベル 40KGセット 40KGラバーダンベルセットを導入してからは、自宅トレーニングの質が劇的に向上しました。
 
 このダンベルは、費用対効果の高さと実用性、そして長期的なメンテナンス性において、宅トレ愛好家にとって最適な選択肢の一つだと断言できます。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -64,14 +63,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00ssrh1.ve2q5ddb.g00ssrh1.ve2q6784/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flysin%2Fflexbell20i-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flysin%2Fi%2F10000230%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%2520%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2595%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2599%25E3%2583%25AB%25202kg%25E5%2588%25BB%25E3%2581%25BF%252020kg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 宅トレの質を高める設計思想
 
@@ -89,7 +86,7 @@ sidebarProducts:
 
 ## 自宅トレーニングを最適化する使用感とコスト
 
-僕がこの[IROTEC (アイロテック) ラバー ダンベル 40KGセット](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)を導入して感じたのは、何よりもそのコストパフォーマンスの高さです。ジムに通う場合、月額1万円とすれば年間12万円、それに移動時間も加算されます。
+僕がこのIROTEC (アイロテック) ラバー ダンベル 40KGセットを導入して感じたのは、何よりもそのコストパフォーマンスの高さです。ジムに通う場合、月額1万円とすれば年間12万円、それに移動時間も加算されます。
 
 仮に片道15分とすると、往復で30分。週3回通えば年間78時間もの時間をジムへの移動に費やす計算です。
 
@@ -119,7 +116,7 @@ sidebarProducts:
 
 ## デメリットと賢い割り切り
 
-どんなトレーニング器具にも、メリットとデメリットは存在します。[IROTEC (アイロテック) ラバー ダンベル 40KGセット](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のデメリットとして、まずはプレート交換の手間が挙げられます。
+どんなトレーニング器具にも、メリットとデメリットは存在します。IROTEC (アイロテック) ラバー ダンベル 40KGセットのデメリットとして、まずはプレート交換の手間が挙げられます。
 
 スクリュウ式のため、クイック調整式の可変式ダンベルと比較すると、重量変更に時間がかかります。複数の種目を短いインターバルでこなしたい場合、少しもどかしさを感じるかもしれません。
 
@@ -133,7 +130,7 @@ sidebarProducts:
 
 ## 自宅で健康と理想の体を育む実践的な投資
 
-IROTECの[ラバー ダンベル 40KGセット](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000015%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) 40KGラバーダンベルセットは、自宅でのトレーニング環境を大幅に改善してくれる優れた投資です。ジムに通う費用や時間を節約しながら、本格的な筋力トレーニングを実現できます。
+IROTECのラバー ダンベル 40KGセット 40KGラバーダンベルセットは、自宅でのトレーニング環境を大幅に改善してくれる優れた投資です。ジムに通う費用や時間を節約しながら、本格的な筋力トレーニングを実現できます。
 
 特に、自宅で継続的にトレーニングしたい人、コストパフォーマンスを重視する人、そしてマンションなど集合住宅で音や床への配慮が必要な人には最適です。このダンベルは、あなたの宅トレ生活に新たな刺激と成長をもたらしてくれるでしょう。
 

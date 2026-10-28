@@ -42,7 +42,6 @@ sidebarProducts:
 
 今回は、宅トレに導入しやすいアンクルウェイトの中から、価格と機能性のバランスに優れた「和み植物園」のモデルと、信頼のブランド「アディダス プロアバンセ」のモデルを徹底比較します。それぞれの設計思想や身体への作用メカニズムに踏み込み、あなたの宅トレに最適な一つを選ぶためのヒントをお届けします。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -65,14 +64,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00rsad1.ve2q5069.g00rsad1.ve2q6ffa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvitaliser%2Fadidas-9848%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvitaliser%2Fi%2F10159037%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D1%25200kgx2%2520%25E3%2582%25A2%25E3%2583%2587%25E3%2582%25A3%25E3%2583%2580%25E3%2582%25B9%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25B3%25E3%2582%25BB%2520%25E3%2583%25A1%25E3%2583%25B3%25E3%2582%25BA" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 和み植物園 アンクルウェイト：多様な負荷で緻密なボディメイクを
 
@@ -101,7 +98,7 @@ sidebarProducts:
 
 また、鉄砂が中に入っているので、装着時のフィット感が**比較的柔軟に形状に沿ってくれる**のも良い点です。激しい動きでも大きくズレることは少ないですが、強く締め付けすぎると、血行を妨げる可能性があるので注意が必要です。
 
-[和み植物園 アンクルウェイトはこちら](https://hb.afl.rakuten.co.jp/hgc/g00ut5w1.ve2q574d.g00ut5w1.ve2q6833/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnagomiplants%2Fna062773%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnagomiplants%2Fi%2F10002494%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+和み植物園 アンクルウェイトはこちら
 
 ## アディダス プロアバンセ アンクルウェイト：ブランドの信頼性と安定したフィット感
 
@@ -123,13 +120,13 @@ sidebarProducts:
 
 このウェイトを足首に巻いた時、まず驚いたのは**ベルクロの固定力の強さ**です。一般的なアンクルウェイトに比べて、しっかりと締め付けられる感覚があります。激しいランニングや縄跳びで使っても、**ウェイトがズレにくい**ため、運動に集中できるのは大きな利点です。
 
-1.0kgという重量は、ある程度の運動経験があり、**自重トレーニングに物足りなさを感じている方**に最適だと感じました。特に、[スクワット](/blog/squat-home-equipment-ranking/)やランジといった基本的な下半身運動にプラスするだけで、筋肉への刺激が格段に増します。
+1.0kgという重量は、ある程度の運動経験があり、**自重トレーニングに物足りなさを感じている方**に最適だと感じました。特に、スクワットやランジといった基本的な下半身運動にプラスするだけで、筋肉への刺激が格段に増します。
 
 **安定した負荷をかけ続けたい**、という要望に応えてくれる製品です。
 
 ただし、重量が1.0kgに固定されているため、**細かな負荷調整はできません**。トレーニングの段階に応じて重量を変化させたい場合は、複数のアンクルウェイトを揃えるか、別のモデルを検討する必要があるでしょう。
 
-[アディダス プロアバンセ アンクルウェイトはこちら](https://hb.afl.rakuten.co.jp/hgc/g00rsad1.ve2q5069.g00rsad1.ve2q6ffa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvitaliser%2Fadidas-9848%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvitaliser%2Fi%2F10159037%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+アディダス プロアバンセ アンクルウェイトはこちら
 
 ## 徹底比較：あなたの宅トレに最適なのはどっち？
 

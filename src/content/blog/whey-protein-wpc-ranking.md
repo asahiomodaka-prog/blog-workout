@@ -38,9 +38,9 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-自宅で効果的なトレーニングを積む上で、栄養戦略は欠かせません。特に筋肥大やリカバリーを考えるなら、質の良い[プロテイン](/blog/belegend-protein-ranking/)選びは超重要ですよね。
+自宅で効果的なトレーニングを積む上で、栄養戦略は欠かせません。特に筋肥大やリカバリーを考えるなら、質の良いプロテイン選びは超重要ですよね。
 
-今回は、数ある[プロテイン](/blog/fixit-protein-guide/)の中でも「**WPC（ホエイプロテインコンセントレート）**」に焦点を当て、僕が厳選したおすすめプロテインをランキング形式で紹介します。WPCはホエイプロテインの一種で、乳清をろ過して作られており、タンパク質含有率が70～80%程度です。
+今回は、数あるプロテインの中でも「**WPC（ホエイプロテインコンセントレート）**」に焦点を当て、僕が厳選したおすすめプロテインをランキング形式で紹介します。WPCはホエイプロテインの一種で、乳清をろ過して作られており、タンパク質含有率が70～80%程度です。
 
 WPI（ホエイプロテインアイソレート）に比べて乳糖や脂質、炭水化物がやや多く残りますが、その分**製造コストが抑えられていてコスパが良い**のが大きな魅力です。
 
@@ -56,13 +56,12 @@ WPI（ホエイプロテインアイソレート）に比べて乳糖や脂質�
 
 | 順位 | 商品名 | 容量 | 1食あたりタンパク質量 (30g換算) | 1食あたり価格 (概算) | フレーバー数 | 主な特徴 | おすすめな人 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 第1位 | [エクスプロージョン](/blog/explosion-wpc-protein-3kg-cafe-au-lait/) 3kg | 3kg | 21.0g | 約138円 | 1種 | 圧倒的コスパ、大容量、アミノ酸スコア100 | **毎日大量にプロテインを消費する人**、味に飽きない自信がある人 |
+| 第1位 | エクスプロージョン 3kg | 3kg | 21.0g | 約138円 | 1種 | 圧倒的コスパ、大容量、アミノ酸スコア100 | **毎日大量にプロテインを消費する人**、味に飽きない自信がある人 |
 | 第2位 | VALX ホエイプロテイン WPC 2kg | 2kg | 21.8g | 約232円 | 8種 | フレーバー豊富、国内生産、溶けやすさも考慮 | **味のバリエーションを楽しみたい人**、品質重視の人 |
 | 第3位 | VALX ホエイプロテイン WPC 1kg | 1kg | 21.8g | 約240円 | 8種 | 少量から始めやすい1kg、フレーバー豊富 | **初めてのプロテインで好みの味を見つけたい人**、2kgは多いと感じる人 |
 | 第4位 | VALX ホエイプロテイン WPC 420g | 420g | 21.8g | 約286円 | 6種 | お試しサイズ、少量を気軽に試せる | **プロテイン初心者**、VALXの味を試してみたい人 |
 
 ---
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -86,14 +85,12 @@ WPI（ホエイプロテインアイソレート）に比べて乳糖や脂質�
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000023%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%2520WPC%2520%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%25203kg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 第1位：エクスプロージョン WPC 3kg ミルクチョコレート味
 
@@ -102,8 +99,6 @@ WPI（ホエイプロテインアイソレート）に比べて乳糖や脂質�
 | 価格 | 13,790円 |
 | 販売ショップ | X-PLOSION 公式オンラインショップ |
 | レビュー評価 | 4.44 (2425件) |
-
-👉 [プロテイン WPC エクスプロージョン 3kg ミルクチョコレート味 ホエイプロテイン 3キロ 最安値 大容量 筋肉 タンパク質 高たんぱく 運動 ダイエット 置き換え 男性 女性 子供 こども の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000023%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ### 圧倒的なコスパが最大の魅力！毎日の習慣に最適
 

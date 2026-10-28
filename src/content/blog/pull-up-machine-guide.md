@@ -45,7 +45,6 @@ sidebarProducts:
 
 自宅の限られたスペースでも、効果的に背中を鍛え、理想の逆三角形ボディを目指しましょう。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -68,14 +67,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00s5hn1.ve2q5047.g00s5hn1.ve2q6e5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice-zk%2Fde025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falice-zk%2Fi%2F10002814%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E2%2598%258510%252015%25E9%2599%2590%25E5%25AE%259A%2520%25E2%2598%2585%2520%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8%2520%25E3%2581%25B6%25E3%2582%2589%25E3%2581%2595%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## チンニングマシン選びで陥る「よくある落とし穴」とは？
 
@@ -125,7 +122,7 @@ sidebarProducts:
 
 自宅でのトレーニングでは、使用する人の身長や、チンニング以外の種目もこなせるかどうかが重要です。
 
-チンニングバーの「**高さ調整機能**」は必須です。身長が高い人でも足を伸ばしてぶら下がれる十分な高さを確保できるか、また低い位置に設定して[ディップス](/blog/dipping-belt-weighted-workout-guide/)やプッシュアップ台として使えるかを確認しましょう。
+チンニングバーの「**高さ調整機能**」は必須です。身長が高い人でも足を伸ばしてぶら下がれる十分な高さを確保できるか、また低い位置に設定してディップスやプッシュアップ台として使えるかを確認しましょう。
 
 多くのモデルでは、**160cm〜200cm**程度の範囲で調整可能です。バーが高い位置にあるほど、腕を完全に伸ばしきった状態（フルレンジ）から広背筋を最大伸展させ、より効果的にトレーニングできます。
 
@@ -149,7 +146,7 @@ sidebarProducts:
 
 あくまで補助的な使い方や、一時的な利用に向いています。
 
-**自立型**は、床に置いて使う一般的なチンニングマシンです。[LEADING](/blog/leading-edge-adjustable-dumbbell/) EDGEや雑貨の国のアリスのモデルがこれにあたります。
+**自立型**は、床に置いて使う一般的なチンニングマシンです。LEADING EDGEや雑貨の国のアリスのモデルがこれにあたります。
 
 安定性が高く多機能なモデルが多いですが、その分**設置スペースが必要**です。特に幅**90cm**、奥行き**80cm**程度のスペースは確保しておきましょう。
 
@@ -183,11 +180,11 @@ sidebarProducts:
 
 ただし、ドア枠の材質や強度によっては取り付けできない場合があるので、事前に自宅のドア枠を確認してください。あくまでドア枠のみに取り付け可能で、壁や天井には使えません。ディップスなどの多機能性はありませんが、**純粋にチンニングを試す入門機**としては最適です。
 
-[GronG 懸垂バーで手軽にチンニングを始める](https://hb.afl.rakuten.co.jp/hgc/g00toka1.ve2q55b3.g00toka1.ve2q619f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-777%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000832%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+GronG 懸垂バーで手軽にチンニングを始める
 
 ### 2. 多機能で省スペースを求めるならこれ！
 
-チンニングだけでなく、ディップスやレッグレイズもしたいけど、あまり場所を取りたくないという方には、[コンパクト](/blog/compact-dumbbell-set-guide/)な自立型マシンが良いでしょう。
+チンニングだけでなく、ディップスやレッグレイズもしたいけど、あまり場所を取りたくないという方には、コンパクトな自立型マシンが良いでしょう。
 
 #### **ぶら下がり健康器 ぶらさがり健康器**
 
@@ -203,7 +200,7 @@ sidebarProducts:
 
 高さ調整は**約148cm〜202cm**まで対応しているので、身長に合わせてチンニングバーの高さを調整できます。本格的なトレーニングだけでなく、ぶら下がりによるストレッチ目的にも使えますね。初期費用を抑えつつ、複数のトレーニングを自宅で行いたい初心者におすすめです。
 
-[ぶら下がり健康器で多機能宅トレを始める](https://hb.afl.rakuten.co.jp/hgc/g00s5hn1.ve2q5047.g00s5hn1.ve2q6e5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falice-zk%2Fde025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falice-zk%2Fi%2F10002814%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+ぶら下がり健康器で多機能宅トレを始める
 
 ### 3. 安定性と多機能性をバランス良く求めるならこれ！
 
@@ -227,7 +224,7 @@ LEADING EDGEのチンニングスタンドは、**意匠登録済みの多機能
 
 僕も買い替えを検討した際に、このモデルの安定性と多機能性に惹かれましたね。
 
-[LEADING EDGE チンニングスタンドで本格自重トレ](https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2Fi%2F11566471%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11566471%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+LEADING EDGE チンニングスタンドで本格自重トレ
 
 ### 4. 自宅に本格的なホームジムを作るならこれ！
 
@@ -251,7 +248,7 @@ BoDYLINKのケーブルクロスマシンは、もはやチンニングマシン
 
 設置場所の耐荷重や搬入経路の確認、そして**高額な初期投資**は割り切りが必要です。でも、これを導入すれば、自宅から最強の体を作り上げられますよ。
 
-[BoDYLINK ケーブルクロスマシンで自宅に最強ホームジムを](https://hb.afl.rakuten.co.jp/hgc/g00uafd1.ve2q5546.g00uafd1.ve2q6f49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbody-link-irotecpro%2Fmb-cxm-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbody-link-irotecpro%2Fi%2F10000079%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+BoDYLINK ケーブルクロスマシンで自宅に最強ホームジムを
 
 ## チンニング効果を最大化する「初期の工夫」と「継続のコツ」
 

@@ -28,7 +28,6 @@ sidebarProducts:
 
 こうした悩みを抱える方にとって、自宅に本格的なトレーニング環境を構築するハーフラックは、高重量バーベルトレーニングを安全かつ効率的に行い、自宅で本格的な筋力アップを目指すための最適なソリューションです。これは、単なるトレーニング器具ではなく、長期的な視点で見れば非常に費用対効果の高い「自己投資」と言えるでしょう。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -51,14 +50,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%BC%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%81%A7%E5%AE%85%E3%83%88%E3%83%AC%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%258F%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A7%25E5%25AE%2585%25E3%2583%2588%25E3%2583%25AC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 高負荷を支える構造と安全設計：身体の仕組みと使いやすさの秘密に寄り添う機能性
 
@@ -142,7 +139,7 @@ sidebarProducts:
 
 ハーフラックのスペックや構造を客観的に精査すると、実用性の高さが明確になります。特に注目すべきポイントとして挙げられるのが「高重量トレーニングにおける圧倒的な安心感」です。
 
-・以前は[ダンベル](/blog/dumbbell-barbell-plate-15kg/)での宅トレに限界を感じていましたが、ハーフラックを導入してからはスクワットやベンチプレスでガンガン追い込めるようになりました。セーフティバーがあるおかげで、安心して限界まで挑戦できるのが大きなアドバンテージとなります。
+・以前はダンベルでの宅トレに限界を感じていましたが、ハーフラックを導入してからはスクワットやベンチプレスでガンガン追い込めるようになりました。セーフティバーがあるおかげで、安心して限界まで挑戦できるのが大きなアドバンテージとなります。
 
 ・ジムに通う時間と費用がもったいなくて悩んでいました。最初は初期費用に抵抗がありましたが、今では自分の好きな時間にトレーニングできる喜びを噛み締めています。雨の日でも雪の日でも関係なくトレーニングできるのは非常に優れたメリットと言えます。
 

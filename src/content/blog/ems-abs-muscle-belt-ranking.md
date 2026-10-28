@@ -58,7 +58,6 @@ sidebarProducts:
 
 ---
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -81,14 +80,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tske1.ve2q5bce.g00tske1.ve2q691b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frise0828%2Fb1k10fjhu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frise0828%2Fi%2F10000056%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DEMS%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%2599%25E3%2583%25AB%25E3%2583%2588%2520%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%2588%25E4%25B8%258D%25E8%25A6%2581%2520%25E8%2585%25B9%25E7%25AD%258B%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 1位: 温熱と光エステで深層部までアプローチ！ Kiboer EMS 腹筋ベルト 温熱ケア
 
@@ -127,8 +124,6 @@ KiboerのEMS腹筋ベルトは、機能が豊富な分、他の製品と比べ�
 | 価格 | 11,800円 |
 | 販売ショップ | ユウカショップ |
 | レビュー評価 | 4.55 (98件) |
-
-👉 [【25%OFFクーポン】EMS 腹筋ベルト 温熱ケア ジェル/水不要 EMSベルト 腹筋パッド 筋トレ 筋肉刺激 ems 腹筋ベルト マシン 腹筋トレ お腹 二の腕 太もも 中周波EMS 6モード 16段階強度 5段階温度調節 男女兼用 type-c充電 オートオフ ギフト Kiboer の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00u8uo1.ve2q560a.g00u8uo1.ve2q6023/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyukashop%2Fi%2F10000039%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyukashop%2Fi%2F10000039%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad99b)
 
 ---
 
@@ -171,8 +166,6 @@ RELXのリラクスは、電極パッドを濡れた布で拭く、または肌�
 | レビュー評価 | 4.32 (1140件) |
 | is_hobby | True |
 
-👉 [EMSベルト 【楽天1位獲得】 RELX リラクス 腹筋ベルト ジェルシート不要 ジェル不要 usb充電 腹筋 マシン ems 腹筋ベルト マシーン 腹筋マシーン ベルト ぽっこりお腹 お腹 ダイエット トレーニング グッズ 男性 女性 人気 おすすめ の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00stve1.ve2q50b4.g00stve1.ve2q62e9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexcitech%2Femsbelt-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fexcitech%2Fi%2F10000146%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad99b)
-
 ---
 
 ## 3位: 液晶表示で使いやすさ向上！ EMS 腹筋ベルト (K11P)
@@ -213,8 +206,6 @@ K11Pは、温熱や光エステといった付加機能は持ちませんが、*
 | 販売ショップ | YIHAI生活館 |
 | レビュー評価 | 4.32 (1034件) |
 
-👉 [【クーポンで3230円】【楽天1位＆ジェルシート不要】 EMS 腹筋ベルト ジェルシート不要 腹筋トレーニング 腹筋 エクササイズ ems パッド 腹筋 マシン 腹筋トレ お腹 二の腕 太もも ダイエット器具 多部位対応 液晶表示 充電式 男女兼用 新生活 ギフト プレゼント の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00tske1.ve2q5bce.g00tske1.ve2q691b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frise0828%2Fb1k10fjhu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frise0828%2Fi%2F10000056%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd69daad99b)
-
 ---
 
 ## 4位: 自由な装着感が魅力！MYTREX エンジェル
@@ -248,8 +239,6 @@ MYTREXは美容・健康機器の分野で知名度のあるブランドであ�
 | 価格 | 12,980円 |
 | 販売ショップ | MYTREX 公式ストア 楽天市場店 |
 | レビュー評価 | 4.32 (1909件) |
-
-👉 [貼るだけエクササイズ【MYTREX公式】楽天1位! エンジェル お腹引き締め 貼る EMS 腹筋ベルト エクササイズ マシーン パッド 腹筋 骨盤 二の腕 太もも 足 ヒップ 振動マシン 健康器具 ブルブル ダイエット プレゼント 実用的 ギフト の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00ssj21.ve2q5898.g00ssj21.ve2q60bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleapgrow%2Fmt-aems-1812%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleapgrow%2Fi%2F10000314%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd69daad99b)
 
 ---
 

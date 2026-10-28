@@ -1,0 +1,3 @@
+# Cloudflare Pages の既定ドメイン(*.pages.dev)を検索エンジンのインデックス対象から外し、独自ドメインへ評価を一本化する
+https://blog-workout.pages.dev/*
+  X-Robots-Tag: noindex

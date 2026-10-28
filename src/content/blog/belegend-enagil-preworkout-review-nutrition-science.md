@@ -26,10 +26,9 @@ sidebarProducts:
 
 トレーニングの停滞期に悩むことはありませんか。もう一歩踏み込みたいのに、身体がついてこないと感じることもあるでしょう。そんな時、パフォーマンスをサポートしてくれるのがプレワークアウトサプリメントです。
 
-今回ご紹介する[ビーレジェンド エナギル プレワークアウト](https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblwo03as1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10002443%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、国内サプリメントで解禁されたベータアラニンを含む、厳選された成分を配合しています。トレーニング中の活力を高め、「もう1レップ」の粘りを引き出す設計です。
+今回ご紹介するビーレジェンド エナギル プレワークアウトは、国内サプリメントで解禁されたベータアラニンを含む、厳選された成分を配合しています。トレーニング中の活力を高め、「もう1レップ」の粘りを引き出す設計です。
 
 身体のメカニズムを理解し、効率的な宅トレを目指すトレーニーにぜひ試してほしい一品です。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -53,14 +52,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblwo03as1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10002443%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2593%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25A8%25E3%2583%258A%25E3%2582%25AE%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 宅トレの質を高める成分の運動生理学的アプローチ
 
@@ -80,11 +77,11 @@ sidebarProducts:
 
 ## 飲みやすさとコスパで選ぶ、継続可能なプレワークアウト
 
-プレワークアウトサプリメントは、継続して摂取することが重要です。その点で、[ビーレジェンド エナギル プレワークアウト](https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblwo03as1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10002443%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd63aad98b)は非常に優れていると感じます。
+プレワークアウトサプリメントは、継続して摂取することが重要です。その点で、ビーレジェンド エナギル プレワークアウトは非常に優れていると感じます。
 
 まず「元気ドリンク風味」というフレーバーは、スッキリとしていて飲みやすいのが特徴です。トレーニング前の集中したいタイミングで、口の中に甘ったるさが残らないのは嬉しいポイントでした。
 
-粉溶けも良く、[シェイカー](https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%25AB%25E3%2583%25BC)で軽く混ぜるだけでダマになることはほとんどありません。泡立ちも控えめで、すぐに飲めるため、トレーニング前の準備がスムーズに進みます。
+粉溶けも良く、シェイカーで軽く混ぜるだけでダマになることはほとんどありません。泡立ちも控えめで、すぐに飲めるため、トレーニング前の準備がスムーズに進みます。
 
 ストレスなく摂取できる点は、日々の宅トレ継続において非常に大切です。
 
@@ -109,7 +106,7 @@ sidebarProducts:
 | 項目 | 詳細 |
 | --- | --- |
 | 価格 | 3,980円 |
-| 販売ショップ | ビーレジェンド [プロテイン](https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3) -公式- |
+| 販売ショップ | ビーレジェンド プロテイン -公式- |
 | レビュー評価 | 4.5 (20件) |
 
 ## 知っておきたい注意点：効果と身体との向き合い方
@@ -140,7 +137,7 @@ sidebarProducts:
 
 「もう1レップ」の粘りが、着実にあなたの身体を進化させます。理想のボディメイクを目指すなら、このプレワークアウトをトレーニングルーティンに加えてみる価値は大いにあります。
 
-[ビーレジェンド エナギル プレワークアウト](https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblwo03as1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10002443%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+ビーレジェンド エナギル プレワークアウト
 
 ### よくある質問
 

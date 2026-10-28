@@ -42,7 +42,6 @@ sidebarProducts:
 
 この記事では、プッシュアップバーを初めて使う方でも失敗しない選び方と、僕が実際に使ってみて感じた「ここだけは外せない」ポイントを詳しく解説します。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -65,14 +64,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tpal1.ve2q5e45.g00tpal1.ve2q66ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftcconlineshop%2Fatyc_012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftcconlineshop%2Fi%2F10000013%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25EF%25BC%25BC%25E6%25A5%25BD%25E5%25A4%25A9" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 腕立て伏せ、僕らがプッシュアップバーを使うべき科学的理由
 
@@ -224,7 +221,7 @@ plantobizは8年以上にわたりプッシュアップバーを販売し、改�
 
 トレーニング効果を最大限に引き出すためには、**適切な栄養摂取**が不可欠です。特に、筋合成の材料となるタンパク質は意識して摂るべき栄養素です。
 
-トレーニング後に**[ホエイプロテイン](/blog/whey-protein-wpc-ranking/)**を摂取することで、効率的な体づくりをサポートできます。
+トレーニング後に**ホエイプロテイン**を摂取することで、効率的な体づくりをサポートできます。
 
 宅トレを「継続」するためにも、怪我なく、最大限の効果を得られるように、これらのポイントをぜひ実践してください。
 

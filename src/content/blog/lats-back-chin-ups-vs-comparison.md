@@ -42,7 +42,6 @@ sidebarProducts:
 
 今回ご紹介するのは、そんな宅トレ愛好家におすすめのラットプルダウン用ストレートバーです。一見同じように見える商品が複数のショップで販売されていますが、単なる価格比較だけでは見えない選び方のポイントと、**ストレートバーが広背筋に与える圧倒的なメリット**を、科学的視点から深掘りしていきます。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -65,14 +64,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00uxt01.ve2q5247.g00uxt01.ve2q64d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseadiary%2Fsea-20260829-2614%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseadiary%2Fi%2F10003892%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2597%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%2520116cm%2520%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2590%25E3%2583%25BC%2520%25E7%25AD%258B%25E3%2583%2588%25E3%2583%25AC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## チンニングだけじゃ物足りない、広背筋への深い刺激とは？
 
@@ -86,14 +83,14 @@ sidebarProducts:
 
 このラットプルダウンバーは、ホームジムでの背中トレーニングを格段に向上させるアタッチメントです。全長116cmのストレート形状が特徴で、**広背筋を最大伸展から完全収縮までしっかり動かせます。**
 
-頑丈な鋼鉄製で、重量は4.2kg。高重量でのトレーニングにも安心して使えます。グリップ部分には**ローレット加工**が施されており、汗をかいても滑りにくく、[狙った筋肉](/blog/proiron-power-grip/)への集中を妨げません。
+頑丈な鋼鉄製で、重量は4.2kg。高重量でのトレーニングにも安心して使えます。グリップ部分には**ローレット加工**が施されており、汗をかいても滑りにくく、狙った筋肉への集中を妨げません。
 
 | 項目 | 詳細 |
 | :--- | :--- |
 | 価格 | 10,880円 |
 | 販売ショップ | miha雑貨 |
 
-[miha雑貨で購入する](https://hb.afl.rakuten.co.jp/hgc/g00umkx1.ve2q5ed3.g00umkx1.ve2q6abd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiha-zacca%2Fz2067325e095%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiha-zacca%2Fi%2F10058574%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+miha雑貨で購入する
 
 ### ラットプルダウンバー 116cm ストレートバー（Seadiary 楽天市場店）
 
@@ -106,7 +103,7 @@ sidebarProducts:
 | 価格 | 10,880円 |
 | 販売ショップ | Seadiary 楽天市場店 |
 
-[Seadiary 楽天市場店で購入する](https://hb.afl.rakuten.co.jp/hgc/g00uxt01.ve2q5247.g00uxt01.ve2q64d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseadiary%2Fsea-20260829-2614%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseadiary%2Fi%2F10003892%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+Seadiary 楽天市場店で購入する
 
 ## 一見同じ商品、どこで選ぶ？宅トレ環境に合わせた比較ポイント
 
@@ -136,7 +133,7 @@ sidebarProducts:
 
 初めてこのタイプのストレートバーを導入した際、まず驚いたのは**ローレット加工のグリップ感**でした。手のひらにしっかり食い込み、**高重量でも滑る不安が少ない**のは大きなメリットです。
 
-素手で引くとマメができやすいので、僕は[トレーニンググローブ](/blog/training-gloves-non-slip-ranking/)を併用しています。
+素手で引くとマメができやすいので、僕はトレーニンググローブを併用しています。
 
 少し戸惑ったのは、ケーブルマシンへの取り付けと取り外しの手間です。他のアタッチメントと付け替える際、この4.2kgのバーを毎回持ち上げるのは地味に重い。なので、**使用頻度が高いアタッチメントは、クイックリリースピンで接続**するなど、ちょっとした工夫をしました。
 
@@ -156,7 +153,7 @@ sidebarProducts:
 *   **単体での使用を考えている人**: このバーはケーブルマシンなどの牽引装置に接続して使うアタッチメントです。**単体ではトレーニングできません**。
 *   **手首や肘に負担を感じやすい人**: ストレートバーはグリップの自由度が低い分、手首や肘に特定の負荷がかかりやすいことがあります。**角度を変えられるアタッチメントの方が適している場合もあります**。
 *   **設置スペースが限られている人**: 全長116cmは一般的なラットプルダウンバーとしては標準的ですが、狭いスペースでは取り回しに苦労するかもしれません。使用していない時の**保管場所も考慮が必要**です。
-*   **多様な刺激を求める人**: 広背筋の様々な角度から刺激を入れるには、**Vバーやロープ、[EZバー](/blog/ez-bar-plate-set-vs-comparison/)など、他のアタッチメントも揃える**のが理想です。
+*   **多様な刺激を求める人**: 広背筋の様々な角度から刺激を入れるには、**Vバーやロープ、EZバーなど、他のアタッチメントも揃える**のが理想です。
 
 ## タイプ別！最適なラットプルダウンバーの選び方
 

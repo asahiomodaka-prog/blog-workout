@@ -42,7 +42,6 @@ sidebarProducts:
 
 前進時の強烈なストレッチ刺激をしっかり受け止めつつ、戻りの初動をバネが絶妙に補助してくれるため、怪我のリスクを最小限に抑えながら立ちコロをマスターできます。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -65,14 +64,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tpal1.ve2q5e45.g00tpal1.ve2q66ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftcconlineshop%2Fatyc_011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftcconlineshop%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25EF%25BC%25BC%25E6%25A5%25BD%25E5%25A4%25A9" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 安定性を追求した設計が体幹に響く理由
 
@@ -124,7 +121,7 @@ sidebarProducts:
 | 販売ショップ | Cocoaの売り場 |
 | レビュー評価 | 5.0 (1件) |
 
-[腹筋ローラー アブローラー アシスト機能 女性](https://hb.afl.rakuten.co.jp/hgc/g00uubq1.ve2q5a3a.g00uubq1.ve2q69bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocoanouriba%2Fjf-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocoanouriba%2Fi%2F10014574%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+腹筋ローラー アブローラー アシスト機能 女性
 
 ## 考慮すべき点と割り切りの判断
 
@@ -134,7 +131,7 @@ sidebarProducts:
 
 また、この製品はあくまで腹筋と体幹の強化を主眼に置いています。広背筋や上腕三頭筋など、他の部位も複合的に鍛えたい場合、このローラーだけでは不十分です。
 
-全身運動や、より多様な筋肉へのアプローチを目指すなら、[ダンベル](https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB)や懸垂バーなど、別の器具との組み合わせを考える必要があります。
+全身運動や、より多様な筋肉へのアプローチを目指すなら、ダンベルや懸垂バーなど、別の器具との組み合わせを考える必要があります。
 
 素材はABS樹脂が中心なので、非常に頑丈というわけではありません。乱暴に扱ったり、落としたりすると破損の原因になる可能性も考えられます。
 

@@ -49,7 +49,6 @@ sidebarProducts:
 
 ---
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -72,14 +71,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00u8an1.ve2q5552.g00u8an1.ve2q6250/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Flf001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10001941%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DVerifyst%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25203kg%2520%25E9%2581%25B8%25E3%2581%25B9%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 失敗しないプロテイン選び：解剖学・栄養学に基づく3大基準
 
@@ -118,8 +115,6 @@ sidebarProducts:
 | **製造国** | 日本国内工場 |
 | **おすすめ対象** | コスパ最優先で毎日2回以上ガブガブ飲みたい本格宅トレ派 |
 
-👉 [楽天市場で『エクスプロージョン WPC 3kg』の最安値をチェックする](https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2F10000019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000023%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ---
 
 ## 【ランキング第2位】ザバス ホエイプロテイン100（リッチショコラ味 980g）
@@ -142,8 +137,6 @@ sidebarProducts:
 | **主要ビタミン** | ビタミンB群（B1, B2, B6）、ビタミンC、ビタミンD |
 | **1食あたりコスト** | 約155円 |
 | **おすすめ対象** | プロテイン初心者、美味しさと溶けやすさを妥協したくない方 |
-
-👉 [楽天市場で『ザバス ホエイプロテイン100 リッチショコラ』をチェックする](https://hb.afl.rakuten.co.jp/hgc/g00qpdq1.ve2q5a41.g00qpdq1.ve2q61ec/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-tano%2F666-4565%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-tano%2Fi%2F10632624%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ---
 
@@ -168,8 +161,6 @@ VALXが多くのトレーニーに熱狂的に支持されている理由は、*
 | **1食あたりコスト** | 約120円〜130円 |
 | **おすすめ対象** | 美味しいカフェフレーバーで続けたい方、減量中の間食にしたい方 |
 
-👉 [楽天市場で『VALX ホエイプロテイン』の公式取り扱いをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00u8an1.ve2q5552.g00u8an1.ve2q6250/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Fiy001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10001522%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ---
 
 ## 【ランキング第4位】Verifyst（ベリフィスト）ホエイプロテイン 3kg
@@ -189,8 +180,6 @@ VALXが多くのトレーニーに熱狂的に支持されている理由は、*
 | **タイプ** | ホエイプロテイン WPC |
 | **特徴** | さっぱりした口当たり、選べるフレーバー展開 |
 | **おすすめ対象** | ドロっとしたプロテインが苦手な方、制度を活用してまとめ買いしたい方 |
-
-👉 [楽天市場で『Verifyst ホエイプロテイン 3kg』をチェックする](https://hb.afl.rakuten.co.jp/hgc/g00u8an1.ve2q5552.g00u8an1.ve2q6250/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Flf001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10001941%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ---
 

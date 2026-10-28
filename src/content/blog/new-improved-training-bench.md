@@ -7,15 +7,6 @@ genre: 'workout'
 mediaType: 'machine'
 tags:
   - 'angle:review'
-faq:
-  - question: '組み立ては難しいですか？'
-    answer: '一般的に、トレーニングベンチの組み立ては複雑ではありません。多くの製品には詳細な説明書が付属しており、六角レンチなどの必要な工具も同梱されていることが多いです。筆者が導入した際も、一人で30分程度で組み立てられました。最近の製品はユーザーフレンドリーな設計が主流であり、YouTubeなどの動画サイトで組み立て手順を検索してみるのも良いでしょう。ただし、部品が多い場合や、重量がある場合は、安全のためにも二人で組み立てることをおすすめします。'
-  - question: 'どのくらいのスペースが必要ですか？'
-    answer: 'ベンチ本体のサイズにもよりますが、一般的なトレーニングベンチ（長さ約120cm、幅約30cm、高さ約40cm）を設置し、ダンベルなどの器具を使って安全にトレーニングを行うためには、ベンチの周囲に最低でも50cm〜100cm程度の余裕が必要になります。これは、腕を広げる動作や、ベンチへの乗り降りを考慮したスペースです。つまり、概ね1.5m×2.5m程度の床面積があれば、主要なトレーニングは問題なく行えるでしょう。使用しないときに折りたたんで収納できるタイプであれば、日常の生活空間を圧迫する心配は少なくなりますので、購入前に収納時のサイズも確認しておくことをおすすめします。'
-  - question: '高重量トレーニングにも使えますか？'
-    answer: 'このトレーニングベンチ新型は、ダンベルを使ったフリーウェイトや自重トレーニングにおいて、高い安定性と多様な角度調整で非常に効果的です。多くの製品は成人男性が扱うダンベルの重量に十分耐えられる設計（耐荷重150kg〜300kg程度が目安）になっています。しかし、バーベルを使った高重量のベンチプレスなどを行う場合は、安全確保のためにパワーラックやセーフティバーといった専用の設備が別途必要になります。ベンチ単体でのバーベルトレーニングは、補助者がいない状況では危険が伴うため推奨されません。目的とするトレーニング内容に合わせて、他の器具との組み合わせや、ジムの利用を検討しましょう。'
-  - question: '騒音対策は必要ですか？'
-    answer: 'トレーニングベンチ自体は大きく音を出すものではありませんが、ダンベルの上げ下ろしや、ベンチが床に接地する際に衝撃音が響く可能性があります。特に集合住宅にお住まいの場合、階下への配慮として騒音対策は重要です。厚手のトレーニングマットを敷くことで、衝撃音の軽減や床の保護、滑り止め効果が期待できます。また、ダンベルを静かに置く、動作をコントロールするなど、トレーニング方法にも注意することで、周囲への配慮ができます。製品によっては、足部分にゴムキャップが付属しているものもありますので、購入時に確認しておくと良いでしょう。'
 sidebarProducts:
   - title: 'STEADY トレーニングベンチ 耐荷重300kg 折りたたみ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00saul1.ve2q5b2f.g00saul1.ve2q6e15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftkms%2Fst123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftkms%2Fi%2F10000869%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -25,7 +16,6 @@ sidebarProducts:
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -49,14 +39,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00saul1.ve2q5b2f.g00saul1.ve2q6e15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftkms%2Fst123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftkms%2Fi%2F10000869%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DSTEADY%2520%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%2520%25E8%2580%2590%25E8%258D%25B7%25E9%2587%258D300kg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 宅トレの停滞を打破！多機能ベンチがもたらす身体と日常の変化
 
@@ -82,7 +70,7 @@ sidebarProducts:
 
 例えば、大胸筋を例にとってみましょう。大胸筋は上部、中部、下部に分かれ、それぞれの線維の走行方向が異なります。
 
-*   **フラットベンチでの[ダンベル](/blog/dumbbell-barbell-plate-15kg/)プレス**は、主に大胸筋の中部全体に強い刺激を与えます。
+*   **フラットベンチでのダンベルプレス**は、主に大胸筋の中部全体に強い刺激を与えます。
 *   しかし、大胸筋の上部を肥大させるには、**インクライン**（上半身をやや起こした状態）でのプレスやフライが効果的です。このベンチの角度を約30〜45度に設定することで、肩関節の屈曲角度が変わり、大胸筋の上部線維（鎖骨部）に優位に負荷を集中させることができます。これによって、鎖骨から上腕骨にかけての筋肉の起始・停止部に沿った適切な伸展と収縮を促し、より効率的な筋肥大を狙えるわけです。筆者自身も、インクラインプレスを取り入れてから、大胸筋上部の盛り上がりが以前より明確になったと実感しています。
 *   逆に、**デクライン**（上半身をやや下げた状態）では、大胸筋の下部（腹骨部）と上腕三頭筋に強い刺激を与えることが可能です。特にデクラインダンベルプレスは、大胸筋下部のカッティングを出すのに非常に有効で、筆者もこの角度での追い込みを導入してから、胸の下側の輪郭がはっきりしてきました。また、デクラインの状態でのアブドミナルクランチは、腹直筋下部への負荷を高め、より効果的な腹筋運動を可能にします。
 

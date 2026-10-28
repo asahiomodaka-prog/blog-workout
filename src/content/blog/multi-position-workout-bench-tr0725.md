@@ -7,13 +7,6 @@ genre: 'workout'
 mediaType: 'machine'
 tags:
   - 'angle:review'
-faq:
-  - question: '初心者でも組み立てられますか？'
-    answer: 'はい、一般的なマルチポジションベンチは、付属の説明書に従ってボルトを締め付ける比較的シンプルな構造です。ただし、安全に関わる重要な工程なので、必ず説明書をよく読み、ボルトの締め付けは付属の工具でしっかり行ってください。不安な場合は、組み立てに慣れた人に手伝ってもらうのも良いでしょう。'
-  - question: 'どのくらいのスペースが必要ですか？'
-    answer: 'TR0725マルチポジションベンチ本体の具体的な寸法は公開されていませんが、一般的なマルチポジションベンチは長さ約120cm、幅約60cm程度です。トレーニングを行う際には、ダンベルの可動域を考慮して、ベンチの前後左右にそれぞれ50cm程度のゆとりがあると安全です。合計で約220cm×160cm（畳約2畳分）のスペースがあれば、多くの種目を快適に行うことができます。'
-  - question: '高重量でのトレーニングにも耐えられますか？'
-    answer: 'TR0725マルチポジションベンチは、ダンベルを用いたトレーニングにおいて高い安定性を提供しますが、パワーラックやセーフティバーを必要とするような、バーベルでの極めて高重量のベンチプレスには単体では向いていません。ダンベルを使ったフリーウェイトトレーニングであれば、一般的なトレーニングにおける高重量にも十分対応できる頑丈な設計がなされていると考えて良いでしょう。使用前に必ずベンチの安定性を確認し、無理のない範囲でトレーニングを行ってください。'
 sidebarProducts:
   - title: 'TR0725マルチポジションベンチを自宅に導入すべ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTR0725%E3%83%9E%E3%83%AB%E3%83%81%E3%83%9D%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%99%E3%83%B3%E3%83%81%E3%82%92%E8%87%AA%E5%AE%85%E3%81%AB%E5%B0%8E%E5%85%A5%E3%81%99%E3%81%B9%2F'
@@ -27,7 +20,6 @@ sidebarProducts:
 宅トレを始めたいけれど、「何から揃えれば良いのか」「本当に効果があるのか」という不安を抱えている方は少なくありません。特に、自宅で全身を効率的に鍛えるためには、トレーニングの土台となる器具選びが重要です。
 
 TR0725マルチポジションベンチは、限られたスペースでも多様なトレーニングを安全に実現し、初心者から上級者まで、長期的に自宅トレーニングの質を高めてくれる一台であると言えるでしょう。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -51,14 +43,12 @@ TR0725マルチポジションベンチは、限られたスペースでも多�
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTR0725%E3%83%9E%E3%83%AB%E3%83%81%E3%83%9D%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%99%E3%83%B3%E3%83%81%E3%82%92%E8%87%AA%E5%AE%85%E3%81%AB%E5%B0%8E%E5%85%A5%E3%81%99%E3%81%B9%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTR0725%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2582%2592%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AB%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2581%25B9" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 宅トレの質を高める第一歩：マルチポジションベンチの可能性
 
@@ -76,7 +66,7 @@ TR0725マルチポジションベンチ
 
 例えば、胸のトレーニングで考えてみましょう。大胸筋は、鎖骨部から上腕骨にかけて付着する上部、胸骨から上腕骨にかけて付着する中部、そして腹直筋鞘から上腕骨にかけて付着する下部の三つの部位に分けられます。それぞれの部位は、異なる角度からの刺激によって効果的に鍛えられます。
 
-*   **インクライン（斜め上向き）ポジション:** ベンチの角度を上向きに設定することで、大胸筋上部に集中的な負荷をかけることができます。フラットな状態で行うベンチプレスでは刺激が入りにくい上部繊維に対して、より強い収縮を促します。この角度は、肩関節の自然な可動域を確保しやすく、無理な体勢で肩を痛めるリスクを軽減する効果も期待できます。筆者もインクライン[ダンベル](/blog/dumbbell-barbell-plate-15kg/)プレスを行う際は、肩への負担を感じさせない適度な角度を見つけることで、深く筋肉に効く感覚を実感しています。
+*   **インクライン（斜め上向き）ポジション:** ベンチの角度を上向きに設定することで、大胸筋上部に集中的な負荷をかけることができます。フラットな状態で行うベンチプレスでは刺激が入りにくい上部繊維に対して、より強い収縮を促します。この角度は、肩関節の自然な可動域を確保しやすく、無理な体勢で肩を痛めるリスクを軽減する効果も期待できます。筆者もインクラインダンベルプレスを行う際は、肩への負担を感じさせない適度な角度を見つけることで、深く筋肉に効く感覚を実感しています。
 *   **フラット（水平）ポジション:** 大胸筋全体、特に中部に均等な負荷をかける基本的なポジションです。ダンベルプレスやダンベルフライの土台として、安定した姿勢を保つことで、最大限のパワーを発揮しやすくなります。このフラットな状態での安定性こそが、重量を扱う上で最も重要であり、ベンチの頑丈なフレーム設計が活きてきます。
 *   **デクライン（斜め下向き）ポジション:** ベンチをわずかに下向きに傾けることで、大胸筋下部に強い刺激を与えることができます。血流が頭部に集中しやすいため、長時間の使用は避けるべきですが、下部大胸筋の厚みを作るには非常に効果的です。特に、広がりと厚みのある胸板を目指す方にとっては、この角度でのトレーニングは欠かせません。
 

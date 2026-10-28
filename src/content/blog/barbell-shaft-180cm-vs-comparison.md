@@ -40,10 +40,9 @@ sidebarProducts:
 
 自宅でのバーベルトレーニング。限られたスペースで効率よく、かつ安全に筋力アップを目指すなら、シャフト選びは非常に重要です。
 
-特に180cmの[バーベルシャフト](/blog/barbell-shaft-180cm-ranking/)は、日本の住宅事情にフィットしやすい人気の長さと言えるでしょう。
+特に180cmのバーベルシャフトは、日本の住宅事情にフィットしやすい人気の長さと言えるでしょう。
 
-今回は、宅トレ愛好家から選ばれる[IROTEC](/blog/dumbbell-30kg-adjustable-vs-comparison/)とBODYMAKERの180cmバーベルシャフトを徹底比較します。それぞれの設計思想から、あなたのトレーニング目標に最適な一本を見つけるためのヒントを深掘りしていきます。
-
+今回は、宅トレ愛好家から選ばれるIROTECとBODYMAKERの180cmバーベルシャフトを徹底比較します。それぞれの設計思想から、あなたのトレーニング目標に最適な一本を見つけるためのヒントを深掘りしていきます。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -67,7 +66,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00psqw1.ve2q5623.g00psqw1.ve2q60ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodymaker%2Fbs180%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodymaker%2Fi%2F10000949%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DP10%25E5%2580%258D%25E2%2598%25859%25E6%2597%25A5" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -75,10 +73,9 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 自宅に180cmシャフトを置くメリット：限られたスペースで効果を最大化する設計思想
 
-バーベルシャフトの長さは、トレーニングの質と設置スペースに直結します。220cmの[オリンピック](/blog/ez-bar-plate-set-vs-comparison/)バーがジムの標準ですが、自宅では長すぎて邪魔になるケースがほとんどです。
+バーベルシャフトの長さは、トレーニングの質と設置スペースに直結します。220cmのオリンピックバーがジムの標準ですが、自宅では長すぎて邪魔になるケースがほとんどです。
 
 180cmシャフトは、日本のパワーラックやセーフティラックに収まるように設計されています。これにより、ベンチプレスやスクワットといった多関節運動を安全に行うための必要十分なスペースを確保できます。同時に、部屋の出入りや移動での取り回しも格段に楽になるのが大きなメリットです。
 
@@ -128,7 +125,7 @@ IROTECは、多くの宅トレ愛好家に支持されるトレーニング器�
 | 販売ショップ | スーパースポーツカンパニー |
 | レビュー評価 | 4.52 (52件)                |
 
-[IROTEC(アイロテック)NEWレギュラーバーベルシャフト180cmワイドグリップタイプ](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Fnbs180%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000643%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+IROTEC(アイロテック)NEWレギュラーバーベルシャフト180cmワイドグリップタイプ
 
 ## BODYMAKERシャフトの魅力：9kgの軽さと150kgの耐荷重がもたらす安心感
 
@@ -140,7 +137,7 @@ BODYMAKERも、トレーニングウェアや器具で人気のブランドで�
 | 販売ショップ | ボディメーカー        |
 | レビュー評価 | 4.0 (7件)             |
 
-[BODYMAKER バーベルシャフト 180cm](https://hb.afl.rakuten.co.jp/hgc/g00psqw1.ve2q5623.g00psqw1.ve2q60ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodymaker%2Fbs180%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodymaker%2Fi%2F10000949%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+BODYMAKER バーベルシャフト 180cm
 
 ### BODYMAKERの設計思想：普遍的な使いやすさと将来性への配慮
 

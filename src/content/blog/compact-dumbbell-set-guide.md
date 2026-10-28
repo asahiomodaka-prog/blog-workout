@@ -38,7 +38,6 @@ sidebarProducts:
 
 この記事では、僕自身の失敗談も踏まえながら、自宅で効率的にトレーニングを継続するための「コンパクトダンベル」の選び方を徹底解説します。あなたの目的に合った最適なダンベルを見つけて、理想の体づくりをスタートさせましょう。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -61,7 +60,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-80kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2599%25E3%2583%25AB%2520%25E5%258F%25AF%25E5%25A4%2589%25E5%25BC%258F%252080kg%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%252040kg%25C3%25972%25E5%2580%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -69,14 +67,13 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 宅トレ初心者がダンベル選びで失敗する3つの落とし穴
 
 僕も最初の頃は、ジムでの感覚で「頑張りたいから」と重すぎるダンベルを買ってしまい、肩を痛めかけた経験があります。結局、数回使って部屋の隅に追いやることに。これは多くの初心者が陥りがちな失敗です。
 
 ### 1. 重すぎ or 軽すぎる重量選びの罠
 
-筋トレは筋肉に適切な負荷をかけることで成長します。重すぎるダンベルを選ぶと、フォームが崩れて怪我のリスクが高まります。[狙った筋肉](/blog/proiron-power-grip/)に効かせられず、トレーニング効果も半減するでしょう。
+筋トレは筋肉に適切な負荷をかけることで成長します。重すぎるダンベルを選ぶと、フォームが崩れて怪我のリスクが高まります。狙った筋肉に効かせられず、トレーニング効果も半減するでしょう。
 
 反対に、軽すぎるダンベルでは筋肉に十分な刺激を与えられません。筋力アップやボディメイクには、「漸進性過負荷の原則」に基づき、徐々に負荷を増やしていく必要があります。この適切な負荷を見極めるのが、初心者にとって最初の関門です。
 
@@ -98,7 +95,7 @@ sidebarProducts:
 
 ダンベルの重量は、トレーニングの目的によって大きく異なります。
 
-*   **筋力アップ・筋肥大**: 8〜12回が限界となる重量を選びます。この回数設定は、筋タンパク質合成（MPS）を効率的に促し、筋肥大に最適な負荷とされています。可変式ダンベルなら、トレーニングの進捗に合わせて5kgから[40kg](/blog/adjustable-dumbbell-24kg-40kg/)まで、重量を細かく調整できるため、漸進性過負荷の原則を実践しやすい設計です。例えば、胸筋を鍛えるダンベルプレスで最初は20kgを使っても、慣れてきたら22kg、25kgと重さを増やしていけます。
+*   **筋力アップ・筋肥大**: 8〜12回が限界となる重量を選びます。この回数設定は、筋タンパク質合成（MPS）を効率的に促し、筋肥大に最適な負荷とされています。可変式ダンベルなら、トレーニングの進捗に合わせて5kgから40kgまで、重量を細かく調整できるため、漸進性過負荷の原則を実践しやすい設計です。例えば、胸筋を鍛えるダンベルプレスで最初は20kgを使っても、慣れてきたら22kg、25kgと重さを増やしていけます。
 *   **シェイプアップ・筋持久力**: 15〜20回以上できる軽めの重量が適しています。特定の筋肉の収縮を意識し、フォームを丁寧に確認しながら行いましょう。例えば、肩の三角筋を鍛えるサイドレイズでは、1kgや2kgといった軽めのダンベルでも、ゆっくりと動作することで十分な刺激を与えられます。
 
 大切なのは、各関節の可動域いっぱいに動かせる重量を選ぶことです。重すぎるダンベルだと、本来の可動域が狭まり、狙った筋肉への刺激が限定的になってしまいます。
@@ -139,8 +136,6 @@ WM FITNESSのカラーダンベルは、大人可愛いくすみカラーやポ�
 | 材質 | クロロプレンゴム（合成ゴム）、スチール |
 | 特徴 | 六角形、ラバーコーティング、豊富なカラーバリエーション |
 
-[WM FITNESS カラーダンベルの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00rgdw1.ve2q59d7.g00rgdw1.ve2q6f83/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fweiwei%2Fbda0103%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fweiwei%2Fi%2F10020771%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ### 本格的な筋力アップを目指すなら【ONE STEP 可変式ダンベル】または【TOP FILM 可変式ダンベル】
 
 「漸進性過負荷の原則に基づき、筋力向上を真剣に目指したい」「様々な種目を高効率で行いたい」という方には、可変式ダンベルが最良の選択肢です。自宅での本格的なトレーニング環境を構築できます。
@@ -158,8 +153,6 @@ WM FITNESSのカラーダンベルは、大人可愛いくすみカラーやポ�
 | サイズ | （約）幅44cm×奥行25cm×高さ24cm |
 | 特徴 | ダイヤル式重量変更、キロ表記、静音設計、オンザニー対応 |
 
-[ONE STEP 可変式ダンベルの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00sk3q1.ve2q50ab.g00sk3q1.ve2q630f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fdanberu-80kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10000453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 #### TOP FILM 可変式ダンベル
 
 こちらもONE STEPと同様に、5kgから40kgまで17段階の重量調整が可能な高性能ダンベルです。特に「プレートが落ちない仕組み」や「バージンABS樹脂採用の台座」など、安全性と耐久性にこだわった設計が光ります。
@@ -172,8 +165,6 @@ WM FITNESSのカラーダンベルは、大人可愛いくすみカラーやポ�
 | 重量調整 | 5kg〜40kg（17段階） |
 | 特徴 | 2秒で重量変化、プレート落下防止機構、バージンABS樹脂台座、静音設計 |
 
-[TOP FILM 可変式ダンベルの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00tsh61.ve2q568d.g00tsh61.ve2q650b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsportsmonster%2Fdanberu-80kg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsportsmonster%2Fi%2F10000024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ## ダンベルと一緒に揃えたい！宅トレ効率UPアイテム
 
 ダンベルを最大限に活用し、安全に効率良くトレーニングするために、いくつか揃えておきたいアイテムがあります。
@@ -184,7 +175,7 @@ WM FITNESSのカラーダンベルは、大人可愛いくすみカラーやポ�
 
 硬い床でのダンベルプレスは、背中や関節にも負担がかかりやすいですから、クッション性のあるマットを敷くことで体への負担を軽減できます。
 
-### リストストラップ / [パワーグリップ](/blog/golds-gym-power-grip-pro/)
+### リストストラップ / パワーグリップ
 
 高重量を扱う際に握力を補助するアイテムです。背中のトレーニングなどで、ターゲットマッスルを追い込む前に握力が先に尽きてしまう、なんて経験はありませんか？リストストラップやパワーグリップを使えば、握力の限界に邪魔されず、背中や脚などの大きな筋肉をしっかりと刺激できます。
 

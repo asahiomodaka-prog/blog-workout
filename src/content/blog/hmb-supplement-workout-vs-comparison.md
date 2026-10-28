@@ -40,7 +40,6 @@ sidebarProducts:
 
 なぜHMBが宅トレの強い味方になるのか、そして、それぞれのサプリがあなたの目的にどう貢献するのかを、科学的視点と僕自身の体験を交えて解説していきます。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -63,14 +62,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00te151.ve2q5854.g00te151.ve2q6eca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarlabosupli%2F10000005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarlabosupli%2Fi%2F10000005%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHMB%2520100%2520000mg%2520%25E8%2596%25AC%25E5%2589%25A4%25E5%25B8%25AB%25E7%259B%25A3%25E4%25BF%25AE%2520%25E6%2597%25A5%25E6%259C%25AC%25E8%25A3%25BD%252036%25E6%2597%25A5%25E5%2588%2586" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## HMBがもたらす筋肥大と回復の科学：飲むタイミングと効果のメカニズム
 
@@ -110,7 +107,7 @@ HMB MAX proは、その名の通りHMBカルシウムを主成分としたシン
 
 純粋にHMBの効果を試したい、他のサプリとの兼ね合いで成分の重複を避けたい、という人には最適な選択肢です。
 
-[HMB MAX pro 432粒の購入はこちら](https://hb.afl.rakuten.co.jp/hgc/g00qlia1.ve2q5b36.g00qlia1.ve2q6622/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpmone%2F4573340050715_sch%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpmone%2Fi%2F10030011%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+HMB MAX pro 432粒の購入はこちら
 
 ## ドラゴンマッスル HMB 360粒：多角的なアプローチで筋トレをサポート
 
@@ -132,7 +129,7 @@ HMB MAX proは、その名の通りHMBカルシウムを主成分としたシン
 
 粒は少し大きめに感じましたが、飲み込む際に引っかかることもなく、匂いも特に気になりませんでした。
 
-[ドラゴンマッスル HMB 360粒の購入はこちら](https://hb.afl.rakuten.co.jp/hgc/g00te151.ve2q5854.g00te151.ve2q6eca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarlabosupli%2F10000005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarlabosupli%2Fi%2F10000005%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+ドラゴンマッスル HMB 360粒の購入はこちら
 
 ## 徹底比較：成分配合とコスパ、飲みやすさで選ぶ最適なHMB
 
@@ -190,7 +187,7 @@ HMBサプリ選びは、あなたの現在のトレーニング状況や目標�
 **純粋にHMBだけを効率よく摂りたいなら、HMB MAX proです。**
 価格を抑えつつ、HMBの主要な効果である筋分解抑制と筋合成促進に集中してアプローチしたい人に最適です。
 
-僕も、HMBの効果だけをピンポイントで試したかった時期には、こういうシンプル設計の製品を選んでいました。他のサプリは[プロテイン](/blog/explosion-wpc-protein-3kg-cafe-au-lait/)だけで十分、という場合にも相性が良いでしょう。
+僕も、HMBの効果だけをピンポイントで試したかった時期には、こういうシンプル設計の製品を選んでいました。他のサプリはプロテインだけで十分、という場合にも相性が良いでしょう。
 
 **複数の成分で総合的にトレーニングをサポートしたいなら、ドラゴンマッスルが有力な選択肢です。**
 クレアチンやBCAA、EAAなど、筋肥大や回復を強力に後押しする成分がバランス良く配合されています。

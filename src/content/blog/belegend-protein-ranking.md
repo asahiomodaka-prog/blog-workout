@@ -38,7 +38,7 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-「どの[ビーレジェンド](/blog/belegend-enagil-preworkout-review-nutrition-science/)[プロテイン](/blog/explosion-wpc-protein-3kg-cafe-au-lait/)を選べばいいのか分からない」「たくさん種類があって迷ってしまう」「失敗したくない」と感じていませんか。[プロテイン](/blog/fixit-protein-guide/)は毎日飲むものだからこそ、味や溶けやすさ、そして何より目的とのマッチ度が重要です。
+「どのビーレジェンドプロテインを選べばいいのか分からない」「たくさん種類があって迷ってしまう」「失敗したくない」と感じていませんか。プロテインは毎日飲むものだからこそ、味や溶けやすさ、そして何より目的とのマッチ度が重要です。
 
 僕はこれまで様々なプロテインを試してきましたが、初めてプロテインを買った時は完全に失敗しました。レビューだけ見て「美味しそう」と選んだものが、どうしても口に合わず、せっかく高いお金を出したのに結局飲めずに終わった苦い経験があります。
 
@@ -47,7 +47,6 @@ sidebarProducts:
 この記事では、ビーレジェンドプロテインの中から厳選した4商品を、宅トレ愛好家の僕が独自の視点で徹底比較し、おすすめランキング形式で紹介します。各商品の特徴や、どんな人に最適なのかを深掘りしていくので、ぜひ最後まで読んで、あなたのプロテイン選びの参考にしてください。
 
 ---
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -71,14 +70,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fbljc07ap1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10001485%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2593%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%2520900g%25C3%25975%25E8%25A2%258B%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 第1位：継続するならコレ！ビーレジェンド プロテイン 900g×5袋セット（4.5kg）
 
@@ -112,8 +109,6 @@ WPC（ホエイプロテインコンセントレート）は吸収速度が速�
 | 販売ショップ | ビーレジェンド プロテイン -公式- |
 | レビュー評価 | 4.71 (199件) |
 
-👉 [【LINE登録で最大1000円OFF】ビーレジェンド プロテイン 900g×5袋セット ベリベリベリー そんなバナナ 激うまチョコ から選べる（be LEGEND ホエイプロテイン）【オススメ】【大容量】ホエイプロテイントレーニング 筋トレ WPC 男性 女性 飲みやすい の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fbljc07ap1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10001485%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ---
 
 ## 第2位：フレーバー選びの失敗を回避！お試しパック WPC【単品購入・フレーバーを選択ください】
@@ -146,8 +141,6 @@ WPC（ホエイプロテインコンセントレート）は吸収速度が速�
 | 販売ショップ | ビーレジェンド プロテイン -公式- |
 | レビュー評価 | 4.44 (292件) |
 
-👉 [【LINE登録で最大1000円OFF】ビーレジェンドプロテイン お試しパック WPC【単品購入・フレーバーを選択ください】be LEGEND ホエイプロテイン【オススメ】 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblk000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10000657%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ---
 
 ## 第3位：成長期の身体をサポート！ビーレジェンド ジュニア プロテイン すくすくチョコ風味 750g
@@ -178,8 +171,6 @@ WPC（ホエイプロテインコンセントレート）は吸収速度が速�
 | 販売ショップ | ビーレジェンド プロテイン -公式- |
 | レビュー評価 | 4.46 (155件) |
 
-👉 [【LINE登録で最大1000円OFF】ビーレジェンド ジュニア プロテイン すくすくチョコ風味 750g (アミノ酸スコア100)【オススメ】子供 子供用 子どもを応援 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00qu9p1.ve2q5dec.g00qu9p1.ve2q6afa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealstyle4u%2Fblj01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealstyle4u%2Fi%2F10000659%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ---
 
 ## 第4位：ふるさと納税でお得にGET！ビーレジェンド WPCプロテイン ベリベリベリー 風味 900g
@@ -209,8 +200,6 @@ WPC（ホエイプロテインコンセントレート）は吸収速度が速�
 | 価格 | 19,000円 |
 | 販売ショップ | 大阪府茨木市 |
 | レビュー評価 | 5.0 (1件) |
-
-👉 [【ふるさと納税】ビーレジェンド WPCプロテイン ベリベリベリー 風味 900g_ プロテイン ビーレジェンド ベリー 人気 おすすめ 送料無料 筋トレ タンパク質 ホエイプロテイン アンチドーピング 贈答 ギフト プレゼント 【1547249】 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00u2z31.ve2q53da.g00u2z31.ve2q60ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff272116-ibaraki%2F1547249%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff272116-ibaraki%2Fi%2F10000559%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ---
 

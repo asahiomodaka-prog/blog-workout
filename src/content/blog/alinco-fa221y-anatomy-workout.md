@@ -7,13 +7,6 @@ genre: 'workout'
 mediaType: 'machine'
 tags:
   - 'angle:review'
-faq:
-  - question: '組み立ては難しいですか？一人でもできますか？'
-    answer: 'アルインコ FA221Yは比較的シンプルな構造で、付属の説明書を見ながら手順通りに進めれば、特別な工具は不要で、一人でも約30分から1時間程度で組み立て可能です。特にネジの締め忘れがないか、各部品がしっかりと固定されているかを最終確認してください。安全な使用のために、焦らず丁寧な作業を心がけましょう。'
-  - question: '音はどのくらい静かですか？集合住宅でも大丈夫？'
-    answer: 'FA221Yはマグネット負荷方式を採用しているため、ペダリング音は非常に静かです。私自身の使用感では、テレビを見たり、会話をするのに全く支障がないレベルです。摩擦音や大きなモーター音が発生しないため、集合住宅にお住まいの方でも、早朝や深夜の使用を気にすることなく、安心してトレーニングできるでしょう。床にヨガマットなどを敷くと、振動や音の軽減効果がさらに高まり、より快適に利用できます。'
-  - question: '毎日30分使うと、どのくらいの効果が期待できますか？'
-    answer: '毎日30分の中程度の有酸素運動を継続することで、心肺機能の向上、体脂肪の燃焼促進、下半身の筋持久力アップが期待できます。特に運動習慣がない初心者の方であれば、数週間から数ヶ月で体力の向上や基礎代謝アップを実感し始めることが多いです。厚生労働省も推奨する「週150分の中強度活動」をクリアすることで、生活習慣病のリスク低減にも繋がります。適切な食事管理と組み合わせることで、より効果的なダイエットや健康維持に寄与するでしょう。'
 sidebarProducts:
   - title: 'アルインコ FA221Y'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%B3%20FA221Y%2F'
@@ -38,7 +31,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -61,14 +53,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%B3%20FA221Y%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B3%2520FA221Y" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 宅トレの「最初の壁」を乗り越える：アルインコ FA221Yが描く新しいフィットネス習慣
 
