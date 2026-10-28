@@ -37,17 +37,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-<div class="summary-box" style="margin: 24px 0; padding: 20px; background: #f0fdf4; border-left: 4px solid #16a34a; border-radius: 6px; font-size: 0.95rem; line-height: 1.7;">
-<p style="margin: 0 0 10px 0; font-weight: bold; color: #15803d; font-size: 1.05rem;">💪 30秒でわかるプロテイン選びの結論とランキング要約</p>
-<ul style="margin: 0; padding-left: 20px;">
-<li><strong>第1位: エクスプロージョン WPC 3kg</strong> - 1食あたり約90円台の圧倒的コスパ。国内製造・アミノ酸スコア100で、毎日2〜3杯飲む本格宅トレ派の家計を救う決定打。</li>
-<li><strong>第2位: ザバス ホエイプロテイン100（リッチショコラ）</strong> - 驚異の溶けやすさと圧倒的な美味しさ。ビタミンB群・C・D配合で、失敗したくない初心者向けNo.1。</li>
-<li><strong>第3位: VALX ホエイプロテイン WPC</strong> - 山本義徳氏監修。カフェオレやチョコなどスイーツ級のフレーバー再現度と高タンパク質含有率を両立。</li>
-<li><strong>第4位: Verifyst（ベリフィスト）ホエイプロテイン</strong> - ふるさと納税等の制度活用にも対応した大容量3kg。すっきりした飲み口で長期継続に最適。</li>
-<li><strong>編集部の結論</strong>: コスパ最優先なら**エクスプロージョン 3kg**、美味しさと手軽さ重視なら**ザバス**または**VALX**の指名買いが間違いありません。</li>
-</ul>
-</div>
-
 自宅でダンベルや懸垂バーを握り、理想の身体を目指してトレーニングに励む日々。しかし、いくら自重やダンベルで筋繊維を追い込んでも、材料となる**十分なアミノ酸（タンパク質）**が血中に満たされていなければ、筋肉は合成されず逆に自己分解してしまいます。
 
 体重70kgの成人男性が本格的な筋肥大を目指す場合、1日に必要なタンパク質量は**体重の約1.6倍〜2.0倍（約110g〜140g）**。これを鶏胸肉や卵などの食事だけで毎日摂取し続けるのは、調理の手間や胃腸への負担、そして脂質の過剰摂取を考えると極めて困難です。
@@ -59,6 +48,38 @@ sidebarProducts:
 本記事では、宅トレ歴10年以上の視点から、成分配合・1食あたりコスト・溶けやすさ・味の再現性を徹底比較した最新おすすめ人気ランキング4選を詳しく解説します。
 
 ---
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f352012-shimonoseki/cabinet/12403956/lf001_r_01-1.jpg?_ex=600x600" alt="Verifyst ホエイプロテイン 3kg 選べる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Verifyst ホエイプロテイン 3kg 選べる</h4>
+
+<div class="live-price-box" data-product-key="verifyst-ホエイプロテイン-3kg-選べる" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥39,000</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DVerifyst%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25203kg%2520%25E9%2581%25B8%25E3%2581%25B9%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00u8an1.ve2q5552.g00u8an1.ve2q6250/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff352012-shimonoseki%2Flf001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff352012-shimonoseki%2Fi%2F10001941%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DVerifyst%2520%25E3%2583%259B%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2586%25E3%2582%25A4%25E3%2583%25B3%25203kg%2520%25E9%2581%25B8%25E3%2581%25B9%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+
+
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
 
 ## 失敗しないプロテイン選び：解剖学・栄養学に基づく3大基準
 

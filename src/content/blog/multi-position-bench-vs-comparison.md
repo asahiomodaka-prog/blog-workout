@@ -41,16 +41,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-<div class="summary-box" style="margin: 24px 0; padding: 20px; background: #f0fdf4; border-left: 4px solid #16a34a; border-radius: 6px; font-size: 0.95rem; line-height: 1.7;">
-<p style="margin: 0 0 10px 0; font-weight: bold; color: #15803d; font-size: 1.05rem;">🏋️ 30秒でわかるトレーニングベンチ選びの結論と要約</p>
-<ul style="margin: 0; padding-left: 20px;">
-<li><strong>LEADING EDGE LE-B80シリーズ（耐荷重300kg）</strong>: 意匠権取得の3点支持フレームでフラット時のしなりを完全排除。ワンタッチ折りたたみ収納と高密度ウレタンシートを両立した宅トレ向け決定版。</li>
-<li><strong>IROTEC マルチポジションベンチ</strong>: レッグエクステンション・レッグカール・アームカール台が一体化。アタッチメント拡張で脚・腕まで全身を網羅したいホームジム派に最適。</li>
-<li><strong>3WAY格安可変ベンチ（約6,000円台）</strong>: 予算最優先の初心者向け。軽量で移動は楽だが、高重量ダンベル（片手20kg超）を扱うとグラつきやシート沈み込みが出やすい。</li>
-<li><strong>編集部の結論</strong>: 安全性と収納性を両立して長く高重量を扱うなら**LEADING EDGE LE-B80**、器具1台で脚トレまで完結させたいなら**IROTEC**が最も満足度の高い選択肢です。</li>
-</ul>
-</div>
-
 自宅でダンベルを使ったトレーニングを始めた人が、誰もが直面する「最初の壁」があります。それは、床の上で寝転がって行うフロアダンベルプレスでは、**「肘が床に当たって大胸筋がフルストレッチされない」**という運動力学上の致命的な限界です。
 
 大胸筋を効果的に筋肥大させる鍵は、筋肉が最大まで引き伸ばされた「ストレッチポジション」で強い負荷をかけることにあります。床の上では可動域が半分で止まってしまうため、胸筋の起始と停止が十分に離れず、トレーニング効果が大きく減衰してしまうのです。
@@ -64,6 +54,38 @@ sidebarProducts:
 本記事では、宅トレ歴10年以上の視点から、フレーム剛性・角度調整段階・シートの沈み込み・収納性を徹底検証した高重量モデル徹底比較ガイドをお届けします。
 
 ---
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/05511619/05511627/13475530/imgrc0149195552.jpg?_ex=600x600" alt="10 14 20 00  P10倍 要エントリー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">10 14 20 00  P10倍 要エントリー</h4>
+
+<div class="live-price-box" data-product-key="10-14-20-00--p10倍-要エントリー" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥31,900</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D10%252014%252020%252000%2520P10%25E5%2580%258D%2520%25E8%25A6%2581%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000025%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D10%252014%252020%252000%2520P10%25E5%2580%258D%2520%25E8%25A6%2581%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+
+
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
 
 ## 1. 宅トレの成果を決定づける可変ベンチの解剖学的メリット
 

@@ -40,6 +40,38 @@ sidebarProducts:
 
 今回は、そんな宅トレに最適な180cmのバーベルシャフトを、僕自身の経験と専門知識に基づいて徹底的に比較し、ランキング形式で紹介します。選び方のポイントは「シャフト径」「耐荷重」「分割式か一体型か」「グリップの質感」「プレートスリーブの長さ」の5つです。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a12367.jpg?_ex=600x600" alt="バーベルシャフト バーベル 3分割 長さ180cm" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">バーベルシャフト バーベル 3分割 長さ180cm</h4>
+
+<div class="live-price-box" data-product-key="バーベルシャフト-バーベル-3分割-長さ180cm" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥4,510</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%2588%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25203%25E5%2588%2586%25E5%2589%25B2%2520%25E9%2595%25B7%25E3%2581%2595180cm" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00prba1.ve2q54c7.g00prba1.ve2q66ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa12367%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10058784%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2595%25E3%2583%2588%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2599%25E3%2583%25AB%25203%25E5%2588%2586%25E5%2589%25B2%2520%25E9%2595%25B7%25E3%2581%2595180cm" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+
+
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
+
 ## 宅トレ用バーベルシャフト180cm選びの科学的視点
 
 まず、なぜ180cmという長さが宅トレに適しているのでしょうか。物理的な観点から考えると、一般的なパワーラックの内寸は約100〜110cmです。
@@ -53,8 +85,6 @@ sidebarProducts:
 ## バーベルシャフト180cm おすすめランキング
 
 #### 第1位：FIELDOOR 3分割 長さ180cm（マックスシェアー maxshare）
-
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st/a12367.jpg?_ex=600x600" alt="FIELDOOR 3分割 長さ180cm（マックスシェアー maxshare）" loading="lazy" decoding="async" />
 
 このFIELDOORのバーベルシャフトは、3分割できるという点で宅トレの悩みを一気に解消してくれます。僕も最初にバーベルシャフトを購入したとき、180cmの一体型では部屋の隅に立てかけるのがやっとでした。
 
@@ -95,8 +125,6 @@ sidebarProducts:
 
 #### 第2位：FIELDOOR 3分割 長さ180cm（タープ&テントのスマイルプライス）
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/smile88/cabinet/master/1st/a12367.jpg?_ex=600x600" alt="FIELDOOR 3分割 長さ180cm（タープ&テントのスマイルプライス）" loading="lazy" decoding="async" />
-
 第1位と同じくFIELDOORの3分割バーベルシャフトですが、こちらは販売ショップが異なります。商品自体の性能は全く同じです。
 
 複数店舗で同じ商品が販売されている場合、僕が重視するのは「レビューの傾向」と「販売店のサポート体制」です。特にトレーニング器具のような大型商品は、配送時のトラブルや初期不良が起こり得ます。
@@ -126,8 +154,6 @@ sidebarProducts:
 👉 [【楽天1位】バーベルシャフト バーベル 3分割 長さ180cm ダンベルプレート用 バーベルシャフト/バー[カラー付/シャフト径28mm/重量約10kg] 連結 バーベルシャフト 筋トレ トレーニング 分解 重り 交換 追加 パーツ FIELDOOR 1年保証 ■[送料無料] の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00q6pe1.ve2q5c3e.g00q6pe1.ve2q69be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmile88%2Fa12367%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmile88%2Fi%2F10064476%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 #### 第3位：[IROTEC](/blog/dumbbell-30kg-adjustable-vs-comparison/)(アイロテック)NEWレギュラーバーベルシャフト180cmワイドグリップタイプ
-
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/super-sports/cabinet/11710986/13830436/ohb2026main1.jpg?_ex=600x600" alt="IROTEC(アイロテック)NEWレギュラーバーベルシャフト180cmワイドグリップタイプ" loading="lazy" decoding="async" />
 
 IROTECは、宅トレ器具の分野で信頼性の高いブランドとして知られています。このバーベルシャフトは一体型であり、その安定性が最大の魅力です。
 
@@ -170,8 +196,6 @@ IROTECは、宅トレ器具の分野で信頼性の高いブランドとして�
 👉 [【10/1はワンダフルデーPアップ】IROTEC(アイロテック)NEWレギュラーバーベルシャフト180cmワイドグリップタイプ / バーベル ベンチプレス 筋トレ トレーニング器具 バーベルプレート スクワット ヒップスラスト パワーラック スクワットラック プレスベンチ ダンベル の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00r11x1.ve2q556e.g00r11x1.ve2q67dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuper-sports%2Fnbs180%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuper-sports%2Fi%2F10000643%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 #### 第4位：BODYMAKER バーベルシャフト 180cm
-
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bodymaker/cabinet/b/bs_01.jpg?_ex=600x600" alt="BODYMAKER バーベルシャフト 180cm" loading="lazy" decoding="async" />
 
 BODYMAKERもトレーニング器具で有名なブランドです。このバーベルシャフトの最大の強みは、その高い耐荷重150kgにあります。
 

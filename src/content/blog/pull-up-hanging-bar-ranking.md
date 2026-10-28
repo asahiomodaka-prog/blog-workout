@@ -37,17 +37,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-<div class="summary-box" style="margin: 24px 0; padding: 20px; background: #f0fdf4; border-left: 4px solid #16a34a; border-radius: 6px; font-size: 0.95rem; line-height: 1.7;">
-<p style="margin: 0 0 10px 0; font-weight: bold; color: #15803d; font-size: 1.05rem;">🏋️ 30秒でわかる懸垂マシン選びの結論とランキング要約</p>
-<ul style="margin: 0; padding-left: 20px;">
-<li><strong>第1位: STEADY ST115</strong> - 耐荷重150kg。独自のはしご型マルチグリップバーと回転式ウエストパッドを採用。背中から腹筋まで極限の可動域で追い込める宅トレ懸垂マシンの最高峰。</li>
-<li><strong>第2位: WASAI MK301YL</strong> - 意匠登録取得済みのロングセラー。シンプル設計で1万円以下の破格のコスパ。無駄なアームレストを排した省スペース型。</li>
-<li><strong>第3位: 八の字型大吸盤 懸垂マシン（耐荷重180kg）</strong> - ハの字型に広がった大型土台と接地吸盤で抜群の横揺れ防止。高重量トレーニーの加重懸垂にも対応。</li>
-<li><strong>第4位: 改良モデル 多機能ぶら下がり健康器</strong> - π字土台フレームと2点式固定支柱。ディップスやプッシュアップバー完備のオールインワン。</li>
-<li><strong>編集部の結論</strong>: トレーニングの質と快適性を極めるなら**STEADY ST115**、予算1万円前後で質実剛健に始めるなら**WASAI MK301YL**が鉄板の選択肢です。</li>
-</ul>
-</div>
-
 男らしい広い逆三角形の背中（広背筋・大円筋）や、逞しく盛り上がった力こぶ（上腕二頭筋）。これらを自宅で鍛え上げようとした時、ダンベルや腕立て伏せだけではどうしても**「自重を垂直に引き上げる（プル系）運動」**が不足してしまいます。
 
 背中の筋肥大において、懸垂（チンニング）は「上半身のスクワット」と呼ばれるほど圧倒的な筋線維動員数を誇るキング・オブ・エクササイズです。
@@ -59,6 +48,38 @@ sidebarProducts:
 本記事では、宅トレ歴10年以上の経験に基づき、フレームの肉厚、土台の接地面積、グリップのバリエーション、耐荷重を徹底比較した最新懸垂マシンおすすめ人気ランキング4選を詳しく解説します。
 
 ---
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/wasai/cabinet/05926486/imgrc0109728117.jpg?_ex=600x600" alt="懸垂 懸垂マシン 懸垂器具 ぶら下がり健康器" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #f0fdf4; color: #166534; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">🔥 宅トレ推奨ギア</span><span style="color: #64748b; font-size: 0.75rem;">漸進性過負荷・省スペース設計</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">懸垂 懸垂マシン 懸垂器具 ぶら下がり健康器</h4>
+
+<div class="live-price-box" data-product-key="懸垂-懸垂マシン-懸垂器具-ぶら下がり健康器" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥7,990</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2587%25B8%25E5%259E%2582%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E6%2587%25B8%25E5%259E%2582%25E5%2599%25A8%25E5%2585%25B7%2520%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ruxc1.ve2q542b.g00ruxc1.ve2q638b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwasai%2Fmk301%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwasai%2Fi%2F10000090%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787717&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2587%25B8%25E5%259E%2582%2520%25E6%2587%25B8%25E5%259E%2582%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E6%2587%25B8%25E5%259E%2582%25E5%2599%25A8%25E5%2585%25B7%2520%25E3%2581%25B6%25E3%2582%2589%25E4%25B8%258B%25E3%2581%258C%25E3%2582%258A%25E5%2581%25A5%25E5%25BA%25B7%25E5%2599%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+
+
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
 
 ## 失敗しない懸垂マシン選び：安定性と安全性を決める4大基準
 

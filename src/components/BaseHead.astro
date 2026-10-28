@@ -49,6 +49,7 @@ if (isHome) {
 	};
 } else if (type === 'article') {
 	const imageUrl = image ? new URL(image.src, Astro.url).toString() : undefined;
+	const aboutUrl = new URL('/about/', Astro.site || canonicalURL.origin).toString();
 	const items: any[] = [
 		{
 			"@context": "https://schema.org",
@@ -63,8 +64,9 @@ if (isHome) {
 				"@id": canonicalURL.toString()
 			},
 			"author": {
-				"@type": "Person",
-				"name": "管理人"
+				"@type": "Organization",
+				"name": "最強宅トレ部",
+				"url": aboutUrl
 			},
 			"publisher": {
 				"@type": "Organization",
@@ -94,56 +96,6 @@ if (isHome) {
 			]
 		}
 	];
-
-	// FAQ構造化データ (FAQPage)
-	if (faq && faq.length > 0) {
-		items.push({
-			"@context": "https://schema.org",
-			"@type": "FAQPage",
-			"mainEntity": faq.map(item => ({
-				"@type": "Question",
-				"name": item.question,
-				"acceptedAnswer": {
-					"@type": "Answer",
-					"text": item.answer
-				}
-			}))
-		});
-	}
-
-	// 商品レビュー構造化データ (Product / Review)
-	if (products && products.length > 0) {
-		const mainProd = products[0];
-		const score = rating?.score || 4.5;
-		const reviewCount = rating?.count || 1;
-		
-		const productSchema: any = {
-			"@context": "https://schema.org",
-			"@type": "Product",
-			"name": mainProd.title,
-			"image": mainProd.imageUrl || imageUrl,
-			"description": description,
-			"aggregateRating": {
-				"@type": "AggregateRating",
-				"ratingValue": score.toString(),
-				"reviewCount": reviewCount.toString(),
-				"bestRating": "5",
-				"worstRating": "1"
-			}
-		};
-
-		if (mainProd.price) {
-			productSchema.offers = {
-				"@type": "Offer",
-				"price": mainProd.price.toString(),
-				"priceCurrency": "JPY",
-				"availability": "https://schema.org/InStock",
-				"url": mainProd.url
-			};
-		}
-
-		items.push(productSchema);
-	}
 
 	jsonLd = items;
 }
