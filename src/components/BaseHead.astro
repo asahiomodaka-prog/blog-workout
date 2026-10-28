@@ -11,6 +11,7 @@ interface Props {
 	title: string;
 	description: string;
 	image?: ImageMetadata;
+	heroImage?: string;
 	type?: 'website' | 'article';
 	pubDate?: Date;
 	updatedDate?: Date;
@@ -25,6 +26,7 @@ const {
 	title, 
 	description, 
 	image = FallbackImage, 
+	heroImage,
 	type = Astro.url.pathname.includes('/blog/') ? 'article' : 'website',
 	pubDate,
 	updatedDate,
@@ -32,6 +34,10 @@ const {
 	rating,
 	products
 } = Astro.props;
+
+const resolvedImageUrl = heroImage
+	? new URL(heroImage, Astro.site || Astro.url).toString()
+	: (image ? new URL(image.src, Astro.url).toString() : undefined);
 
 const isHome = Astro.url.pathname === '/' || Astro.url.pathname === '/index.html';
 const displayTitle = isHome ? SITE_TITLE : `${title} | ${SITE_TITLE}`;
@@ -48,7 +54,7 @@ if (isHome) {
 		"description": description
 	};
 } else if (type === 'article') {
-	const imageUrl = image ? new URL(image.src, Astro.url).toString() : undefined;
+	const imageUrl = resolvedImageUrl;
 	const aboutUrl = new URL('/about/', Astro.site || canonicalURL.origin).toString();
 	const items: any[] = [
 		{
@@ -148,14 +154,14 @@ if (isHome) {
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={displayTitle} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={new URL(image.src, Astro.url)} />
+<meta property="og:image" content={resolvedImageUrl} />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={Astro.url} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={new URL(image.src, Astro.url)} />
+<meta property="twitter:image" content={resolvedImageUrl} />
 
 <!-- JSON-LD Structured Data -->
 {jsonLd && (
